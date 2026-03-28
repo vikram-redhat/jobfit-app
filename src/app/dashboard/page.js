@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Nav from '@/components/Nav';
@@ -16,6 +16,14 @@ function scoreColor(s) {
 }
 
 export default function DashboardPage() {
+  return (
+    <Suspense fallback={<div><Nav /><div className="flex items-center justify-center py-20"><div className="w-8 h-8 border-3 border-gray-200 border-t-blue-600 rounded-full animate-spin-slow" /></div></div>}>
+      <Dashboard />
+    </Suspense>
+  );
+}
+
+function Dashboard() {
   const [jobs, setJobs] = useState([]);
   const [profile, setProfile] = useState(null);
   const [loading, setLoading] = useState(true);
