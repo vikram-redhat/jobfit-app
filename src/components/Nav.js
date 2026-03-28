@@ -25,6 +25,9 @@ export default function Nav() {
         <Link href="/dashboard" className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
           Dashboard
         </Link>
+        <Link href="/profile" className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
+          Profile
+        </Link>
         <Link
           href="/dashboard?new=1"
           className="px-4 py-1.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors"
