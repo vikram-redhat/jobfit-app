@@ -1,0 +1,37 @@
+'use client';
+import { createClient } from '@/lib/supabase-browser';
+import { useRouter } from 'next/navigation';
+import Link from 'next/link';
+
+export default function Nav() {
+  const supabase = createClient();
+  const router = useRouter();
+
+  const handleLogout = async () => {
+    await supabase.auth.signOut();
+    router.push('/');
+    router.refresh();
+  };
+
+  return (
+    <nav className="border-b border-gray-200 px-4 sm:px-6 py-3 flex items-center justify-between sticky top-0 bg-white z-10">
+      <div className="flex items-center gap-3">
+        <Link href="/dashboard" className="flex items-baseline gap-2">
+          <span className="text-xl font-bold tracking-tight">JobFit</span>
+          <span className="text-xs text-gray-400 font-mono">v1.0</span>
+        </Link>
+      </div>
+      <div className="flex items-center gap-3">
+        <Link
+          href="/dashboard?new=1"
+          className="px-4 py-1.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors"
+        >
+          + New Job
+        </Link>
+        <button onClick={handleLogout} className="text-sm text-gray-400 hover:text-gray-600 font-mono transition-colors">
+          Logout
+        </button>
+      </div>
+    </nav>
+  );
+}
