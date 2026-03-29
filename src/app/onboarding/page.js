@@ -1,11 +1,17 @@
 'use client';
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useRef } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter } from 'next/navigation';
 
 const STEPS = ['basics', 'experience', 'skills', 'preferences'];
 
 export default function OnboardingPage() {
+  // phase: 'choose' | 'uploading' | 'form'
+  const [phase, setPhase] = useState('choose');
+  const [parsedFromResume, setParsedFromResume] = useState(false);
+  const [parsing, setParsing] = useState(false);
+  const [parseError, setParseError] = useState('');
+
   const [step, setStep] = useState(0);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
@@ -21,10 +27,41 @@ export default function OnboardingPage() {
   const [salaryFloor, setSalaryFloor] = useState('');
   const [industryPref, setIndustryPref] = useState('');
 
+  const fileInputRef = useRef(null);
   const supabase = createClient();
   const router = useRouter();
 
   const canSave = fullName.trim().length > 0 && !saving;
+
+  async function handleFileChange(e) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    setParsing(true);
+    setParseError('');
+
+    try {
+      const formData = new FormData();
+      formData.append('resume', file);
+      const res = await fetch('/api/parse-resume', { method: 'POST', body: formData });
+      if (!res.ok) throw new Error(await res.text());
+      const data = await res.json();
+
+      setFullName(data.full_name || '');
+      setEmail(data.email || '');
+      setLocation(data.location || '');
+      setEducation(data.education || '');
+      setExperience(data.experience?.length ? data.experience : [{ title: '', company: '', dates: '', achievements: '' }]);
+      setSkills(data.skills || '');
+      setTargetRoles(data.target_roles || '');
+
+      setParsedFromResume(true);
+      setStep(0);
+      setPhase('form');
+    } catch (e) {
+      setParseError(e.message || 'Could not parse resume. Try entering your profile manually.');
+    }
+    setParsing(false);
+  }
 
   function updateExp(i, field, value) {
     setExperience(prev => {
@@ -51,7 +88,7 @@ export default function OnboardingPage() {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) throw new Error('Not authenticated. Please log in again.');
 
-      const profileData = {
+      const { error: upsertErr } = await supabase.from('profiles').upsert({
         user_id: user.id,
         full_name: fullName.trim(),
         email: email.trim(),
@@ -64,11 +101,7 @@ export default function OnboardingPage() {
         contract_perm: contractPerm,
         salary_floor: salaryFloor.trim(),
         industry_pref: industryPref.trim(),
-      };
-
-      const { error: upsertErr } = await supabase
-        .from('profiles')
-        .upsert(profileData, { onConflict: 'user_id' });
+      }, { onConflict: 'user_id' });
 
       if (upsertErr) throw new Error(upsertErr.message);
       router.push('/dashboard');
@@ -81,6 +114,88 @@ export default function OnboardingPage() {
   const inputCls = "w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50";
   const labelCls = "block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono";
 
+  // ── Choose screen ──────────────────────────────────────────────
+  if (phase === 'choose') {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center px-4">
+        <div className="max-w-md w-full">
+          <div className="text-center mb-10">
+            <h1 className="text-2xl font-bold tracking-tight">Set up your profile</h1>
+            <p className="text-sm text-gray-500 mt-2">Your profile powers the AI job matching. How would you like to get started?</p>
+          </div>
+          <div className="grid grid-cols-2 gap-4">
+            <button
+              onClick={() => fileInputRef.current?.click()}
+              className="flex flex-col items-center gap-3 p-6 border-2 border-gray-200 rounded-xl hover:border-blue-400 hover:bg-blue-50 transition-colors text-left"
+            >
+              <span className="text-3xl">📄</span>
+              <div>
+                <div className="text-sm font-semibold">Upload Resume</div>
+                <div className="text-xs text-gray-500 mt-0.5">PDF — we'll fill in your profile automatically</div>
+              </div>
+            </button>
+            <button
+              onClick={() => setPhase('form')}
+              className="flex flex-col items-center gap-3 p-6 border-2 border-gray-200 rounded-xl hover:border-blue-400 hover:bg-blue-50 transition-colors text-left"
+            >
+              <span className="text-3xl">✏️</span>
+              <div>
+                <div className="text-sm font-semibold">Enter Manually</div>
+                <div className="text-xs text-gray-500 mt-0.5">Fill in your details step by step</div>
+              </div>
+            </button>
+          </div>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept=".pdf,application/pdf"
+            className="hidden"
+            onChange={(e) => { setPhase('uploading'); handleFileChange(e); }}
+          />
+        </div>
+      </div>
+    );
+  }
+
+  // ── Uploading / parsing screen ─────────────────────────────────
+  if (phase === 'uploading') {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center px-4">
+        <div className="max-w-md w-full text-center">
+          {parsing ? (
+            <>
+              <div className="w-10 h-10 border-3 border-gray-200 border-t-blue-600 rounded-full animate-spin-slow mx-auto mb-4" />
+              <p className="text-sm font-medium">Reading your resume...</p>
+              <p className="text-xs text-gray-400 font-mono mt-1">Usually just a few seconds</p>
+            </>
+          ) : parseError ? (
+            <>
+              <p className="text-sm text-red-600 mb-5">{parseError}</p>
+              <div className="flex gap-3 justify-center">
+                <button onClick={() => { setParseError(''); fileInputRef.current?.click(); }}
+                  className="px-5 py-2 border border-gray-200 rounded-lg text-sm hover:bg-gray-50 transition-colors">
+                  Try another file
+                </button>
+                <button onClick={() => { setParseError(''); setPhase('form'); }}
+                  className="px-5 py-2 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors">
+                  Enter manually
+                </button>
+              </div>
+            </>
+          ) : null}
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept=".pdf,application/pdf"
+            className="hidden"
+            onChange={handleFileChange}
+          />
+        </div>
+      </div>
+    );
+  }
+
+  // ── Form ───────────────────────────────────────────────────────
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-xl mx-auto px-4 py-8">
@@ -88,6 +203,12 @@ export default function OnboardingPage() {
           <h1 className="text-2xl font-bold tracking-tight">Tell us about yourself</h1>
           <p className="text-sm text-gray-500 mt-1">This takes about 5 minutes. Your profile powers the AI matching.</p>
         </div>
+
+        {parsedFromResume && (
+          <div className="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-6 text-sm text-blue-700">
+            Profile filled from your resume — review each section and make any changes before saving.
+          </div>
+        )}
 
         {/* Step indicator */}
         <div className="flex gap-1 mb-8">
@@ -216,8 +337,9 @@ export default function OnboardingPage() {
 
         {/* Navigation */}
         <div className="flex justify-between mt-8">
-          <button onClick={() => setStep(Math.max(0, step - 1))} disabled={step === 0}
-            className="px-5 py-2 border border-gray-200 rounded-lg text-sm disabled:opacity-30 hover:bg-gray-50 transition-colors">
+          <button
+            onClick={() => step === 0 ? setPhase('choose') : setStep(Math.max(0, step - 1))}
+            className="px-5 py-2 border border-gray-200 rounded-lg text-sm hover:bg-gray-50 transition-colors">
             ← Back
           </button>
           {step < STEPS.length - 1 ? (
@@ -233,7 +355,6 @@ export default function OnboardingPage() {
           )}
         </div>
 
-        {/* Validation hint on last step */}
         {step === STEPS.length - 1 && !fullName.trim() && (
           <p className="text-xs text-orange-500 text-right mt-2">Please go back and enter your name to continue.</p>
         )}

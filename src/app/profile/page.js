@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter } from 'next/navigation';
 import Nav from '@/components/Nav';
@@ -12,6 +12,9 @@ export default function ProfilePage() {
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [error, setError] = useState('');
+  const [parsing, setParsing] = useState(false);
+  const [parseError, setParseError] = useState('');
+  const fileInputRef = useRef(null);
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
   const [location, setLocation] = useState('');
@@ -50,6 +53,32 @@ export default function ProfilePage() {
     }
     loadProfile();
   }, []);
+
+  async function handleResumeUpload(e) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    setParsing(true); setParseError(''); setSaved(false);
+    try {
+      const formData = new FormData();
+      formData.append('resume', file);
+      const res = await fetch('/api/parse-resume', { method: 'POST', body: formData });
+      if (!res.ok) throw new Error(await res.text());
+      const data = await res.json();
+      setFullName(data.full_name || '');
+      setEmail(data.email || '');
+      setLocation(data.location || '');
+      setEducation(data.education || '');
+      setExperience(data.experience?.length ? data.experience : [{ title: '', company: '', dates: '', achievements: '' }]);
+      setSkills(data.skills || '');
+      setTargetRoles(data.target_roles || '');
+      setStep(0);
+      setSaved(false);
+    } catch (e) {
+      setParseError(e.message || 'Could not parse resume.');
+    }
+    setParsing(false);
+    e.target.value = '';
+  }
 
   function updateExp(i, field, value) {
     setExperience(prev => {
@@ -116,10 +145,22 @@ export default function ProfilePage() {
     <div className="min-h-screen bg-white">
       <Nav />
       <div className="max-w-xl mx-auto px-4 py-8">
-        <div className="mb-8">
-          <h1 className="text-2xl font-bold tracking-tight">Your Profile</h1>
-          <p className="text-sm text-gray-500 mt-1">Update your details any time — changes apply to future job analyses.</p>
+        <div className="flex items-start justify-between mb-8">
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight">Your Profile</h1>
+            <p className="text-sm text-gray-500 mt-1">Update your details any time — changes apply to future job analyses.</p>
+          </div>
+          <button
+            onClick={() => fileInputRef.current?.click()}
+            disabled={parsing}
+            className="shrink-0 ml-4 px-4 py-2 border border-gray-200 rounded-lg text-sm text-gray-600 hover:bg-gray-50 disabled:opacity-40 transition-colors"
+          >
+            {parsing ? 'Parsing...' : '↑ Upload Resume'}
+          </button>
+          <input ref={fileInputRef} type="file" accept=".pdf,application/pdf" className="hidden" onChange={handleResumeUpload} />
         </div>
+        {parseError && <div className="bg-red-50 border border-red-200 rounded-lg px-4 py-3 mb-5 text-sm text-red-600">{parseError}</div>}
+        {parsing && <div className="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-5 text-sm text-blue-700">Reading your resume...</div>}
 
         {/* Step indicator */}
         <div className="flex gap-1 mb-8">
