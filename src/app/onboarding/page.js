@@ -152,6 +152,11 @@ export default function OnboardingPage() {
             className="hidden"
             onChange={(e) => { setPhase('uploading'); handleFileChange(e); }}
           />
+          <div className="text-center mt-8">
+            <a href="/dashboard" className="text-xs text-gray-400 hover:text-gray-600 transition-colors">
+              I'll do this later
+            </a>
+          </div>
         </div>
       </div>
     );
