@@ -1,4 +1,4 @@
-import { stripe } from '@/lib/stripe';
+import { getStripe } from '@/lib/stripe';
 import { createServerSupabase } from '@/lib/supabase-server';
 
 export async function POST(request) {
@@ -17,7 +17,7 @@ export async function POST(request) {
     // Get or create Stripe customer
     let customerId = profile?.stripe_customer_id;
     if (!customerId) {
-      const customer = await stripe.customers.create({
+      const customer = await getStripe().customers.create({
         email: user.email,
         name: profile?.full_name,
         metadata: { user_id: user.id },
@@ -28,7 +28,7 @@ export async function POST(request) {
 
     const origin = request.headers.get('origin') || process.env.NEXT_PUBLIC_APP_URL;
 
-    const session = await stripe.checkout.sessions.create({
+    const session = await getStripe().checkout.sessions.create({
       customer: customerId,
       mode: 'subscription',
       line_items: [{ price: process.env.STRIPE_PRICE_ID, quantity: 1 }],

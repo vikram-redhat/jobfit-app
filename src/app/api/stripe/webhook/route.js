@@ -1,4 +1,4 @@
-import { stripe } from '@/lib/stripe';
+import { getStripe } from '@/lib/stripe';
 import { createAdminSupabase } from '@/lib/supabase-admin';
 
 export const dynamic = 'force-dynamic';
@@ -9,7 +9,7 @@ export async function POST(request) {
 
   let event;
   try {
-    event = stripe.webhooks.constructEvent(body, sig, process.env.STRIPE_WEBHOOK_SECRET);
+    event = getStripe().webhooks.constructEvent(body, sig, process.env.STRIPE_WEBHOOK_SECRET);
   } catch (e) {
     return new Response(`Webhook error: ${e.message}`, { status: 400 });
   }

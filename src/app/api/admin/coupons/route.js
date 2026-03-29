@@ -1,5 +1,5 @@
 import { createServerSupabase } from '@/lib/supabase-server';
-import { stripe } from '@/lib/stripe';
+import { getStripe } from '@/lib/stripe';
 
 async function assertAdmin() {
   const supabase = createServerSupabase();
@@ -10,7 +10,7 @@ async function assertAdmin() {
 export async function GET() {
   try {
     await assertAdmin();
-    const { data } = await stripe.promotionCodes.list({ active: true, limit: 50, expand: ['data.coupon'] });
+    const { data } = await getStripe().promotionCodes.list({ active: true, limit: 50, expand: ['data.coupon'] });
     const codes = data.map(pc => ({
       id: pc.id,
       code: pc.code,
@@ -40,14 +40,14 @@ export async function POST(request) {
       duration: duration || 'once',
       ...(percentOff ? { percent_off: Number(percentOff) } : { amount_off: Math.round(Number(amountOff) * 100), currency: 'usd' }),
     };
-    const coupon = await stripe.coupons.create(couponParams);
+    const coupon = await getStripe().coupons.create(couponParams);
 
     const promoParams = {
       coupon: coupon.id,
       code: code.trim().toUpperCase(),
       ...(maxRedemptions ? { max_redemptions: Number(maxRedemptions) } : {}),
     };
-    const promoCode = await stripe.promotionCodes.create(promoParams);
+    const promoCode = await getStripe().promotionCodes.create(promoParams);
 
     return Response.json({ id: promoCode.id, code: promoCode.code });
   } catch (e) {
@@ -59,7 +59,7 @@ export async function DELETE(request) {
   try {
     await assertAdmin();
     const { id } = await request.json();
-    await stripe.promotionCodes.update(id, { active: false });
+    await getStripe().promotionCodes.update(id, { active: false });
     return Response.json({ ok: true });
   } catch (e) {
     return new Response(e.message, { status: e.message === 'Forbidden' ? 403 : 500 });
