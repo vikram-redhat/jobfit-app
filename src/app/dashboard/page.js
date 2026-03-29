@@ -38,17 +38,19 @@ function Dashboard() {
 
   useEffect(() => {
     loadData();
-    if (searchParams.get('new') === '1') setShowInput(true);
   }, []);
 
   async function loadData() {
     const { data: { user } } = await supabase.auth.getUser();
     if (!user) { router.push('/'); return; }
 
-    // Check profile
     const { data: prof } = await supabase.from('profiles').select('*').eq('user_id', user.id).single();
-    if (!prof) { router.push('/onboarding'); return; }
-    setProfile(prof);
+    setProfile(prof ?? null);
+
+    if (searchParams.get('new') === '1') {
+      if (prof) setShowInput(true);
+      else router.push('/onboarding');
+    }
 
     // Load jobs
     const { data: jobData } = await supabase.from('jobs').select('*').eq('user_id', user.id).order('created_at', { ascending: false });
@@ -140,6 +142,12 @@ function Dashboard() {
     <div>
       <Nav />
       <div className="max-w-3xl mx-auto px-4 py-6">
+        {!profile && (
+          <div className="bg-amber-50 border border-amber-200 rounded-lg px-4 py-3 mb-5 text-sm text-amber-700">
+            Your profile isn't set up yet — <Link href="/onboarding" className="font-semibold underline">complete your profile</Link> to start analysing jobs.
+          </div>
+        )}
+
         {error && (
           <div className="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-5 text-sm text-blue-700">{error}</div>
         )}
@@ -203,7 +211,7 @@ function Dashboard() {
             <div className="text-4xl mb-4">📋</div>
             <h2 className="text-base font-semibold mb-2">No jobs analysed yet</h2>
             <p className="text-sm text-gray-500 mb-6">Paste a full job description to get started.</p>
-            <button onClick={() => setShowInput(true)}
+            <button onClick={() => profile ? setShowInput(true) : router.push('/onboarding')}
               className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors">
               + Analyse a Job
             </button>
