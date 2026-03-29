@@ -157,7 +157,7 @@ function Dashboard() {
           </div>
         )}
 
-        {profile && !profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit && (
+        {profile && !profile.is_subscribed && jobs.length >= freeTierLimit && (
           <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-lg px-4 py-3 mb-5 flex items-center justify-between gap-4">
             <p className="text-sm text-blue-700">You've used all {freeTierLimit} free analyses.</p>
             <Link href="/upgrade" className="shrink-0 px-4 py-1.5 bg-blue-600 text-white rounded-lg text-xs font-semibold hover:bg-blue-700 transition-colors">
@@ -166,7 +166,7 @@ function Dashboard() {
           </div>
         )}
 
-        {profile && !profile.is_subscribed && (profile.analysis_count ?? 0) === freeTierLimit - 1 && (
+        {profile && !profile.is_subscribed && jobs.length === freeTierLimit - 1 && (
           <div className="bg-amber-50 border border-amber-200 rounded-lg px-4 py-3 mb-5 text-sm text-amber-700">
             1 free analysis remaining. <Link href="/upgrade" className="font-semibold underline">Upgrade to Pro</Link> for unlimited.
           </div>

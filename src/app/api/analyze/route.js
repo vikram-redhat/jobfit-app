@@ -21,10 +21,13 @@ export async function POST(request) {
     const { data: profile } = await supabase.from('profiles').select('*').eq('user_id', user.id).single();
     if (!profile) return new Response('Profile not found. Complete onboarding first.', { status: 400 });
 
-    // Paywall check
-    const { data: setting } = await supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single();
+    // Paywall check — count from jobs table (source of truth)
+    const [{ data: setting }, { count: jobCount }] = await Promise.all([
+      supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single(),
+      supabase.from('jobs').select('*', { count: 'exact', head: true }).eq('user_id', user.id),
+    ]);
     const freeTierLimit = parseInt(setting?.value ?? '2', 10);
-    if (!profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit) {
+    if (!profile.is_subscribed && (jobCount ?? 0) >= freeTierLimit) {
       return Response.json({ error: 'LIMIT_REACHED', limit: freeTierLimit }, { status: 402 });
     }
 

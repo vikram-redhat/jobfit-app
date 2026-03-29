@@ -12,18 +12,25 @@ export async function GET() {
     await assertAdmin();
     const adminSupabase = createAdminSupabase();
 
-    const [{ data: profiles }, { data: { users: authUsers } }] = await Promise.all([
+    const [{ data: profiles }, { data: { users: authUsers } }, { data: jobs }] = await Promise.all([
       adminSupabase.from('profiles').select('*').order('created_at', { ascending: false }),
       adminSupabase.auth.admin.listUsers({ perPage: 1000 }),
+      adminSupabase.from('jobs').select('user_id'),
     ]);
 
     const emailMap = Object.fromEntries(authUsers.map(u => [u.id, u.email]));
+
+    // Count jobs per user from the jobs table (source of truth)
+    const jobCounts = (jobs ?? []).reduce((acc, j) => {
+      acc[j.user_id] = (acc[j.user_id] ?? 0) + 1;
+      return acc;
+    }, {});
 
     const rows = (profiles ?? []).map(p => ({
       user_id: p.user_id,
       full_name: p.full_name,
       email: emailMap[p.user_id] ?? p.email ?? '—',
-      analysis_count: p.analysis_count ?? 0,
+      analysis_count: jobCounts[p.user_id] ?? 0,
       is_subscribed: p.is_subscribed ?? false,
       subscription_status: p.subscription_status ?? null,
       created_at: p.created_at,
