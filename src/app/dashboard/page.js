@@ -26,6 +26,7 @@ export default function DashboardPage() {
 function Dashboard() {
   const [jobs, setJobs] = useState([]);
   const [profile, setProfile] = useState(null);
+  const [freeTierLimit, setFreeTierLimit] = useState(2);
   const [loading, setLoading] = useState(true);
   const [showInput, setShowInput] = useState(false);
   const [jobInput, setJobInput] = useState('');
@@ -44,8 +45,12 @@ function Dashboard() {
     const { data: { user } } = await supabase.auth.getUser();
     if (!user) { router.push('/'); return; }
 
-    const { data: prof } = await supabase.from('profiles').select('*').eq('user_id', user.id).single();
+    const [{ data: prof }, { data: setting }] = await Promise.all([
+      supabase.from('profiles').select('*').eq('user_id', user.id).single(),
+      supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single(),
+    ]);
     setProfile(prof ?? null);
+    setFreeTierLimit(parseInt(setting?.value ?? '2', 10));
 
     if (searchParams.get('new') === '1') {
       if (prof) setShowInput(true);
@@ -68,6 +73,10 @@ function Dashboard() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ jobDescription: jobInput }),
       });
+      if (res.status === 402) {
+        router.push('/upgrade');
+        return;
+      }
       if (!res.ok) throw new Error(await res.text());
       const data = await res.json();
 
@@ -148,6 +157,27 @@ function Dashboard() {
           </div>
         )}
 
+        {profile && !profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit && (
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-lg px-4 py-3 mb-5 flex items-center justify-between gap-4">
+            <p className="text-sm text-blue-700">You've used all {freeTierLimit} free analyses.</p>
+            <Link href="/upgrade" className="shrink-0 px-4 py-1.5 bg-blue-600 text-white rounded-lg text-xs font-semibold hover:bg-blue-700 transition-colors">
+              Upgrade to Pro →
+            </Link>
+          </div>
+        )}
+
+        {profile && !profile.is_subscribed && (profile.analysis_count ?? 0) === freeTierLimit - 1 && (
+          <div className="bg-amber-50 border border-amber-200 rounded-lg px-4 py-3 mb-5 text-sm text-amber-700">
+            1 free analysis remaining. <Link href="/upgrade" className="font-semibold underline">Upgrade to Pro</Link> for unlimited.
+          </div>
+        )}
+
+        {searchParams.get('upgraded') === '1' && (
+          <div className="bg-green-50 border border-green-200 rounded-lg px-4 py-3 mb-5 text-sm text-green-700">
+            Welcome to JobFit Pro! Unlimited analyses unlocked.
+          </div>
+        )}
+
         {error && (
           <div className="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-5 text-sm text-blue-700">{error}</div>
         )}
@@ -211,7 +241,11 @@ function Dashboard() {
             <div className="text-4xl mb-4">📋</div>
             <h2 className="text-base font-semibold mb-2">No jobs analysed yet</h2>
             <p className="text-sm text-gray-500 mb-6">Paste a full job description to get started.</p>
-            <button onClick={() => profile ? setShowInput(true) : router.push('/onboarding')}
+            <button onClick={() => {
+                if (!profile) router.push('/onboarding');
+                else if (!profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit) router.push('/upgrade');
+                else setShowInput(true);
+              }}
               className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors">
               + Analyse a Job
             </button>

@@ -18,12 +18,17 @@ export async function POST(request) {
     const { jobDescription } = await request.json();
     if (!jobDescription?.trim()) return new Response('Job description required', { status: 400 });
 
-    // Get user profile
     const { data: profile } = await supabase.from('profiles').select('*').eq('user_id', user.id).single();
     if (!profile) return new Response('Profile not found. Complete onboarding first.', { status: 400 });
 
-    const profileText = JSON.stringify(profile, null, 2);
+    // Paywall check
+    const { data: setting } = await supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single();
+    const freeTierLimit = parseInt(setting?.value ?? '2', 10);
+    if (!profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit) {
+      return Response.json({ error: 'LIMIT_REACHED', limit: freeTierLimit }, { status: 402 });
+    }
 
+    const profileText = JSON.stringify(profile, null, 2);
     const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
     const message = await client.messages.create({
@@ -50,6 +55,11 @@ ${ANTI_HALLUCINATION}`,
     const raw = message.content.map(b => b.text || '').join('\n');
     const cleaned = raw.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
     const parsed = JSON.parse(cleaned);
+
+    // Increment usage count
+    await supabase.from('profiles').update({
+      analysis_count: (profile.analysis_count ?? 0) + 1,
+    }).eq('user_id', user.id);
 
     return Response.json(parsed);
   } catch (error) {
