@@ -358,6 +358,12 @@ export default function OnboardingPage() {
         {step === STEPS.length - 1 && !fullName.trim() && (
           <p className="text-xs text-orange-500 text-right mt-2">Please go back and enter your name to continue.</p>
         )}
+
+        <div className="text-center mt-8">
+          <a href="/dashboard" className="text-xs text-gray-400 hover:text-gray-600 transition-colors">
+            I'll do this later
+          </a>
+        </div>
       </div>
     </div>
   );
