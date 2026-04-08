@@ -1,6 +1,25 @@
 'use client';
 import { useState } from 'react';
 import { createClient } from '@/lib/supabase-browser';
+import Link from 'next/link';
+
+const features = [
+  {
+    icon: '⚡',
+    title: 'Instant fit score',
+    desc: 'See exactly how well you match a job before spending time applying.',
+  },
+  {
+    icon: '📄',
+    title: 'Tailored resume',
+    desc: 'Your resume, rewritten to match the language of the job description.',
+  },
+  {
+    icon: '✉️',
+    title: 'Cover letter done',
+    desc: 'A cover letter that sounds like you — not a template everyone else uses.',
+  },
+];
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
@@ -40,59 +59,102 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-4">
-      <div className="w-full max-w-sm">
-        <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold tracking-tight">JobFit</h1>
-          <p className="text-sm text-gray-500 font-mono mt-1">v1.0 MVP</p>
-          <p className="text-gray-600 mt-4 text-sm leading-relaxed">
-            Paste a job description. Get a tailored resume and cover letter in seconds.
+    <div className="min-h-screen flex flex-col">
+      {/* Nav */}
+      <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
+        <span className="text-xl font-bold tracking-tight">JobFit</span>
+        <nav className="flex items-center gap-4 text-sm text-gray-500">
+          <Link href="/contact" className="hover:text-gray-800 transition-colors">Contact</Link>
+        </nav>
+      </header>
+
+      {/* Hero */}
+      <main className="flex-1 flex flex-col lg:flex-row">
+        {/* Left — value prop */}
+        <div className="flex-1 flex flex-col justify-center px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
+          <p className="text-xs font-mono text-blue-600 uppercase tracking-widest mb-4">Free to try · No credit card needed</p>
+          <h1 className="text-4xl lg:text-5xl font-bold tracking-tight leading-tight mb-4">
+            Stop sending the<br className="hidden sm:block" /> same resume everywhere.
+          </h1>
+          <p className="text-lg text-gray-500 mb-10 leading-relaxed">
+            Paste any job description. Get a fit score, a tailored resume,<br className="hidden md:block" /> and a cover letter — in under 30 seconds.
+          </p>
+
+          <div className="space-y-6">
+            {features.map((f) => (
+              <div key={f.title} className="flex items-start gap-4">
+                <span className="text-2xl mt-0.5">{f.icon}</span>
+                <div>
+                  <p className="text-sm font-semibold text-gray-900">{f.title}</p>
+                  <p className="text-sm text-gray-500 mt-0.5">{f.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-xs text-gray-400 font-mono mt-10">
+            Free: 2 job analyses &middot; Pro: $9.99 / quarter, unlimited
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
-          <div>
-            <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Email</label>
-            <input
-              type="email" value={email} onChange={(e) => setEmail(e.target.value)} required
-              className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50"
-              placeholder="you@email.com"
-            />
+        {/* Right — auth form */}
+        <div className="lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
+          <div className="w-full max-w-sm">
+            <h2 className="text-xl font-bold mb-1">{isSignUp ? 'Create your account' : 'Sign in to JobFit'}</h2>
+            <p className="text-sm text-gray-500 mb-6">
+              {isSignUp ? 'Free to start — no credit card needed.' : 'Welcome back.'}
+            </p>
+
+            <form onSubmit={handleSubmit} className="space-y-4">
+              <div>
+                <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Email</label>
+                <input
+                  type="email" value={email} onChange={(e) => setEmail(e.target.value)} required
+                  className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                  placeholder="you@email.com"
+                />
+              </div>
+              <div>
+                <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Password</label>
+                <input
+                  type="password" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6}
+                  className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                  placeholder="Min 6 characters"
+                />
+              </div>
+
+              {message && (
+                <div className={`text-sm px-3 py-2 rounded-lg ${message.includes('Check') ? 'bg-green-50 text-green-700' : 'bg-red-50 text-red-600'}`}>
+                  {message}
+                </div>
+              )}
+
+              <button
+                type="submit" disabled={loading}
+                className="w-full py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors"
+              >
+                {loading ? 'Please wait...' : isSignUp ? 'Create free account →' : 'Sign in →'}
+              </button>
+            </form>
+
+            <button
+              onClick={() => { setIsSignUp(!isSignUp); setMessage(''); }}
+              className="w-full mt-4 text-sm text-gray-500 hover:text-gray-700 transition-colors"
+            >
+              {isSignUp ? 'Already have an account? Sign in' : "Don't have an account? Sign up free"}
+            </button>
           </div>
-          <div>
-            <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Password</label>
-            <input
-              type="password" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6}
-              className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50"
-              placeholder="Min 6 characters"
-            />
-          </div>
+        </div>
+      </main>
 
-          {message && (
-            <div className={`text-sm px-3 py-2 rounded-lg ${message.includes('Check') ? 'bg-green-50 text-green-700' : 'bg-red-50 text-red-600'}`}>
-              {message}
-            </div>
-          )}
-
-          <button
-            type="submit" disabled={loading}
-            className="w-full py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors"
-          >
-            {loading ? 'Please wait...' : isSignUp ? 'Create Account' : 'Sign In'}
-          </button>
-        </form>
-
-        <button
-          onClick={() => { setIsSignUp(!isSignUp); setMessage(''); }}
-          className="w-full mt-4 text-sm text-gray-500 hover:text-gray-700 transition-colors"
-        >
-          {isSignUp ? 'Already have an account? Sign in' : "Don't have an account? Sign up"}
-        </button>
-      </div>
-
-      <div className="mt-16 text-center">
-        <p className="text-xs text-gray-400 font-mono">Free: 2 job analyses · Paid: $9.99/quarter unlimited</p>
-      </div>
+      {/* Footer */}
+      <footer className="px-6 py-4 border-t border-gray-100 flex items-center justify-between">
+        <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
+        <div className="flex items-center gap-4 text-xs text-gray-400">
+          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+          <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
+        </div>
+      </footer>
     </div>
   );
 }
