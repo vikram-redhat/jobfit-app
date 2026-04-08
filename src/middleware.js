@@ -24,7 +24,7 @@ export async function middleware(request) {
   const { data: { user } } = await supabase.auth.getUser();
 
   // Redirect unauthenticated users to login (except public pages)
-  const publicPaths = ['/', '/auth/callback', '/privacy', '/contact'];
+  const publicPaths = ['/', '/auth/callback', '/privacy', '/contact', '/api/contact'];
   const isPublic = publicPaths.some(p => request.nextUrl.pathname === p);
 
   if (!user && !isPublic) {
