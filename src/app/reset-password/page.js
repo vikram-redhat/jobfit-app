@@ -15,23 +15,34 @@ function ResetPassword() {
   const searchParams = useSearchParams();
 
   useEffect(() => {
-    async function exchangeCode() {
+    async function handleReset() {
       const code = searchParams.get('code');
-      if (code) {
+      const token_hash = searchParams.get('token_hash');
+      const type = searchParams.get('type');
+
+      console.log('Reset params:', { code: !!code, token_hash: !!token_hash, type });
+
+      if (token_hash && type) {
+        // Newer Supabase sends token_hash for recovery emails
+        const { error } = await supabase.auth.verifyOtp({ token_hash, type });
+        if (error) { console.error('verifyOtp error:', error); setInvalid(true); }
+        else setReady(true);
+      } else if (code) {
+        // PKCE flow
         const { error } = await supabase.auth.exchangeCodeForSession(code);
-        if (error) setInvalid(true);
+        if (error) { console.error('exchangeCode error:', error); setInvalid(true); }
         else setReady(true);
       } else {
-        // Fallback: implicit flow fires PASSWORD_RECOVERY event
+        // Implicit flow — wait for PASSWORD_RECOVERY event
         const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+          console.log('Auth event:', event);
           if (event === 'PASSWORD_RECOVERY') setReady(true);
         });
-        // If neither code nor event after 5s, show error
         const timeout = setTimeout(() => setInvalid(true), 5000);
         return () => { subscription.unsubscribe(); clearTimeout(timeout); };
       }
     }
-    exchangeCode();
+    handleReset();
   }, []);
 
   const handleSubmit = async (e) => {
