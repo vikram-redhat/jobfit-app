@@ -24,8 +24,8 @@ export async function POST(request) {
       return new Response('Message too long', { status: 400 });
     }
 
-    const { error } = await getResend().emails.send({
-      from: 'JobFit Contact <onboarding@resend.dev>',
+    const { data, error } = await getResend().emails.send({
+      from: 'onboarding@resend.dev',
       to: contactEmail,
       reply_to: email,
       subject: `JobFit contact from ${name}`,
@@ -39,9 +39,10 @@ export async function POST(request) {
     });
 
     if (error) {
-      console.error('Resend error:', error);
+      console.error('Resend error (full):', JSON.stringify(error));
       return new Response(error.message || 'Failed to send message', { status: 500 });
     }
+    console.log('Resend success:', data?.id);
 
     return Response.json({ ok: true });
   } catch (e) {
