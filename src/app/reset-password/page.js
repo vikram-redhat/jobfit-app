@@ -1,9 +1,9 @@
 'use client';
-import { useState, useEffect, Suspense } from 'react';
+import { useState, useEffect } from 'react';
 import { createClient } from '@/lib/supabase-browser';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 
-function ResetPassword() {
+export default function ResetPasswordPage() {
   const [ready, setReady] = useState(false);
   const [invalid, setInvalid] = useState(false);
   const [password, setPassword] = useState('');
@@ -12,37 +12,13 @@ function ResetPassword() {
   const [error, setError] = useState('');
   const supabase = createClient();
   const router = useRouter();
-  const searchParams = useSearchParams();
 
   useEffect(() => {
-    async function handleReset() {
-      const code = searchParams.get('code');
-      const token_hash = searchParams.get('token_hash');
-      const type = searchParams.get('type');
-
-      console.log('Reset params:', { code: !!code, token_hash: !!token_hash, type });
-
-      if (token_hash && type) {
-        // Newer Supabase sends token_hash for recovery emails
-        const { error } = await supabase.auth.verifyOtp({ token_hash, type });
-        if (error) { console.error('verifyOtp error:', error); setInvalid(true); }
-        else setReady(true);
-      } else if (code) {
-        // PKCE flow
-        const { error } = await supabase.auth.exchangeCodeForSession(code);
-        if (error) { console.error('exchangeCode error:', error); setInvalid(true); }
-        else setReady(true);
-      } else {
-        // Implicit flow — wait for PASSWORD_RECOVERY event
-        const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
-          console.log('Auth event:', event);
-          if (event === 'PASSWORD_RECOVERY') setReady(true);
-        });
-        const timeout = setTimeout(() => setInvalid(true), 5000);
-        return () => { subscription.unsubscribe(); clearTimeout(timeout); };
-      }
-    }
-    handleReset();
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+      if (event === 'PASSWORD_RECOVERY') setReady(true);
+    });
+    const timeout = setTimeout(() => setInvalid(true), 8000);
+    return () => { subscription.unsubscribe(); clearTimeout(timeout); };
   }, []);
 
   const handleSubmit = async (e) => {
@@ -119,13 +95,5 @@ function ResetPassword() {
         </form>
       </div>
     </div>
-  );
-}
-
-export default function ResetPasswordPage() {
-  return (
-    <Suspense>
-      <ResetPassword />
-    </Suspense>
   );
 }
