@@ -1,22 +1,37 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { createClient } from '@/lib/supabase-browser';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 
-export default function ResetPasswordPage() {
+function ResetPassword() {
   const [ready, setReady] = useState(false);
+  const [invalid, setInvalid] = useState(false);
   const [password, setPassword] = useState('');
   const [confirm, setConfirm] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const supabase = createClient();
   const router = useRouter();
+  const searchParams = useSearchParams();
 
   useEffect(() => {
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
-      if (event === 'PASSWORD_RECOVERY') setReady(true);
-    });
-    return () => subscription.unsubscribe();
+    async function exchangeCode() {
+      const code = searchParams.get('code');
+      if (code) {
+        const { error } = await supabase.auth.exchangeCodeForSession(code);
+        if (error) setInvalid(true);
+        else setReady(true);
+      } else {
+        // Fallback: implicit flow fires PASSWORD_RECOVERY event
+        const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+          if (event === 'PASSWORD_RECOVERY') setReady(true);
+        });
+        // If neither code nor event after 5s, show error
+        const timeout = setTimeout(() => setInvalid(true), 5000);
+        return () => { subscription.unsubscribe(); clearTimeout(timeout); };
+      }
+    }
+    exchangeCode();
   }, []);
 
   const handleSubmit = async (e) => {
@@ -29,6 +44,19 @@ export default function ResetPasswordPage() {
     if (error) { setError(error.message); setLoading(false); return; }
     router.push('/dashboard');
   };
+
+  if (invalid) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center px-4">
+        <div className="w-full max-w-sm text-center">
+          <div className="text-3xl mb-4">⚠</div>
+          <h1 className="text-xl font-bold mb-2">Reset link invalid or expired</h1>
+          <p className="text-sm text-gray-500 mb-6">Please request a new password reset link.</p>
+          <a href="/forgot-password" className="text-sm text-blue-600 hover:underline">Request new link</a>
+        </div>
+      </div>
+    );
+  }
 
   if (!ready) {
     return (
@@ -80,5 +108,13 @@ export default function ResetPasswordPage() {
         </form>
       </div>
     </div>
+  );
+}
+
+export default function ResetPasswordPage() {
+  return (
+    <Suspense>
+      <ResetPassword />
+    </Suspense>
   );
 }
