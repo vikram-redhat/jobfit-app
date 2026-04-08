@@ -4,6 +4,7 @@ import { NextResponse } from 'next/server';
 export async function GET(request) {
   const { searchParams, origin } = new URL(request.url);
   const code = searchParams.get('code');
+  const next = searchParams.get('next');
 
   if (code) {
     const cookiesToSet = [];
@@ -21,6 +22,13 @@ export async function GET(request) {
 
     const { error } = await supabase.auth.exchangeCodeForSession(code);
     if (!error) {
+      // Password reset flow — redirect to reset page
+      if (next) {
+        const response = NextResponse.redirect(`${origin}${next}`);
+        cookiesToSet.forEach(({ name, value, options }) => response.cookies.set(name, value, options));
+        return response;
+      }
+
       const { data: { user } } = await supabase.auth.getUser();
       const { data: profile } = await supabase
         .from('profiles')

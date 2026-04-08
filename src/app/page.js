@@ -41,7 +41,7 @@ export default function LoginPage() {
         options: { emailRedirectTo: `${window.location.origin}/auth/callback` },
       });
       if (error) setMessage(error.message);
-      else setMessage('Check your email for a confirmation link.');
+      else setMessage('Check your email for a confirmation link. If you already have an account, try signing in instead.');
     } else {
       const { error, data } = await supabase.auth.signInWithPassword({ email, password });
       if (error) {
@@ -137,9 +137,17 @@ export default function LoginPage() {
               </button>
             </form>
 
+            {!isSignUp && (
+              <div className="text-center mt-2">
+                <Link href="/forgot-password" className="text-xs text-gray-400 hover:text-gray-600 transition-colors">
+                  Forgot your password?
+                </Link>
+              </div>
+            )}
+
             <button
               onClick={() => { setIsSignUp(!isSignUp); setMessage(''); }}
-              className="w-full mt-4 text-sm text-gray-500 hover:text-gray-700 transition-colors"
+              className="w-full mt-3 text-sm text-gray-500 hover:text-gray-700 transition-colors"
             >
               {isSignUp ? 'Already have an account? Sign in' : "Don't have an account? Sign up free"}
             </button>
