@@ -41,6 +41,14 @@ function Dashboard() {
     loadData();
   }, []);
 
+  useEffect(() => {
+    if (loading) return;
+    if (searchParams.get('new') === '1') {
+      if (profile) setShowInput(true);
+      else router.push('/onboarding');
+    }
+  }, [searchParams, loading]);
+
   async function loadData() {
     const { data: { user } } = await supabase.auth.getUser();
     if (!user) { router.push('/'); return; }
