@@ -22,9 +22,14 @@ export async function POST(request) {
     if (!profile) return new Response('Profile not found. Complete onboarding first.', { status: 400 });
 
     // Paywall check — use analysis_count on profile (never decrements when jobs are deleted)
-    const { data: setting } = await supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single();
+    const [{ data: setting }, { data: deletedAccount }] = await Promise.all([
+      supabase.from('app_settings').select('value').eq('key', 'free_tier_limit').single(),
+      supabase.from('deleted_accounts').select('id').eq('email', user.email.toLowerCase()).maybeSingle(),
+    ]);
     const freeTierLimit = parseInt(setting?.value ?? '2', 10);
-    if (!profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit) {
+    // Previously deleted accounts get no free analyses
+    const usedCount = deletedAccount ? freeTierLimit : (profile.analysis_count ?? 0);
+    if (!profile.is_subscribed && usedCount >= freeTierLimit) {
       return Response.json({ error: 'LIMIT_REACHED', limit: freeTierLimit }, { status: 402 });
     }
 

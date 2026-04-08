@@ -31,8 +31,12 @@ export async function POST() {
       }
     }
 
-    // Delete auth user — cascades to profiles and jobs via foreign key
     const adminSupabase = createAdminSupabase();
+
+    // Log email before deletion to prevent free tier abuse on re-registration
+    await adminSupabase.from('deleted_accounts').insert({ email: user.email.toLowerCase() });
+
+    // Delete auth user — cascades to profiles and jobs via foreign key
     const { error } = await adminSupabase.auth.admin.deleteUser(user.id);
     if (error) throw error;
 
