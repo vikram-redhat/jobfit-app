@@ -2,10 +2,22 @@
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { useState, useEffect } from 'react';
 
 export default function Nav() {
   const supabase = createClient();
   const router = useRouter();
+  const [isPro, setIsPro] = useState(false);
+
+  useEffect(() => {
+    async function checkPro() {
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) return;
+      const { data } = await supabase.from('profiles').select('is_subscribed').eq('user_id', user.id).single();
+      setIsPro(data?.is_subscribed ?? false);
+    }
+    checkPro();
+  }, []);
 
   const handleLogout = async () => {
     await supabase.auth.signOut();
@@ -18,7 +30,9 @@ export default function Nav() {
       <div className="flex items-center gap-3">
         <Link href="/dashboard" className="flex items-baseline gap-2">
           <span className="text-xl font-bold tracking-tight">JobFit</span>
-          <span className="text-xs text-gray-400 font-mono">v1.0</span>
+          {isPro && (
+            <span className="text-[10px] font-bold font-mono px-1.5 py-0.5 bg-blue-600 text-white rounded uppercase tracking-wide">Pro</span>
+          )}
         </Link>
       </div>
       <div className="flex items-center gap-3">
