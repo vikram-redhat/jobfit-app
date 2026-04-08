@@ -44,8 +44,9 @@ function Dashboard() {
   useEffect(() => {
     if (loading) return;
     if (searchParams.get('new') === '1') {
-      if (profile) setShowInput(true);
-      else router.push('/onboarding');
+      if (!profile) router.push('/onboarding');
+      else if (!profile.is_subscribed && (profile.analysis_count ?? 0) >= freeTierLimit) router.push('/upgrade');
+      else setShowInput(true);
     }
   }, [searchParams, loading]);
 
