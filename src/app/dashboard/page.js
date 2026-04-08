@@ -122,9 +122,13 @@ function Dashboard() {
     setAnalyzing(false);
   }
 
-  async function updateStatus(id, status) {
-    await supabase.from('jobs').update({ status }).eq('id', id);
-    setJobs(prev => prev.map(j => j.id === id ? { ...j, status } : j));
+  async function updateStatus(id, status, currentAppliedDate) {
+    const updates = { status };
+    if (status === 'Applied' && !currentAppliedDate) {
+      updates.applied_date = new Date().toISOString().split('T')[0];
+    }
+    await supabase.from('jobs').update(updates).eq('id', id);
+    setJobs(prev => prev.map(j => j.id === id ? { ...j, ...updates } : j));
   }
 
   async function deleteJob(id) {
@@ -267,10 +271,15 @@ function Dashboard() {
                 </Link>
                 {job.salary && <div className="text-xs text-gray-400 mt-0.5">{job.salary}</div>}
                 <div className="flex gap-2 items-center mt-2.5 flex-wrap">
-                  <select value={job.status} onChange={(e) => updateStatus(job.id, e.target.value)}
+                  <select value={job.status} onChange={(e) => updateStatus(job.id, e.target.value, job.applied_date)}
                     className={`px-2 py-0.5 rounded border border-gray-200 text-xs font-mono font-semibold ${statusColors[job.status]} bg-white cursor-pointer`}>
                     {STATUSES.map(s => <option key={s} value={s}>{s}</option>)}
                   </select>
+                  {job.status === 'Applied' && job.applied_date && (
+                    <span className="text-[11px] text-yellow-600 font-mono">
+                      {new Date(job.applied_date + 'T00:00:00').toLocaleDateString('en-AU', { day: 'numeric', month: 'short' })}
+                    </span>
+                  )}
                   <Link href={`/job/${job.id}`} className="px-2 py-0.5 rounded border border-gray-200 text-[11px] font-mono text-gray-500 hover:bg-gray-50">
                     View →
                   </Link>

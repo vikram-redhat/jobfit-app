@@ -75,8 +75,17 @@ export default function JobDetailPage() {
   }
 
   async function updateStatus(status) {
-    await supabase.from('jobs').update({ status }).eq('id', id);
-    setJob(prev => ({ ...prev, status }));
+    const updates = { status };
+    if (status === 'Applied' && !job.applied_date) {
+      updates.applied_date = new Date().toISOString().split('T')[0];
+    }
+    await supabase.from('jobs').update(updates).eq('id', id);
+    setJob(prev => ({ ...prev, ...updates }));
+  }
+
+  async function updateAppliedDate(date) {
+    await supabase.from('jobs').update({ applied_date: date }).eq('id', id);
+    setJob(prev => ({ ...prev, applied_date: date }));
   }
 
   async function generateDoc(type) {
@@ -150,11 +159,22 @@ export default function JobDetailPage() {
                 <h1 className="text-xl font-bold mb-1">{job.title}</h1>
                 <p className="text-sm text-gray-500">{[job.company, job.location, job.arrangement].filter(Boolean).join(' · ')}</p>
                 {job.salary && <p className="text-xs text-gray-400 mt-1">{job.salary}</p>}
-                <div className="mt-3">
+                <div className="mt-3 flex flex-wrap items-center gap-3">
                   <select value={job.status} onChange={(e) => updateStatus(e.target.value)}
                     className={`px-2 py-1 rounded border border-gray-200 text-sm font-mono font-semibold ${statusColors[job.status]} bg-white cursor-pointer`}>
                     {STATUSES.map(s => <option key={s} value={s}>{s}</option>)}
                   </select>
+                  {job.status === 'Applied' && (
+                    <div className="flex items-center gap-1.5">
+                      <span className="text-xs text-gray-400 font-mono">Applied on</span>
+                      <input
+                        type="date"
+                        value={job.applied_date || ''}
+                        onChange={(e) => updateAppliedDate(e.target.value)}
+                        className="px-2 py-1 border border-gray-200 rounded text-xs font-mono text-yellow-600 bg-white cursor-pointer"
+                      />
+                    </div>
+                  )}
                 </div>
               </div>
               <div className={`text-center min-w-[80px] px-4 py-3 rounded-xl ${scoreColor(job.score)}`}>
