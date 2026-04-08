@@ -42,7 +42,6 @@ export async function POST(request) {
       console.error('Resend error (full):', JSON.stringify(error));
       return new Response(error.message || 'Failed to send message', { status: 500 });
     }
-    console.log('Resend success:', data?.id);
 
     return Response.json({ ok: true });
   } catch (e) {
