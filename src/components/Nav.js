@@ -42,17 +42,17 @@ export default function Nav() {
           )}
         </Link>
       </div>
-      <div className="flex items-center gap-3">
-        <Link href="/dashboard" className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
+      <div className="flex items-center gap-2 sm:gap-3">
+        <Link href="/dashboard" className="hidden sm:block text-sm text-gray-500 hover:text-gray-800 transition-colors">
           Dashboard
         </Link>
         <Link href="/profile" className="flex items-center gap-1.5 text-sm text-gray-600 hover:text-gray-900 transition-colors">
           {avatar && <span className="text-base leading-none">{avatar}</span>}
-          {displayName && <span className="font-medium">{displayName}</span>}
+          {displayName && <span className="hidden sm:inline font-medium">{displayName}</span>}
         </Link>
         <Link
           href="/dashboard?new=1"
-          className="px-4 py-1.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors"
+          className="px-3 sm:px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors"
         >
           + New Job
         </Link>

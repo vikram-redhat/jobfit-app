@@ -5,6 +5,11 @@ export const metadata = {
   description: 'Paste a job description. Get a tailored resume and cover letter in seconds.',
 };
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">

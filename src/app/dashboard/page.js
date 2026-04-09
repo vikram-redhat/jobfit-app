@@ -203,7 +203,7 @@ function Dashboard() {
             <textarea
               value={jobInput} onChange={(e) => setJobInput(e.target.value)}
               placeholder="Paste the full job description here..."
-              className="w-full min-h-[250px] bg-gray-50 border border-gray-200 rounded-lg p-4 text-sm leading-relaxed resize-y focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full min-h-[160px] sm:min-h-[250px] bg-gray-50 border border-gray-200 rounded-lg p-4 text-sm leading-relaxed resize-y focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
             />
             <div className="flex justify-between items-center mt-4">
               <span className="text-xs text-gray-400 font-mono">
@@ -281,7 +281,7 @@ function Dashboard() {
                 {job.salary && <div className="text-xs text-gray-400 mt-0.5">{job.salary}</div>}
                 <div className="flex gap-2 items-center mt-2.5 flex-wrap">
                   <select value={job.status} onChange={(e) => updateStatus(job.id, e.target.value, job.applied_date)}
-                    className={`px-2 py-0.5 rounded border border-gray-200 text-xs font-mono font-semibold ${statusColors[job.status]} bg-white cursor-pointer`}>
+                    className={`px-2 py-1 rounded border border-gray-200 text-xs font-mono font-semibold ${statusColors[job.status]} bg-white cursor-pointer`}>
                     {STATUSES.map(s => <option key={s} value={s}>{s}</option>)}
                   </select>
                   {job.status === 'Applied' && job.applied_date && (
@@ -289,13 +289,13 @@ function Dashboard() {
                       {new Date(job.applied_date + 'T00:00:00').toLocaleDateString('en-AU', { day: 'numeric', month: 'short' })}
                     </span>
                   )}
-                  <Link href={`/job/${job.id}`} className="px-2 py-0.5 rounded border border-gray-200 text-[11px] font-mono text-gray-500 hover:bg-gray-50">
+                  <Link href={`/job/${job.id}`} className="px-2 py-1 rounded border border-gray-200 text-[11px] font-mono text-gray-500 hover:bg-gray-50">
                     View →
                   </Link>
                   {job.resume && <span className="text-[11px] text-green-600 font-mono">✓ Resume</span>}
                   {job.cover_letter && <span className="text-[11px] text-green-600 font-mono">✓ Cover</span>}
                   <button onClick={() => { if (confirm('Delete this job?')) deleteJob(job.id); }}
-                    className="ml-auto text-gray-300 hover:text-red-400 text-xs transition-colors">✕</button>
+                    className="ml-auto p-1 text-gray-300 hover:text-red-400 text-xs transition-colors">✕</button>
                 </div>
               </div>
             </div>

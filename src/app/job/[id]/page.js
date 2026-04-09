@@ -207,7 +207,7 @@ export default function JobDetailPage() {
             )}
 
             {/* Strengths / Gaps */}
-            <div className="grid grid-cols-2 gap-4 mb-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-5">
               <div>
                 <div className="text-[11px] font-semibold uppercase tracking-wider text-gray-400 mb-2 font-mono">Strengths</div>
                 {job.strengths?.map((s, i) => (
@@ -264,19 +264,19 @@ export default function JobDetailPage() {
               <div className="flex gap-2">
                 {!editing && (
                   <>
-                    <button onClick={startEdit} className="px-3 py-1.5 border border-gray-200 rounded-md text-xs font-mono text-blue-600 font-semibold hover:bg-gray-50">✎ Edit</button>
+                    <button onClick={startEdit} className="px-3 py-2 border border-gray-200 rounded-md text-xs font-mono text-blue-600 font-semibold hover:bg-gray-50">✎ Edit</button>
                     <button onClick={() => downloadPdf(docContent, job.title, docLabel.replace(' ', '_'))}
-                      className="px-3 py-1.5 bg-green-600 text-white rounded-md text-xs font-semibold hover:bg-green-700">↓ PDF</button>
+                      className="px-3 py-2 bg-green-600 text-white rounded-md text-xs font-semibold hover:bg-green-700">↓ PDF</button>
                     <button onClick={() => copyToClipboard(docContent, view)}
-                      className="px-3 py-1.5 border border-gray-200 rounded-md text-xs font-mono text-gray-500 hover:bg-gray-50">
+                      className="px-3 py-2 border border-gray-200 rounded-md text-xs font-mono text-gray-500 hover:bg-gray-50">
                       {copied === view ? 'Copied ✓' : 'Copy'}
                     </button>
                   </>
                 )}
                 {editing && (
                   <>
-                    <button onClick={saveEdit} className="px-3 py-1.5 bg-green-600 text-white rounded-md text-xs font-semibold hover:bg-green-700">✓ Save</button>
-                    <button onClick={() => setEditing(false)} className="px-3 py-1.5 border border-gray-200 rounded-md text-xs text-gray-500 hover:bg-gray-50">Cancel</button>
+                    <button onClick={saveEdit} className="px-3 py-2 bg-green-600 text-white rounded-md text-xs font-semibold hover:bg-green-700">✓ Save</button>
+                    <button onClick={() => setEditing(false)} className="px-3 py-2 border border-gray-200 rounded-md text-xs text-gray-500 hover:bg-gray-50">Cancel</button>
                   </>
                 )}
               </div>
