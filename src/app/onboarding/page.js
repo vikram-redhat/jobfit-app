@@ -123,7 +123,7 @@ export default function OnboardingPage() {
             <h1 className="text-2xl font-bold tracking-tight">Set up your profile</h1>
             <p className="text-sm text-gray-500 mt-2">Your profile powers the AI job matching. How would you like to get started?</p>
           </div>
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <button
               onClick={() => fileInputRef.current?.click()}
               className="flex flex-col items-center gap-3 p-6 border-2 border-gray-200 rounded-xl hover:border-blue-400 hover:bg-blue-50 transition-colors text-left"

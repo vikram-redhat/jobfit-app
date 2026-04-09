@@ -71,7 +71,7 @@ export default function LoginPage() {
       {/* Hero */}
       <main className="flex-1 flex flex-col lg:flex-row">
         {/* Left — value prop */}
-        <div className="flex-1 flex flex-col justify-center px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
+        <div className="order-2 lg:order-1 flex-1 flex flex-col justify-center px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
           <p className="text-xs font-mono text-blue-600 uppercase tracking-widest mb-4">Free to try · No credit card needed</p>
           <h1 className="text-4xl lg:text-5xl font-bold tracking-tight leading-tight mb-4">
             Stop sending the<br className="hidden sm:block" /> same resume everywhere.
@@ -98,7 +98,7 @@ export default function LoginPage() {
         </div>
 
         {/* Right — auth form */}
-        <div className="lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
+        <div className="order-1 lg:order-2 lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
           <div className="w-full max-w-sm">
             <h2 className="text-xl font-bold mb-1">{isSignUp ? 'Create your account' : 'Sign in to JobFit'}</h2>
             <p className="text-sm text-gray-500 mb-6">
