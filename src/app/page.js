@@ -27,6 +27,7 @@ export default function LoginPage() {
   const [isSignUp, setIsSignUp] = useState(false);
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
+  const [signedUp, setSignedUp] = useState(false);
   const supabase = createClient();
 
   const handleSubmit = async (e) => {
@@ -34,28 +35,33 @@ export default function LoginPage() {
     setLoading(true);
     setMessage('');
 
-    if (isSignUp) {
-      const { error } = await supabase.auth.signUp({
-        email,
-        password,
-        options: { emailRedirectTo: `${window.location.origin}/auth/callback` },
-      });
-      if (error) setMessage(error.message);
-      else setMessage('Check your email for a confirmation link. If you already have an account, try signing in instead.');
-    } else {
-      const { error, data } = await supabase.auth.signInWithPassword({ email, password });
-      if (error) {
-        setMessage(error.message);
+    try {
+      if (isSignUp) {
+        const { error } = await supabase.auth.signUp({
+          email,
+          password,
+          options: { emailRedirectTo: `${window.location.origin}/auth/callback` },
+        });
+        if (error) setMessage(error.message);
+        else setSignedUp(true);
       } else {
-        const { data: profile } = await supabase
-          .from('profiles')
-          .select('user_id')
-          .eq('user_id', data.user.id)
-          .single();
-        window.location.href = profile ? '/dashboard' : '/onboarding';
+        const { error, data } = await supabase.auth.signInWithPassword({ email, password });
+        if (error) {
+          setMessage(error.message);
+        } else {
+          const { data: profile } = await supabase
+            .from('profiles')
+            .select('user_id')
+            .eq('user_id', data.user.id)
+            .single();
+          window.location.href = profile ? '/dashboard' : '/onboarding';
+        }
       }
+    } catch {
+      setMessage('Something went wrong. Please try again.');
+    } finally {
+      setLoading(false);
     }
-    setLoading(false);
   };
 
   return (
@@ -100,57 +106,75 @@ export default function LoginPage() {
         {/* Right — auth form */}
         <div className="order-1 lg:order-2 lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
           <div className="w-full max-w-sm">
-            <h2 className="text-xl font-bold mb-1">{isSignUp ? 'Create your account' : 'Sign in to JobFit'}</h2>
-            <p className="text-sm text-gray-500 mb-6">
-              {isSignUp ? 'Free to start — no credit card needed.' : 'Welcome back.'}
-            </p>
-
-            <form onSubmit={handleSubmit} className="space-y-4">
-              <div>
-                <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Email</label>
-                <input
-                  type="email" value={email} onChange={(e) => setEmail(e.target.value)} required
-                  className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
-                  placeholder="you@email.com"
-                />
+            {signedUp ? (
+              <div className="text-center">
+                <div className="text-3xl mb-4">✉️</div>
+                <h2 className="text-xl font-bold mb-2">Check your email</h2>
+                <p className="text-sm text-gray-500 mb-6 leading-relaxed">
+                  We sent a confirmation link to <span className="font-medium text-gray-700">{email}</span>. Click it to activate your account.
+                </p>
+                <button
+                  onClick={() => { setSignedUp(false); setIsSignUp(false); setMessage(''); }}
+                  className="text-sm text-blue-600 hover:underline"
+                >
+                  Back to sign in
+                </button>
               </div>
-              <div>
-                <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Password</label>
-                <input
-                  type="password" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6}
-                  className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
-                  placeholder="Min 6 characters"
-                />
-              </div>
+            ) : (
+              <>
+                <h2 className="text-xl font-bold mb-1">{isSignUp ? 'Create your account' : 'Sign in to JobFit'}</h2>
+                <p className="text-sm text-gray-500 mb-6">
+                  {isSignUp ? 'Free to start — no credit card needed.' : 'Welcome back.'}
+                </p>
 
-              {message && (
-                <div className={`text-sm px-3 py-2 rounded-lg ${message.includes('Check') ? 'bg-green-50 text-green-700' : 'bg-red-50 text-red-600'}`}>
-                  {message}
-                </div>
-              )}
+                <form onSubmit={handleSubmit} className="space-y-4">
+                  <div>
+                    <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Email</label>
+                    <input
+                      type="email" value={email} onChange={(e) => setEmail(e.target.value)} required
+                      className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                      placeholder="you@email.com"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-xs font-medium text-gray-500 mb-1.5 uppercase tracking-wide font-mono">Password</label>
+                    <input
+                      type="password" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6}
+                      className="w-full px-3 py-2.5 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                      placeholder="Min 6 characters"
+                    />
+                  </div>
 
-              <button
-                type="submit" disabled={loading}
-                className="w-full py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors"
-              >
-                {loading ? 'Please wait...' : isSignUp ? 'Create free account →' : 'Sign in →'}
-              </button>
-            </form>
+                  {message && (
+                    <div className="text-sm px-3 py-2 rounded-lg bg-red-50 text-red-600">
+                      {message}
+                    </div>
+                  )}
 
-            {!isSignUp && (
-              <div className="text-center mt-2">
-                <Link href="/forgot-password" className="text-xs text-gray-400 hover:text-gray-600 transition-colors">
-                  Forgot your password?
-                </Link>
-              </div>
+                  <button
+                    type="submit" disabled={loading}
+                    className="w-full py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors"
+                  >
+                    {loading ? 'Please wait...' : isSignUp ? 'Create free account →' : 'Sign in →'}
+                  </button>
+                </form>
+
+                {!isSignUp && (
+                  <div className="text-center mt-2">
+                    <Link href="/forgot-password" className="text-xs text-gray-400 hover:text-gray-600 transition-colors">
+                      Forgot your password?
+                    </Link>
+                  </div>
+                )}
+
+                <button
+                  onClick={() => { setIsSignUp(!isSignUp); setMessage(''); }}
+                  className="w-full mt-3 text-sm text-gray-500 hover:text-gray-700 transition-colors"
+                >
+                  {isSignUp ? 'Already have an account? Sign in' : "Don't have an account? Sign up free"}
+                </button>
+              </>
             )}
-
-            <button
-              onClick={() => { setIsSignUp(!isSignUp); setMessage(''); }}
-              className="w-full mt-3 text-sm text-gray-500 hover:text-gray-700 transition-colors"
-            >
-              {isSignUp ? 'Already have an account? Sign in' : "Don't have an account? Sign up free"}
-            </button>
           </div>
         </div>
       </main>
