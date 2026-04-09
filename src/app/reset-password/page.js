@@ -14,14 +14,20 @@ export default function ResetPasswordPage() {
   const router = useRouter();
 
   useEffect(() => {
-    console.log('[reset] hash:', window.location.hash);
-    console.log('[reset] search:', window.location.search);
+    let done = false;
+    const markReady = () => { if (!done) { done = true; setReady(true); } };
 
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
-      console.log('[reset] auth event:', event, !!session);
-      if (event === 'PASSWORD_RECOVERY') setReady(true);
+    // The Supabase client processes the hash token on init, often before
+    // onAuthStateChange is registered. Check for an existing session immediately.
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      if (session) markReady();
     });
-    const timeout = setTimeout(() => setInvalid(true), 8000);
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+      if (event === 'PASSWORD_RECOVERY' || event === 'SIGNED_IN') markReady();
+    });
+
+    const timeout = setTimeout(() => { if (!done) setInvalid(true); }, 8000);
     return () => { subscription.unsubscribe(); clearTimeout(timeout); };
   }, []);
 
