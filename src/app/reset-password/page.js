@@ -14,7 +14,11 @@ export default function ResetPasswordPage() {
   const router = useRouter();
 
   useEffect(() => {
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+    console.log('[reset] hash:', window.location.hash);
+    console.log('[reset] search:', window.location.search);
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
+      console.log('[reset] auth event:', event, !!session);
       if (event === 'PASSWORD_RECOVERY') setReady(true);
     });
     const timeout = setTimeout(() => setInvalid(true), 8000);
