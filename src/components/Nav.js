@@ -8,15 +8,22 @@ export default function Nav() {
   const supabase = createClient();
   const router = useRouter();
   const [isPro, setIsPro] = useState(false);
+  const [displayName, setDisplayName] = useState('');
+  const [avatar, setAvatar] = useState('');
 
   useEffect(() => {
-    async function checkPro() {
+    async function loadUser() {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) return;
-      const { data } = await supabase.from('profiles').select('is_subscribed').eq('user_id', user.id).single();
+      const { data } = await supabase.from('profiles').select('is_subscribed, full_name').eq('user_id', user.id).single();
       setIsPro(data?.is_subscribed ?? false);
+      const name = data?.full_name?.split(' ')[0] || user.email.split('@')[0];
+      setDisplayName(name);
+      const emojis = ['🧑', '👩', '🧔', '👱', '👨', '🧑‍💻', '👩‍💻', '🧑‍🎨', '👩‍🎨', '🧑‍🎤'];
+      const idx = user.id.charCodeAt(0) % emojis.length;
+      setAvatar(emojis[idx]);
     }
-    checkPro();
+    loadUser();
   }, []);
 
   const handleLogout = async () => {
@@ -39,8 +46,9 @@ export default function Nav() {
         <Link href="/dashboard" className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
           Dashboard
         </Link>
-        <Link href="/profile" className="text-sm text-gray-500 hover:text-gray-800 transition-colors">
-          Profile
+        <Link href="/profile" className="flex items-center gap-1.5 text-sm text-gray-600 hover:text-gray-900 transition-colors">
+          {avatar && <span className="text-base leading-none">{avatar}</span>}
+          {displayName && <span className="font-medium">{displayName}</span>}
         </Link>
         <Link
           href="/dashboard?new=1"
