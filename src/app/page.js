@@ -24,7 +24,7 @@ const features = [
 export default function LoginPage() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [isSignUp, setIsSignUp] = useState(false);
+  const [isSignUp, setIsSignUp] = useState(true);
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
   const [signedUp, setSignedUp] = useState(false);
@@ -124,7 +124,7 @@ export default function LoginPage() {
               <>
                 <h2 className="text-xl font-bold mb-1">{isSignUp ? 'Create your account' : 'Sign in to JobFit'}</h2>
                 <p className="text-sm text-gray-500 mb-6">
-                  {isSignUp ? 'Free to start — no credit card needed.' : 'Welcome back.'}
+                  {isSignUp ? 'Free to start — no credit card needed.' : 'Welcome back to JobFit.'}
                 </p>
 
                 <form onSubmit={handleSubmit} className="space-y-4">
