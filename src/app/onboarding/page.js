@@ -3,6 +3,11 @@ import { useState, useCallback, useRef } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter } from 'next/navigation';
 
+async function sha256(str) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
 const STEPS = ['basics', 'experience', 'skills', 'preferences'];
 
 export default function OnboardingPage() {
@@ -104,7 +109,14 @@ export default function OnboardingPage() {
       }, { onConflict: 'user_id' });
 
       if (upsertErr) throw new Error(upsertErr.message);
-      if (window.ttq) window.ttq.track('CompleteRegistration');
+      if (window.ttq) {
+        const [hashedEmail, hashedId] = await Promise.all([
+          sha256(email.trim().toLowerCase()),
+          sha256(user.id),
+        ]);
+        window.ttq.identify({ email: hashedEmail, external_id: hashedId });
+        window.ttq.track('CompleteRegistration', {});
+      }
       router.push('/dashboard');
     } catch (e) {
       setError(e.message);
