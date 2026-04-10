@@ -104,6 +104,7 @@ export default function OnboardingPage() {
       }, { onConflict: 'user_id' });
 
       if (upsertErr) throw new Error(upsertErr.message);
+      if (window.ttq) window.ttq.track('CompleteRegistration');
       router.push('/dashboard');
     } catch (e) {
       setError(e.message);
