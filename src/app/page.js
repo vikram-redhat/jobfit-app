@@ -98,7 +98,15 @@ export default function LoginPage() {
             ))}
           </div>
 
-          <p className="text-xs text-gray-400 font-mono mt-10">
+          <div className="mt-10">
+            <img
+              src="/demo.gif"
+              alt="JobFit in action — fit score, tailored resume, and cover letter"
+              className="w-full rounded-xl border border-gray-200 shadow-md"
+            />
+          </div>
+
+          <p className="text-xs text-gray-400 font-mono mt-6">
             Free: 2 job analyses &middot; Pro: $9.99 / quarter, unlimited
           </p>
         </div>
