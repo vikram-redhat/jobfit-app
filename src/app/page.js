@@ -98,11 +98,11 @@ export default function LoginPage() {
             ))}
           </div>
 
-          <div className="mt-10">
+          <div className="mt-10 rounded-2xl shadow-xl border border-gray-200 overflow-hidden">
             <img
               src="/demo.gif"
               alt="JobFit in action — fit score, tailored resume, and cover letter"
-              className="w-full rounded-xl border border-gray-200 shadow-md"
+              className="w-full -mt-[85px]"
             />
           </div>
 
