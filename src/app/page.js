@@ -119,7 +119,7 @@ export default function LoginPage() {
         </div>
 
         {/* Right — auth form */}
-        <div className="order-1 lg:order-2 lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
+        <div id="auth-form" className="order-1 lg:order-2 lg:w-[420px] flex items-center justify-center px-6 py-12 lg:py-0 lg:border-l border-gray-100 bg-gray-50">
           <div className="w-full max-w-sm">
             {signedUp ? (
               <div className="text-center">
@@ -215,8 +215,19 @@ export default function LoginPage() {
         </div>
       </main>
 
+      {/* Sticky mobile CTA */}
+      <div className="lg:hidden fixed bottom-0 left-0 right-0 p-4 bg-white border-t border-gray-100 shadow-lg">
+        <a
+          href="#auth-form"
+          onClick={(e) => { e.preventDefault(); document.getElementById('auth-form').scrollIntoView({ behavior: 'smooth' }); }}
+          className="block w-full py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold text-center hover:bg-blue-700 transition-colors"
+        >
+          Get started free →
+        </a>
+      </div>
+
       {/* Footer */}
-      <footer className="px-6 py-4 border-t border-gray-100 flex items-center justify-between">
+      <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100 flex items-center justify-between">
         <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
         <div className="flex items-center gap-4 text-xs text-gray-400">
           <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
