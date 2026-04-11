@@ -104,8 +104,13 @@ export default function ProfilePage() {
 
   async function handleManageSubscription() {
     setPortalLoading(true);
+    setError('');
     const res = await fetch('/api/stripe/portal', { method: 'POST' });
-    if (!res.ok) { setPortalLoading(false); return; }
+    if (!res.ok) {
+      setError('Could not open billing portal. Please try again or contact support.');
+      setPortalLoading(false);
+      return;
+    }
     const { url } = await res.json();
     window.location.href = url;
   }

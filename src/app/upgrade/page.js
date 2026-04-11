@@ -41,7 +41,11 @@ export default function UpgradePage() {
   async function handleManage() {
     setRedirecting(true);
     const res = await fetch('/api/stripe/portal', { method: 'POST' });
-    if (!res.ok) { setRedirecting(false); return; }
+    if (!res.ok) {
+      alert('Could not open billing portal. Please try again or contact support.');
+      setRedirecting(false);
+      return;
+    }
     const { url } = await res.json();
     window.location.href = url;
   }
