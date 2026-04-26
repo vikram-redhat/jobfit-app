@@ -1,9 +1,14 @@
 'use client';
-import { useState, useEffect, Suspense } from 'react';
+import { useState, useEffect, useRef, Suspense } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Nav from '@/components/Nav';
 import Link from 'next/link';
+
+async function sha256(str) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
 
 const STATUSES = ['New', 'Applied', 'Interview', 'Offered', 'Rejected', 'Dismissed'];
 const statusColors = { New: 'text-blue-600', Applied: 'text-yellow-600', Interview: 'text-green-600', Offered: 'text-purple-600', Rejected: 'text-red-500', Dismissed: 'text-gray-400' };
@@ -33,6 +38,7 @@ function Dashboard() {
   const [analyzing, setAnalyzing] = useState(false);
   const [error, setError] = useState('');
   const [filter, setFilter] = useState('All');
+  const purchaseFired = useRef(false);
   const supabase = createClient();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -60,6 +66,16 @@ function Dashboard() {
     ]);
     setProfile(prof ?? null);
     setFreeTierLimit(parseInt(setting?.value ?? '2', 10));
+
+    if (searchParams.get('upgraded') === '1' && !purchaseFired.current && window.ttq) {
+      purchaseFired.current = true;
+      const [hashedEmail, hashedId] = await Promise.all([
+        sha256(user.email.toLowerCase()),
+        sha256(user.id),
+      ]);
+      window.ttq.identify({ email: hashedEmail, external_id: hashedId });
+      window.ttq.track('Purchase', { value: 9.99, currency: 'USD', content_type: 'product', content_id: 'pro_subscription' });
+    }
 
     if (searchParams.get('new') === '1') {
       if (prof) setShowInput(true);

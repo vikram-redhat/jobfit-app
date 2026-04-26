@@ -32,6 +32,7 @@ export default function UpgradePage() {
 
   async function handleUpgrade() {
     setRedirecting(true);
+    if (window.ttq) window.ttq.track('InitiateCheckout', { value: 9.99, currency: 'USD' });
     const res = await fetch('/api/stripe/checkout', { method: 'POST' });
     if (!res.ok) { setRedirecting(false); return; }
     const { url } = await res.json();
