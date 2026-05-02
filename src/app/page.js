@@ -88,9 +88,8 @@ export default function LoginPage() {
         <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
           <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
           <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          {/* Contact link is in the footer too — hide on the smallest screens
-              so the header doesn't crowd the JobFit.today wordmark on 320px. */}
-          <Link href="/contact" className="hidden sm:inline hover:text-gray-800 transition-colors">Contact</Link>
+          {/* Sign in is the auth form on this very page, so we don't link it.
+              Contact stays accessible via the footer to keep the header to 2-3 items. */}
         </nav>
       </header>
 

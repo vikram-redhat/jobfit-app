@@ -26,12 +26,11 @@ export default function SiteHeader() {
         <Link href="/tools" className="hover:text-gray-800 transition-colors">
           Free tools
         </Link>
-        <Link href="/contact" className="hidden sm:inline hover:text-gray-800 transition-colors">
-          Contact
-        </Link>
         <Link href="/" className="hover:text-gray-800 transition-colors">
           Sign in
         </Link>
+        {/* Contact lives in the footer of every page — keep header to 3 items
+            so it doesn't crowd the wordmark and stays scannable. */}
       </nav>
     </header>
   );
