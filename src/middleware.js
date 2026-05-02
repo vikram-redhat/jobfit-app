@@ -41,7 +41,15 @@ export async function middleware(request) {
     '/llms-full.txt',
     '/og.png',
   ];
-  const isPublic = publicPaths.some(p => request.nextUrl.pathname === p);
+  // Prefix-matched public paths — anything under these is anonymous-accessible.
+  // /tools/* hosts the free SEO tools and their indexable result permalinks;
+  // /api/tools/* hosts their JSON endpoints.
+  const publicPrefixes = ['/tools', '/api/tools'];
+
+  const path = request.nextUrl.pathname;
+  const isPublic =
+    publicPaths.some((p) => path === p) ||
+    publicPrefixes.some((p) => path === p || path.startsWith(p + '/'));
 
   if (!user && !isPublic) {
     const url = request.nextUrl.clone();

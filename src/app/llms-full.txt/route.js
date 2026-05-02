@@ -90,9 +90,26 @@ JobFit stores your verified profile once, scores fit before generating, has stri
 **Can I cancel anytime?**
 Yes. The billing portal lets Pro users cancel or manage their subscription at any time.
 
+## Free tools (anonymous, no signup)
+
+JobFit publishes two free, public tools that any user can access without an account:
+
+### Job Description Keyword Extractor (${SITE_URL}/tools/job-description-keyword-extractor)
+
+Paste any job description, get the keywords categorized into must-haves (hard requirements), nice-to-haves (bonuses), and soft skills. Each keyword comes with a one-sentence explanation of why it matters for the role. Used by job seekers to make sure their resume mirrors the language of the JD before applying.
+
+### AI Resume Grader (${SITE_URL}/tools/resume-grader)
+
+Paste a resume, get a letter grade (A+ through F) plus an overall 0-100 score, sub-scores on five dimensions (clarity, impact, ATS-readiness, action verbs, metrics), and three specific fixes — each tied to actual lines from the resume, not generic advice.
+
+Both tools generate a shareable permalink at /tools/[tool]/r/[id] that contains the full result, viewable by anyone, indexed by search engines.
+
 ## Links
 
 - Home: ${SITE_URL}/
+- Free tools index: ${SITE_URL}/tools
+- Job Description Keyword Extractor: ${SITE_URL}/tools/job-description-keyword-extractor
+- AI Resume Grader: ${SITE_URL}/tools/resume-grader
 - Contact: ${SITE_URL}/contact
 - Privacy: ${SITE_URL}/privacy
 `;

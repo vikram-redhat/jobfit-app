@@ -35,9 +35,15 @@ JobFit is built on Claude Haiku and emphasizes anti-hallucination: it only uses 
 - Casual job seekers who don't want to spend hours per application
 - Anyone applying to multiple jobs and tired of generic resumes
 
+## Free tools (no signup required)
+
+- [Job Description Keyword Extractor](${SITE_URL}/tools/job-description-keyword-extractor) — paste any JD, get the must-have, nice-to-have, and soft-skill keywords categorized
+- [AI Resume Grader](${SITE_URL}/tools/resume-grader) — paste a resume, get a brutally honest letter grade with three specific fixes
+
 ## Documentation
 
 - [Home](${SITE_URL}/)
+- [Free tools](${SITE_URL}/tools)
 - [Contact](${SITE_URL}/contact)
 - [Privacy Policy](${SITE_URL}/privacy)
 

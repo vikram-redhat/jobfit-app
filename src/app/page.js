@@ -236,6 +236,7 @@ export default function LoginPage() {
       <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100 flex items-center justify-between">
         <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
         <div className="flex items-center gap-4 text-xs text-gray-400">
+          <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
           <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
           <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
         </div>
