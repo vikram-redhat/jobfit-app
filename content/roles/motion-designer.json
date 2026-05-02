@@ -1,0 +1,130 @@
+{
+  "slug": "motion-designer",
+  "title": "Motion Designer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:49:13.703Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Motion Designer Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a motion designer resume that lands interviews. See real bullet examples, key skills, and ATS keywords hiring managers actually search for.",
+  "h1": "How to Write a Motion Designer Resume That Gets Noticed",
+  "intro": "Motion design is a competitive field where your portfolio speaks louder than your resume—but your resume has to convince hiring managers to actually look at it. We'll show you how to structure a resume that highlights your technical chops, creative problem-solving, and the animations that made an impact, not just describe them.",
+  "audience": "Recent graduates with design degrees or self-taught animators, career switchers from graphic design or video production, and freelancers building their first agency-focused resume.",
+  "topSkills": [
+    {
+      "name": "After Effects",
+      "why": "It's the industry standard for motion graphics. Hiring managers expect you to be fluent in it; omitting it signals you're not serious about the role."
+    },
+    {
+      "name": "Animation & Keyframing",
+      "why": "This is the core of what you do. Employers want to see you understand timing, easing, and how to make things move believably."
+    },
+    {
+      "name": "Adobe Creative Suite (Illustrator, Photoshop, Premiere Pro)",
+      "why": "You'll move between these programs constantly. Teams need someone who can go from designing static assets to compositing and editing without slowing down."
+    },
+    {
+      "name": "UI/UX Animation",
+      "why": "Micro-interactions and app animations are huge right now. Tech companies especially want designers who can bridge motion and user experience."
+    },
+    {
+      "name": "3D Animation (Cinema 4D, Blender)",
+      "why": "3D motion design commands higher salaries and opens doors to film, advertising, and VFX. It's a differentiator if you have it."
+    },
+    {
+      "name": "Video Editing & Compositing",
+      "why": "Motion designers often need to handle final delivery—knowing Premiere Pro or Final Cut Pro means you can ship work without hand-offs."
+    },
+    {
+      "name": "Storyboarding & Concept Development",
+      "why": "Agencies and studios need designers who can think through a concept before animating. This shows you understand the full creative pipeline."
+    },
+    {
+      "name": "Typography in Motion",
+      "why": "Animated text is everywhere—from explainer videos to social media. Demonstrating kinetic typography skills sets you apart from basic animators."
+    },
+    {
+      "name": "Visual Effects (VFX)",
+      "why": "Particle systems, color grading, transitions, and effects polish are what turn good animations into great ones. Clients notice this immediately."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created motion graphics for social media content and marketing videos.",
+      "strong": "Animated 12+ branded social campaigns (TikTok, Instagram Reels) using After Effects, averaging 150K+ views per post and 8% engagement rate; reduced production time by 40% by building reusable animation templates.",
+      "lesson": "Specific platforms, real metrics (views, engagement), and a concrete efficiency win turn a generic task into proof of business impact."
+    },
+    {
+      "weak": "Designed animated explainer videos and worked with clients on revisions.",
+      "strong": "Directed 8 explainer videos (30–90 sec) for SaaS clients using storyboarding, character animation, and motion design; decreased client revision cycles by 35% through upfront concept boards and animation previz.",
+      "lesson": "Naming the deliverable type, quantifying throughput, and showing proactive problem-solving (previz) demonstrates both craft and project management maturity."
+    },
+    {
+      "weak": "Contributed to visual effects and color grading for short films.",
+      "strong": "Composed VFX sequences and color-graded three 15–20 min short films in Premiere Pro + After Effects; work selected for festival circuits (2 official selections); collaborated with director and cinematographer to match motion design to live-action footage within 48-hour turnarounds.",
+      "lesson": "Anchoring work in festival recognition and tight deadlines shows your output is vetted by peers and proves you work well under pressure with stakeholders."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "No portfolio link or QR code on your resume.",
+      "fix": "Always include a clickable link to your portfolio site or Vimeo reel directly on your resume. Hiring managers will not dig for your work—make it one click away."
+    },
+    {
+      "mistake": "Listing software without depth—'Proficient in After Effects.'",
+      "fix": "Instead, show what you *do* with it: 'After Effects: keyframe animation, expressions, 3D compositing, VFX, and plugin integration (Trapcode, Element 3D).'"
+    },
+    {
+      "mistake": "Treating your résumé and portfolio as separate things.",
+      "fix": "Your resume should tease your portfolio—use specific project names and visual wins in bullets so hiring managers know what they'll see before they click."
+    },
+    {
+      "mistake": "Ignoring collaboration and process skills.",
+      "fix": "Mention tools like Figma, Slack, frame.io, or Adobe Cloud collaboration; motion designers work with teams, and showing you can communicate work-in-progress is a plus."
+    },
+    {
+      "mistake": "Burying freelance or passion projects because they're 'unofficial.'",
+      "fix": "Freelance work and personal projects count—especially early in your career. Frame them as client work: 'Freelance Motion Designer (2023–2024): Animated 15+ videos for indie brands...'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio link in your header—treat it as a primary contact method, not an afterthought. Many motion designers use a custom portfolio URL in place of a traditional objective.",
+    "Put your strongest, most visually diverse projects at the top of your experience section. Hiring managers spend 6 seconds scanning; they should see range (explainers, social, 3D, VFX) immediately.",
+    "Group software skills by category (2D Animation, 3D, Video Editing, Design Tools) rather than listing them alphabetically. This helps hiring managers see your depth in each discipline.",
+    "If you have festival selections, awards, or notable client wins, call them out in a separate 'Recognition' or 'Notable Projects' section. Proof of external validation carries weight."
+  ],
+  "atsKeywords": [
+    "motion graphics designer",
+    "after effects animation",
+    "Adobe Creative Suite",
+    "UI animation",
+    "explainer video production",
+    "3D motion design",
+    "character animation",
+    "VFX compositing",
+    "kinetic typography",
+    "storyboarding"
+  ],
+  "salarySignal": "Entry-level motion designers in the US typically earn $40–$55K; mid-level (3–5 years) range from $55–$75K; senior motion designers and specialists in 3D or VFX can reach $80–$120K+. Freelance rates vary widely but often command $40–$150/hour depending on portfolio and market.",
+  "faq": [
+    {
+      "q": "Should I include a link to my portfolio or Behance on my motion designer resume?",
+      "a": "Yes, absolutely. Put a clickable link at the top of your resume (in the header, next to your email). Hiring managers expect to see your work and will skip you if they have to hunt for it. A clean Vimeo reel or portfolio website is your best bet."
+    },
+    {
+      "q": "How do I quantify motion design work if I can't measure views or engagement?",
+      "a": "Focus on process and output: number of projects delivered, turnaround time, scope (30-sec clips vs. 5-min videos), or collaboration (e.g., 'worked with 12 clients,' 'reduced revision cycles'). If you have festival selections or client testimonials, those are gold."
+    },
+    {
+      "q": "Is 3D animation (Cinema 4D, Blender) required for a motion designer role?",
+      "a": "Not always, but it's a differentiator. Many jobs focus on 2D (After Effects, Illustrator) and social media. List 3D skills if you have them, but don't fake proficiency—hiring managers will ask you to demonstrate work."
+    },
+    {
+      "q": "How should I present freelance work on my resume?",
+      "a": "Treat it like a job: 'Freelance Motion Designer (2023–Present) | Client List: Nike, Local Startup, Independent Artists' then list specific projects. It counts as real experience and shows hustle and self-direction."
+    },
+    {
+      "q": "What's the best way to describe a personal or spec project on my resume?",
+      "a": "Label it clearly: '(Personal Project)' or '(Spec Work)' and explain why you made it—e.g., 'To explore 3D motion design' or 'Accepted to [festival].' Personal projects show passion and initiative; frame them as learning or portfolio-building wins, not throwaway work."
+    }
+  ]
+}

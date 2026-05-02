@@ -1,0 +1,130 @@
+{
+  "slug": "investment-banking-analyst",
+  "title": "Investment Banking Analyst",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:44:03.498Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Investment Banking Analyst Resume: Skills & Examples",
+  "metaDescription": "Land your IB analyst role with a results-driven resume. See strong bullet examples, must-have skills, and ATS keywords that hiring managers use.",
+  "h1": "Investment Banking Analyst Resume Guide: What to Include & How to Stand Out",
+  "intro": "Investment banking is detail-obsessed and metrics-driven—your resume needs to be too. This guide walks you through the exact skills, accomplishments, and formatting that get you past the first round at top banks.",
+  "audience": "College grads and MBA students applying to analyst programs, career switchers from finance/accounting roles, and candidates prepping for summer analyst internships.",
+  "topSkills": [
+    {
+      "name": "Financial Modeling",
+      "why": "Building DCF, LBO, and M&A models is core to the job—banks need proof you can do this before day one."
+    },
+    {
+      "name": "Valuation Analysis",
+      "why": "You'll spend half your time calculating enterprise value, comparable multiples, and accretion/dilution—hiring managers need evidence you own this."
+    },
+    {
+      "name": "Excel & VBA",
+      "why": "Speed and accuracy in spreadsheet work separate analysts from the pack; advanced functions and macro automation are competitive advantages."
+    },
+    {
+      "name": "M&A / Corporate Finance",
+      "why": "Mergers, acquisitions, and capital structure work dominate analyst responsibilities—specific deal experience signals readiness."
+    },
+    {
+      "name": "Financial Statement Analysis",
+      "why": "Comfort reading income statements, balance sheets, and cash flows is table-stakes; deep industry knowledge wins interviews."
+    },
+    {
+      "name": "Capital Markets & IPO Process",
+      "why": "Understanding underwriting, roadshows, and public offerings shows you grasp the full banking landscape."
+    },
+    {
+      "name": "PowerPoint Pitch Books",
+      "why": "Analysts build client presentations daily; demonstrating design skill and storytelling ability sets you apart."
+    },
+    {
+      "name": "Bloomberg Terminal",
+      "why": "Proficiency with Bloomberg, CapIQ, or Refinitiv shows you can pull real-time market data and comps independently."
+    },
+    {
+      "name": "Industry Knowledge",
+      "why": "Showing deep familiarity with a specific sector (tech, healthcare, energy) proves you've done homework and can speak credibly to deals."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built financial models for M&A deals and valuation analysis.",
+      "strong": "Modeled 5+ M&A transactions using DCF and comparable company analysis; identified valuation gaps of 15-25% vs. seller expectations, informing negotiation strategy for deals ranging $100M–$500M.",
+      "lesson": "Swapped generic task for specific deal size, methodology, and a tangible insight you delivered that mattered to the deal team."
+    },
+    {
+      "weak": "Helped prepare client presentations and pitch books for senior bankers.",
+      "strong": "Designed and built 8 sell-side and buy-side pitch books (75–120 slides each) for industrials and tech M&A; streamlined data-gathering process, reducing turnaround time by 20% and enabling real-time client edits.",
+      "lesson": "Quantified output (8 books, slide count), named sectors, and highlighted process improvement—shows ownership and impact beyond 'helping.'"
+    },
+    {
+      "weak": "Conducted financial due diligence and prepared analysis summaries.",
+      "strong": "Executed financial due diligence on 3 platform acquisitions totaling $750M+ AUM; flagged customer concentration risk affecting 40% of EBITDA and restructured customer contract assumptions, resulting in revised fair value estimate $25M lower and de-risked acquisition post-close.",
+      "lesson": "Added transaction sizes, specific risk identified, and business impact—shows analytical rigor and value to the deal, not just busy work."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing responsibilities instead of deal impact",
+      "fix": "Always tie your work back to a specific transaction, valuation decision, or client outcome—vague process work doesn't impress banks."
+    },
+    {
+      "mistake": "Forgetting to mention deal sizes and company names (when you can)",
+      "fix": "If your NDA allows, always cite target company size, sector, and deal enterprise value—it grounds your experience in real context."
+    },
+    {
+      "mistake": "Claiming expertise in tools you barely used",
+      "fix": "Be honest about depth: 'Proficient in Bloomberg and Capital IQ' signals real hands-on time, not just 'exposure.'"
+    },
+    {
+      "mistake": "Burying your strongest deal or modeling win deep in your bullet list",
+      "fix": "Lead your experience section with your most impressive transaction or model; analysts scanning your resume in 6 seconds need to see your credibility up front."
+    },
+    {
+      "mistake": "Writing generic industry insights instead of proving hands-on technical skill",
+      "fix": "Focus on *what you built and decided*, not *what you learned about the sector*—banks hire for execution, not awareness."
+    }
+  ],
+  "structureTips": [
+    "Put your most relevant deals, models, or pitch books first in your experience section—recruit sources spend 30 seconds max skimming, so lead with impact.",
+    "Include a 'Technical Skills' or 'Tools' subsection listing Excel proficiency level (VBA, advanced functions), Bloomberg, modeling software, and Python/R if applicable—it's ATS gold and helps resume screeners place you correctly.",
+    "If you interned at a bank or corporate finance team, emphasize deal count, company size, and valuation methodology over miscellaneous tasks; one killer deal bullet beats five process bullets.",
+    "Keep your resume to one page if you're an undergrad or analyst-level candidate, two pages if MBA or you have >2 years of finance experience—banks value concision, and white space is a feature."
+  ],
+  "atsKeywords": [
+    "Financial Modeling",
+    "M&A Transaction",
+    "Valuation Analysis",
+    "DCF Analysis",
+    "LBO Model",
+    "Excel VBA",
+    "Comparable Company Analysis",
+    "Investment Banking",
+    "Bloomberg Terminal",
+    "Pitch Book"
+  ],
+  "salarySignal": "Entry-level investment banking analysts (undergrad) typically earn $80K–$100K base plus 50–100% bonus in 2026; MBA analysts start around $150K–$180K base plus significant bonus and signing bonus.",
+  "faq": [
+    {
+      "q": "Should I put my finance coursework or case competition wins on my analyst resume?",
+      "a": "Yes, if they're recent and relevant. List courses like 'Corporate Finance,' 'Valuation,' or 'M&A' under education, and highlight case wins (especially if judged by bankers) in an 'Awards' or 'Competitions' section. It signals you've done real work with real constraints."
+    },
+    {
+      "q": "How do I talk about deals I worked on if I signed an NDA?",
+      "a": "Use sector and deal type instead of company name: 'Modeled $250M-plus healthcare platform acquisition' or 'Built LBO model for industrial services roll-up.' This preserves confidentiality and still signals scale and complexity."
+    },
+    {
+      "q": "Is it okay to say 'Proficient in Excel' if I'm strong at formulas but haven't coded VBA?",
+      "a": "Be specific: 'Advanced Excel (pivot tables, VLOOKUP, scenario analysis)' shows depth without overstating. If you've never written VBA, don't claim it—banks test this, and getting caught lying sinks you."
+    },
+    {
+      "q": "What if I don't have banking or corporate finance internship experience?",
+      "a": "Lean hard on modeling projects, case competitions, and any equity research, corporate development, or FP&A work. Show *how* you built financial analysis or supported a decision, even if the setting wasn't a bank. Add a note like 'Self-taught in financial modeling via [course or project]' if genuine."
+    },
+    {
+      "q": "Should I list the number of pitch books or deals I worked on?",
+      "a": "Absolutely—it's a resume signal that compresses 'I've done this a lot' into a number. 'Built 10+ pitch books' or 'Worked on 6 M&A transactions' tells a screener you have real reps and confidence."
+    }
+  ]
+}

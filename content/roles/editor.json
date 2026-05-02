@@ -1,0 +1,126 @@
+{
+  "slug": "editor",
+  "title": "Editor",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:32.338Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Editor Resume: Tips & Examples for 2026",
+  "metaDescription": "Master your editor resume with actionable tips, skill priorities, and real bullet examples. Stand out to hiring managers.",
+  "h1": "How to Write an Editor Resume That Gets Noticed",
+  "intro": "Editors shape stories, tone, and clarity—and your resume should do the same. Whether you're a book editor, content editor, or production editor breaking in, this guide walks you through the skills and format that catch hiring managers' eyes.",
+  "audience": "Career switchers from writing or publishing backgrounds, recent grads with internship experience, and experienced editors moving to new houses or roles.",
+  "topSkills": [
+    {
+      "name": "Copy editing & proofreading",
+      "why": "Hiring managers expect you to catch grammar, punctuation, and consistency errors—it's the core of the role."
+    },
+    {
+      "name": "Developmental editing",
+      "why": "Shows you can work with authors or writers on structure, tone, and narrative—critical for book and content editors."
+    },
+    {
+      "name": "Style guide mastery (AP, Chicago, APA)",
+      "why": "Publications and publishing houses use specific style guides; naming the ones you know signals you can hit the ground running."
+    },
+    {
+      "name": "Content management systems (CMS)",
+      "why": "Modern editors work in platforms like WordPress, Drupal, or internal CMS tools—technical fluency matters."
+    },
+    {
+      "name": "Project management & workflow",
+      "why": "Editors juggle multiple pieces, deadlines, and stakeholders; showing you can organize and prioritize is a must."
+    },
+    {
+      "name": "Fact-checking & research",
+      "why": "Especially in journalism, niche publishing, and academic editing—proving you verify sources builds trust."
+    },
+    {
+      "name": "Collaboration & feedback delivery",
+      "why": "Editors work closely with authors, writers, and designers; demonstrating tact and clarity is key."
+    },
+    {
+      "name": "Publishing software (Adobe Suite, Grammarly, Hemingway Editor)",
+      "why": "Editors use specialized tools; naming them shows you're ready for the tech stack."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Edited articles and provided feedback to writers.",
+      "strong": "Edited 40+ monthly articles across lifestyle and wellness verticals; reduced revision rounds by 25% through structured developmental feedback and style guide training.",
+      "lesson": "Adding a specific count, outcome metric, and scope (verticals, process improvement) transforms a generic duty into proof of impact."
+    },
+    {
+      "weak": "Managed editorial calendar and coordinated with teams.",
+      "strong": "Owned editorial calendar for 3-person team publishing 15 pieces weekly; coordinated with design and marketing to meet 100% on-time delivery and reduced missed deadlines from 8% to zero over 6 months.",
+      "lesson": "Quantifying team size, output volume, and measurable outcome (zero missed deadlines) shows leadership and accountability."
+    },
+    {
+      "weak": "Copy edited for grammar and style consistency.",
+      "strong": "Copy edited 200+ articles monthly in AP style; flagged fact-check issues on 12% of pieces, preventing 3 major corrections post-publication and earning 'Editor of the Quarter' recognition.",
+      "lesson": "Naming the style guide, quantifying output, and showing a direct business win (prevented errors, earned recognition) elevates a baseline task."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only 'writing' or 'grammar' as skills",
+      "fix": "Break out specific editorial disciplines: copy editing, developmental editing, fact-checking, and style guide proficiency. Hiring managers distinguish between them."
+    },
+    {
+      "mistake": "Omitting publishing or editorial software",
+      "fix": "Add a 'Tools & Software' section listing CMS platforms, design software, and editing tools you've used (WordPress, Adobe InDesign, Grammarly, etc.)."
+    },
+    {
+      "mistake": "Using vague language like 'improved content quality'",
+      "fix": "Quantify: 'reduced reader bounce rate by 18%,' 'cut revision cycles from 4 rounds to 2,' or 'published 50+ pieces with zero corrections.'"
+    },
+    {
+      "mistake": "Forgetting to highlight fast turnaround or deadline wins",
+      "fix": "Editors live and die by deadlines; explicitly mention publications shipped on time, sprints completed, or turnaround speed improvements."
+    },
+    {
+      "mistake": "Not naming specific publication types or niches you've edited",
+      "fix": "Say 'edited lifestyle, technology, and business articles' or 'developmental editor for debut fiction' instead of just 'edited content'—it shows focus and expertise."
+    }
+  ],
+  "structureTips": [
+    "Lead with your editorial experience and strongest role. If you have bylines or published work, link to a portfolio or add a 'Publications' section near the top.",
+    "Create a dedicated 'Editorial Skills' or 'Core Competencies' section listing style guides, software, and editorial disciplines—recruiters skim this first.",
+    "Group roles by editorial type (book publishing, digital media, journalism) if you've held multiple; it clarifies which market you're strongest in.",
+    "Place metrics and outcomes in your bullets, not in a separate achievements section—show, don't tell, by embedding numbers into job descriptions."
+  ],
+  "atsKeywords": [
+    "copy editing",
+    "developmental editing",
+    "AP style",
+    "Chicago style",
+    "content management system",
+    "fact-checking",
+    "editorial project management",
+    "proofreading",
+    "style guide",
+    "line editing"
+  ],
+  "salarySignal": "Entry-level editor roles (0–2 years) typically range from $35K–$50K; mid-level editors (3–7 years) earn $50K–$75K; senior editors and managing editors earn $75K–$110K+. Salaries vary by region, publishing type, and company size.",
+  "faq": [
+    {
+      "q": "Should I list unpublished or self-published work on my editor resume?",
+      "a": "Yes, if it demonstrates impact. Include self-published projects, blog posts, or portfolio pieces with readership/engagement metrics. Add a 'Portfolio' or 'Published Work' link on your resume pointing to a simple site or Medium archive."
+    },
+    {
+      "q": "How do I show editing experience if I haven't worked as a full-time editor?",
+      "a": "Highlight internships, volunteer editorial work, freelance projects, or in-house editing (e.g., internal communications, marketing copy). Quantify: 'Edited 30+ blog posts,' 'Oversaw style consistency across departmental newsletter,' or 'Fact-checked grant proposals.'"
+    },
+    {
+      "q": "What's the best way to format my editorial skills section?",
+      "a": "Use a simple two-column layout: list style guides, software, and editorial disciplines on one side (AP Style, Chicago Style, WordPress, Grammarly, copy editing, line editing) and pair them with brief proficiency notes or years of experience if relevant."
+    },
+    {
+      "q": "Should I include a portfolio link on my resume?",
+      "a": "Absolutely. Add a 'Portfolio' or 'Work Samples' URL in your header linking to a curated collection of 5–8 pieces you've edited or written. A simple Google Doc, Notion page, or portfolio site works—just make sure samples are anonymized if confidentiality applies."
+    },
+    {
+      "q": "How do I explain gaps in my editorial career?",
+      "a": "Use your cover letter to briefly address gaps, then focus your resume on what you *did* do—freelance editing, personal projects, skills gained elsewhere. Hiring managers care about current readiness; stay positive and forward-looking."
+    }
+  ]
+}

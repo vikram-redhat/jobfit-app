@@ -1,0 +1,134 @@
+{
+  "slug": "special-education-teacher",
+  "title": "Special Education Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:17.490Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Special Education Teacher Resume: Templates & Tips",
+  "metaDescription": "Land your special education teaching role with a resume that highlights differentiated instruction, IEP management, and student outcomes. See real examples.",
+  "h1": "Special Education Teacher Resume: Stand Out to Hiring Directors",
+  "intro": "Special education teachers need resumes that prove they can differentiate instruction, manage IEPs, and build relationships with diverse learners—not just list certifications. This guide shows you how to write bullets that matter to school principals and special ed directors.",
+  "audience": "Recent education graduates, career switchers entering special ed, and current teachers applying for new roles or seeking promotions within special ed departments.",
+  "topSkills": [
+    {
+      "name": "Individualized Education Plan (IEP) Development & Management",
+      "why": "IEPs are central to special ed; hiring managers look for proven experience creating, implementing, and monitoring these legally required documents."
+    },
+    {
+      "name": "Differentiated Instruction",
+      "why": "Special ed is all about tailoring lessons to individual student needs; this skill signals you know how to adapt content and delivery."
+    },
+    {
+      "name": "Behavior Management & De-escalation",
+      "why": "Managing challenging behaviors is a daily reality; schools need teachers who can keep classrooms safe and positive."
+    },
+    {
+      "name": "Assistive Technology & Accessibility Tools",
+      "why": "From AAC devices to screen readers to text-to-speech, familiarity with AT shows you're prepared to support diverse learners."
+    },
+    {
+      "name": "Collaboration & Parent Communication",
+      "why": "Special ed teachers must partner with parents, general ed teachers, and therapists; collaboration skills are non-negotiable."
+    },
+    {
+      "name": "Assessment & Data Analysis",
+      "why": "You'll track student progress, administer assessments, and use data to adjust instruction—hiring managers expect this."
+    },
+    {
+      "name": "Disability Awareness & Inclusive Pedagogy",
+      "why": "Knowledge of specific disabilities and trauma-informed, culturally responsive teaching approaches is increasingly important."
+    },
+    {
+      "name": "Special Education Certification/Licensure",
+      "why": "State-specific credentials are often required or strongly preferred; don't bury these on your resume."
+    },
+    {
+      "name": "Transition Planning & Post-Secondary Readiness",
+      "why": "Especially for secondary teachers, preparing students for college, work, or independent living is a key metric of impact."
+    },
+    {
+      "name": "Documentation & Compliance",
+      "why": "IDEA, Section 504, and state requirements demand meticulous record-keeping; hiring managers need confidence you'll stay compliant."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed and implemented IEPs for students with various disabilities.",
+      "strong": "Developed and managed IEPs for 12–15 students with autism, ADHD, and learning disabilities; tracked progress on 4–6 annual goals per student and adjusted interventions quarterly based on data, resulting in 70% of students meeting annual IEP objectives.",
+      "lesson": "Adding specific numbers (student count, goals, data frequency, outcome percentage) transforms a vague task into measurable impact."
+    },
+    {
+      "weak": "Used technology to support student learning.",
+      "strong": "Implemented AAC devices and text-to-speech software for 3 nonverbal students; trained paraprofessionals on device operation and provided weekly feedback, enabling students to independently initiate 5–10 communication attempts per lesson.",
+      "lesson": "Naming the specific tools and showing how they improved student behavior or independence demonstrates real technical proficiency and student outcomes."
+    },
+    {
+      "weak": "Collaborated with parents and other teachers.",
+      "strong": "Facilitated 3 IEP meetings per semester; maintained weekly parent communication via email and phone; co-planned differentiated reading lessons with 2 general ed teachers to include 4 inclusion students, improving benchmark scores by 15–20% in one semester.",
+      "lesson": "Quantifying collaboration (frequency, number of partners, shared outcomes) proves you're a team player who drives actual results."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Burying special ed certification below generic qualifications",
+      "fix": "List your state special ed license and subject area (e.g., 'Special Education: Emotional/Behavioral Disabilities, [State]') prominently in a Licenses & Certifications section near the top or in your summary."
+    },
+    {
+      "mistake": "Focusing on activities rather than student growth",
+      "fix": "Replace 'led small-group lessons' with measurable outcomes: 'Led small-group reading intervention 3× weekly; 8 of 10 students improved reading level by 1 grade equivalent in 12 weeks.'"
+    },
+    {
+      "mistake": "Ignoring data and progress monitoring language",
+      "fix": "Include language about how you track progress: 'administered quarterly benchmark assessments,' 'analyzed data to inform RTI decisions,' or 'tracked fidelity of intervention implementation.'"
+    },
+    {
+      "mistake": "Not mentioning specific disabilities or student populations served",
+      "fix": "Name the disabilities or categories you've taught (autism, intellectual disability, emotional/behavioral disorders, learning disabilities) to help schools quickly match your expertise to open positions."
+    },
+    {
+      "mistake": "Forgetting to highlight parent and staff communication skills",
+      "fix": "Add a bullet on parent partnerships, IEP facilitation, or professional development you've led; schools want teachers who build relationships across the team."
+    }
+  ],
+  "structureTips": [
+    "Lead with a short professional summary that mentions your special ed certification, target student population (e.g., 'autism spectrum,' 'emotional/behavioral'), and a key outcome (e.g., 'improved reading comprehension by 25% through differentiated instruction').",
+    "Put Licenses & Certifications high on the page (after summary, before experience), and include the exact state and disability category so hiring managers see you're qualified immediately.",
+    "In your experience section, open with a 1–2 sentence context line for each role (e.g., 'Co-taught 4th-grade reading in an inclusion classroom with 5 IEP students and 20 general ed students') before diving into bullet points—this primes the reader.",
+    "Group bullets by theme (IEP management, instruction, collaboration, behavior/safety) if you've held multiple roles; otherwise organize by impact, with the strongest student-outcome bullets first."
+  ],
+  "atsKeywords": [
+    "Special Education Teacher",
+    "Individualized Education Plan (IEP)",
+    "Differentiated Instruction",
+    "Behavior Management",
+    "Assistive Technology",
+    "Special Education Certification",
+    "Inclusive Classroom",
+    "Students with Disabilities",
+    "IEP Development",
+    "Progress Monitoring"
+  ],
+  "salarySignal": "Entry-level special education teachers in the US typically earn $35,000–$45,000 annually; experienced teachers and those in high-cost regions or with advanced degrees can earn $55,000–$70,000 or more, depending on district and state.",
+  "faq": [
+    {
+      "q": "What certifications do I need on my special ed teacher resume?",
+      "a": "You'll need your state's special education teaching credential or license, which often specifies a disability category (e.g., Emotional/Behavioral Disabilities, Autism, Intellectual Disabilities, or a general Special Education K–12 license). Include the exact state and category. Some states also value add-ons like BCBA or AAC certification."
+    },
+    {
+      "q": "How do I show IEP writing skills on a resume if I can't share student details?",
+      "a": "Use general language: 'Developed IEPs for X students targeting literacy, math, and social-emotional goals; monitored progress quarterly and adjusted accommodations based on data.' Avoid naming students or sharing specific goals. Hiring managers trust that you've done the work; they want to see you understand the process and track outcomes."
+    },
+    {
+      "q": "Should I list assistive technology tools I'm proficient in?",
+      "a": "Yes—create a brief Technical Skills or Tools section listing AAC devices (Proloquo4Text, JABtalk), software (JAWS, ZoomText), and platforms (Google Classroom adapted with extensions, iPad apps for AAC) you've used. Schools increasingly value candidates who can independently set up and troubleshoot AT."
+    },
+    {
+      "q": "How do I stand out if I have limited special ed teaching experience?",
+      "a": "Highlight related experience: paraprofessional work, general ed classroom with inclusion students, tutoring or intervention roles, graduate coursework in special ed, or volunteer work with students with disabilities. Emphasize any outcomes (e.g., 'Supported 3 IEP students in reading; 2 moved from resource room to 80% inclusion by year-end') and mention your certification if you have it."
+    },
+    {
+      "q": "What should I include about parent communication and IEP meetings?",
+      "a": "Add a bullet on how often you communicated with families and how you facilitated IEP meetings—e.g., 'Conducted 3 IEP meetings per year; maintained weekly parent contact via email and phone calls; reported on student progress every 4–6 weeks.' Schools want to see you're proactive and transparent."
+    }
+  ]
+}

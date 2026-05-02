@@ -1,0 +1,126 @@
+{
+  "slug": "stocker",
+  "title": "Stocker",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:54:21.920Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Stocker Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a winning stocker resume with actionable tips, real bullet examples, and ATS keywords. Perfect for retail & warehouse jobs.",
+  "h1": "How to Write a Stocker Resume That Gets Hired",
+  "intro": "Stocking might seem straightforward, but hiring managers care about speed, accuracy, and how you keep shelves organized under pressure. A strong stocker resume proves you can move merchandise efficiently while maintaining safety and attention to detail—skills that directly impact store operations and customer experience.",
+  "audience": "High school graduates, career switchers entering retail or warehouse roles, and experienced stockers looking to move into supervisory or logistics positions.",
+  "topSkills": [
+    {
+      "name": "Inventory Management",
+      "why": "Retailers need stockers who can track stock levels, rotate product, and flag low inventory—core to preventing out-of-stocks and waste."
+    },
+    {
+      "name": "Retail Operations",
+      "why": "Understanding how stores function—from receiving to floor placement—shows you're not just moving boxes but supporting the whole operation."
+    },
+    {
+      "name": "Physical Stamina & Lifting",
+      "why": "This role demands repetitive physical work; mentioning comfort with long shifts and heavy loads signals reliability."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Misplaced items, damaged product, or wrong shelf locations hurt sales and customer satisfaction—accuracy matters."
+    },
+    {
+      "name": "POS System & Scanning",
+      "why": "Most modern retailers use barcode scanners and inventory software; familiarity with these tools speeds up your workflow."
+    },
+    {
+      "name": "Safety & Compliance",
+      "why": "OSHA standards, product handling, and accident prevention are non-negotiable in warehouse and retail environments."
+    },
+    {
+      "name": "Speed & Productivity",
+      "why": "Employers want to see quantified output—shelves stocked per shift, cases processed, or time reductions prove you work efficiently."
+    },
+    {
+      "name": "Customer Service Awareness",
+      "why": "Stockers are visible in stores; helping customers find items and responding to questions boost store reputation."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Stocked shelves and kept the store organized.",
+      "strong": "Stocked 400–500 SKUs daily across 12 aisles, maintaining 98% accuracy with barcode scanning; rotated inventory and flagged expired products to prevent shrinkage.",
+      "lesson": "Adding metrics (number of items, aisles, accuracy %), specific systems (barcode scanning), and business impact (shrinkage prevention) transforms a vague duty into proof of value."
+    },
+    {
+      "weak": "Worked in the warehouse and moved things around.",
+      "strong": "Received, logged, and staged 800+ units per shift using WMS software; coordinated with floor team to reduce shelf-out delays by 20–30% and maintained zero safety violations over 18 months.",
+      "lesson": "Naming the software (WMS), quantifying output and impact, and highlighting safety record shows you're reliable, tech-savvy, and safety-conscious—all hiring manager priorities."
+    },
+    {
+      "weak": "Helped customers and dealt with shipments.",
+      "strong": "Assisted 15–20 customers per shift with product location and store navigation; processed 60+ incoming cartons daily and resolved pricing discrepancies in real time, reducing customer complaints by 25%.",
+      "lesson": "Specific volume (customers per shift, cartons per day) plus a measurable outcome (complaint reduction) proves you balance speed with service and problem-solving."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only job duties, no impact.",
+      "fix": "Reframe every duty with a metric or outcome—units per shift, accuracy rate, time saved, or safety record—to show you delivered results, not just completed tasks."
+    },
+    {
+      "mistake": "Ignoring software and systems experience.",
+      "fix": "Call out any inventory, POS, WMS, or scanning tools you've used by name; modern retail runs on tech, and familiarity signals you can ramp up quickly."
+    },
+    {
+      "mistake": "Burying safety or compliance achievements.",
+      "fix": "Lead with safety wins—'zero accidents in X months,' 'OSHA-compliant forklift operator,' 'trained 5 new hires on protocol'—because retailers are liability-conscious."
+    },
+    {
+      "mistake": "Downplaying customer interaction.",
+      "fix": "Even if stocking is your main role, mention how you help customers on the floor; modern stocker roles are hybrid, and customer-facing soft skills increase your value."
+    },
+    {
+      "mistake": "Not tailoring to the company or location.",
+      "fix": "Research the retailer's inventory system, store size, and typical high-volume categories (grocery, home goods, apparel), then mirror those specifics in your bullets to show you understand their operation."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 'Retail Stocker' or 'Warehouse Associate' summary (2–3 lines) that highlights your units-per-shift pace, accuracy rate, and safety record—this is what hiring managers scan first.",
+    "Group experience by measurable categories: 'Inventory & Stocking' (speed, volume, accuracy), 'Warehouse Operations' (receiving, scanning, WMS), and 'Safety & Compliance'—makes it easier for ATS and human readers to find relevant keywords.",
+    "If you have retail or warehouse certifications (forklift license, OSHA-10, first aid), give them their own small line or incorporate into the first job—these are ATS-friendly and prove compliance readiness.",
+    "Put customer service and teamwork examples in your bullets or a separate 'Core Competencies' section, not as a vague intro; concrete examples (trained X hires, reduced complaints by Y%) outweigh soft-skill claims."
+  ],
+  "atsKeywords": [
+    "stocker",
+    "stock associate",
+    "warehouse associate",
+    "inventory management",
+    "POS system",
+    "barcode scanning",
+    "product rotation",
+    "shelf stocking",
+    "receiving and shipping",
+    "WMS software"
+  ],
+  "salarySignal": "Entry-level stocker positions in the US typically range from $24,000 to $30,000 annually as of 2026; warehouse and supervisory roles top out higher, with experience and region affecting pay.",
+  "faq": [
+    {
+      "q": "What should I put on a stocker resume if I have no formal work experience?",
+      "a": "Focus on transferable skills from school (organization, time management), volunteer roles, or personal projects (managing a garage, school inventory, or events). Use action verbs like 'organized,' 'coordinated,' and 'maintained,' and if you have any retail or warehouse training (even unpaid internships), list that prominently."
+    },
+    {
+      "q": "Should I mention forklift certification on my stocker resume?",
+      "a": "Absolutely. Forklift license (OSHA-certified) is a major ATS keyword and hiring signal—it expands the roles you can fill and often commands higher pay. Put it in a 'Certifications' section near the top."
+    },
+    {
+      "q": "How do I quantify stocking performance if my employer doesn't track metrics?",
+      "a": "Ask your manager for typical volume (cases per shift, SKUs per hour, aisles per day) or use industry benchmarks—grocery stockers average 400–600 items per shift, for example. If exact data isn't available, estimate conservatively based on your honest output and mention the time period so it's credible."
+    },
+    {
+      "q": "Is customer service experience important for a stocker resume?",
+      "a": "Yes, increasingly so. Many retailers want 'stock and service' roles; if you've helped customers, handled questions, or worked a cash register, highlight those duties. It differentiates you and shows you're a complete store team member."
+    },
+    {
+      "q": "What's the best way to show I'm detail-oriented as a stocker?",
+      "a": "Lead with accuracy metrics ('98% inventory accuracy,' 'zero price discrepancies') and specific responsibilities like product rotation, expiration date checks, and quality inspections. Concrete examples beat generic claims."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "tour-guide",
+  "title": "Tour Guide",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:56:54.664Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Tour Guide Resume: Tips, Examples & Skills",
+  "metaDescription": "Write a tour guide resume that stands out. Learn key skills, action verbs, and how to quantify your experience leading groups.",
+  "h1": "How to Write a Tour Guide Resume That Gets You Hired",
+  "intro": "Tour guide resumes need to balance storytelling skills with concrete guest management experience. Whether you're leading walking tours in a city, guiding museum visitors, or running adventure expeditions, your resume should showcase your ability to educate, entertain, and handle logistics smoothly.",
+  "audience": "Entry-level and mid-career hospitality workers, recent grads interested in travel and tourism, and career changers moving into the tour industry from retail, customer service, or education roles.",
+  "topSkills": [
+    {
+      "name": "Guest communication & engagement",
+      "why": "Tour operators want guides who can captivate audiences, answer questions clearly, and adapt tone to different group types—this is your core job."
+    },
+    {
+      "name": "Group management & safety protocols",
+      "why": "You're responsible for keeping groups organized, on schedule, and safe; hiring managers prioritize candidates who've managed 10-200+ person groups responsibly."
+    },
+    {
+      "name": "Local or destination knowledge",
+      "why": "Deep expertise in your tour area—history, landmarks, cultural context—separates confident guides from mediocre ones."
+    },
+    {
+      "name": "Multilingual abilities",
+      "why": "Speaking multiple languages dramatically expands your market value and the tour companies you can work for."
+    },
+    {
+      "name": "Customer service & conflict resolution",
+      "why": "You'll encounter difficult guests, logistical hiccups, and weather changes; managers need proof you stay professional under pressure."
+    },
+    {
+      "name": "Tour logistics & itinerary planning",
+      "why": "Planning routes, managing timing, coordinating with vendors, and adjusting on the fly are critical operational skills."
+    },
+    {
+      "name": "Storytelling & presentation skills",
+      "why": "Tours are entertainment; your ability to craft narratives and present them dynamically directly impacts guest satisfaction and tips."
+    },
+    {
+      "name": "Physical endurance & flexibility",
+      "why": "Tours often involve long days on foot, outdoor conditions, and unpredictable schedules; candidates need to demonstrate reliability in demanding environments."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Led tours for guests and provided information about attractions.",
+      "strong": "Guided 50-80 guests per week on 2-4 hour walking tours, maintaining a 4.8/5 average rating and generating $400-600/week in gratuities through engaging storytelling and seamless logistics.",
+      "lesson": "Quantified group sizes, frequency, tour length, guest satisfaction metric, and financial impact—all things hiring managers can verify and compare across candidates."
+    },
+    {
+      "weak": "Spoke multiple languages with tour groups.",
+      "strong": "Delivered tours fluently in English, Spanish, and Mandarin, expanding client base by 35% and increasing repeat bookings from non-English speakers by 40% year-over-year.",
+      "lesson": "Named the specific languages, tied language skills to revenue growth and retention—showing your multilingual ability has business impact beyond just being nice-to-have."
+    },
+    {
+      "weak": "Managed safety and customer problems during tours.",
+      "strong": "Implemented and enforced safety protocols for groups of 30-120 people on urban and outdoor tours; resolved guest complaints in real-time with zero escalations to management and zero safety incidents across 200+ tours.",
+      "lesson": "Made safety and conflict resolution measurable by noting group size, incident-free track record, and the absence of management escalations—proof you're reliable under real conditions."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing vague job duties instead of guest impact metrics",
+      "fix": "Replace 'gave tours' with specific numbers: how many guests, average tour length, satisfaction ratings, repeat booking percentage, or revenue impact (tips/upsells)."
+    },
+    {
+      "mistake": "Burying language abilities or tour specialties",
+      "fix": "Lead with languages, certifications (First Aid, mountain guide license), or specialized tour types (food tours, adventure tours, museum curation) in your experience bullets or skills section."
+    },
+    {
+      "mistake": "Not mentioning safety, crisis management, or training experience",
+      "fix": "Call out safety certifications, incident-free tour records, first aid/CPR training, or times you managed weather delays, medical issues, or difficult guests—tour operators are risk-averse."
+    },
+    {
+      "mistake": "Ignoring the 'soft side' of tours—upselling, marketing, or repeat business",
+      "fix": "If you've driven upsells (restaurant reservations, photo packages, merchandise), increased repeat bookings, or generated referrals, quantify it—that's revenue you directly created."
+    },
+    {
+      "mistake": "Missing certifications or credentials relevant to your tour type",
+      "fix": "Include scuba certification for diving tours, rock climbing credentials, museum docent certifications, wine sommelier status, or wilderness first responder training in a prominent place."
+    }
+  ],
+  "structureTips": [
+    "Lead with a summary that names your tour specialties (e.g., 'food tour guide' or 'adventure expeditions') and your strongest language/safety credentials—hiring managers scan the top 20% of your resume first.",
+    "Put languages and certifications in a dedicated 'Languages & Certifications' section near the top, not buried in a generic skills list—they're deal-breakers for many tour operator roles.",
+    "For each tour guide job, lead with group size, tour type, and a satisfaction or revenue metric in your first bullet, then follow with specific responsibilities (safety, logistics, upselling, conflict resolution) in subsequent bullets.",
+    "If you've worked for multiple tour companies or led different tour types (walking, boat, adventure), organize by tour type or company, and call out what made you stand out (highest ratings, most repeat clients, special expertise)."
+  ],
+  "atsKeywords": [
+    "tour guide",
+    "group tour leader",
+    "customer service",
+    "guest satisfaction",
+    "tour logistics",
+    "safety protocols",
+    "multilingual",
+    "tour operator",
+    "guest relations",
+    "tour itinerary planning"
+  ],
+  "salarySignal": "Entry-level tour guides in the US typically earn $20–$28/hour or $25,000–$35,000 annually; mid-career guides with specialization, language skills, and strong track records earn $35,000–$55,000+, plus gratuities and seasonal bonuses.",
+  "faq": [
+    {
+      "q": "Should I list gratuities or tips on my tour guide resume?",
+      "a": "Yes, if they're consistent and significant. Rather than listing a dollar amount, mention average guest rating (e.g., '4.8/5 stars') or that you 'generated $X in weekly gratuities through exceptional guest engagement'—it signals reliability and guest satisfaction without looking unprofessional."
+    },
+    {
+      "q": "What certifications do tour guides need to put on their resume?",
+      "a": "Include First Aid/CPR, your relevant tour-type credential (scuba diver card, rock climbing certification, wilderness first responder, museum docent certification), and any tour operator or guide licensing required in your region. These often move your resume to the top of the pile."
+    },
+    {
+      "q": "How do I make my tour guide resume stand out if I'm just starting out?",
+      "a": "Lead with languages, travel experience, customer service roles, event coordination, or volunteer tour work. Quantify group sizes you've managed ('led groups of 30–80'), mention any positive feedback or high ratings, and highlight your knowledge of at least one destination or subject matter deeply."
+    },
+    {
+      "q": "Should I put 'physical endurance' or 'stamina' on my tour guide resume?",
+      "a": "Don't use vague terms. Instead, describe your real experience: 'Led full-day outdoor tours (8+ hours on foot) in hot/cold/wet conditions with zero no-shows' or 'Managed 15–20 multi-day expedition tours across challenging terrain'—show don't tell."
+    },
+    {
+      "q": "How important is it to mention specific destinations or topics I specialize in?",
+      "a": "Very important. Tour operators often hire for specific routes or content areas. If you specialize in Civil War history, wine regions, jungle trekking, or a specific city, name it clearly in your summary and experience bullets—it makes you memorable and searchable in their system."
+    }
+  ]
+}

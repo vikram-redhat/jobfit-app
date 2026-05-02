@@ -1,0 +1,130 @@
+{
+  "slug": "growth-marketer",
+  "title": "Growth Marketer",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:27.057Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Growth Marketer Resume: Tips, Examples & Skills",
+  "metaDescription": "Write a growth marketer resume that stands out. Learn which metrics matter, how to structure your experience, and what hiring managers want to see.",
+  "h1": "How to Write a Growth Marketer Resume That Gets Interviews",
+  "intro": "Growth marketing is all about driving measurable results—and your resume needs to prove you can do it. Hiring managers want to see concrete numbers: users acquired, conversion rates improved, revenue influenced. We'll show you how to write a resume that matches both the ATS and a real person's eyes.",
+  "audience": "Early-career marketers, career switchers from sales or product, and recent grads with analytics or startup experience applying to growth marketing roles.",
+  "topSkills": [
+    {
+      "name": "Growth hacking / product-led growth",
+      "why": "This is the core of the role—hiring managers want to see you've shipped viral loops, referral programs, or user activation campaigns."
+    },
+    {
+      "name": "Data analysis & experimentation",
+      "why": "Growth marketers live in spreadsheets and A/B tests; employers need to know you can read data and iterate."
+    },
+    {
+      "name": "Paid advertising (Google Ads, Facebook Ads, LinkedIn)",
+      "why": "Most growth roles require hands-on experience managing ad spend and optimizing ROAS."
+    },
+    {
+      "name": "SQL & analytics tools (Google Analytics, Mixpanel, Amplitude)",
+      "why": "You need to extract insights yourself; familiarity with databases and analytics platforms is essential."
+    },
+    {
+      "name": "Conversion rate optimization (CRO)",
+      "why": "Running landing page tests and funnel optimization experiments is a bread-and-butter growth task."
+    },
+    {
+      "name": "Marketing automation (HubSpot, Segment, Klaviyo)",
+      "why": "Scaling campaigns programmatically is how growth marketers reach thousands without hiring 100 people."
+    },
+    {
+      "name": "Content marketing & SEO",
+      "why": "Organic growth channels like blog content and search are scalable, long-term wins hiring managers value."
+    },
+    {
+      "name": "Copywriting & messaging",
+      "why": "Converting users depends on compelling value propositions and persuasive email/landing page copy."
+    },
+    {
+      "name": "Product sense & cross-functional collaboration",
+      "why": "Growth marketers work with product and engineering; you need to show you understand the user experience end-to-end."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Ran marketing campaigns and helped grow the company's user base.",
+      "strong": "Launched three paid acquisition campaigns (Google, Facebook, TikTok); optimized targeting and creative to reduce CAC by 35% YoY while maintaining <3-day payback period.",
+      "lesson": "Specific channels, concrete metrics (CAC, payback), and quantified improvement show impact over vague 'helped grow' language."
+    },
+    {
+      "weak": "Responsible for email marketing and worked with the product team on onboarding.",
+      "strong": "Redesigned user onboarding email sequence; A/B tested subject lines and CTAs, increasing Day 7 retention by 18% and generating ~$50K in incremental ARR.",
+      "lesson": "Named the experiment (A/B test), showed the outcome (retention lift), and tied it to revenue impact—all things hiring managers chase."
+    },
+    {
+      "weak": "Used Google Analytics and SQL to analyze marketing data.",
+      "strong": "Queried user behavior data in SQL to identify drop-off points in signup funnel; built dashboards in Google Analytics; recommended and implemented changes that improved conversion by 12% and saved $15K/month in wasted ad spend.",
+      "lesson": "Tools alone don't impress; showing how you *used* them to solve a real problem and save/earn money does."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes.",
+      "fix": "Every bullet should end with a metric or business result (users, %, $ saved, revenue). 'Managed campaigns' is weak; 'drove 2.3K qualified leads at $18 CAC' is strong."
+    },
+    {
+      "mistake": "Burying the most impressive metrics.",
+      "fix": "Lead each bullet with the biggest win—'increased LTV:CAC from 1.8x to 3.2x' grabs attention far better than burying it at the end of a paragraph."
+    },
+    {
+      "mistake": "Claiming credit for company-wide wins.",
+      "fix": "Be honest about your role; say 'contributed to' or 'led' specific channels/campaigns, not 'grew company revenue.' Hiring managers know marketing is cross-functional."
+    },
+    {
+      "mistake": "Forgetting to mention experimentation or testing.",
+      "fix": "Growth is iterative; mention A/B tests, multivariate tests, or cohort analysis you've run. Show you test hypotheses, not just execute."
+    },
+    {
+      "mistake": "Omitting the tools and platforms you've used.",
+      "fix": "Include specific software (Mixpanel, Klaviyo, Segment, etc.) in your experience, not just in a skills section—it helps with ATS matching and shows you're hands-on."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Growth Metrics' or 'Key Results' summary at the top—a 2-3 line snapshot of your biggest wins (e.g., 'Drove 10K qualified leads, improved onboarding conversion 24%, reduced CAC 40%'). This captures attention before hiring managers scroll.",
+    "Within each job, group accomplishments by *channel or initiative* (Paid Acquisition, Product-Led Growth, Email Retention) rather than listing chronologically. It's easier for a hiring manager to scan your expertise.",
+    "Quantify everything: users, %, MoM growth, revenue, CAC, LTV, ROI, retention lift. If a bullet doesn't have a number, consider rewriting it or moving it lower.",
+    "If you have limited experience, emphasize side projects, personal experiments, or growth case studies you've run (e.g., 'Launched indie product to 500 users in 6 weeks using organic + paid channels'). Growth hiring managers respect hustle and proof of concepts."
+  ],
+  "atsKeywords": [
+    "growth marketing",
+    "conversion rate optimization",
+    "A/B testing",
+    "paid acquisition",
+    "user retention",
+    "marketing analytics",
+    "SQL analytics",
+    "product-led growth",
+    "CAC LTV",
+    "marketing automation"
+  ],
+  "salarySignal": "Entry-level growth marketers (0–2 years) in the US typically earn $50K–$75K; mid-level (2–5 years) range from $75K–$120K. Comp varies by company stage, location, and whether equity is included.",
+  "faq": [
+    {
+      "q": "What metrics should I always include on a growth marketer resume?",
+      "a": "Focus on CAC (cost per acquisition), LTV (lifetime value), conversion rate improvements (%), user retention gains, revenue impact, and ROI on ad spend. These are the languages hiring managers speak. If you don't have exact numbers, use ranges (e.g., 'reduced CPA by 20–30%') as placeholders to fill in with your real data."
+    },
+    {
+      "q": "How do I make my experience stand out if I've only worked at one company?",
+      "a": "Dig into breadth: showcase different channels you've owned or tested (paid, organic, email, referral, product features), different user cohorts you've acquired, and how your impact grew over time. Promote the fact that you wore multiple hats—that's a growth marketer's superpower."
+    },
+    {
+      "q": "Should I include a section for tools and platforms?",
+      "a": "Yes, but keep it brief and weave the tools into your experience bullets where possible (e.g., 'Set up Segment to track user events; built cohort-based email campaigns in Klaviyo'). This helps with ATS keyword matching and shows you're hands-on, not just a strategist."
+    },
+    {
+      "q": "How do I explain growth wins if I can't share exact numbers?",
+      "a": "Use ranges (e.g., '5K–8K users'), percentages ('improved by ~30%'), or relative language ('top-performing campaign,' 'highest retention cohort'). If you signed an NDA, you can still say 'Optimized messaging for high-value segment, resulting in 2x higher LTV' without exact figures."
+    },
+    {
+      "q": "Is it better to emphasize brand awareness or performance marketing on a growth resume?",
+      "a": "Performance marketing and measurable user acquisition are more aligned with growth roles. If you have brand experience, tie it to business outcomes (leads, signups, revenue). Growth teams care about the funnel and retention, not just impressions."
+    }
+  ]
+}

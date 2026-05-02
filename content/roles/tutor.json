@@ -1,0 +1,132 @@
+{
+  "slug": "tutor",
+  "title": "Tutor",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:15.109Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Tutor Resume: Templates & Examples for 2026",
+  "metaDescription": "Write a standout tutor resume with proven examples, key skills, and ATS keywords. Land more tutoring jobs with actionable resume tips.",
+  "h1": "How to Write a Tutor Resume That Gets Hired",
+  "intro": "Whether you're a recent grad, a career switcher, or a seasoned educator, your tutor resume needs to prove you can explain tough concepts clearly and help students actually improve. We'll walk you through the exact skills, metrics, and formatting that tutoring platforms, education companies, and private clients are looking for.",
+  "audience": "Recent education graduates, career switchers moving into tutoring, current teachers seeking side income, and experienced tutors leveling up their profiles.",
+  "topSkills": [
+    {
+      "name": "Subject matter expertise",
+      "why": "Clients and hiring managers need confidence you know the material deeply—whether it's calculus, SAT prep, or ESL."
+    },
+    {
+      "name": "Lesson planning & curriculum development",
+      "why": "Tutors who can design structured, targeted lessons are more effective and command higher rates."
+    },
+    {
+      "name": "Differentiated instruction",
+      "why": "Every student learns differently; showing you adapt your teaching style proves you get real results."
+    },
+    {
+      "name": "Assessment & progress tracking",
+      "why": "Parents and students want measurable improvement; tracking progress and reporting it builds trust."
+    },
+    {
+      "name": "One-on-one communication",
+      "why": "Tutoring is personal; ability to explain complex ideas simply and listen actively sets you apart."
+    },
+    {
+      "name": "Student engagement & motivation",
+      "why": "Keeping students focused and confident, especially struggling ones, is the core skill that leads to referrals."
+    },
+    {
+      "name": "Virtual tutoring platforms (Zoom, Google Meet, Chegg, Wyzant)",
+      "why": "Most tutoring now happens online; platform-specific experience makes you immediately hireable."
+    },
+    {
+      "name": "Test prep (SAT, ACT, GRE, GMAT, AP exams)",
+      "why": "Test prep tutors are in high demand and typically command premium rates."
+    },
+    {
+      "name": "Learning management systems (LMS)",
+      "why": "Familiarity with Canvas, Blackboard, or Google Classroom shows you can integrate tutoring into broader education ecosystems."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked with students on math homework and helped them understand concepts.",
+      "strong": "Tutored 12–15 high school algebra and precalculus students per month; 85% improved at least one letter grade within 3 months, with average test scores rising from 68% to 82%.",
+      "lesson": "Replace vague language with student counts, timeframes, and measurable outcome data—tutoring is all about results."
+    },
+    {
+      "weak": "Created lesson plans for SAT preparation.",
+      "strong": "Designed 8-week customized SAT prep curriculum for 20+ students; average verbal score improvement of 90 points (range: 50–140 points); 60% increased to target score within program timeline.",
+      "lesson": "Quantify the scope of your lesson design work and tie it directly to student achievement—hiring managers want proof your planning works."
+    },
+    {
+      "weak": "Taught ESL classes and provided feedback to students.",
+      "strong": "Delivered one-on-one ESL instruction via Zoom to 8 adult professionals; designed personalized speaking/writing modules; 75% of clients completed business English certification within 6 months.",
+      "lesson": "Name the platform, the cohort size, and the specific outcome your instruction enabled—concrete details beat generic teaching claims."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic teaching skills without evidence",
+      "fix": "Always include a concrete number: students tutored, improvement metric, completion rate, or score gain. 'Strong communicator' means nothing; '10 ELL learners improved TOEFL speaking scores by avg. 15 points' does."
+    },
+    {
+      "mistake": "Forgetting to mention certifications or credentials",
+      "fix": "If you're certified (TEFL, teaching credential, SAT-certified, etc.), put it prominently. Clients and platforms filter on credentials—they're your gatekeeping advantage."
+    },
+    {
+      "mistake": "Not specifying subject areas or grade levels",
+      "fix": "Don't just say 'math tutor.' Say 'high school algebra & precalculus' or 'middle school fractions & geometry.' Specificity helps matching algorithms and reassures clients you're expert-level in *their* need."
+    },
+    {
+      "mistake": "Omitting platform experience (Chegg, Care.com, Tutor.com, Wyzant)",
+      "fix": "If you've tutored on major platforms, mention it by name—algorithms and hiring teams search for platform-specific keywords, and it proves you're vetted and experienced with remote tutoring workflows."
+    },
+    {
+      "mistake": "Burying client testimonials or 5-star ratings",
+      "fix": "If you've accumulated high ratings or positive feedback on platforms, weave it into your bullet points or add a 'Recognition' section. Social proof that you're an effective tutor is gold."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that anchors your subject expertise and biggest win—e.g., 'SAT prep specialist; 87% of students achieved target score within 12 weeks.' Clients scan fast.",
+    "Put credentials (teaching license, certifications, platform badges) in a dedicated section near the top. Hiring managers filter on these first.",
+    "Group tutoring experience by subject or format (e.g., 'High School Math Tutoring,' 'ESL Conversation Coaching,' 'Standardized Test Prep') so clients can quickly scan for their need.",
+    "Include a 'Platforms & Tools' line (Zoom, Google Classroom, Chegg, etc.) in your professional summary or experience section—ATS systems and remote tutoring companies search for these keywords."
+  ],
+  "atsKeywords": [
+    "one-on-one tutoring",
+    "lesson planning",
+    "student assessment",
+    "SAT prep",
+    "ACT prep",
+    "differentiated instruction",
+    "virtual tutoring",
+    "Zoom tutoring",
+    "curriculum development",
+    "test preparation",
+    "progress tracking",
+    "subject matter expertise"
+  ],
+  "salarySignal": "Entry-level tutors in the US typically earn $18–25/hour for independent or platform-based work; experienced subject-matter specialists (SAT/test prep) and those with teaching credentials often earn $30–60+/hour, with annual income scaling based on student volume and niche expertise.",
+  "faq": [
+    {
+      "q": "How do I show impact as a tutor on my resume?",
+      "a": "Use specific metrics: number of students, timeframe, grade/score improvement, certification rates, or platform ratings. For example: 'Improved 9 students' ACT math scores by avg. 4 points (range: 2–7) in 8-week sessions.' Numbers prove you deliver results."
+    },
+    {
+      "q": "Should I list every tutoring platform I've worked on?",
+      "a": "Yes, especially if you have strong reviews or significant volume there. List platforms (Chegg, Wyzant, Care.com, Tutor.com) by name in a 'Platforms & Tools' section or within experience bullets. Hiring teams search for platform keywords."
+    },
+    {
+      "q": "What certifications should a tutor highlight?",
+      "a": "Any teaching license, SAT/ACT certification, TEFL/TESOL (if ESL), or platform-specific badges (e.g., Chegg Expert badge). Place these near the top of your resume under a 'Certifications' section—they're strong hiring signals."
+    },
+    {
+      "q": "How do I phrase my tutoring experience if I'm self-employed or freelance?",
+      "a": "Use a job title like 'Independent Tutor' or 'Freelance [Subject] Tutor' and include your business name or platform affiliations. Bullet points should focus on client results, student volume, and growth—'Built client base of 25+ regular students; maintained 4.9/5 rating across platforms.'"
+    },
+    {
+      "q": "What should I do if I don't have formal teaching credentials?",
+      "a": "Lean hard on subject expertise (degree in math, linguistics, etc.), platform certifications, and measurable student outcomes. Add any relevant coursework, self-taught credentials (online SAT course), or volunteer teaching experience. Results matter more than a formal credential for many tutoring roles."
+    }
+  ]
+}

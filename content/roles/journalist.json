@@ -1,0 +1,130 @@
+{
+  "slug": "journalist",
+  "title": "Journalist",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:30.366Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Journalist Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a compelling journalist resume with proven tips, strong bullet examples, and ATS keywords that land interviews.",
+  "h1": "How to Write a Journalist Resume That Gets Noticed",
+  "intro": "Journalism is a craft—and your resume needs to prove you can report, write, and tell stories under deadline. This guide shows you how to showcase your bylines, audience reach, and editorial impact in ways that catch editors' eyes.",
+  "audience": "Recent journalism grads, career-switchers from communications, and established journalists looking to move to new outlets or beats.",
+  "topSkills": [
+    {
+      "name": "Reporting & Investigative Research",
+      "why": "Editors need to know you can dig deep, verify facts, and uncover stories—not just rewrite press releases."
+    },
+    {
+      "name": "Breaking News / Time-Sensitive Writing",
+      "why": "Newsrooms value journalists who can produce accurate, polished copy in minutes, not hours."
+    },
+    {
+      "name": "AP Style & Editorial Standards",
+      "why": "Mastery of AP Style signals you've trained in professional journalism and can hit the ground running."
+    },
+    {
+      "name": "Digital & Multimedia Reporting",
+      "why": "Modern outlets expect reporters to shoot video, edit audio, or produce interactive stories—not just write."
+    },
+    {
+      "name": "SEO & Web Analytics",
+      "why": "Outlets care about reader engagement; showing you understand traffic and search amplifies your value."
+    },
+    {
+      "name": "Interview & Source Development",
+      "why": "Hiring editors want proof you can land tough interviews and build credible sources on your beat."
+    },
+    {
+      "name": "Fact-Checking & Verification",
+      "why": "In an age of misinformation, editors prioritize journalists who obsess over accuracy and transparency."
+    },
+    {
+      "name": "Content Management Systems (WordPress, Contentful)",
+      "why": "Knowing how to publish, schedule, and optimize in a CMS makes you immediately useful in a newsroom."
+    },
+    {
+      "name": "Beat Expertise",
+      "why": "Deep knowledge of a specific beat (politics, crime, health, tech) makes you a specialist worth hiring."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Wrote articles about local politics and government.",
+      "strong": "Broke a story on municipal budget misallocation that prompted a city council investigation; covered 40+ local government meetings and published 60+ bylined pieces in a competitive election cycle.",
+      "lesson": "Specifics and impact matter more than activity count—show the story's consequence and your output volume."
+    },
+    {
+      "weak": "Reported for the university newspaper.",
+      "strong": "Grew investigative column readership from 200 to 2,100 monthly readers over 8 months by building source networks in student government and publishing 4 accountability pieces that led to policy changes.",
+      "lesson": "Quantify audience growth and editorial outcome—prove your work moved readers and changed behavior."
+    },
+    {
+      "weak": "Responsible for social media and multimedia content.",
+      "strong": "Produced 3–4 short-form video explainers weekly (Adobe Premiere); grew Instagram audience 35% in 6 months by adapting long-form reporting into native stories; drove 40% of traffic to health beat stories via social.",
+      "lesson": "Name the specific tools, platforms, and metrics—editors hire journalists who understand modern distribution."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Burying your bylines and publications.",
+      "fix": "Lead with a 'Published Work' section near the top, or embed publication names in bullet points so editors spot your clips immediately."
+    },
+    {
+      "mistake": "Listing 'responsibilities' instead of stories and impact.",
+      "fix": "Replace 'covered breaking news' with 'Reported 12 breaking-news stories that went live within 30 minutes; three were syndicated by state AP bureaus.'"
+    },
+    {
+      "mistake": "Forgetting to mention traffic, engagement, or reach numbers.",
+      "fix": "Include metrics like 'most-read story garnered 15K views' or 'email newsletter grew to 8K subscribers' to show your work resonates."
+    },
+    {
+      "mistake": "Not mentioning your beat or subject expertise.",
+      "fix": "Clearly state your beat (e.g., 'Covered technology policy and startups') so editors know where you add immediate value."
+    },
+    {
+      "mistake": "Omitting links to your portfolio or byline page.",
+      "fix": "Include a 'Journalism Portfolio' or 'Published Work' URL (Substack, personal site, Medium, or byline archives) so editors can read your actual clips in 10 seconds."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or 'Beat Focus' line that highlights your specialty and a signature story—editors scan the top third and decide if they're interested.",
+    "Place your 'Published Work' or 'Byline' section (with links to 3–5 strongest clips) in the top half, above Education; editors want to read your work before they care about your degree.",
+    "Group experience by beat or outlet, not just chronologically; if you've covered politics, health, and crime, use subheadings to show depth in each area.",
+    "Include a 'Skills & Tools' section that mentions AP Style, CMS platforms (WordPress, Contentful), multimedia software (Adobe Premiere, Canva), and analytics (Google Analytics, Chartbeat) to pass ATS filters and show versatility."
+  ],
+  "atsKeywords": [
+    "investigative journalism",
+    "breaking news reporting",
+    "AP Style",
+    "fact-checking",
+    "source development",
+    "beat reporting",
+    "multimedia journalism",
+    "content management system",
+    "digital journalism",
+    "bylined articles"
+  ],
+  "salarySignal": "Entry-level journalist salaries typically range from $28K–$35K in 2026; mid-career reporters at major outlets earn $45K–$65K; senior investigative roles and management positions can exceed $85K.",
+  "faq": [
+    {
+      "q": "Should I include a portfolio link or clips on my journalist resume?",
+      "a": "Absolutely. Add a line like 'Published Work: [link to byline page or portfolio]' near the top. Editors want to read your actual writing in seconds—don't make them hunt for it. A link to your byline archive, Substack, or personal site is expected."
+    },
+    {
+      "q": "How do I list freelance or unpaid journalism experience?",
+      "a": "Treat it the same as paid work if it's substantial. Use 'Freelance Journalist' or 'Contributing Writer' as the title, list the publication, and focus on impact: stories published, traffic, or audience grown. Editors respect hustle and clips over paychecks."
+    },
+    {
+      "q": "What if I don't have many bylines yet?",
+      "a": "Lead with smaller outlets, school papers, or Medium stories—anything published with your name attached counts. Add student journalism, awards, or capsule descriptions of major investigations you reported. Show the work, not just the byline count."
+    },
+    {
+      "q": "Should I mention my social media following or engagement metrics?",
+      "a": "Yes, especially if you've built an audience. Include lines like 'Grew Twitter following to 12K with daily reporting' or 'Instagram stories averaged 2K views.' Modern newsrooms value journalists who drive traffic and engagement."
+    },
+    {
+      "q": "How do I format clips and links on my resume?",
+      "a": "Create a 'Published Work' section with publication name, headline, and a short URL (bit.ly or direct link). Or add a single 'Portfolio' or 'Byline' link at the top. Keep it clean—no long URLs that break formatting—and make sure links are live and current."
+    }
+  ]
+}

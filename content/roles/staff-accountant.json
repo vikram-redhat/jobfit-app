@@ -1,0 +1,134 @@
+{
+  "slug": "staff-accountant",
+  "title": "Staff Accountant",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:44:00.758Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Staff Accountant Resume: Best Examples & Skills to Land Jobs",
+  "metaDescription": "Write a Staff Accountant resume that gets interviews. Learn what skills matter, fix common mistakes, and use proven bullet-point templates.",
+  "h1": "How to Write a Staff Accountant Resume That Gets Hired",
+  "intro": "Staff Accountant roles demand precision, attention to detail, and the ability to manage multiple ledgers and reconciliations at once. Your resume needs to show you can handle complexity while staying organized—and this guide shows you exactly how to do it.",
+  "audience": "Recent accounting graduates, career switchers from finance or bookkeeping, and accountants looking to move into their first staff-level position.",
+  "topSkills": [
+    {
+      "name": "General Ledger (GL) Management",
+      "why": "This is the backbone of a Staff Accountant's job; hiring managers need to see you can post entries, reconcile accounts, and maintain accurate records."
+    },
+    {
+      "name": "Month-End & Year-End Close",
+      "why": "Staff Accountants drive the close process; demonstrating you've led or supported closings shows you can handle deadline pressure and complexity."
+    },
+    {
+      "name": "Account Reconciliation",
+      "why": "Reconciling bank accounts, credit cards, loans, and intercompany accounts is a core daily responsibility—mention specific account types you've handled."
+    },
+    {
+      "name": "Financial Statement Preparation",
+      "why": "Many Staff Accountants help prepare or review financial statements; this signals you understand GAAP and can support reporting."
+    },
+    {
+      "name": "Variance Analysis & Reporting",
+      "why": "Hiring managers want someone who can analyze discrepancies and communicate findings to management—a key step above data entry."
+    },
+    {
+      "name": "AP/AR Management",
+      "why": "Accounts Payable and Accounts Receivable processing and reconciliation are standard Staff Accountant duties that control cash flow."
+    },
+    {
+      "name": "ERP Systems (SAP, NetSuite, Oracle)",
+      "why": "Many companies rely on enterprise resource planning software; naming the systems you know makes you immediately deployable."
+    },
+    {
+      "name": "Excel & Pivot Tables",
+      "why": "Staff Accountants use Excel daily for analysis, reporting, and automation—proficiency signals efficiency and reduces manual errors."
+    },
+    {
+      "name": "GAAP Knowledge",
+      "why": "Understanding Generally Accepted Accounting Principles shows you grasp accounting standards and can support compliant reporting."
+    },
+    {
+      "name": "Internal Controls & Compliance",
+      "why": "Staff Accountants help ensure processes follow SOX, audit, or tax requirements—this reduces risk and shows business awareness."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed general ledger accounts and performed reconciliations.",
+      "strong": "Reconciled 45+ GL accounts monthly with zero variances over 18 months; identified and corrected $12K in posting errors before close, accelerating month-end by 2 days.",
+      "lesson": "Adding account count, frequency, error recovery, and time savings turned a generic task into proof of impact and attention to detail."
+    },
+    {
+      "weak": "Supported month-end and year-end close process.",
+      "strong": "Led month-end close for 8 business units in NetSuite; processed 200+ journal entries, resolved intercompany reconciliations, and delivered financial statements 3 days ahead of internal deadline.",
+      "lesson": "Naming the ERP, quantifying scope (units and entries), and showing you owned timelines demonstrates accountability and complexity."
+    },
+    {
+      "weak": "Prepared reports for management and executives.",
+      "strong": "Built automated variance analysis dashboards in Excel and PowerPoint; reduced monthly reporting time from 16 to 6 hours and surfaced 3 cost-control opportunities that saved $85K annually.",
+      "lesson": "Specifying the tools, quantifying time saved, and linking output to business value shows strategic thinking beyond number-crunching."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only accounting duties without measurable outcomes.",
+      "fix": "Pair every major task with a result: accounts reconciled, errors caught, time saved, or dollars recovered—hiring managers want to see impact."
+    },
+    {
+      "mistake": "Using software names wrong (e.g., 'SAP' when you meant 'QuickBooks').",
+      "fix": "List only the systems you actually used and be specific about your role: data entry, reporting, reconciliation, or configuration."
+    },
+    {
+      "mistake": "Failing to mention close cycles or frequency.",
+      "fix": "Always note if you managed daily reconciliations, monthly closes, quarterly reviews, or annual audits—it signals scope and reliability."
+    },
+    {
+      "mistake": "Omitting GAAP, SOX, or audit-related work.",
+      "fix": "If you've supported audit prep, documented controls, or ensured compliance, call it out—it positions you as business-aware and risk-conscious."
+    },
+    {
+      "mistake": "Not showing growth or progression in complexity.",
+      "fix": "Highlight progression: started with AR/AP, moved to GL management, later led close team—this shows you're ready for the next level."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most recent or most senior role, and emphasize close process, system expertise, and reconciliation scope—that's what Staff Accountant jobs prioritize.",
+    "Place a technical skills section near the top listing ERP systems, Excel level (pivot tables, VLOOKUP, macros), and accounting software—ATS systems scan here first.",
+    "Group bullets by responsibility (GL Management, Close Process, Reconciliation) rather than chronologically within a single role—this helps recruiters pattern-match to the job description.",
+    "If you have CPA or CPA candidate status, add a 'Licenses & Certifications' section above or just below your education; many Staff Accountant postings filter for this."
+  ],
+  "atsKeywords": [
+    "General Ledger management",
+    "Month-end close",
+    "Account reconciliation",
+    "ERP systems",
+    "Financial statement preparation",
+    "GAAP",
+    "Internal controls",
+    "Variance analysis",
+    "SAP",
+    "NetSuite"
+  ],
+  "salarySignal": "Entry-level Staff Accountant positions in the US typically range from $48K to $62K annually; mid-level and experienced staff positions often reach $65K–$85K, with regional variation and company size playing a major role.",
+  "faq": [
+    {
+      "q": "What's the difference between a Staff Accountant and a Senior Accountant on a resume?",
+      "a": "A Staff Accountant typically handles assigned reconciliations, posting, and close support. A Senior Accountant leads close processes, mentors juniors, or owns high-complexity accounts. Emphasize scope (team size, account count, systems owned) and leadership if you're aiming for Senior roles."
+    },
+    {
+      "q": "Should I list every account type I've reconciled, or just a few examples?",
+      "a": "List representative examples and total count (e.g., 'Reconciled 40+ accounts including bank, credit card, loan, and intercompany accounts'). This shows breadth without overwhelming the reader."
+    },
+    {
+      "q": "How do I show Excel skills if I don't have a separate technical role?",
+      "a": "Mention Excel in your bullets when relevant (e.g., 'Built variance dashboards in Excel') and list it under a Technical Skills section with specifics: 'Excel (pivot tables, VLOOKUP, IF statements, data validation).' This proves hands-on use."
+    },
+    {
+      "q": "Do I need to mention internal controls and compliance even if I didn't lead them?",
+      "a": "Yes—if you documented processes, prepared audit schedules, or followed SOX controls, include it. Many Staff Accountant postings seek candidates with control awareness; it's a differentiator."
+    },
+    {
+      "q": "What if I've only worked with small-business accounting software, not an ERP?",
+      "a": "Be honest about your tools (QuickBooks, Xero, Wave) and emphasize what you did well: reconciliation, close support, reporting. Then target smaller companies and explicitly mention your willingness to learn enterprise systems."
+    }
+  ]
+}

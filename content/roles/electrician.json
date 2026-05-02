@@ -1,0 +1,130 @@
+{
+  "slug": "electrician",
+  "title": "Electrician",
+  "category": "trades",
+  "generatedAt": "2026-05-02T22:59:23.854Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Electrician Resume: Examples & Tips for 2026",
+  "metaDescription": "Build a standout electrician resume with real examples, key skills, and ATS-friendly templates. Get hired faster with our expert coaching.",
+  "h1": "How to Write an Electrician Resume That Gets You Hired",
+  "intro": "Your electrician resume needs to prove you can safely install, maintain, and troubleshoot electrical systems—and that you've got the licenses and certifications to back it up. We'll show you how to structure your experience, highlight the right technical skills, and use metrics that make hiring managers take notice.",
+  "audience": "Apprentices finishing their training, journeymen moving between companies, and tradeworkers switching into electrical work from related fields.",
+  "topSkills": [
+    {
+      "name": "Electrical Code & NEC Compliance",
+      "why": "Hiring managers and safety inspectors need to know you work within legal and safety standards—it's non-negotiable on job sites."
+    },
+    {
+      "name": "Residential & Commercial Wiring",
+      "why": "These are the two biggest buckets of electrician work; listing both (or your specialty) immediately signals your breadth."
+    },
+    {
+      "name": "Circuit Installation & Troubleshooting",
+      "why": "Core technical skill that proves you can diagnose and fix electrical problems, not just install new systems."
+    },
+    {
+      "name": "Safety & OSHA Compliance",
+      "why": "Every site values electricians who prioritize hazard awareness and pass safety audits without shortcuts."
+    },
+    {
+      "name": "Blueprint & Schematic Reading",
+      "why": "Shows you can interpret technical drawings and work independently without constant supervision."
+    },
+    {
+      "name": "Panel Installation & Breaker Sizing",
+      "why": "A specialized skill that commands higher rates and demonstrates advanced competency beyond entry-level work."
+    },
+    {
+      "name": "Conduit Bending & Cable Management",
+      "why": "Practical hands-on skill that employers expect; shows attention to code and professional-quality installation."
+    },
+    {
+      "name": "Test Equipment Operation",
+      "why": "Multimeters, clamp meters, and thermal imaging tools prove you verify work quality and diagnose issues systematically."
+    },
+    {
+      "name": "Journeyman/Master License Status",
+      "why": "Your license tier directly impacts which jobs you can bid on and lead—make it prominent."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Installed electrical wiring in new construction and renovation projects for residential clients.",
+      "strong": "Installed 200+ circuits in new residential construction and retrofit projects, achieving 100% code compliance and zero punch-list defects across $2.5M in jobs.",
+      "lesson": "Numbers (circuit count, project value, compliance rate) make your scope concrete and prove quality, not just effort."
+    },
+    {
+      "weak": "Performed maintenance and troubleshooting on electrical systems.",
+      "strong": "Diagnosed and resolved 40+ electrical faults across commercial HVAC and lighting systems using multimeter testing, reducing downtime by 6–8 hours per incident.",
+      "lesson": "Adding the diagnostic method, frequency, and business impact (downtime saved) transforms a vague task into a proof of expertise."
+    },
+    {
+      "weak": "Helped train apprentices on job sites.",
+      "strong": "Mentored 4 apprentices on NEC-compliant installation techniques and safety protocols, with 3 advancing to journey-level roles within 18 months.",
+      "lesson": "Showing outcomes (advancement, retention) instead of just duties proves you add value beyond your own work."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing licenses without dates or scope.",
+      "fix": "Write 'Licensed Journeyman Electrician (AZ, expires 06/2027)' or 'Master Electrician License (CA)' so employers know your current status at a glance."
+    },
+    {
+      "mistake": "Vague project descriptions like 'worked on commercial buildings.'",
+      "fix": "Name the building type, project size, or your specific role—e.g., 'New 150-unit apartment complex: roughed-in all 2,400 circuits and terminated service panels.'"
+    },
+    {
+      "mistake": "Omitting apprenticeship hours or training timelines.",
+      "fix": "Include 'Completed 8,000-hour apprenticeship (2020–2023)' to contextualize where you are in your career, especially if you're early-stage."
+    },
+    {
+      "mistake": "Not calling out OSHA, NFPA, or specialty certifications.",
+      "fix": "Add a 'Certifications' section that lists OSHA-10, EPA Section 608 (refrigerant handling), solar installation certs, or fire-alarm credentials—these unlock specialized jobs."
+    },
+    {
+      "mistake": "Forgetting to mention tools & test equipment you're proficient with.",
+      "fix": "Slip in multimeters, clamp meters, thermal imaging cameras, circuit tracers, and any specialty tools you've used—hiring managers want to know your toolkit."
+    }
+  ],
+  "structureTips": [
+    "Put your license(s) and apprenticeship status in a header or right below your contact info—this is the first thing electrician employers scan for.",
+    "Lead your experience section with the type of work (residential, commercial, industrial) and scale of projects (budget, circuit count, square footage) before diving into daily tasks.",
+    "Create a dedicated 'Certifications & Credentials' section for OSHA, EPA, NEC mastery, solar, fire-alarm, or any specialty certs—these are differentiators and often job requirements.",
+    "Use a 'Technical Skills' or 'Core Competencies' section to list NEC compliance, code knowledge, and equipment proficiency so ATS and hiring managers spot them fast."
+  ],
+  "atsKeywords": [
+    "Journeyman Electrician",
+    "Master Electrician",
+    "NEC compliance",
+    "residential wiring",
+    "commercial electrical installation",
+    "circuit troubleshooting",
+    "OSHA safety",
+    "blueprint reading",
+    "panel installation",
+    "apprenticeship completion"
+  ],
+  "salarySignal": "Entry-level electrician apprentices earn $25K–$35K; journeymen typically earn $50K–$75K; and master electricians or those in high-cost-of-living areas can exceed $80K–$100K+ annually, often with benefits and overtime.",
+  "faq": [
+    {
+      "q": "How do I format my apprenticeship and licensing info on my resume?",
+      "a": "Create a header section or prominent line under your name that says 'Licensed Journeyman Electrician (State, Expiration Date)' and include total apprenticeship hours completed. If you're still an apprentice, write 'Electrical Apprentice in Progress: 6,500 of 8,000 hours completed (Expected completion: MM/YYYY).'"
+    },
+    {
+      "q": "What metrics matter most for electrician resume bullets?",
+      "a": "Project dollar value, circuit/panel count, uptime/downtime reduced, safety record (zero incidents, zero violations), code compliance rate, and turnaround time. These prove scale and quality—things contractors and GCs care about."
+    },
+    {
+      "q": "Should I list tools and equipment separately?",
+      "a": "Yes—add a 'Tools & Equipment' or 'Technical Proficiency' section if you're proficient with specialized gear like thermal imaging, megohm testers, or PLC troubleshooting. ATS systems and hiring managers search for these keywords."
+    },
+    {
+      "q": "How important are OSHA and EPA certifications on an electrician resume?",
+      "a": "Critical. OSHA-10 is table-stakes on many job sites, and EPA Section 608 (refrigerant handling) is legally required for HVAC-adjacent work. List them prominently in a 'Certifications' section—they often unlock higher-paying jobs and reduce hiring risk."
+    },
+    {
+      "q": "Can I include side jobs or freelance electrical work?",
+      "a": "Absolutely—call it 'Self-Employed Electrician' or 'Independent Contractor' and list the types of jobs you took on (service calls, small renovations, code inspections). Just verify you're licensed to do so in your state."
+    }
+  ]
+}

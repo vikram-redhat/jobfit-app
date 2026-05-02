@@ -1,0 +1,130 @@
+{
+  "slug": "product-marketing-manager",
+  "title": "Product Marketing Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:24.903Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Product Marketing Manager Resume: Build a Winning Profile",
+  "metaDescription": "Learn how to write a Product Marketing Manager resume that lands interviews. See examples, skills, and ATS optimization tips.",
+  "h1": "How to Write a Product Marketing Manager Resume That Gets Noticed",
+  "intro": "Product marketing managers sit at the intersection of product, sales, and marketing—so your resume needs to prove you can bridge those worlds. We'll show you how to highlight the metrics and stories that make hiring managers actually call you back.",
+  "audience": "Marketers moving into product marketing roles, product managers pivoting toward marketing, and career switchers from sales or business development who want to break into PMM.",
+  "topSkills": [
+    {
+      "name": "Go-to-Market (GTM) Strategy",
+      "why": "Hiring managers want to see you can plan and execute product launches or major features from day one."
+    },
+    {
+      "name": "Messaging and Positioning",
+      "why": "Your ability to distill a complex product into clear, differentiated messaging is core to the job."
+    },
+    {
+      "name": "Product Launch Management",
+      "why": "End-to-end ownership of launches is table stakes; show you've coordinated cross-functional teams to ship products."
+    },
+    {
+      "name": "Market Research & Competitive Analysis",
+      "why": "PMMs need to know the landscape; demonstrating primary or secondary research skills proves strategic thinking."
+    },
+    {
+      "name": "Sales Enablement",
+      "why": "You'll be arming sales teams with collateral, playbooks, and training; show you've improved win rates or shortened sales cycles."
+    },
+    {
+      "name": "Content Strategy & Creation",
+      "why": "Case studies, whitepapers, demo videos, and web copy are PMM outputs; show experience owning the narrative."
+    },
+    {
+      "name": "Product Analytics & Data Interpretation",
+      "why": "You need to justify decisions with numbers and iterate based on customer feedback and usage patterns."
+    },
+    {
+      "name": "Cross-Functional Collaboration",
+      "why": "Working with product, engineering, design, and sales on tight timelines is constant; show you can own outcomes without full authority."
+    },
+    {
+      "name": "Campaign Management & Marketing Automation",
+      "why": "Running integrated campaigns, managing email flows, and optimizing funnels are day-to-day responsibilities."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped launch new product and worked with sales and marketing teams to promote it.",
+      "strong": "Owned go-to-market strategy for enterprise SaaS product launch, resulting in 150+ qualified leads in first month and $2.1M pipeline within 90 days; created positioning, sales enablement deck, and customer case study.",
+      "lesson": "Specific numbers, clear ownership, and cross-functional impact make the bullet credible and memorable."
+    },
+    {
+      "weak": "Improved messaging and created marketing materials.",
+      "strong": "Developed revised value proposition and messaging framework based on interviews with 25+ target buyers; updated website homepage and sales deck, increasing demo requests by 40% and improving average deal size by $15K.",
+      "lesson": "Leading with customer research, backing up claims with outcomes, and showing revenue impact elevates the bullet."
+    },
+    {
+      "weak": "Managed product marketing and did various tasks to support growth.",
+      "strong": "Built sales playbook covering 5 buyer personas, including objection handling and competitive differentiation; trained 12 AEs and achieved 90% adoption; contributed to 35% YoY increase in new business revenue.",
+      "lesson": "Quantifying scope (personas, AE count), adoption, and business impact shows strategic breadth and accountability."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic 'marketing' tasks instead of product-specific work",
+      "fix": "Replace social media or event management bullets with examples of product positioning, launch strategy, competitive analysis, or sales enablement that show product depth."
+    },
+    {
+      "mistake": "Forgetting to include metrics tied to actual business outcomes",
+      "fix": "Attach numbers to every major bullet: lead volume, pipeline, deal size, win rate, time-to-close, adoption, or revenue impact."
+    },
+    {
+      "mistake": "Not showing cross-functional influence or collaboration",
+      "fix": "Highlight how you worked with product, sales, and other teams to align strategy; PMMs are glue, so prove you can influence without direct authority."
+    },
+    {
+      "mistake": "Downplaying go-to-market and launch work",
+      "fix": "Lead with GTM strategy and launch ownership; these are the resume's anchor—give them the most prominent real estate."
+    },
+    {
+      "mistake": "Mixing up product management with product marketing",
+      "fix": "Make clear you own marketing strategy, messaging, and demand generation for the product, not the roadmap or feature prioritization itself."
+    }
+  ],
+  "structureTips": [
+    "Open your experience section with a brief professional summary (2–3 lines) that anchors your depth in GTM strategy, product launches, and cross-functional ownership—not general marketing.",
+    "Within each role, lead with your biggest launch, GTM, or strategy win first; bury smaller campaigns, events, or tactical work below.",
+    "Group related bullets into mini-stories: e.g., 'Launch & Pipeline' (how you took product to market), 'Sales Enablement' (tools and training you created), 'Positioning & Messaging' (research and differentiation).",
+    "Include a 'Tools & Platforms' line that covers: marketing automation (HubSpot, Marketo), analytics (Segment, Mixpanel, Google Analytics), CRM familiarity (Salesforce), and design tools (Figma, Canva); relevance matters, but breadth signals flexibility."
+  ],
+  "atsKeywords": [
+    "go-to-market strategy",
+    "product launch",
+    "sales enablement",
+    "product positioning",
+    "competitive analysis",
+    "messaging and positioning",
+    "campaign management",
+    "product marketing",
+    "cross-functional collaboration",
+    "demand generation"
+  ],
+  "salarySignal": "Entry-level Product Marketing Manager salaries in the US typically range from $70K to $95K; mid-level PMMs earn $100K–$130K; senior PMMs and those at venture-backed startups or FAANG-adjacent companies can reach $150K–$200K+ base plus equity.",
+  "faq": [
+    {
+      "q": "What's the difference between a product marketing manager and a product manager on a resume?",
+      "a": "A PM owns the roadmap, feature prioritization, and product direction. A PMM owns the narrative—positioning, go-to-market, messaging, and demand generation. On your resume, make it crystal clear you're driving marketing outcomes tied to product, not making product decisions."
+    },
+    {
+      "q": "Should I list specific products I've marketed?",
+      "a": "Yes, if they're recognizable or impressive. Name the product, describe it briefly in parentheses if needed, and focus on the marketing and business impact you drove. Avoid generic 'Product X' labels."
+    },
+    {
+      "q": "How do I show impact if I worked in a startup where I wore many hats?",
+      "a": "Isolate and name the product marketing work you did—launches, positioning, sales enablement, competitive analysis—and connect it to revenue, pipeline, or adoption metrics. Startups reward ownership, so highlight what you built from scratch or turned around."
+    },
+    {
+      "q": "Is it okay to include non-marketing roles if I did product marketing work inside them?",
+      "a": "Absolutely. If you were in sales, CS, or operations but drove positioning, enablement, or launch work, frame those accomplishments in the 'Product Marketing Highlights' or 'Key Initiatives' section of that role. Hiring managers care about what you actually did, not just your title."
+    },
+    {
+      "q": "What if I don't have launch experience yet?",
+      "a": "Focus on what you *do* have: research projects, competitive teardowns, messaging work, content strategy, sales collateral wins, or campaign optimization. Frame each with impact (lead generation, engagement, win rate lift) and show you understand GTM thinking even if you haven't led a full launch."
+    }
+  ]
+}

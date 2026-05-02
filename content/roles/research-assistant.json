@@ -1,0 +1,130 @@
+{
+  "slug": "research-assistant",
+  "title": "Research Assistant",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:05:51.619Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Research Assistant Resume: Tips, Skills & Examples",
+  "metaDescription": "Build a standout Research Assistant resume with actionable tips, key skills, and proven bullet examples. Land your first research role.",
+  "h1": "Research Assistant Resume Guide: Stand Out to Hiring Managers",
+  "intro": "A Research Assistant role is your entry point into academia, industry labs, or think tanks—and your resume needs to prove you can handle real research tasks from day one. This guide shows you how to highlight lab skills, data work, and project contributions in a way that catches both human eyes and applicant tracking systems.",
+  "audience": "Recent graduates, undergraduates finishing degrees, and early-career professionals pivoting into research-focused roles at universities, biotech firms, policy institutes, or tech companies.",
+  "topSkills": [
+    {
+      "name": "Literature Review & Research Methodology",
+      "why": "Research Assistants must demonstrate ability to find, synthesize, and critically evaluate existing studies—foundational to any research project."
+    },
+    {
+      "name": "Data Collection & Analysis",
+      "why": "Hiring managers want proof you can gather data accurately and analyze it using relevant tools, whether quantitative or qualitative methods."
+    },
+    {
+      "name": "Laboratory Techniques (field-specific)",
+      "why": "For STEM roles, hands-on lab proficiency (PCR, microscopy, chemical analysis, etc.) is often a hard requirement—show exactly what you've done."
+    },
+    {
+      "name": "Statistical Software & Tools",
+      "why": "Competency in R, Python, SPSS, Stata, or Excel signals you can process and present research data independently."
+    },
+    {
+      "name": "Writing & Documentation",
+      "why": "Research Assistants must produce clear lab notes, reports, and draft materials—bad writing disqualifies candidates fast."
+    },
+    {
+      "name": "Project Management & Organization",
+      "why": "Tracking experiments, maintaining records, coordinating with team members, and meeting deadlines are core to the role."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "One data entry error or missed protocol step can invalidate weeks of work—hiring managers screen hard for carefulness."
+    },
+    {
+      "name": "Collaboration & Communication",
+      "why": "Research teams depend on clear updates, feedback acceptance, and ability to work across disciplines and experience levels."
+    },
+    {
+      "name": "Grant & Proposal Research",
+      "why": "Many labs need Assistants to help identify funding opportunities and draft sections of grant applications."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Assisted with data analysis and helped prepare research materials for publication.",
+      "strong": "Processed and analyzed 5,000+ survey responses using Python and SPSS; identified three key statistical trends that informed manuscript revisions and contributed to peer-reviewed publication in Journal of [Field].",
+      "lesson": "Specific numbers, tool names, and outcome (publication credit) make the bullet credible and show real contribution, not busy work."
+    },
+    {
+      "weak": "Performed lab experiments and maintained lab equipment.",
+      "strong": "Executed 40+ qPCR assays per week following SOPs; achieved 95%+ consistency in results and reduced equipment downtime by flagging maintenance needs 2 weeks in advance.",
+      "lesson": "Quantifying output (40+ assays), your success metric (95% consistency), and proactive impact (downtime prevention) proves technical competence."
+    },
+    {
+      "weak": "Wrote summaries of research papers and helped organize project files.",
+      "strong": "Synthesized 30+ peer-reviewed studies into annotated bibliography; created searchable database of prior methodology templates, reducing literature review time for team by ~20 hours per project cycle.",
+      "lesson": "Showing scale (30+ papers), tool/process created, and time saved demonstrates initiative and systems thinking, not just task completion."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'Research' as a skill without naming methods or tools.",
+      "fix": "Be specific: 'Qualitative Research (thematic analysis, NVivo)', 'Quantitative Methods (regression, power analysis)', or 'Experimental Design (cell culture, microscopy)'—exactly what you did."
+    },
+    {
+      "mistake": "Burying lab techniques or software in a generic skills section.",
+      "fix": "Lead with a 'Technical Skills' or 'Lab & Computational Skills' section at the top listing tools, software, and techniques in order of relevance to the job posting."
+    },
+    {
+      "mistake": "Overstating your role ('Led research project') when you assisted.",
+      "fix": "Own your level: 'Assisted lead researcher in designing and executing…' or 'Contributed to X under supervision of Dr. Y.' Honesty builds trust; exaggeration gets caught."
+    },
+    {
+      "mistake": "Including generic volunteer work without research context.",
+      "fix": "If you volunteer, tie it to research: 'Volunteer Data Collector for Community Health Study (100 surveys, IRB #12345)' rather than just 'Volunteer.'"
+    },
+    {
+      "mistake": "Forgetting to mention publications, presentations, or conference posters.",
+      "fix": "Even if you're a co-author or contributed to a poster, list it separately under 'Publications & Presentations'—hiring managers actively look for this."
+    }
+  ],
+  "structureTips": [
+    "Put 'Technical Skills' or 'Lab & Software Skills' near the top (after contact/summary), grouped by category (e.g., 'Statistical Software: Python, R, SPSS' and 'Lab Techniques: PCR, Western blot, tissue culture') so ATS and hiring managers spot them immediately.",
+    "If you have research experience (internship, honors thesis, lab assistant role), lead your Experience section with it—it's your strongest credential for a Research Assistant role.",
+    "Create a separate 'Publications & Presentations' section if you have any peer-reviewed papers, conference posters, or seminar talks, even if you're not first author. Research employers care about this.",
+    "Include relevant coursework or certifications (e.g., 'Coursework: Biostatistics, Research Ethics (CITI Training), Advanced Experimental Design') if you're a recent grad with limited work history—it fills gaps and signals knowledge."
+  ],
+  "atsKeywords": [
+    "research assistant",
+    "data collection and analysis",
+    "laboratory techniques",
+    "statistical software",
+    "literature review",
+    "experiment design",
+    "research methodology",
+    "grant writing",
+    "scientific writing",
+    "lab management"
+  ],
+  "salarySignal": "Entry-level Research Assistant salaries in the US typically range from $28,000 to $38,000 annually, with higher pay at biotech firms and lower at nonprofits; advanced degree or specialized skills push toward $40,000–$50,000.",
+  "faq": [
+    {
+      "q": "How do I show research skills if I've only done coursework, not a job?",
+      "a": "List class projects, honors theses, lab courses, and relevant coursework prominently. If you built a dataset, ran an analysis, or presented findings, treat it like real research—it is. Use bullets like 'Conducted independent literature review and statistical analysis for senior capstone; results presented to department faculty.'"
+    },
+    {
+      "q": "Should I list every lab technique or just the main ones?",
+      "a": "List the ones relevant to the job posting first, then add 2–3 secondary techniques if space allows. Tailor per application—if the posting emphasizes microscopy, lead with that. Don't pad with 'basic lab skills' like using a pipette."
+    },
+    {
+      "q": "How prominent should my GPA be if I'm a new grad?",
+      "a": "Include it only if it's 3.5 or higher, and only on a recent grad resume. Place it near your degree (e.g., 'B.S. Biology, State University, 2024 | GPA: 3.7'). Skip it if you've worked for 2+ years post-grad."
+    },
+    {
+      "q": "What if I haven't been published but contributed to research?",
+      "a": "Still mention it: 'Contributed to ongoing study on [topic] under Dr. [Name]; manuscript in preparation.' Hiring managers know not every contribution results in publication, and transparency here is respected."
+    },
+    {
+      "q": "How do I write about data analysis work without overstating it?",
+      "a": "Use clear language: 'Processed and cleaned dataset of X records,' 'Generated descriptive statistics and visualizations,' 'Ran [specific test] to assess hypothesis.' Avoid vague phrases like 'analyzed data'—name the method."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "roofer",
+  "title": "Roofer",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:01:56.420Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Roofer Resume: Skills, Examples & Tips for 2026",
+  "metaDescription": "Build a standout roofer resume with proven skills, sample bullets, and ATS keywords. Land more interviews with our expert resume guide.",
+  "h1": "How to Write a Roofer Resume That Gets Hired",
+  "intro": "A strong roofer resume proves you can safely install, repair, and maintain roofs while meeting deadlines and code requirements. We'll show you how to highlight certifications, safety records, and hands-on skills so contractors and property managers take you seriously.",
+  "audience": "Trade apprentices moving toward journeyperson roles, experienced roofers changing companies or specialties, and career switchers breaking into roofing with formal training.",
+  "topSkills": [
+    {
+      "name": "Roofing Material Installation",
+      "why": "Employers need to know you can work with asphalt shingles, metal, tile, flat roofing, or whatever materials the job requires."
+    },
+    {
+      "name": "Safety Compliance & OSHA",
+      "why": "Roofing is high-risk work; contractors must verify you follow fall protection, harness use, and safety protocols to avoid liability."
+    },
+    {
+      "name": "Roof Repair & Maintenance",
+      "why": "Most jobs mix new installation with patching leaks, replacing damaged sections, and inspecting structural integrity."
+    },
+    {
+      "name": "Reading Blueprints & Measurements",
+      "why": "Accurate layout, pitch calculation, and alignment are critical; bosses want evidence you can work from plans independently."
+    },
+    {
+      "name": "Ladder & Scaffolding Work",
+      "why": "This is a baseline expectation; explicitly listing comfort with heights and rigging shows you're a credible candidate."
+    },
+    {
+      "name": "Sealing & Waterproofing",
+      "why": "Preventing leaks is the whole job; demonstrating expertise in caulking, flashing, and sealant application is a huge value-add."
+    },
+    {
+      "name": "Team Coordination & Communication",
+      "why": "Roofing is often a multi-person operation; showing you can coordinate with crew, contractors, and site managers matters."
+    },
+    {
+      "name": "Journeyperson Certification",
+      "why": "State licensing or union apprenticeship completion is often required or strongly preferred for better-paying roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Installed roofing materials on residential and commercial projects.",
+      "strong": "Installed asphalt and metal roofing on 40+ residential projects and 8 commercial properties, maintaining 99% inspector approval rate and zero safety incidents across 2+ years.",
+      "lesson": "Specificity + metrics (project count, quality rate, safety record) make your experience tangible instead of vague."
+    },
+    {
+      "weak": "Repaired roofs and fixed leaks.",
+      "strong": "Diagnosed and sealed roof leaks for 60+ properties, reducing callbacks by 15% through detailed inspection notes and high-quality sealant application.",
+      "lesson": "Quantify your output (jobs handled) and link it to a business outcome (fewer callbacks = better reputation)."
+    },
+    {
+      "weak": "Worked with a team on job sites.",
+      "strong": "Coordinated with 4-6 crew members and general contractors on phased installations, communicating material needs and scheduling daily to keep projects 5% ahead of timeline.",
+      "lesson": "Show leadership or coordination skill (communicating, scheduling) instead of just presence on site."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing general labor experience without roofing specifics.",
+      "fix": "Replace vague 'construction' bullets with explicit roofing tasks: material type, techniques, and certifications you've earned for that specialty."
+    },
+    {
+      "mistake": "Omitting safety records or certifications.",
+      "fix": "Always include OSHA 10/30, fall protection training, first aid certification, or union apprenticeship status—employers verify these and use them to rank candidates."
+    },
+    {
+      "mistake": "Not separating roofing skills from general handyman work.",
+      "fix": "If you also do gutters, siding, or framing, label roofing experience separately and lead with roofing work if that's your target."
+    },
+    {
+      "mistake": "Using industry jargon without context for non-trade hiring.",
+      "fix": "Explain terms like 'flashing,' 'pitch,' or 'underlayment' for hiring managers or property managers who aren't roofers; be clear and inclusive."
+    },
+    {
+      "mistake": "Skipping apprenticeship or licensing details.",
+      "fix": "State your tier (apprentice, journeyperson, master) and the state/union that issued it; many states legally require this for certain roles."
+    }
+  ],
+  "structureTips": [
+    "Lead with certifications and licensing (apprenticeship tier, OSHA level, union affiliation) if you have them; they're often gatekeepers for higher-paying work.",
+    "Group roofing experience separately from other construction, even if you did both, so it's easy for hiring managers to scan your roofing credentials.",
+    "Include a brief 'Skills' or 'Core Competencies' section listing materials you've worked with (asphalt, metal, tile, flat, etc.) and safety/compliance qualifications.",
+    "Highlight safety metrics (years without incident, site safety lead role, toolbox talk facilitator) as much as technical skills—roofing companies are risk-averse."
+  ],
+  "atsKeywords": [
+    "Roofing installation",
+    "Asphalt shingle",
+    "Metal roofing",
+    "Fall protection",
+    "OSHA certified",
+    "Roof repair",
+    "Waterproofing",
+    "Journeyperson roofer",
+    "Apprentice roofer",
+    "Blueprint reading"
+  ],
+  "salarySignal": "Entry-level roofers in the US typically earn $28,000–$38,000 annually, while experienced journeyperson roofers average $45,000–$65,000; top earners and supervisors can exceed $70,000 depending on region, union status, and specialization.",
+  "faq": [
+    {
+      "q": "Should I list my apprenticeship hours on my roofer resume?",
+      "a": "Yes, absolutely. Include your total apprenticeship hours (e.g., '3,500+ supervised hours') and the state/union that oversees it. Many contractors filter candidates by apprenticeship tier, so this is not optional."
+    },
+    {
+      "q": "What certifications do roofers need on their resume?",
+      "a": "OSHA 10 or 30, fall protection training, first aid/CPR, and any manufacturer certifications (e.g., Owens Corning, GAF) are valuable. Union or state journeyperson licenses are often required depending on your location and the job."
+    },
+    {
+      "q": "How do I show I'm a safe roofer if I'm new?",
+      "a": "Lead with OSHA certification, mention zero safety incidents during apprenticeship, note any site safety lead or toolbox talk experience, and list all relevant training courses. Contractors assume new roofers have risk—certifications prove you've been trained."
+    },
+    {
+      "q": "Should I list every roofing material I've touched?",
+      "a": "Yes, create a 'Materials & Specializations' line (e.g., asphalt shingle, metal standing seam, TPO, built-up, tile) so recruiters scanning for a specific material can spot you. Don't bury it in job descriptions."
+    },
+    {
+      "q": "Can I include side jobs or freelance roofing work on my resume?",
+      "a": "Yes, but label it clearly (e.g., 'Independent Roofing Contractor' or 'Self-Employed') and ensure you have proof of licensing and insurance if required in your state. Contractors want to see you have the credibility and coverage to back it up."
+    }
+  ]
+}

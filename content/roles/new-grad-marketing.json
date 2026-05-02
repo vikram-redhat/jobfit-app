@@ -1,0 +1,134 @@
+{
+  "slug": "new-grad-marketing",
+  "title": "New Grad Marketing",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:04:40.021Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "New Grad Marketing Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your first marketing job. See what hiring managers want on a new grad marketing resume—skills, bullets, and ATS keywords that work.",
+  "h1": "New Grad Marketing Resume: Write One That Actually Gets Read",
+  "intro": "Your first marketing job is out there—but your resume needs to prove you understand the basics and can contribute from day one. We'll show you exactly what hiring managers look for, from the skills they screen for to the metrics that make bullets pop.",
+  "audience": "Recent college grads, interns-turned-applicants, and career switchers entering marketing for the first time, typically applying to coordinator, assistant, or entry-level marketing roles.",
+  "topSkills": [
+    {
+      "name": "Social Media Marketing",
+      "why": "Nearly every new grad marketing role involves managing or supporting at least one social platform; this is table stakes."
+    },
+    {
+      "name": "Content Marketing / Content Creation",
+      "why": "Brands need people who can write copy, create assets, or plan content calendars; it's a core entry-level responsibility."
+    },
+    {
+      "name": "Google Analytics & Data Interpretation",
+      "why": "Hiring managers want to see you can tie marketing activity to results, not just run campaigns in the dark."
+    },
+    {
+      "name": "Email Marketing Campaigns",
+      "why": "Platforms like Mailchimp and HubSpot are industry standard; experience managing segments and A/B tests is highly valued."
+    },
+    {
+      "name": "SEO / SEM Basics",
+      "why": "Understanding keyword research, on-page optimization, or paid search fundamentals sets you apart from candidates with zero hands-on experience."
+    },
+    {
+      "name": "Marketing Automation",
+      "why": "Tools like HubSpot, Marketo, and ActiveCampaign automate workflows; showing familiarity signals you can scale marketing efforts."
+    },
+    {
+      "name": "Market Research & Consumer Insights",
+      "why": "Demonstrating you can find, analyze, and act on audience data shows strategic thinking beyond just posting content."
+    },
+    {
+      "name": "Adobe Creative Suite (Canva, Figma alternative)",
+      "why": "Design skills aren't required, but basic visual creation chops (even with no-code tools) prove you can produce assets independently."
+    },
+    {
+      "name": "Campaign Management & Execution",
+      "why": "Moving a marketing idea from brief to launch—coordinating timelines, assets, and stakeholders—is a day-one skill."
+    },
+    {
+      "name": "CRM & Database Management",
+      "why": "Entry-level marketers often manage contact lists and customer data; familiarity with Salesforce or similar platforms is a plus."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped manage social media accounts and posted content regularly.",
+      "strong": "Managed Instagram and TikTok presence across 3 product lines, growing follower base by 25–40% YoY and increasing avg. post engagement from 1.2% to 3.1% through audience testing.",
+      "lesson": "Adding specific platforms, metrics (follower growth, engagement rate), and the time frame transforms vague support into measurable impact."
+    },
+    {
+      "weak": "Created email marketing campaigns for the company.",
+      "strong": "Designed and executed 12+ monthly email campaigns (MailChimp) to 50K+ subscribers; A/B tested subject lines and CTAs, achieving a 22% open rate and 4.8% click-through rate vs. 18% and 3.2% benchmarks.",
+      "lesson": "Specifics about volume, tool, audience size, and performance metrics (especially vs. benchmarks) show you understand ROI and testing discipline."
+    },
+    {
+      "weak": "Wrote blog posts and social media copy.",
+      "strong": "Authored 15+ SEO-optimized blog posts and 80+ social captions; ranked 3 posts in Google top 10 for target keywords, driving 2.1K organic sessions and generating 45 qualified leads in Q3.",
+      "lesson": "Connecting output (word count, posts) to business outcomes (organic traffic, leads) shows you grasp the funnel and can tie effort to revenue impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic 'Marketing Skills' without proof",
+      "fix": "Always tie a skill to a real project, platform, or metric—e.g., 'Google Analytics' alone means nothing; 'set up custom UTM tracking and identified highest-converting channels' proves competence."
+    },
+    {
+      "mistake": "Overstating your role in group projects or campaigns",
+      "fix": "Be honest about whether you led, supported, or executed. Hiring managers can spot fluff, and transparency actually builds trust with new grads."
+    },
+    {
+      "mistake": "Ignoring your academic projects or class work",
+      "fix": "If you don't have paid marketing experience, your class projects, case studies, or capstone campaign are gold—use them with the same metric-driven language as professional work."
+    },
+    {
+      "mistake": "Forgetting to mention relevant tools and platforms you've used",
+      "fix": "Add a 'Tools & Platforms' or 'Technical Skills' section listing HubSpot, Canva, Google Analytics, LinkedIn Ads, etc.—ATS systems scan for these keywords."
+    },
+    {
+      "minute": "Using marketing buzzwords without context",
+      "fix": "Avoid 'growth hacking,' 'synergy,' or 'omnichannel strategy' unless you can explain what you actually did; keep language clear and specific."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 'Professional Summary' or 'Marketing Profile' that highlights 1–2 standout skills and a win (e.g., 'Data-driven marketer skilled in social media strategy and SEO; grew Instagram following 35% in first 6 months').",
+    "Put experience (internships, freelance work, class projects) above education; hiring managers vet your ability to do the job before they check your GPA.",
+    "Create a 'Technical Skills' section after experience that lists every marketing tool, platform, and language you've touched (Google Analytics, HubSpot, Figma, Excel, SQL basics, etc.).",
+    "If you lack formal work experience, dedicate space to 1–2 detailed case studies of class projects or personal brand work, using the same bullet format as job roles."
+  ],
+  "atsKeywords": [
+    "social media marketing",
+    "content marketing",
+    "email marketing campaigns",
+    "Google Analytics",
+    "SEO",
+    "SEM",
+    "marketing automation",
+    "HubSpot",
+    "campaign management",
+    "market research"
+  ],
+  "salarySignal": "Entry-level US marketing salaries typically range from $40,000 to $55,000 in 2026, with variation based on location, company size, and industry; internship-to-hire roles sometimes start lower before a bump upon graduation.",
+  "faq": [
+    {
+      "q": "Should I include my GPA on my new grad marketing resume?",
+      "a": "Only if it's 3.5 or higher; most hiring managers care far more about your portfolio, projects, and tools than your GPA. If you have strong marketing work to show instead, skip it."
+    },
+    {
+      "q": "How do I describe my internship if I was mostly doing admin work?",
+      "a": "Find the marketing angle. Even if you were organizing files, you probably supported campaigns, tracked metrics, or learned a tool. Reframe it: 'Organized and cleaned lead database in Salesforce, ensuring data quality for 50K+ contacts used in quarterly email campaigns.'"
+    },
+    {
+      "q": "What if I don't have professional marketing experience yet?",
+      "a": "Use class projects, freelance work for small businesses, or your own social media brand/portfolio. Structure it the same way you'd structure a job—with metrics and tools. Hiring managers understand new grads don't always have paid roles."
+    },
+    {
+      "q": "Should I include a portfolio or link to my work on my resume?",
+      "a": "Absolutely—add a line like 'Portfolio: [your domain]' or 'Case Studies: [link]' near the top. For new grads, your actual work samples often matter more than the resume itself."
+    },
+    {
+      "q": "What's the best way to highlight my social media or analytics skills?",
+      "a": "Use a dedicated 'Technical & Analytics Skills' section listing platforms (Instagram, LinkedIn Ads, Google Analytics 4, Semrush, etc.), then back it up with bullets showing real results (followers gained, engagement rate, traffic driven, cost per lead)."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "general-contractor",
+  "title": "General Contractor",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:00:43.154Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "General Contractor Resume: Skills & Examples for 2026",
+  "metaDescription": "Write a winning general contractor resume with proven bullet examples, key skills, and ATS keywords that hiring managers and project managers actually want to see.",
+  "h1": "How to Write a General Contractor Resume That Gets You Hired",
+  "intro": "Your general contractor resume needs to prove you can manage budgets, timelines, safety, and crews—not just swing a hammer. We'll show you how to translate your on-site wins into hiring-manager language so you land bigger projects and better pay.",
+  "audience": "Skilled trades workers stepping up to general contractor roles, experienced crew leads transitioning to full project management, and contractors looking to formalize their experience for bids or licensing applications.",
+  "topSkills": [
+    {
+      "name": "Project Management & Scheduling",
+      "why": "Hiring managers and project owners need proof you can keep jobs on time and under control from kickoff to closeout."
+    },
+    {
+      "name": "Budget & Cost Estimation",
+      "why": "Contractors live or die by margins; showing you can estimate materials, labor, and overhead accurately is non-negotiable."
+    },
+    {
+      "name": "OSHA Compliance & Safety",
+      "why": "Safety record is a legal and insurance requirement; many bids now require certifications like OSHA 30 or site-specific training."
+    },
+    {
+      "name": "Crew Management & Supervision",
+      "why": "Owners and GCs want to know you can hire, train, and lead subcontractors and laborers without drama or turnover."
+    },
+    {
+      "name": "Building Codes & Permitting",
+      "why": "Demonstrated knowledge of local codes, permit navigation, and inspection coordination separates pros from DIYers."
+    },
+    {
+      "name": "Trade-Specific Skills (Carpentry, Masonry, Electrical, Plumbing, etc.)",
+      "why": "Your hands-on expertise in your primary trade gives you credibility and reduces reliance on subcontractors."
+    },
+    {
+      "name": "Equipment Operation & Site Safety",
+      "why": "Proficiency with heavy equipment, power tools, and site management systems shows you're ready for larger projects."
+    },
+    {
+      "name": "Customer Relations & Problem-Solving",
+      "why": "Contractors who keep clients informed and handle change orders smoothly get referrals and repeat business."
+    },
+    {
+      "name": "Subcontractor Coordination",
+      "why": "Managing multiple trades on schedule and to spec is a core GC responsibility that justifies higher pay and bigger bids."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed construction projects and worked with crews to complete work.",
+      "strong": "Managed 12-15 concurrent residential projects averaging $150K–$300K, coordinating 6-8 subcontractors per site, achieving 98% on-time completion rate and maintaining budget variance under 5%.",
+      "lesson": "Adding scope, scale, and measurable outcomes (budget adherence, crew count, timeline success) transforms a vague statement into proof of leadership."
+    },
+    {
+      "weak": "Oversaw safety on job sites and made sure work was done safely.",
+      "strong": "Implemented site safety program across 20+ projects, resulting in zero lost-time incidents over 3-year period; maintained OSHA compliance through weekly toolbox talks and documented inspections; trained 25+ crew members on fall protection and electrical hazards.",
+      "lesson": "Quantifying safety outcomes (incident-free record, training numbers) and showing proactive systems (toolbox talks, documentation) demonstrates safety leadership, not just compliance box-checking."
+    },
+    {
+      "weak": "Responsible for estimating costs and managing project budgets.",
+      "strong": "Prepared detailed estimates for 40+ projects totaling $2.8M in revenue; negotiated supplier contracts saving 8–12% on material costs; tracked labor productivity and adjusted scheduling to stay within ±3% of bid price across all projects.",
+      "lesson": "Replacing vague cost management with hard numbers—bid count, revenue scale, percentage savings—shows you understand margin and can be trusted with larger projects."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only tools and materials you've used",
+      "fix": "Instead, connect tool/material expertise to outcomes: 'Framed 10,000+ sq ft of residential structures using advanced framing techniques, reducing labor hours by 20% vs. standard methods.'"
+    },
+    {
+      "mistake": "Not mentioning licensing, certifications, or insurance status",
+      "fix": "Lead with or highlight any state/local licensing, bonding eligibility, insurance (general liability, workers' comp), and trade certifications (OSHA 30, CPR, equipment-specific tickets)—GCs and owners screen for these first."
+    },
+    {
+      "mistake": "Downplaying crew or subcontractor management experience",
+      "fix": "Even if you were a lead hand, quantify how many people you directed, how you resolved conflicts, and any formal training you delivered—this shows readiness for full GC roles."
+    },
+    {
+      "mistake": "Ignoring permit, inspection, and code compliance language",
+      "fix": "Mention experience navigating building permits, passing city/county inspections, and implementing code-compliant solutions—hiring managers see this as a red flag if it's missing."
+    },
+    {
+      "mistake": "Using vague timelines like 'worked on multiple projects'",
+      "fix": "Always quantify: project count per year, square footage, contract values, timeline (how long did it take), and team size. Numbers give credibility."
+    }
+  ],
+  "structureTips": [
+    "Lead with a short professional summary (2–3 lines) highlighting your years of GC experience, licenses/certifications, and biggest wins—e.g., 'Licensed General Contractor with 12 years managing residential and light commercial builds up to $2M; OSHA 30, CPR, and bonded/insured.'",
+    "Put your licenses, bonding status, and certifications at the top of your experience or skills section—hiring managers screen for these before reading anything else.",
+    "Organize experience by project scope and complexity, not just chronology. Lead with your largest, most impressive projects (by budget or crew size) to anchor your credibility upward.",
+    "Create a dedicated 'Project Highlights' or 'Key Accomplishments' section showcasing 3–5 major jobs with budget, timeline, and outcome—this is a quick sales pitch for what you can deliver."
+  ],
+  "atsKeywords": [
+    "General Contractor",
+    "Project Management",
+    "Budget Estimation",
+    "OSHA Compliance",
+    "Crew Supervision",
+    "Subcontractor Coordination",
+    "Building Codes",
+    "Cost Control",
+    "Licensed Contractor",
+    "Safety Management"
+  ],
+  "salarySignal": "Entry-level general contractor roles typically start at $50K–$65K annually; experienced GCs managing larger projects and crews often earn $70K–$120K+, with the top 25% exceeding $150K depending on region, project volume, and overhead model.",
+  "faq": [
+    {
+      "q": "Do I need a license to call myself a general contractor on my resume?",
+      "a": "It depends on your state and the types of projects you bid. Many states require a general contractor's license for jobs over a certain value or when pulling permits. Check your state's licensing board. On your resume, always disclose whether you're licensed, bonded, and insured—it's a major credibility signal and often a legal requirement for larger bids."
+    },
+    {
+      "q": "How do I show management experience if I started as a crew member?",
+      "a": "Use progression language: 'Advanced from Carpenter to Lead Hand to General Contractor' and highlight the turning point where you took on crew oversight. Quantify: how many people did you direct, what decisions did you make (scheduling, quality, safety), and did you mentorship or train anyone? Even informal leadership counts."
+    },
+    {
+      "q": "What should I include about safety and OSHA?",
+      "a": "Include any OSHA certifications (e.g., OSHA 30-hour, OSHA 10), your safety record (zero lost-time incidents, incident-free years), and examples of safety systems you've implemented (daily safety briefings, hazard assessments, PPE protocols). Safety is a liability and insurance issue—showing you take it seriously is mandatory."
+    },
+    {
+      "q": "How do I quantify soft skills like leadership and communication?",
+      "a": "Tie them to outcomes: 'Led team of 8 electricians and 5 masons through $500K renovation with zero schedule overruns and 95% client satisfaction score.' Mention specific tools (project management software, client communication systems) and any formal training (leadership, conflict resolution). Quantify team size, budget, and timeline impact."
+    },
+    {
+      "q": "Should I list every trade I'm competent in, or focus on my specialty?",
+      "a": "Lead with your core expertise (e.g., 'Residential Carpentry & Framing'), then list secondary competencies (e.g., 'Basic electrical, plumbing, and finish carpentry'). This shows versatility without diluting your brand. If you're moving into full GC roles, emphasize that you hire specialists—it's actually a strength, not a weakness."
+    }
+  ]
+}

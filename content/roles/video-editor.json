@@ -1,0 +1,130 @@
+{
+  "slug": "video-editor",
+  "title": "Video Editor",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:49:12.214Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Video Editor Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Land your video editor job with a resume that showcases your technical skills and portfolio. See strong bullet examples and ATS keywords hiring managers use.",
+  "h1": "Video Editor Resume: How to Stand Out and Get Hired",
+  "intro": "Your video editor resume needs to prove you can edit fast, think creatively, and deliver polished work on deadline. This guide shows you exactly what hiring managers want to see—from the technical skills that pass ATS scans to the portfolio links and metrics that actually land interviews.",
+  "audience": "Recent film/media school grads, self-taught editors breaking into the industry, and creatives transitioning from adjacent roles like motion graphics or content creation.",
+  "topSkills": [
+    {
+      "name": "Adobe Premiere Pro",
+      "why": "It's the industry standard for professional video editors; nearly every job posting mentions it explicitly."
+    },
+    {
+      "name": "DaVinci Resolve",
+      "why": "Color grading and visual effects are increasingly in-demand; DaVinci is the gold standard and shows you can work across the full pipeline."
+    },
+    {
+      "name": "Final Cut Pro",
+      "why": "Common in broadcast and post-production shops; familiarity signals you can adapt to different editing ecosystems."
+    },
+    {
+      "name": "Motion graphics & animation",
+      "why": "Adding motion design skills to your toolkit makes you more valuable for modern video content, from social clips to commercials."
+    },
+    {
+      "name": "Color correction & grading",
+      "why": "Editors who can grade their own footage reduce turnaround time and deliver more polished final products."
+    },
+    {
+      "name": "Audio mixing & sound design",
+      "why": "Many video editor roles expect basic audio cleanup and mixing; it's a differentiator that shows you understand the full post-production workflow."
+    },
+    {
+      "name": "Multicam editing",
+      "why": "Live events, interviews, and complex documentary work rely on editors who can sync and cut multiple camera angles cleanly."
+    },
+    {
+      "name": "Project management & collaboration",
+      "why": "Editors work with directors, producers, and clients; showing you can track deadlines and incorporate feedback matters as much as technical chops."
+    },
+    {
+      "name": "Stock footage & asset library management",
+      "why": "Efficient editors know how to organize, source, and integrate B-roll and graphics quickly without wasting production time."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Edited videos for social media using Adobe Premiere Pro.",
+      "strong": "Cut and delivered 40+ social media videos (TikTok, Instagram Reels, YouTube) for 3 brand accounts, achieving an average view-through rate of 45% and reducing turnaround time from 5 days to 2 days.",
+      "lesson": "Added specific output (40+ videos), platforms, metrics (45% view rate), and business impact (faster turnaround) instead of just naming the tool."
+    },
+    {
+      "weak": "Responsible for color grading and post-production work.",
+      "strong": "Color-graded and finished 12 short-form documentaries and 8 commercial spots using DaVinci Resolve, matching client brand guidelines and reducing revision rounds by 30% through proactive feedback loops.",
+      "lesson": "Replaced vague responsibility with concrete projects, tool name, and a measurable outcome (fewer revisions) that shows efficiency and client satisfaction."
+    },
+    {
+      "weak": "Worked on a team to create video content.",
+      "strong": "Collaborated with 2-person creative team to produce 15-minute branded documentary series; managed edit timeline, incorporated director feedback in real time, and delivered final cut 3 days ahead of 6-week deadline.",
+      "lesson": "Shifted focus from generic teamwork to specific collaboration skills, project scope, and on-time delivery—all things producers care about."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only software without showing what you made with it.",
+      "fix": "Always pair tool names with actual projects: instead of 'Proficient in Premiere Pro,' write 'edited 6 music videos in Premiere Pro for indie artists, averaging 50K+ YouTube views each.'"
+    },
+    {
+      "mistake": "Forgetting to link your portfolio or reel.",
+      "fix": "Your resume must include a clickable link to a portfolio site (Vimeo, YouTube, personal site) with 3–5 of your best work samples; editors are hired on what they can show, not just what they claim."
+    },
+    {
+      "mistake": "Over-emphasizing soft skills and under-delivering technical details.",
+      "fix": "Yes, communication matters, but hiring managers need to see frame rates, codecs, delivery formats, and specific workflows; mention both but lead with technical specifics."
+    },
+    {
+      "mistake": "Treating every project equally.",
+      "fix": "Prioritize work that matches the job description; if you're applying for a commercial post-house role, lead with your best commercial work, not your wedding video side gigs."
+    },
+    {
+      "mistake": "Not mentioning turnaround time or deadline performance.",
+      "fix": "Video work is deadline-driven; callout when you delivered early, met tight timelines, or juggled multiple projects simultaneously—that's gold to hiring managers."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your best and most relevant projects (commercials, branded content, documentaries) before listing smaller or older work; employers scroll fast and want to see impact immediately.",
+    "Create a dedicated 'Technical Skills' section that mirrors job description language (e.g., 'Adobe Premiere Pro, DaVinci Resolve, Final Cut Pro, After Effects, Avid') so ATS scanners and hiring managers spot what they need.",
+    "If you have a portfolio reel or Vimeo link, place it prominently near your contact info or at the top of your summary—not buried at the end; hiring managers will click it early.",
+    "Include any certifications, bootcamps, or formal training (e.g., Adobe certification, IATSE membership, film school degree) in a separate line item so it stands out alongside self-taught experience."
+  ],
+  "atsKeywords": [
+    "Adobe Premiere Pro",
+    "DaVinci Resolve",
+    "Final Cut Pro",
+    "color grading",
+    "motion graphics",
+    "multicam editing",
+    "audio mixing",
+    "Avid Media Composer",
+    "video post-production",
+    "broadcast editing"
+  ],
+  "salarySignal": "Entry-level video editor salaries in the US typically range from $28K to $45K annually; experienced editors and those in major media markets (NYC, LA, SF) often earn $55K–$85K+, with freelance rates varying by project scope and client budget.",
+  "faq": [
+    {
+      "q": "Should I put my YouTube channel or TikTok on my video editor resume?",
+      "a": "Only if the content is professional-quality work that showcases editing skill. Link a curated portfolio reel or Vimeo page instead, where you control the narrative and show your best 3–5 projects. Personal social content can dilute your brand unless it's part of your professional brand (e.g., you're a content creator)."
+    },
+    {
+      "q": "How do I describe freelance video editing work on my resume?",
+      "a": "Treat freelance projects like regular jobs: list the client (or 'Various Clients' if under NDA), the type of content, your deliverables, and measurable outcomes. For example: 'Freelance Video Editor (2022–2024): Cut 30+ YouTube tutorials and product demos for SaaS brands, achieving 99% on-time delivery and 4.9/5 client satisfaction rating.'"
+    },
+    {
+      "q": "What if I don't have professional experience yet?",
+      "a": "Lead with your strongest student projects, bootcamp capstone work, or personal portfolio pieces. Describe the scope and tools as if they were client projects: 'Edited 5-minute narrative short using Premiere Pro and After Effects, color-graded in DaVinci, and premiered at [film festival].' Internships and class-based work count if you frame them professionally."
+    },
+    {
+      "q": "How important is listing frame rates, codecs, and delivery formats?",
+      "a": "Very important for technical hiring managers and post-production roles. Include specs like '4K ProRes 422 HQ delivery' or 'managed 24fps DCI cinema masters' in your bullet points so you signal deep technical knowledge and attention to client requirements."
+    },
+    {
+      "q": "Should I mention my editing speed or turnaround time?",
+      "a": "Absolutely. Editors who deliver fast and efficiently are highly valued. Include concrete examples like 'turned around 30-second social clip in 48 hours' or 'managed 15 concurrent edit projects without missing deadlines,' as these show productivity and reliability."
+    }
+  ]
+}

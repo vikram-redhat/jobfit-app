@@ -1,0 +1,126 @@
+{
+  "slug": "customer-success-manager",
+  "title": "Customer Success Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:42:45.900Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Customer Success Manager Resume: Tips & Examples",
+  "metaDescription": "Build a standout Customer Success Manager resume with proven bullet examples, key skills, and ATS-friendly formatting to land interviews.",
+  "h1": "How to Write a Customer Success Manager Resume That Gets Interviews",
+  "intro": "Customer Success Managers are the bridge between product and profit—and your resume needs to prove you can retain customers and grow accounts. We'll show you how to turn your CS wins into bullet points that hiring managers actually want to read.",
+  "audience": "Early-career professionals transitioning into CS from sales, support, or account management roles, plus recent grads with relevant internship or customer-facing experience.",
+  "topSkills": [
+    {
+      "name": "Account Management & Growth",
+      "why": "Hiring managers want to see you've directly managed customer relationships and expanded revenue through upsells or renewals."
+    },
+    {
+      "name": "Customer Retention & Churn Reduction",
+      "why": "This is the core metric of CS success—proving you've kept customers happy and reduced cancellations is table stakes."
+    },
+    {
+      "name": "SaaS Platform Proficiency (Salesforce, Gainsight, HubSpot)",
+      "why": "Most CS roles rely on CRM and CS-specific tools; naming the platforms you know signals you can hit the ground running."
+    },
+    {
+      "name": "Onboarding & Implementation",
+      "why": "CS managers often own the first 90 days of a customer's journey; showing success here proves strategic thinking, not just hand-holding."
+    },
+    {
+      "name": "Cross-functional Collaboration",
+      "why": "CS sits between product, support, sales, and engineering; hiring managers need proof you can influence teams without authority."
+    },
+    {
+      "name": "Metrics & Reporting (NRR, CAC, LTV, Churn)",
+      "why": "CS is data-driven; using these KPIs on your resume signals you're analytical and outcome-focused."
+    },
+    {
+      "name": "Communication & Presentation",
+      "why": "You'll run QBRs, health checks, and executive reviews; hiring managers want to know you can speak both to C-suite and individual users."
+    },
+    {
+      "name": "Problem-Solving & Negotiation",
+      "why": "CS often mediates between customer requests and product constraints; demonstrating your ability to find creative wins is key."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed customer accounts and helped them be successful with our product.",
+      "strong": "Managed portfolio of 25+ enterprise accounts ($1M+ ARR); achieved 96% net retention through proactive onboarding, quarterly business reviews, and cross-sell initiatives.",
+      "lesson": "Added specific numbers (account count, revenue size, retention %), concrete actions (QBRs, cross-sell), and a measurable outcome instead of a vague descriptor."
+    },
+    {
+      "weak": "Used Salesforce to track customer interactions and communicated with team members.",
+      "strong": "Implemented Salesforce health-check automation and weekly syncs with product/support teams; reduced average response time to customer escalations by 40% and decreased time-to-resolution for critical issues by 3+ days.",
+      "lesson": "Specified the tool, the action (automation, process design), and quantified the impact on speed and quality—not just 'used' the software."
+    },
+    {
+      "weak": "Worked on retaining customers and onboarding new ones.",
+      "strong": "Designed and led 12-week onboarding playbook for mid-market cohorts; reduced first-year churn by 18% and improved time-to-value from 8 to 5 weeks, enabling 4 renewals with upsell expansion.",
+      "lesson": "Named the initiative, showed ownership (designed/led), and linked process improvement to two business outcomes: retention and revenue growth."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Only listing responsibilities, not outcomes.",
+      "fix": "Every bullet should end with a measurable result (retention %, revenue impact, time saved, number of renewals, reduction in churn) even if the number is a conservative estimate."
+    },
+    {
+      "mistake": "Burying technical skills and tool expertise.",
+      "fix": "Lead with or call out CS platforms (Gainsight, Gong, Outreach) and CRMs early; recruiters often filter by these keywords, and hiring managers want to know your tech fluency."
+    },
+    {
+      "mistake": "Treating CS as customer support instead of a growth role.",
+      "fix": "Emphasize account expansion, upsell/cross-sell wins, NRR, and revenue influence—not just 'resolving customer issues' or 'responding to tickets.'"
+    },
+    {
+      "mistake": "Not quantifying the size or complexity of the customer portfolio.",
+      "fix": "Always mention number of accounts managed, ARR/revenue size of the book, or segment (e.g., 'enterprise,' 'mid-market'); this helps hiring managers gauge your experience level."
+    },
+    {
+      "mistake": "Overlooking cross-functional collaboration wins.",
+      "fix": "Call out specific examples of partnering with product, engineering, or sales to resolve a customer problem or influence product roadmap—this is a huge differentiator."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with a 2–3-line professional summary or headline that emphasizes your core CS metric (e.g., 'Customer Success Manager | 95%+ Retention | $5M ACV Portfolio | SaaS Growth').",
+    "Within each role, order bullets by impact: start with retention/NRR and account growth, then onboarding and cross-functional wins, then operational excellence (metrics, tools).",
+    "Create a short 'Core Competencies' section listing your top 6–8 skills and platform names (Salesforce, Gainsight, Outreach, etc.) so ATS filtering doesn't skip you and hiring managers get a quick snapshot.",
+    "If you've moved from support, sales, or operations into CS, explicitly call out that transition and explain how those skills transfer (e.g., 'Transitioned from customer support to account management, bringing deep product knowledge and a customer-first mindset')."
+  ],
+  "atsKeywords": [
+    "Customer Success Manager",
+    "Net Retention Rate",
+    "Account Management",
+    "Salesforce",
+    "Gainsight",
+    "SaaS",
+    "Churn Reduction",
+    "Onboarding",
+    "Upsell",
+    "Customer Retention"
+  ],
+  "salarySignal": "Entry-level US Customer Success Manager salaries typically range from $50K–$65K; mid-level roles (3–5 years experience) generally fall in the $70K–$95K range; compensation often includes performance bonuses tied to retention and NRR metrics.",
+  "faq": [
+    {
+      "q": "How do I show I retained customers if I'm new to CS?",
+      "a": "Use internships, contract roles, or even customer service experience where you resolved issues that prevented churn. Quantify any upsells or positive renewals you influenced, even if indirectly. If you don't have a hard retention number yet, focus on process improvements (onboarding speed, faster issue resolution) that correlate with retention."
+    },
+    {
+      "q": "What metrics should I include on a CS Manager resume?",
+      "a": "Prioritize Net Retention Rate (NRR), renewal/retention percentage, customer churn, account expansion revenue, and time-to-value metrics. Include ARR or revenue of accounts managed, number of accounts in your portfolio, and onboarding or QBR cadence if relevant. Avoid vanity metrics; focus on what drives revenue and customer health."
+    },
+    {
+      "q": "Should I list every CS tool I've used, or just the big ones?",
+      "a": "List the platforms most relevant to the job description first (Salesforce, Gainsight, Outreach, HubSpot, etc.), then add others briefly in a 'Technical Skills' line. Don't go overboard, but do include any platform the JD mentions—ATS systems filter on these keywords."
+    },
+    {
+      "q": "How do I stand out if I'm transitioning from support or sales into CS?",
+      "a": "Frame your transition as a natural step: highlight how your support background gave you product intimacy and customer empathy, or how sales experience proves you can influence and negotiate. Show 1–2 specific wins where you owned the customer relationship end-to-end, not just handed off accounts."
+    },
+    {
+      "q": "Should my resume emphasize onboarding, account growth, or retention?",
+      "a": "Lead with whichever aligns most with the job description and where you have the strongest proof. Most CS Manager roles weight retention and expansion equally, so try to show both. If the company is high-growth and mentions 'expansion' in the JD, emphasize upsell and cross-sell wins; if they stress 'retention,' lead with churn reduction and health-check data."
+    }
+  ]
+}

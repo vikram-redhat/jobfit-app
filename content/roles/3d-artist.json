@@ -1,0 +1,138 @@
+{
+  "slug": "3d-artist",
+  "title": "3D Artist",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:51.037Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "3D Artist Resume: Skills, Examples & Tips",
+  "metaDescription": "Build a standout 3D artist resume with our expert tips, sample bullets, and ATS keywords that land interviews at studios and game companies.",
+  "h1": "How to Write a 3D Artist Resume That Gets Noticed",
+  "intro": "Your 3D artist resume needs to showcase both technical chops and creative vision—and hiring managers at studios, game companies, and VFX houses want proof you can deliver polished assets. We'll show you how to structure your resume, highlight the right software skills, and use portfolio links effectively so your work gets in front of the right eyes.",
+  "audience": "Recent graduates with digital art degrees, self-taught 3D enthusiasts, VFX students, and artists pivoting from 2D design into 3D modeling, animation, or rendering.",
+  "topSkills": [
+    {
+      "name": "Maya or Blender (3D Modeling)",
+      "why": "These are industry-standard tools for modeling; listing proficiency signals you can hit the ground running on day one."
+    },
+    {
+      "name": "Texturing & UV Mapping",
+      "why": "Hiring managers care deeply about your ability to create realistic surfaces and optimize UVs for games and rendering—it's a core deliverable."
+    },
+    {
+      "name": "Substance Designer / Painter",
+      "why": "Game and film studios expect 3D artists to be fluent in PBR workflows and modern texturing pipelines; this is almost essential now."
+    },
+    {
+      "name": "Rigging & Skinning",
+      "why": "If you build or prepare character rigs and bone structures, that's a highly specialized skill that separates generalists from specialists."
+    },
+    {
+      "name": "Lighting & Rendering (Arnold, RenderMan, V-Ray)",
+      "why": "VFX and film roles often demand lighting expertise; showcasing render engine proficiency tells studios you understand look development."
+    },
+    {
+      "name": "Game Engine Integration (Unreal, Unity)",
+      "why": "Games industry roles require you to optimize and export assets for real-time engines; this is a must-have for game studios."
+    },
+    {
+      "name": "VFX & Particle Systems",
+      "why": "If you've worked with Houdini, Niagara (UE), or Shuriken (Unity), you're attractive to studios doing motion graphics, games, and film."
+    },
+    {
+      "name": "Portfolio Website or Artstation Link",
+      "why": "Your resume is an entry point; hiring managers want a clickable link to your actual work, not just job titles."
+    },
+    {
+      "name": "Collaboration & Version Control (Perforce, Git LFS)",
+      "why": "Studios work in teams on large projects; mentioning experience with production pipelines and asset management tools shows maturity."
+    },
+    {
+      "name": "Attention to Detail & Optimization",
+      "why": "3D art is visual; hiring managers look for evidence you optimize poly counts, texture budgets, and performance for shipped products."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created 3D models and textures for a fantasy game.",
+      "strong": "Modeled and textured 40+ production-ready character assets (2K–4K textures, 15k–25k poly budget) in Blender and Substance Painter; optimized for Unreal Engine 5 with 99.2% submission approval rate.",
+      "lesson": "Adding specific numbers (asset count, texture resolution, poly budget, approval rate) transforms a vague claim into proof of skill and discipline."
+    },
+    {
+      "weak": "Worked on lighting and rendering for visual effects shots.",
+      "strong": "Lit and rendered 18 hero VFX shots in Arnold using HDRI and custom shaders; reduced render time by 40–50% through layered AOVs and optimized scene hierarchy without compromising final image quality.",
+      "lesson": "Mentioning your specific tool, output count, and efficiency gains shows technical depth and production awareness to VFX leads."
+    },
+    {
+      "weak": "Responsible for rigging characters for animation.",
+      "strong": "Rigged 8 hero characters and 12 secondary creatures in Maya using advanced skinning and blend shapes; maintained 95% consistency with animation lead's requirements through iteration and detailed documentation.",
+      "lesson": "Naming your tool, quantifying work, and highlighting collaboration accuracy demonstrates both technical skill and teamwork—both critical in studios."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "No portfolio or ArtStation link on the resume.",
+      "fix": "Always include a clickable link to your live portfolio, ArtStation profile, or personal website in the contact section—hiring managers won't hunt for your work."
+    },
+    {
+      "mistake": "Listing software without context or proficiency level.",
+      "fix": "Instead of 'Maya, Blender, Substance, Houdini,' describe what you shipped with each—e.g., 'Maya (character modeling), Blender (hard-surface props), Substance (PBR texturing), Houdini (procedural effects).'"
+    },
+    {
+      "mistake": "Ignoring optimization and production constraints.",
+      "fix": "Studios care about performance; always mention poly counts, texture budgets, render times, and technical specifications so hiring managers know you understand real-world constraints."
+    },
+    {
+      "mistake": "Overstating freelance or hobby projects as professional experience.",
+      "fix": "Label personal projects clearly ('Personal Portfolio Project,' 'Self-Directed Study') and focus on shipped, professional work in a 'Professional Experience' section."
+    },
+    {
+      "mistake": "Generic descriptions of 'creating 3D assets' without specialization.",
+      "fix": "Specify your discipline—'Character Modeler,' 'VFX Artist,' 'Lighting TD,' 'Props Artist'—so hiring managers immediately understand where you fit in their pipeline."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Technical Skills' or 'Core Software' section that lists your primary tools (Maya, Blender, Substance, etc.) and separates them by discipline (modeling, texturing, rendering) so hiring managers quickly scan for what they need.",
+    "Put your portfolio link in the header (next to email and phone) so it's impossible to miss; some hiring managers will click it before reading anything else.",
+    "Group your experience by specialization if you've worked across multiple areas—'Character Art,' 'Environment Art,' 'VFX'—rather than pure job chronology, so hiring managers can align your work with their open roles.",
+    "If you're a recent graduate or self-taught, create a 'Notable Projects' section above or alongside work experience, featuring 3–5 polished pieces with brief specs (engine, tools, poly count, timeline) so hiring managers see your best work upfront."
+  ],
+  "atsKeywords": [
+    "Maya",
+    "Blender",
+    "Substance Designer",
+    "Substance Painter",
+    "Texturing and UV mapping",
+    "Character modeling",
+    "Rigging and skinning",
+    "Unreal Engine",
+    "Unity",
+    "Houdini",
+    "Arnold renderer",
+    "VFX",
+    "3D modeling",
+    "Production pipeline"
+  ],
+  "salarySignal": "Entry-level 3D artist positions in the US typically range from $45k to $65k annually; mid-level artists often earn $65k–$95k, with VFX and senior roles pushing $100k+, depending on studio location, project scope, and specialization.",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my resume or send it separately?",
+      "a": "Always include it on your resume—directly in the header or contact section. Hiring managers expect to click through and view your work, and a resume without a portfolio link signals you're not serious about the role. Make it a short URL or ArtStation link so it's easy to access."
+    },
+    {
+      "q": "What should I do if I'm self-taught and have no professional experience?",
+      "a": "Create a strong 'Portfolio Projects' or 'Notable Works' section near the top of your resume, featuring 3–5 of your best pieces with specs (tools used, poly count, render engine, timeline). Include a link to your full online portfolio. Hiring managers hire based on the quality of your work, not pedigree—if your art is polished and production-ready, you can get hired."
+    },
+    {
+      "q": "How do I describe my skills if I work across modeling, texturing, and rendering?",
+      "a": "Use subheadings under 'Technical Skills' like 'Modeling: Maya, Blender' or 'Texturing: Substance Painter, Mari' so hiring managers immediately see your strengths. In bullet points, always specify which tool you used for which task so there's no ambiguity."
+    },
+    {
+      "q": "Do I need to list every software I've used, or just the important ones?",
+      "a": "List only tools you're confident using and that directly relate to the job. If a studio is hiring for 'Character Artist,' Maya and Substance Painter matter far more than a basic familiarity with Photoshop. Quality over quantity; a long software list with shallow skills looks worse than three tools you know deeply."
+    },
+    {
+      "q": "How do I quantify my impact as a 3D artist if my work is creative?",
+      "a": "Focus on production metrics: asset count, poly budgets, texture resolution, render time reductions, approval/iteration rates, and team collaboration. For example, 'textured 25 environment assets under 8k poly budget' or 'reduced render time by 35% through shader optimization.' These show you understand constraints and deliver efficiently."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "plumber",
+  "title": "Plumber",
+  "category": "trades",
+  "generatedAt": "2026-05-02T22:59:23.908Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Plumber Resume: Tips, Skills & Examples for 2026",
+  "metaDescription": "Build a plumber resume that gets callbacks. Learn which skills to highlight, how to format certifications, and see real bullet examples.",
+  "h1": "How to Write a Plumber Resume That Gets Calls",
+  "intro": "Your plumbing resume needs to prove you can diagnose problems, fix them fast, and pass inspection every time. We'll show you how to translate your hands-on experience into resume language that dispatchers and contractors actually respond to.",
+  "audience": "Apprentices finishing their licenses, experienced plumbers looking to switch companies or go independent, and career changers entering the trades with some technical background.",
+  "topSkills": [
+    {
+      "name": "Water systems installation & repair",
+      "why": "This is the core of the job—employers need to see you can handle supply lines, drainage, and fixtures without callbacks."
+    },
+    {
+      "name": "Drain cleaning & maintenance",
+      "why": "One of the most common services; proving expertise here shows you can handle routine and emergency calls profitably."
+    },
+    {
+      "name": "Pipe fitting & soldering",
+      "why": "Specific technical skill that separates experienced plumbers from novices; it's on every job posting."
+    },
+    {
+      "name": "Blueprints & code compliance",
+      "why": "Employers and inspectors care that you can read plans and follow local plumbing codes to avoid fines and rework."
+    },
+    {
+      "name": "Gas line installation",
+      "why": "High-margin, specialized work; certification here is a credibility booster and commands premium rates."
+    },
+    {
+      "name": "Troubleshooting & diagnostics",
+      "why": "Hiring managers want plumbers who can figure out problems without trial-and-error, saving time and customer goodwill."
+    },
+    {
+      "name": "Commercial & residential systems",
+      "why": "Showing you can work in both sectors expands your job options and signals flexibility and adaptability."
+    },
+    {
+      "name": "Customer communication & estimates",
+      "why": "Plumbers who explain problems clearly and close estimates faster are more profitable for the company."
+    },
+    {
+      "name": "Safety & equipment handling",
+      "why": "Plumbing involves confined spaces, high pressure, and hazardous materials; safety awareness is non-negotiable."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Repaired and installed pipes and fixtures for residential customers.",
+      "strong": "Installed and repaired 8–12 water supply and drainage systems monthly for residential properties, maintaining 98% first-call resolution rate and zero code violations over 3 years.",
+      "lesson": "Numbers (volume, accuracy rate, time period) prove reliability and efficiency; vague 'repairs' don't tell the employer anything unique."
+    },
+    {
+      "weak": "Cleaned clogged drains using industry equipment.",
+      "strong": "Diagnosed and cleared 15–20 drain blockages per month using hydro-jetting and camera inspection; reduced customer callbacks by 40% through preventive recommendations.",
+      "lesson": "Naming specific equipment and showing impact (callbacks avoided, customer retention) demonstrates both skill and business sense."
+    },
+    {
+      "weak": "Worked on commercial and residential projects while following safety rules.",
+      "strong": "Completed 50+ commercial and residential plumbing projects, including gas line installation and water heater replacement; earned EPA Section 608 certification and maintained perfect safety record across 2,000+ billable hours.",
+      "lesson": "Adding certifications, hour totals, and concrete project count shows credibility; 'safety rules' is vague, but 'perfect record' with hours is measurable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes",
+      "fix": "Don't say 'fixed leaks'; say 'repaired 30+ water leaks per month with zero recurrence complaints' and quantify impact on customer satisfaction or reduced rework."
+    },
+    {
+      "mistake": "Forgetting to list licenses and certifications prominently",
+      "fix": "Put your journeyman license, apprentice hours, EPA certification, or gas license near the top under a 'Licenses & Certifications' section—contractors filter resumes by these first."
+    },
+    {
+      "mistake": "Omitting commercial or specialized experience",
+      "fix": "If you've done new construction, backflow prevention, septic systems, or commercial HVAC plumbing, call it out by name; it expands your market value significantly."
+    },
+    {
+      "mistake": "Not mentioning tools or software you're proficient with",
+      "fix": "Include specific tools (pipe threaders, pressure testing equipment, camera systems) and any job management software you've used; ATS systems and dispatchers look for these."
+    },
+    {
+      "mistake": "Hiding apprenticeship hours or incomplete licensing",
+      "fix": "If you're mid-apprenticeship, clearly state hours completed and target completion date; employers hire apprentices, but they want to know the timeline."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Licenses & Certifications' section or integrated skills headline (e.g., 'Licensed Journeyman Plumber, EPA 608 Certified') so dispatchers spot qualifications instantly.",
+    "Put your most recent and complex projects (commercial work, new construction, gas systems) at the top of your experience section; employers scan the first 3 bullets heavily.",
+    "Group plumbing experience by type if you have a mix: 'Residential Water Systems,' 'Commercial HVAC & Drainage,' 'Emergency Repairs'—this helps ATS keyword matching and readability.",
+    "If you have apprenticeship hours or are completing requirements, create a separate line item showing hours completed, target license date, and supervising master plumber's name for credibility."
+  ],
+  "atsKeywords": [
+    "licensed journeyman plumber",
+    "water supply and drainage systems",
+    "pipe fitting and soldering",
+    "drain cleaning and maintenance",
+    "gas line installation",
+    "blueprints and code compliance",
+    "EPA Section 608 certification",
+    "commercial and residential plumbing",
+    "hydro-jetting",
+    "first-call resolution"
+  ],
+  "salarySignal": "Entry-level apprentices earn $28,000–$38,000 annually; journeymen plumbers typically earn $45,000–$65,000 in the US, with experienced or specialized plumbers (gas, backflow, new construction) exceeding $75,000–$100,000+ depending on region and self-employment.",
+  "faq": [
+    {
+      "q": "Should I list my apprenticeship hours on my resume?",
+      "a": "Yes, absolutely. State 'Apprenticeship: 3,000/5,000 hours completed' or 'Pursuing Journeyman License—8,000 hours by [date]' in a clear line. Employers need to know your training status and timeline to completion."
+    },
+    {
+      "q": "What certifications matter most for a plumber's resume?",
+      "a": "Your state/local journeyman or master license is essential. EPA Section 608 (refrigerant handling), backflow prevention, and gas certification are strong add-ons that increase your hourly rate and job options. List them near the top."
+    },
+    {
+      "q": "How do I show I'm reliable if I'm switching jobs?",
+      "a": "Highlight metrics like 'zero code violations,' 'maintained 95%+ customer satisfaction,' or 'earned repeat business from 40+ residential clients.' References from past employers matter too—ask your last contractor or property manager for a solid recommendation."
+    },
+    {
+      "q": "Should I mention tools and equipment on my plumber resume?",
+      "a": "Yes. List specific equipment you're comfortable with: camera systems, hydro-jetters, pressure testers, pipe threaders, etc. It reassures employers you can walk onto a job and work with modern tools without hand-holding."
+    },
+    {
+      "q": "How do I format a plumber resume if I'm self-employed or do side work?",
+      "a": "Create a 'Self-Employed Plumber' or 'Contract Plumber' line item with dates, and quantify your work: 'Completed 200+ residential and commercial projects over [timeframe], managing all aspects from estimates to installation and follow-up.' Show volume, variety, and repeat customer rate if possible."
+    }
+  ]
+}

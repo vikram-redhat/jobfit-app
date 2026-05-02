@@ -1,0 +1,130 @@
+{
+  "slug": "social-media-creator",
+  "title": "Social Media Creator",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:50.585Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Social Media Creator Resume: Guide & Examples",
+  "metaDescription": "Write a winning Social Media Creator resume with actionable tips, strong bullet examples, and ATS keywords that land interviews.",
+  "h1": "How to Write a Social Media Creator Resume That Gets Noticed",
+  "intro": "Your social media creator resume needs to prove you can grow audiences, create viral content, and drive real business results—not just post pretty pictures. We'll show you how to translate your creative wins into metrics that hiring managers actually care about.",
+  "audience": "Recent grads with portfolio work, career switchers from marketing or communications, and freelance creators looking to land full-time or contract roles at brands, agencies, or platforms.",
+  "topSkills": [
+    {
+      "name": "Content Strategy & Planning",
+      "why": "Hiring managers want to see you think beyond individual posts—they need proof you can map audience goals to content pillars and editorial calendars."
+    },
+    {
+      "name": "Instagram, TikTok, YouTube Optimization",
+      "why": "These platforms dominate creator jobs; you need to show platform-specific expertise (reels, shorts, feed strategy, hashtags, trending audio)."
+    },
+    {
+      "name": "Audience Growth & Engagement Metrics",
+      "why": "They'll measure your success by follower gains, engagement rate, and reach; quantify your ability to grow communities."
+    },
+    {
+      "name": "Video Editing & Production",
+      "why": "Most creator roles now require self-sufficient video skills (Adobe Premiere, CapCut, DaVinci Resolve); it's a competitive differentiator."
+    },
+    {
+      "name": "Copywriting & Messaging",
+      "why": "Captions, hooks, and call-to-actions drive clicks and conversions; show you can write for both brand voice and platform culture."
+    },
+    {
+      "name": "Analytics & Reporting",
+      "why": "Demonstrating you track performance (impressions, CTR, audience demographics) shows you're data-conscious, not just creative."
+    },
+    {
+      "name": "Brand Partnerships & Sponsorships",
+      "why": "If you've managed brand deals or influencer collabs, that's gold—it shows monetization ability and business acumen."
+    },
+    {
+      "name": "Photography & Visual Design",
+      "why": "Feed aesthetics matter; familiarity with Canva, Figma, or Lightroom signals you own the entire creative pipeline."
+    },
+    {
+      "name": "Trend Research & Virality",
+      "why": "Creators who can spot trends early and adapt them to brand voice outperform those who just copy; make this a visible strength."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created Instagram content for a fashion brand and posted regularly.",
+      "strong": "Grew Instagram account from 8K to 47K followers in 6 months by developing a cohesive visual strategy and posting 5x/week; achieved 8.5% average engagement rate through data-driven caption testing and trend adoption.",
+      "lesson": "Specific numbers (start, end, timeline, frequency, engagement %), concrete strategy, and demonstrated testing process trump vague effort."
+    },
+    {
+      "weak": "Managed TikTok account and made videos that went viral.",
+      "strong": "Produced 40+ TikTok videos, 6 of which exceeded 100K views; identified trending sounds and challenges, adapted them to brand voice, and drove 3.2K click-throughs to website in Q4 via strategic hashtag and CTA placement.",
+      "lesson": "Quantify output (40+ videos), viability (6 hit 100K+), and business impact (3.2K CTR); show intentional adaptation, not accident."
+    },
+    {
+      "weak": "Edited and uploaded YouTube videos for a client.",
+      "strong": "Edited 24 YouTube videos (Adobe Premiere) averaging 4-6 min length, optimized thumbnails and SEO titles that increased click-through rate by 22%, and maintained weekly upload cadence; series grew watch time by 35% YoY.",
+      "lesson": "Name the tool, cite output volume, include technical wins (CTR lift), and tie effort to downstream metric (watch time growth)."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing platforms without results attached",
+      "fix": "Every platform mention should come with a metric: follower count, engagement rate, video views, or reach; otherwise it's just noise."
+    },
+    {
+      "mistake": "Ignoring the business side of content",
+      "fix": "Translate creative wins into business metrics: website traffic driven, leads generated, sales attributed, or brand partnership value—even a rough estimate."
+    },
+    {
+      "mistake": "Not mentioning tools or software",
+      "fix": "Name your editing, design, and analytics tools (Adobe Suite, Canva, Hootsuite, Meta Business Suite, Google Analytics) so the resume passes ATS scans."
+    },
+    {
+      "mistake": "Using no links or portfolio references",
+      "fix": "Include a link to your best 3-5 viral posts, a portfolio site, or TikTok/@handle so hiring managers can see your work instantly."
+    },
+    {
+      "mistake": "Treating all projects equally",
+      "fix": "Lead with your biggest wins—the account you grew fastest, the video that got most views, the brand deal you closed—and put weaker work lower."
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio link or 'Notable Wins' section at the top (e.g., 'Viral Campaigns: TikTok video reached 2.1M views; Instagram Reels averaged 180K views') before traditional job history—your work speaks louder than dates.",
+    "Group platforms and metrics by role or brand, not by date; a hiring manager wants to see 'Instagram Growth Specialist at Fashion Co: 8K→47K followers' as a cohesive story, not scattered across years.",
+    "Put video/editing/design skills in a dedicated 'Creative Tools' section near the top; many roles scan for Adobe, Premiere, or DaVinci Resolve keywords first.",
+    "Include a 'Key Metrics' or 'On-Platform Results' summary for each job that shows followers, engagement rate, views, and traffic—use a simple table or bullet list so it's scannable."
+  ],
+  "atsKeywords": [
+    "Instagram management",
+    "TikTok content creation",
+    "YouTube video production",
+    "Content strategy",
+    "Engagement metrics",
+    "Video editing",
+    "Adobe Creative Suite",
+    "Audience growth",
+    "Social media analytics",
+    "Brand partnerships"
+  ],
+  "salarySignal": "Entry-level social media creator roles in the US typically range from $30K–$45K in 2026; agency or brand-based roles with seniority (3+ years) often reach $50K–$75K, while freelance and partnership-based income varies widely depending on audience size and sponsorship deals.",
+  "faq": [
+    {
+      "q": "Should I include TikTok/Instagram follower counts on my resume?",
+      "a": "Yes—but only if the number is impressive or shows growth. A TikTok account with 500 followers doesn't prove much; one with 50K or one that grew from 5K to 50K in 6 months does. Always pair the number with context (timeline, content type, or engagement rate)."
+    },
+    {
+      "q": "Do I need a portfolio link on my resume?",
+      "a": "Absolutely. A link to your best TikTok/@handle, Instagram profile, or a portfolio site (Linktree, personal website, or Google Drive folder) is non-negotiable. Hiring managers want to see your work instantly; without it, your resume is incomplete."
+    },
+    {
+      "q": "How do I quantify 'creative' work if I don't have access to backend analytics?",
+      "a": "Use what's public: view counts, likes, shares, comments, and follower growth. If you managed accounts for clients under NDA, describe the work and invite the hiring manager to ask for references. For freelance gigs, ask clients upfront for permission to cite metrics."
+    },
+    {
+      "q": "Should I list every platform or just the big ones?",
+      "a": "Lead with platforms where you have proven results (Instagram, TikTok, YouTube). Mention emerging platforms (Threads, Bluesky, Pinterest) only if you've grown them meaningfully; otherwise, keep the resume focused and save platform breadth for the cover letter or portfolio."
+    },
+    {
+      "q": "What if my best content is old or from a brand I no longer work with?",
+      "a": "It's still valid proof of skill. List it with dates and results; if it's no longer live, note '(achieved 500K views, account since sunset)' or include a screenshot in your portfolio. Hiring managers respect creators who built things, even if those projects ended."
+    }
+  ]
+}

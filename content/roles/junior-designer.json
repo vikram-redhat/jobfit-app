@@ -1,0 +1,126 @@
+{
+  "slug": "junior-designer",
+  "title": "Junior Designer",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:05:50.055Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Junior Designer Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Build a Junior Designer resume that lands interviews. See strong bullet examples, key skills, and ATS-friendly formatting tips.",
+  "h1": "Junior Designer Resume Guide: Stand Out With Your First Design Role",
+  "intro": "Landing your first design job means showing hiring managers you can translate creative ideas into real results—and your resume needs to prove it. This guide walks you through the skills, bullets, and format that actually catch a recruiter's eye, with concrete examples you can adapt to your own experience.",
+  "audience": "Recent design school grads, self-taught designers, and career switchers entering their first design roles in UX/UI, graphic design, or web design.",
+  "topSkills": [
+    {
+      "name": "Figma",
+      "why": "Figma is the de facto design tool for collaboration in 2026; most junior designer jobs assume proficiency."
+    },
+    {
+      "name": "UI/UX Design",
+      "why": "Hiring managers need to know you can design intuitive interfaces, not just make things look pretty."
+    },
+    {
+      "name": "Prototyping",
+      "why": "Demonstrating interactive prototypes shows you understand how design works in the real product cycle."
+    },
+    {
+      "name": "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+      "why": "Still standard for graphic design roles and many agencies; shows you're versatile across tools."
+    },
+    {
+      "name": "Wireframing & Information Architecture",
+      "why": "Structuring user flows and layouts is foundational to junior-level design work."
+    },
+    {
+      "name": "Design Systems & Component Libraries",
+      "why": "Tech companies prioritize candidates who understand reusable design patterns and consistency."
+    },
+    {
+      "name": "User Research & Testing",
+      "why": "Even junior designers should show they validate design decisions, not just guess."
+    },
+    {
+      "name": "Brand Identity & Visual Design",
+      "why": "For graphic/brand-focused roles, the ability to create cohesive visual language is essential."
+    },
+    {
+      "name": "Responsive Design",
+      "why": "Mobile-first design is non-negotiable; your resume should show you design for multiple screens."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created designs for various projects and learned Figma throughout internship.",
+      "strong": "Designed 15+ UI screens in Figma for mobile app MVP; conducted usability testing with 8 users and iterated based on feedback, reducing app navigation steps by 2 levels.",
+      "lesson": "The strong version shows specific deliverables, a measurable user-facing outcome, and concrete number of users tested—not just tool proficiency."
+    },
+    {
+      "weak": "Responsible for branding and graphic design tasks.",
+      "strong": "Built comprehensive brand guidelines and visual identity system for 3 client projects, including color palette, typography, and 40+ component icons used across web and print collateral.",
+      "lesson": "Instead of vague responsibility, name the tangible asset (brand guidelines) and quantity of work (3 clients, 40+ icons), which proves scope and impact."
+    },
+    {
+      "weak": "Assisted with website redesign project.",
+      "strong": "Redesigned 8-page website from wireframes through high-fidelity mockups; A/B tested hero section with 2 variations, resulting in 22% higher click-through rate to sign-ups.",
+      "lesson": "Specific page count, full workflow (wireframes → hi-fi), and a concrete metric (CTR lift) turn a vague assist into a portfolio-worthy achievement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without showing what you built with them",
+      "fix": "Always pair a tool mention with a deliverable—e.g., 'Created interactive prototypes in Figma for e-commerce flow' instead of just 'Proficient in Figma.'"
+    },
+    {
+      "mistake": "Focusing on the design process instead of user/business impact",
+      "fix": "Replace 'Collaborated on design iterations' with 'Iterated on checkout flow based on user feedback, reducing cart abandonment by 15%.'"
+    },
+    {
+      "mistake": "Including a portfolio link but not mentioning it in your experience bullets",
+      "fix": "Explicitly reference projects in your resume bullets ('See portfolio: example.com') and make sure each bullet hints at a polished case study hiring managers can review."
+    },
+    {
+      "mistake": "Not showing evidence of design thinking or research",
+      "fix": "Include at least one bullet that mentions user interviews, surveys, or usability testing—even if it's from a school project or freelance work."
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio URL or GitHub link in the header so recruiters know exactly where to see your work—design is visual, so your resume is a door, not the destination.",
+    "Place your most polished project or highest-impact work first in your experience section; hiring managers often skim and may not read bullets 3 and 4.",
+    "If you're short on full-time experience, create a 'Projects' or 'Featured Work' section between experience and skills to showcase case studies, internship work, or strong student projects.",
+    "Include a brief 'Tools & Software' section listing Figma, Adobe Suite, prototyping tools, and any design systems you've used—ATS systems often filter by these keywords."
+  ],
+  "atsKeywords": [
+    "Figma",
+    "UI/UX design",
+    "prototyping",
+    "wireframing",
+    "user research",
+    "Adobe Creative Suite",
+    "responsive design",
+    "design systems",
+    "information architecture",
+    "usability testing"
+  ],
+  "salarySignal": "Entry-level US salaries for junior designers typically range from $45,000 to $65,000 in 2026, varying by location (higher in tech hubs like SF and NYC) and company size.",
+  "faq": [
+    {
+      "q": "Should I include unpaid projects or internships on my junior designer resume?",
+      "a": "Yes. Hiring managers expect junior designers to have limited paid work; internships, client projects, and strong school work all count. Frame them the same way you'd frame a job—with specific deliverables and impact, and always link to your portfolio."
+    },
+    {
+      "q": "How do I describe design work without metrics?",
+      "a": "Focus on the method and scope: number of screens, number of users tested, breadth of the design system, or complexity of the flow. Example: 'Designed 6-step onboarding flow for 50,000+ monthly active users' quantifies impact without requiring analytics data."
+    },
+    {
+      "q": "Do I need to list every Adobe tool I know, or just the main ones?",
+      "a": "List only tools you're truly comfortable using and that are relevant to the job posting. If the posting mentions Illustrator and you're applying to a brand role, call it out; if you've only used Photoshop twice, skip it. Quality over exhaustiveness."
+    },
+    {
+      "q": "What's the best way to structure a case study section on my resume?",
+      "a": "Keep it brief on the resume itself (1–2 bullets per project), then let your portfolio do the heavy lifting. On the resume, mention the problem you solved, the approach, and the result. Save detailed walkthroughs for your actual case study pages."
+    },
+    {
+      "q": "How do I stand out as a junior designer with minimal experience?",
+      "a": "Show evidence of design thinking and user empathy: mention user research you've done, iterations you've made based on feedback, and measurable outcomes. Also keep your portfolio spotless and ensure every project has a polished case study—your portfolio matters more than your resume."
+    }
+  ]
+}

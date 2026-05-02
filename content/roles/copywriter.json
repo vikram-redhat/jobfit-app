@@ -1,0 +1,130 @@
+{
+  "slug": "copywriter",
+  "title": "Copywriter",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:31.712Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Copywriter Resume: Examples & Skills Guide",
+  "metaDescription": "Land copywriting interviews with a resume that shows writing impact. See sample bullets, top skills, and ATS keywords.",
+  "h1": "How to Write a Copywriter Resume That Gets Noticed",
+  "intro": "Your copywriter resume needs to prove you can sell with words—not just list writing skills. Hiring managers want to see measurable campaign results, your best work samples, and the ability to write for different audiences and platforms. This guide shows you how to structure your resume and highlight wins that matter.",
+  "audience": "Recent liberal arts grads, career switchers from marketing or content roles, and freelance writers moving in-house.",
+  "topSkills": [
+    {
+      "name": "Persuasive Writing / Copy Fundamentals",
+      "why": "Core competency—hiring managers need proof you understand messaging, tone, and audience psychology."
+    },
+    {
+      "name": "Campaign Development / Messaging Strategy",
+      "why": "Copywriters often own the creative strategy behind ads, emails, and launches—not just write tactics."
+    },
+    {
+      "name": "Email Marketing / Funnel Copy",
+      "why": "High-ROI channel; marketers track email open rates and conversion metrics closely."
+    },
+    {
+      "name": "SEO Copywriting / Content Optimization",
+      "why": "Many copywriter roles now blend SEO keyword research with engaging prose for organic visibility."
+    },
+    {
+      "name": "Digital Advertising Copy (PPC / Display)",
+      "why": "SEM and display ads demand tight, conversion-focused copy and A/B testing knowledge."
+    },
+    {
+      "name": "Social Media Copywriting",
+      "why": "Platform-specific tone and brevity are critical; TikTok copy differs from LinkedIn copy."
+    },
+    {
+      "name": "Brand Voice & Tone Development",
+      "why": "Agencies and in-house teams need someone who can nail a brand's personality across channels."
+    },
+    {
+      "name": "Copywriting Tools (Grammarly, Hemingway, Adobe Creative Suite)",
+      "why": "Familiarity with writing and collaboration tools speeds up workflows and signals professionalism."
+    },
+    {
+      "name": "Analytics Literacy (Google Analytics, Click-Through Rates)",
+      "why": "Copy is measured by performance—understanding metrics shows you're outcome-focused, not ego-driven."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Wrote copy for email campaigns and social media posts.",
+      "strong": "Wrote and tested email subject lines and body copy for 12+ monthly campaigns, increasing click-through rate from 2.1% to 3.8% and contributing to $180K in attributed revenue.",
+      "lesson": "Specific metric (CTR improvement + revenue) proves impact; naming campaign count shows output volume."
+    },
+    {
+      "weak": "Developed brand messaging for the company website.",
+      "strong": "Created brand voice guidelines and rewrote homepage, product pages, and support copy, resulting in 24% increase in demo request form submissions.",
+      "lesson": "Concrete deliverables (guidelines, page rewrites) + measurable outcome (form submission bump) show strategic thinking."
+    },
+    {
+      "weak": "Collaborated with marketing team on ad campaigns.",
+      "strong": "Partnered with designers and paid media manager to write 40+ Google Ads and Facebook ad variations; top-performing copy variants achieved 18% lower cost-per-click vs. control group.",
+      "lesson": "Quantified output (40+ variations) + competitive metric (CPC savings) demonstrates testing rigor and collaboration."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Focusing on tasks instead of results.",
+      "fix": "Always pair what you wrote with the business outcome: CTR, conversion rate, revenue attributed, or engagement lift. Copywriting is measured."
+    },
+    {
+      "mistake": "Listing too many platforms without depth.",
+      "fix": "Pick the channels most relevant to the job posting and show metrics for each. Hiring managers prefer '5 email campaigns with 32% open rate' over a vague list of platforms."
+    },
+    {
+      "mistake": "No mention of audience or strategy.",
+      "fix": "Copywriting isn't about beautiful prose alone—show you understand *who* you're writing for and *why* the message worked."
+    },
+    {
+      "mistake": "Forgetting to mention A/B testing or iteration.",
+      "fix": "Modern copywriters test and refine; mention that you've written multiple versions, run tests, or incorporated feedback to improve performance."
+    },
+    {
+      "mistake": "Using passive voice or weak verbs.",
+      "fix": "Lead with action verbs like 'wrote,' 'crafted,' 'optimized,' 'tested.' Your resume itself should showcase strong, direct writing."
+    }
+  ],
+  "structureTips": [
+    "Put a small portfolio link or 'Notable Work' callout near the top—e.g., 'Copywriting portfolio: [short URL]' or '3 case studies available upon request.' Hiring managers want to see your actual work.",
+    "Lead the experience section with your most quantifiable, highest-impact campaigns first. Skip chronological order if your latest role was less impressive.",
+    "Create a 'Core Skills' section that mirrors the job description's language (e.g., 'Email Copywriting,' 'Conversion Rate Optimization,' 'Brand Messaging'). This helps both humans and ATS scanners.",
+    "If you're early-career, include a 'Portfolio Highlights' or 'Notable Campaigns' section with 2–3 bullet-pointed wins, even if they're from freelance work or volunteer projects."
+  ],
+  "atsKeywords": [
+    "copywriting",
+    "copy strategy",
+    "email copywriting",
+    "campaign messaging",
+    "persuasive writing",
+    "SEO copywriting",
+    "brand voice",
+    "conversion copywriting",
+    "digital copywriting",
+    "A/B testing copy"
+  ],
+  "salarySignal": "Entry-level copywriter roles in the US typically start around $45K–$55K; mid-level copywriters and copy strategists earn $60K–$85K; senior copywriters and copy directors range from $85K–$120K+, depending on industry and location.",
+  "faq": [
+    {
+      "q": "Should I include writing samples on my copywriter resume?",
+      "a": "No—don't paste sample copy into your resume itself. Instead, link to a portfolio website, PDF portfolio, or Google Drive folder in your contact section. Mention '2–3 case studies available' if space is tight. Hiring managers expect to review work separately."
+    },
+    {
+      "q": "What metrics matter most for a copywriter resume?",
+      "a": "Click-through rate (CTR), conversion rate (CVR), cost-per-click (CPC), open rate (for email), and revenue attributed to your copy are gold. If you don't have exact numbers, use ranges: 'increased engagement by 20–30%' or 'tested 50+ ad variations.' Show that copy performance was tracked."
+    },
+    {
+      "q": "How do I show copywriting impact if I've only done freelance or volunteer work?",
+      "a": "Frame it the same way—with metrics or outcome. Example: 'Wrote product descriptions and email sequences for 8 freelance clients; campaigns averaged 28% open rate and generated 15+ qualified leads per month.' The source doesn't matter as much as the measurable result."
+    },
+    {
+      "q": "Do I need to list every platform I've written for (Facebook, TikTok, LinkedIn, etc.)?",
+      "a": "Not necessarily. Focus on the channels relevant to the job posting and the ones where you have metrics. If the role mentions 'social media copywriting,' choose 2–3 platforms where you drove real results, not a generic list."
+    },
+    {
+      "q": "How should I describe copywriting skills without sounding flowery or generic?",
+      "a": "Use business-focused language and specific mediums: 'Email subject line testing,' 'Landing page conversion copy,' 'Paid search ad creative,' 'Social media campaign brief development.' Avoid vague phrases like 'excellent writing' or 'creative thinker.' Let metrics and deliverables do the talking."
+    }
+  ]
+}

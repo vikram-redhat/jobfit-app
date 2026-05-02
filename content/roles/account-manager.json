@@ -1,0 +1,130 @@
+{
+  "slug": "account-manager",
+  "title": "Account Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:42:43.796Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Account Manager Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a winning Account Manager resume with proven tips, strong bullet examples, and ATS keywords that land interviews.",
+  "h1": "Account Manager Resume: Templates, Examples & Writing Guide",
+  "intro": "Your Account Manager resume needs to show you can juggle relationships, close deals, and keep clients happy—all at once. We'll walk you through the exact format, skills, and bullet points that hiring managers actually want to see.",
+  "audience": "Recent grads in sales or business, mid-career professionals pivoting from customer service or sales support, and experienced account managers refreshing their resume.",
+  "topSkills": [
+    {
+      "name": "Account Management & Client Relationship",
+      "why": "This is the core of the role—hiring managers want proof you can nurture long-term client partnerships and identify upsell opportunities."
+    },
+    {
+      "name": "Sales Forecasting & Pipeline Management",
+      "why": "Companies care about revenue visibility; you need to show you can predict and track deals from prospect to close."
+    },
+    {
+      "name": "CRM Software (Salesforce, HubSpot, Pipedrive)",
+      "why": "Most Account Manager roles require hands-on experience with at least one major CRM platform—it's a must-have, not a nice-to-have."
+    },
+    {
+      "name": "Negotiation & Contract Closure",
+      "why": "Hiring teams want to know you can close deals and handle tough conversations without losing the client."
+    },
+    {
+      "name": "Revenue Growth & Upselling",
+      "why": "Demonstrating your ability to grow account value over time directly ties to the company's bottom line."
+    },
+    {
+      "name": "Cross-Functional Collaboration",
+      "why": "Account Managers coordinate with product, support, and engineering—employers need to see you work well with internal teams."
+    },
+    {
+      "name": "Communication & Presentation Skills",
+      "why": "You're the voice of the client internally and the company externally; clear, persuasive communication is non-negotiable."
+    },
+    {
+      "name": "Strategic Account Planning",
+      "why": "Top performers don't just react to client requests—they map out growth strategies and multiyear expansion plans."
+    },
+    {
+      "name": "Customer Success & Retention",
+      "why": "Keeping clients happy and reducing churn is often tracked as a KPI; employers want proof you excel at it."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed multiple client accounts and grew revenue.",
+      "strong": "Grew 12 enterprise accounts by 35% average ARR through strategic upselling and quarterly business reviews; retained 100% of key accounts despite competitive pressure.",
+      "lesson": "Specific account count, percentage growth, and retention metrics show real impact—generic phrases like 'managed' and 'grew' don't cut it."
+    },
+    {
+      "weak": "Used Salesforce to track deals and collaborated with the team.",
+      "strong": "Maintained Salesforce pipeline of $2.3M+ in active opportunities; forecasted monthly revenue with 94% accuracy and coordinated product demos with engineering to close 8 net-new enterprise deals.",
+      "lesson": "Dollar amounts, accuracy percentages, and concrete outcomes (deals closed) prove you're not just using the tool—you're driving results with it."
+    },
+    {
+      "weak": "Handled customer issues and kept clients satisfied.",
+      "strong": "Reduced customer churn to 8% YoY by implementing proactive quarterly business reviews; resolved 15+ at-risk accounts through contract renegotiation and customer success coordination.",
+      "lesson": "Showing the metric (churn %) and the mechanism (QBRs, renegotiation) demonstrates strategic thinking, not just firefighting."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes",
+      "fix": "Replace 'Responsible for managing X accounts' with 'Grew X accounts by Y% YoY' or 'Closed Z net-new deals'—always lead with the result."
+    },
+    {
+      "mistake": "Ignoring pipeline or revenue metrics",
+      "fix": "Include concrete numbers: ARR/MRR managed, deal size range, win rate, or sales cycle length. These are the metrics hiring managers actually care about."
+    },
+    {
+      "mistake": "Not showing CRM or sales tool proficiency",
+      "fix": "Explicitly name the tools you've used (Salesforce, HubSpot, Pipedrive, etc.) and briefly show how you used them to drive efficiency or accuracy."
+    },
+    {
+      "mistake": "Forgetting to mention retention or customer health scores",
+      "fix": "Account Managers are often evaluated on churn and upsell as much as new revenue—highlight retention wins, NPS improvements, or reduced customer escalations."
+    },
+    {
+      "mistake": "Vague collaboration claims",
+      "fix": "Instead of 'worked with marketing and product teams,' say 'partnered with product and marketing on 3 product launches, delivering customer feedback that shaped roadmap priorities.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that ties together your biggest revenue or retention wins—hiring managers scan this first.",
+    "Put your CRM and sales tools in a dedicated 'Core Competencies' or 'Technical Skills' section so ATS and hiring managers spot them immediately.",
+    "Organize your experience by impact, not chronology within each role—put your top 3–4 achievement bullets first, then support bullets, so the strongest material shows up above the fold.",
+    "If you're mid-career, include a 'Key Metrics' snapshot early in your resume (e.g., '$5M+ ARR managed,' '92% retention,' '15+ enterprise deals closed') to set expectations before hiring managers read the details."
+  ],
+  "atsKeywords": [
+    "Account Management",
+    "Account Executive",
+    "Client Relationship Management",
+    "Sales Pipeline",
+    "Salesforce",
+    "Revenue Growth",
+    "Strategic Account Planning",
+    "Customer Retention",
+    "Enterprise Sales",
+    "Contract Negotiation"
+  ],
+  "salarySignal": "Entry-level Account Manager salaries in the US typically range from $45K–$65K; mid-career AMs earn $65K–$95K; senior Account Managers and Account Executives can reach $100K–$150K+ depending on commission structure and company size.",
+  "faq": [
+    {
+      "q": "What metrics should I put on an Account Manager resume?",
+      "a": "Focus on revenue (ARR, MRR, total managed), retention rate, win rate, deal count, average deal size, and upsell/expansion %. If you don't have exact figures, use ranges—e.g., 'managed $1M–$3M in pipeline.' Avoid vague terms like 'excellent growth.'"
+    },
+    {
+      "q": "How do I show I'm good at customer retention on my resume?",
+      "a": "Include your churn rate, retention percentage, or the number of at-risk accounts you saved. Example: 'Maintained 95% retention rate across 20-person book by implementing quarterly business reviews and proactive risk management.' Numbers prove you're not just reactive."
+    },
+    {
+      "q": "Do I need to list every CRM tool I've used?",
+      "a": "Yes, if you've worked with major ones (Salesforce, HubSpot, Pipedrive, Zoho, etc.), include them. Use a dedicated 'Technical Skills' or 'Tools' section. ATS algorithms scan for these, and hiring managers assume you can learn new tools—but they want to know you can hit the ground running."
+    },
+    {
+      "q": "Should I include years of experience on my Account Manager resume?",
+      "a": "Yes, but lead with impact. Instead of just 'Account Manager, 2022–Present,' say 'Account Manager (2022–Present) – Grew assigned book from $500K to $2.1M ARR.' The tenure matters less than what you achieved in that time."
+    },
+    {
+      "q": "How do I explain gaps or lateral moves in my Account Manager career?",
+      "a": "Use your cover letter or a brief 'Professional Summary' to contextualize them. If you moved from Sales Development to Account Manager, emphasize the overlap—'Transitioned from SDR to Account Manager, bringing front-line sales expertise and 90% conversion rate to a 15-person book.' Hiring managers respect growth."
+    }
+  ]
+}

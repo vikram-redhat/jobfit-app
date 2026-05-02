@@ -1,0 +1,128 @@
+{
+  "slug": "cashier",
+  "title": "Cashier",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:54:19.679Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Cashier Resume Tips & Examples | Service Industry Guide",
+  "metaDescription": "Write a cashier resume that stands out. Learn what skills to highlight, how to quantify experience, and avoid common mistakes that hurt your chances.",
+  "h1": "How to Write a Cashier Resume That Gets Noticed",
+  "intro": "A strong cashier resume isn't just a list of past jobs—it's proof that you can handle money accurately, work under pressure, and keep customers happy. Whether this is your first retail gig or you're leveling up, we'll show you exactly what hiring managers want to see.",
+  "audience": "High school students, recent grads, and career-changers applying to retail, grocery, restaurant, and gas station cashier roles.",
+  "topSkills": [
+    {
+      "name": "Cash handling & register accuracy",
+      "why": "Hiring managers need reassurance that you won't lose money or cause discrepancies—this is literally your core job."
+    },
+    {
+      "name": "Point of sale (POS) systems",
+      "why": "Most retailers use software like Square, Toast, or proprietary systems; familiarity speeds up your training and makes you hireable faster."
+    },
+    {
+      "name": "Customer service",
+      "why": "Cashiers are often the last impression customers have; your ability to be friendly and efficient directly affects store ratings and repeat business."
+    },
+    {
+      "name": "Payment processing (card, mobile, cash)",
+      "why": "In 2026, cashiers handle multiple payment types; showing you're comfortable with cards, Apple Pay, contactless, and cash is a huge plus."
+    },
+    {
+      "name": "Speed & accuracy under pressure",
+      "why": "Retail and restaurants get slammed during rush hours; proof that you stay calm and accurate when lines back up is valuable."
+    },
+    {
+      "name": "Inventory management",
+      "why": "Many cashier roles include light stock duties, returns processing, or helping restock—managers look for people who can multitask."
+    },
+    {
+      "name": "Conflict resolution",
+      "why": "You'll handle unhappy customers, return disputes, and price checks; showing you keep cool and solve problems matters."
+    },
+    {
+      "name": "Attention to detail",
+      "why": "Typos or vague dates signal carelessness; for a role built on accuracy, your resume needs to be flawless."
+    },
+    {
+      "name": "Team collaboration",
+      "why": "Cashiers work alongside stockers, managers, and other team members; showing you communicate and pitch in is essential."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Operated cash register and handled customer transactions.",
+      "strong": "Processed 150–200 transactions daily with 99%+ accuracy, managing cash, card, and mobile payments across multiple POS systems.",
+      "lesson": "Specific numbers (transaction volume, accuracy rate) and concrete tools (POS system names) replace vague words and prove capability."
+    },
+    {
+      "weak": "Helped customers and answered questions.",
+      "strong": "Resolved pricing discrepancies and product questions for 50+ daily customers, reducing complaint escalations by 15% through clear communication.",
+      "lesson": "Quantifying customer impact (volume and reduction in escalations) shows you're not just friendly—you're effective at reducing manager overhead."
+    },
+    {
+      "weak": "Assisted with stocking shelves and inventory.",
+      "strong": "Completed opening and closing shift procedures (inventory counts, register reconciliation, bagging) in under 30 minutes, maintaining 100% cash accuracy across 8-week period.",
+      "lesson": "Naming specific tasks and adding a time or accuracy metric demonstrates speed and reliability, not just willingness to help."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of impact",
+      "fix": "Don't just say 'operated register'—say what you achieved: speed, accuracy, customer feedback, or money handled correctly. Use numbers wherever possible."
+    },
+    {
+      "mistake": "Ignoring POS systems and software you've used",
+      "fix": "Name the actual POS (Square, Toast, NCR, Shopify, PayPal, etc.) or payment platforms you've worked with; it's an instant relevancy signal and speeds hiring."
+    },
+    {
+      "mistake": "Treating this as a stepping-stone with no pride",
+      "fix": "Your resume should show pride in accuracy and customer service—even if it's a part-time or entry-level role, you're competing for jobs that care about those skills."
+    },
+    {
+      "mistake": "Forgetting to mention multitasking or side duties",
+      "fix": "If you also handled returns, restocked, opened/closed, or helped train others, include it—it signals versatility and boosts your hire ability."
+    },
+    {
+      "mistake": "Using unprofessional email or contact info",
+      "fix": "Create a simple, professional email (firstname.lastname@); avoid old nicknames or slang. Retail hiring managers may filter out poorly formatted contact details."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that touches on cash accuracy, POS expertise, and customer service—retailers scan resumes fast and want to see these traits immediately.",
+    "In your work history, prioritize quantity (transactions per shift, customer volume) and accuracy metrics (zero discrepancies, 99%+ record) over generic job description copy.",
+    "If you have retail or customer service certifications (food safety, customer service badge, conflict resolution training), put them in a dedicated Skills or Certifications section—they're hiring signals.",
+    "Close with a simple Skills section listing specific POS systems, payment methods you're comfortable with (Apple Pay, contactless, chip readers), and soft skills (conflict resolution, teamwork)."
+  ],
+  "atsKeywords": [
+    "cash handling",
+    "point of sale systems",
+    "customer service",
+    "payment processing",
+    "register operation",
+    "retail experience",
+    "cash drawer reconciliation",
+    "POS software"
+  ],
+  "salarySignal": "Entry-level US cashier salaries typically range from $24,000 to $28,000 annually (around $12–$15/hour); rates vary by region, retailer, and whether the role includes tips or commission.",
+  "faq": [
+    {
+      "q": "Should I put 'cashier' on my resume if I've never worked retail before?",
+      "a": "Yes—frame any money-handling, customer-facing, or high-pressure roles using the same language: accuracy, speed, multitasking. Banking, teller, restaurant host, or barista experience all count. Use the job title from your past role, but highlight the transferable skills."
+    },
+    {
+      "q": "What if I don't have POS experience yet?",
+      "a": "Don't lie, but do emphasize your willingness to learn and any related experience (computers, customer interaction, fast environments). Once you're trained, update your resume immediately with the specific POS name—that becomes a major selling point for future roles."
+    },
+    {
+      "q": "How do I quantify 'good customer service' on a cashier resume?",
+      "a": "Use customer volume (served 150+ daily), feedback metrics (5-star ratings, zero complaints per shift), and conflict resolution (handled X returns/disputes smoothly). Any tangible measure beats vague praise."
+    },
+    {
+      "q": "Should I mention that I work part-time or are a student?",
+      "a": "You don't need to—your job title and dates speak for themselves. If your availability or schedule is relevant, mention it only if the job posting specifically asks. Otherwise, let your results do the talking."
+    },
+    {
+      "q": "What's the best way to explain a short employment history or job hopping?",
+      "a": "Focus on skills and results, not tenure. If you've held 3 cashier roles in 2 years, highlight consistent strengths (accuracy, speed, customer praise) rather than dwelling on why you left. Hiring managers care more about what you'll do in the role than why you left the last one."
+    }
+  ]
+}

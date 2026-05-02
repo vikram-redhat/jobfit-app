@@ -1,0 +1,130 @@
+{
+  "slug": "lab-assistant",
+  "title": "Lab Assistant",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:05:54.917Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Lab Assistant Resume: Examples & Tips for 2026",
+  "metaDescription": "Write a standout lab assistant resume with proven examples, skills, and ATS keywords. Land your first lab role with actionable guidance.",
+  "h1": "How to Write a Lab Assistant Resume That Gets Interviews",
+  "intro": "A strong lab assistant resume shows you're detail-oriented, safety-conscious, and ready to support research or clinical work from day one. We'll walk you through the exact skills, format, and keywords that hiring managers and labs actually look for—plus real examples of what works.",
+  "audience": "Recent biology, chemistry, or life science grads applying to their first lab roles, and career switchers moving into lab environments from other fields.",
+  "topSkills": [
+    {
+      "name": "Laboratory Safety & Compliance",
+      "why": "Labs require strict adherence to safety protocols and regulatory standards; hiring managers screen hard for this on every resume."
+    },
+    {
+      "name": "Sample Preparation & Handling",
+      "why": "Core day-to-day responsibility; labs need candidates who can process, label, and store specimens correctly and consistently."
+    },
+    {
+      "name": "Equipment Operation & Calibration",
+      "why": "Lab assistants must be comfortable using centrifuges, autoclaves, microscopes, and other instruments; specific equipment names on your resume match job postings."
+    },
+    {
+      "name": "Data Recording & Lab Notebooks",
+      "why": "Accurate documentation is non-negotiable in research and clinical labs; hiring managers want to see you understand GLP and data integrity."
+    },
+    {
+      "name": "Aseptic Technique & Sterilization",
+      "why": "Prevents contamination and ensures reliable results; especially critical in microbiology, cell culture, and clinical labs."
+    },
+    {
+      "name": "Chemical Inventory & Waste Management",
+      "why": "Labs depend on organized chemical tracking and disposal; shows you understand OSHA and environmental responsibility."
+    },
+    {
+      "name": "Quality Control Testing",
+      "why": "Even entry-level assistants perform QC checks; demonstrating familiarity with testing protocols and pass/fail documentation strengthens your candidacy."
+    },
+    {
+      "name": "Microsoft Excel & Lab Information Systems (LIMS)",
+      "why": "Most labs use digital data entry and tracking; Excel proficiency is table stakes, and any LIMS experience sets you apart."
+    },
+    {
+      "name": "Attention to Detail & Record Keeping",
+      "why": "One mistake in sample labeling or documentation can invalidate weeks of work; hiring managers look for evidence of meticulous habits."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped with lab experiments and prepared samples for analysis.",
+      "strong": "Prepared and labeled 150+ biological samples weekly for microbial culture analysis; maintained 99.2% accuracy rate in inventory tracking across 200+ chemical compounds using LIMS.",
+      "lesson": "Adding specific numbers (150+, 99.2%, 200+) and naming tools (LIMS) transforms a vague task into a measurable achievement that ATS systems can parse."
+    },
+    {
+      "weak": "Followed safety procedures and cleaned equipment.",
+      "strong": "Maintained 100% safety compliance across 40+ weekly lab sessions; performed preventative calibration and cleaning on centrifuges and autoclaves, reducing downtime by 15%.",
+      "lesson": "Quantifying compliance (100%) and linking routine maintenance to a business outcome (15% downtime reduction) shows you understand lab operations matter beyond just staying safe."
+    },
+    {
+      "weak": "Worked on data entry and organized lab supplies.",
+      "strong": "Recorded and validated 500+ experimental data points weekly in Excel; redesigned chemical storage system, reducing retrieval time by 20 minutes per shift and improving compliance with OSHA labeling requirements.",
+      "lesson": "Specific numbers (500+ data points) and a process improvement with measurable impact (20-minute savings) demonstrate initiative and business awareness, not just task completion."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes.",
+      "fix": "Replace 'responsible for X' with 'accomplished X, which resulted in Y'—labs want to see impact, not just tasks performed."
+    },
+    {
+      "mistake": "Omitting safety certifications or training.",
+      "fix": "Create a dedicated 'Certifications & Training' section listing biosafety level training, bloodborne pathogen certification, chemical safety, or any lab-specific credentials you hold."
+    },
+    {
+      "mistake": "Using vague equipment experience.",
+      "fix": "Name specific instruments you've used (e.g., 'spectrophotometer,' 'PCR thermocycler,' 'autoclave,' 'hemocytometer') rather than 'lab equipment'—recruiters search for exact tool names."
+    },
+    {
+      "mistake": "Downplaying academic lab work or internships.",
+      "fix": "Treat any lab experience—class projects, senior thesis, research assistantships—as professional work; quantify samples processed, experiments completed, or data points analyzed."
+    },
+    {
+      "mistake": "Forgetting to mention quality control or accuracy metrics.",
+      "fix": "Highlight QC checks performed, error rates, or accuracy percentages; labs live and die by data quality, and hiring managers want proof you care about precision."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or skills section that includes 3–4 lab-specific keywords (e.g., 'aseptic technique,' 'sample preparation,' 'equipment calibration'); this catches both human eyes and ATS scanners early.",
+    "Place certifications and technical training (biosafety, chemical safety, GLP) prominently near the top or in a dedicated section—labs often filter on these before reviewing experience.",
+    "Group lab experience chronologically, but within each role, lead with measurable contributions (samples processed, accuracy rates, procedures mastered) before listing routine duties.",
+    "If you lack paid lab experience, create a section for 'Relevant Lab Coursework' or 'Academic Lab Projects' and treat it with the same weight as paid work—include the techniques, instruments, and outcomes."
+  ],
+  "atsKeywords": [
+    "laboratory safety",
+    "sample preparation",
+    "aseptic technique",
+    "equipment calibration",
+    "quality control",
+    "data entry",
+    "LIMS",
+    "inventory management",
+    "biosafety certification",
+    "chemical waste disposal"
+  ],
+  "salarySignal": "Entry-level lab assistant salaries in the US typically range from $26,000 to $32,000 annually; regional variation and employer type (research, clinical, pharmaceutical) significantly influence compensation.",
+  "faq": [
+    {
+      "q": "How do I write a lab assistant resume with no paid lab experience?",
+      "a": "Lead with a strong 'Relevant Lab Experience' or 'Academic Projects' section that details class experiments, senior thesis work, or volunteer lab hours. Treat these exactly like paid roles: name the organisms or samples you worked with, list equipment you operated, and quantify output (e.g., '50+ cultures prepared,' '20 assays completed')."
+    },
+    {
+      "q": "What certifications should I include on my lab assistant resume?",
+      "a": "Prioritize biosafety level (BSL-1 or BSL-2) training, bloodborne pathogen certification, OSHA chemical safety, and GLP (Good Laboratory Practice) awareness if you have them. List these in a separate 'Certifications' section near the top. If you don't have these yet, note that you're willing to obtain them—labs often pay for training after hire."
+    },
+    {
+      "q": "Should I list every piece of lab equipment I've touched?",
+      "a": "Yes, but be strategic: include equipment you've used independently or regularly (centrifuge, autoclave, microscope, pipettes, spectrophotometer). Skip one-off observations. Group similar instruments (e.g., 'pipettes and multichannel dispensers') if space is tight, but spell out specific tools in your bullet points to maximize ATS keyword matches."
+    },
+    {
+      "q": "How do I show attention to detail on a lab assistant resume?",
+      "a": "Quantify accuracy rates, error-free batches processed, or compliance achievements ('maintained 100% accuracy in sample labeling across 300+ weekly specimens'). Also ensure your resume itself is impeccably formatted—no typos, consistent date formatting, and clean layout signal that you care about precision."
+    },
+    {
+      "q": "What should I emphasize if I'm switching from a non-lab career?",
+      "a": "Highlight transferable skills—data entry, attention to detail, inventory management, safety consciousness—and any lab-adjacent work (pharmacy tech, medical assistant, manufacturing QA). Then show you're serious by listing recent lab training, certifications, or volunteer lab hours. Hiring managers want to see you've actively prepared for the pivot."
+    }
+  ]
+}

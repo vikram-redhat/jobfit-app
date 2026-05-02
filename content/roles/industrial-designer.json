@@ -1,0 +1,130 @@
+{
+  "slug": "industrial-designer",
+  "title": "Industrial Designer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:50.044Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Industrial Designer Resume: Skills, Examples & Tips",
+  "metaDescription": "Write an industrial designer resume that stands out. See sample bullets, key skills, and ATS keywords hiring managers actually search for.",
+  "h1": "Industrial Designer Resume Guide: Skills & Examples That Win Interviews",
+  "intro": "Industrial design sits at the intersection of art, engineering, and user needs—and your resume needs to prove you can juggle all three. We'll show you how to translate your portfolio, CAD skills, and real-world projects into resume language that catches both hiring managers and ATS scanners.",
+  "audience": "Recent design grads, junior industrial designers moving into their first role, and career switchers from engineering or product design backgrounds.",
+  "topSkills": [
+    {
+      "name": "CAD Software (SolidWorks, Fusion 360, Rhino)",
+      "why": "Nearly every industrial design job description lists CAD proficiency as non-negotiable; it's the digital language your employer expects you to already speak."
+    },
+    {
+      "name": "Prototyping & 3D Printing",
+      "why": "Hiring managers want proof you can move from sketch to physical model; they're looking for hands-on manufacturing knowledge, not just theory."
+    },
+    {
+      "name": "User Research & Design Thinking",
+      "why": "Modern industrial design is driven by user needs; companies want designers who understand ergonomics, user testing, and iterative design processes."
+    },
+    {
+      "name": "Sketching & Ideation",
+      "why": "Even in a digital world, freehand sketching shows creative thinking and fast concept exploration—often your first step before CAD."
+    },
+    {
+      "name": "Materials & Manufacturing Knowledge",
+      "why": "Recruiters filter for designers who understand injection molding, CNC machining, and material costs; it separates concept artists from product-ready designers."
+    },
+    {
+      "name": "Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+      "why": "You'll need these for rendering presentations, product visualizations, and portfolio documentation that your hiring manager will actually see."
+    },
+    {
+      "name": "Product Development & Design for Manufacturability",
+      "why": "Companies care less about beautiful designs and more about designs that ship on time and on budget; DFM thinking is a huge differentiator."
+    },
+    {
+      "name": "Rendering & Visualization (KeyShot, Visualize)",
+      "why": "High-quality product renderings are how you sell stakeholders and clients; it's a critical skill that shows polish and professionalism."
+    },
+    {
+      "name": "Cross-functional Collaboration (Engineering, Marketing, Supply Chain)",
+      "why": "Industrial designers work in teams; your resume should show you've worked alongside engineers and product managers, not in isolation."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed multiple consumer products using CAD software",
+      "strong": "Led design of compact kitchen appliance from concept to production; CAD models in SolidWorks reduced manufacturing cost by 18% through optimized injection molding, shipped to 500K+ units",
+      "lesson": "Specific product, named tool, measurable business impact (cost/volume), and proof it shipped—not just a concept."
+    },
+    {
+      "weak": "Created sketches and prototypes for design reviews",
+      "strong": "Produced 40+ rapid hand sketches and 3D-printed 8 prototype iterations over 6 weeks; user feedback led to ergonomic grip redesign, reducing customer pain-point complaints by 65%",
+      "lesson": "Quantified output (sketches, iterations), timeline, and direct user impact instead of vague design activity."
+    },
+    {
+      "weak": "Worked with engineering and manufacturing teams",
+      "strong": "Collaborated with mechanical engineers and contract manufacturer to solve critical assembly bottleneck; designed modular component interface that reduced assembly time by 40% and tooling cost by $120K",
+      "lesson": "Named the stakeholders, identified the specific problem, and tied design decision to clear financial or efficiency win."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Treating portfolio as separate from resume",
+      "fix": "Your resume should directly point to and summarize your best 3–5 projects (even as hyperlinks); don't assume the hiring manager will hunt for a portfolio link. Make it frictionless."
+    },
+    {
+      "mistake": "Listing CAD skills without showing real output",
+      "fix": "Replace 'Proficient in SolidWorks' with a concrete project: 'Designed and iteratively refined consumer electronics casing in SolidWorks; 2 injection-molded versions shipped.' Prove you've actually used it."
+    },
+    {
+      "mistake": "Focusing on the design, not the business result",
+      "fix": "Hiring managers care about impact: cost reduction, user satisfaction, time to market, or manufacturability gains. Every bullet should link your design decision to a business or user outcome."
+    },
+    {
+      "mistake": "Omitting manufacturing/DFM details",
+      "fix": "Add one sentence per project about how it was made: injection molded, CNC'd, 3D-printed, etc. Shows you think about real-world constraints, not just aesthetics."
+    },
+    {
+      "mistake": "Weak rendering & presentation claims",
+      "fix": "Don't just say 'created renderings.' Instead: 'Produced photorealistic KeyShot renderings and presentation decks used in C-suite investor pitches.' Show it was *used* and *impactful*."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Key Projects' or 'Selected Work' section before your traditional experience—give hiring managers a visual anchor of your strongest 2–3 products upfront, with 1–2 bullets per project.",
+    "In each role, order bullets by scale and impact first: shipped products and user-facing wins should come before internal tools or design exercises.",
+    "Group technical skills (CAD, rendering, prototyping tools) near your experience section with proof of use—don't just list them in a generic skills block. Context matters.",
+    "Include a brief 'Tools & Software' section that mirrors the job posting's language exactly (SolidWorks, Fusion 360, Rhino, KeyShot, Adobe CC, etc.), but only list tools you've genuinely used for real projects."
+  ],
+  "atsKeywords": [
+    "CAD design",
+    "SolidWorks",
+    "Fusion 360",
+    "product design",
+    "prototyping",
+    "3D modeling",
+    "user-centered design",
+    "design for manufacturability",
+    "injection molding",
+    "design thinking"
+  ],
+  "salarySignal": "Entry-level industrial designers in the US typically earn $55K–$70K annually; mid-level (3–7 years experience) ranges from $75K–$95K. Senior industrial designers and design leads can reach $110K–$150K+. Salary varies by region (West Coast and tech hubs trend higher) and industry (consumer electronics, automotive, and CPG tend to pay more than furniture or home goods).",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my resume?",
+      "a": "Yes. Put it in your header or summary with a short URL (e.g., 'Portfolio: yourname.design'). Many ATS systems don't click links, but hiring managers will. Your resume bullets should also summarize your top 2–3 projects so they know what to expect in your portfolio."
+    },
+    {
+      "q": "What if I don't have shipped products yet?",
+      "a": "Lead with academic projects, internship work, or self-initiated designs that show full process: research, sketching, CAD modeling, prototyping, iteration. Emphasize what you learned and how users (or classmates, or test groups) reacted. Real-world impact beats finished products if you can show rigorous process."
+    },
+    {
+      "q": "How do I highlight soft skills like collaboration without sounding generic?",
+      "a": "Name the teams you worked with (mechanical engineering, supply chain, marketing) and point to a specific output: 'Partnered with manufacturing engineer to reduce assembly complexity; revised snap-fit design led to 40% faster line time.' Tie teamwork to a tangible result."
+    },
+    {
+      "q": "Do I need rendering software (KeyShot) experience to get hired?",
+      "a": "It's a strong plus, but not always required for junior roles. CAD and basic Adobe skills (Photoshop, Illustrator) are more universal. If you're applying to consumer product or automotive roles, rendering experience significantly boosts your chances—consider learning it if you don't have it."
+    },
+    {
+      "q": "How do I show I understand design for manufacturability on my resume?",
+      "a": "Use DFM-specific language in bullets: 'reduced tooling cost by $X,' 'optimized wall thickness for injection molding,' 'designed modular assembly to meet cost targets,' or 'eliminated secondary operations through design.' Show you think about real production constraints, not just beauty."
+    }
+  ]
+}

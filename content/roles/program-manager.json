@@ -1,0 +1,126 @@
+{
+  "slug": "program-manager",
+  "title": "Program Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:46:37.316Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Program Manager Resume: Templates & Tips for 2025",
+  "metaDescription": "Learn how to write a Program Manager resume that gets past ATS and lands interviews. Real examples, key skills, and hiring manager secrets.",
+  "h1": "How to Write a Program Manager Resume That Gets Noticed",
+  "intro": "Program Manager roles sit at the intersection of strategy, execution, and cross-team leadership—and your resume needs to prove you can juggle all three. We'll show you how to highlight the metrics and leadership moments that make hiring managers call you back.",
+  "audience": "Recent MBA grads, career switchers from operations or business analysis, and mid-level professionals stepping into their first dedicated PM role.",
+  "topSkills": [
+    {
+      "name": "Program Planning & Roadmapping",
+      "why": "Hiring managers need to see you can break down complex initiatives into measurable phases and timelines."
+    },
+    {
+      "name": "Stakeholder Management",
+      "why": "PMs live at the intersection of multiple teams; demonstrating cross-functional influence is critical."
+    },
+    {
+      "name": "Budget Management",
+      "why": "Owning P&L or expense responsibility signals you think like a business leader, not just a coordinator."
+    },
+    {
+      "name": "Project & Portfolio Management Tools",
+      "why": "Fluency in Jira, Asana, Monday, or similar platforms is table stakes for modern PM roles."
+    },
+    {
+      "name": "Risk & Issue Management",
+      "why": "Proactively identifying and mitigating blockers separates competent PMs from great ones."
+    },
+    {
+      "name": "Cross-Functional Leadership",
+      "why": "PMs rarely have direct reports; your ability to lead without authority is what gets you hired."
+    },
+    {
+      "name": "Process Improvement & Optimization",
+      "why": "Demonstrating you've streamlined workflows or reduced cycle time shows operational maturity."
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "why": "Metrics and analytics backing your program decisions prove you're analytical, not just intuitive."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed cross-functional team to deliver new product launch on time.",
+      "strong": "Led go-to-market roadmap for enterprise SaaS product launch across 4 departments; coordinated 8-week timeline and $250K budget, delivered 2 weeks ahead of schedule with 87% feature completeness.",
+      "lesson": "Adding specific scope, timeline, budget, and outcome metrics transforms a generic activity into proof of PM competence."
+    },
+    {
+      "weak": "Improved communication between teams.",
+      "strong": "Redesigned weekly standup cadence and implemented shared Jira dashboard, reducing scope misalignment incidents by 65% and cutting avg. decision-to-execution time from 9 days to 4 days.",
+      "lesson": "Naming the problem, the solution, and the measurable impact shows you didn't just talk—you solved something real."
+    },
+    {
+      "weak": "Responsible for managing stakeholder expectations.",
+      "strong": "Established monthly stakeholder governance meetings with C-suite and product leads; maintained 100% on-time delivery against 12-month program roadmap; identified and escalated 3 critical risks that saved $180K in rework costs.",
+      "lesson": "Specific cadence, success rate, and downstream business value prove your stakeholder management actually moved the needle."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Using 'coordinator' language instead of 'leader' language",
+      "fix": "Replace 'helped schedule meetings' with 'owned stakeholder alignment and drove consensus on X,' even if you weren't in a formal leadership role."
+    },
+    {
+      "mistake": "Listing activities instead of outcomes",
+      "fix": "Never just say what you did; always connect it to a business result (time saved, money managed, speed improved, risk mitigated, revenue influenced)."
+    },
+    {
+      "mistake": "Burying your biggest wins in bullet 4 or 5",
+      "fix": "Front-load each role with your single biggest program achievement or impact first; lead with metrics."
+    },
+    {
+      "mistake": "Omitting the tools and platforms you actually used",
+      "fix": "Mention Jira, Asana, Monday.com, Tableau, SQL, or whatever PM tech stack you touched—these are ATS keywords and proof of modern PM acumen."
+    },
+    {
+      "mistake": "Not quantifying scope or team size",
+      "fix": "Always tell readers: 'Led X people across Y teams,' 'owned $X budget,' 'delivered X initiatives'—these anchor your seniority level."
+    }
+  ],
+  "structureTips": [
+    "Lead your Professional Summary with 1–2 sentence proof point of your biggest program win (e.g., 'Scaled enterprise software onboarding program from 3 to 45+ clients in 18 months; built and mentored team of 4'), not generic PM descriptor.",
+    "Under each role, lead with your largest program or P&L ownership first, then supporting cross-functional leadership wins; this shows ambition and complexity you can handle.",
+    "Include a dedicated 'Tools & Systems' line at the bottom of your summary or at the end of each role if you've used Jira, Asana, Monday, Tableau, SQL, or other PM stack—ATS systems flag these as PM-specific.",
+    "If you're coming from Operations, Consulting, or Business Analysis, explicitly call out 'Program Management' as a function in your role title or summary so ATS doesn't filter you out."
+  ],
+  "atsKeywords": [
+    "program management",
+    "cross-functional leadership",
+    "stakeholder management",
+    "budget management",
+    "roadmap development",
+    "project planning",
+    "risk management",
+    "process improvement",
+    "Jira or Asana",
+    "portfolio management"
+  ],
+  "salarySignal": "Entry-level Program Manager roles in the US typically pay $65K–$85K; mid-level PMs see $95K–$130K; senior/principal PMs often exceed $150K+, with significant variation by geography, industry, and company size.",
+  "faq": [
+    {
+      "q": "What's the difference between 'Program Manager' and 'Project Manager' on a resume?",
+      "a": "Programs are portfolios of related projects aligned to a strategic outcome; projects are time-bound deliverables. On your resume, highlight program scope (multiple workstreams, longer timelines, strategic intent) vs. single-project execution to signal the right level. Hiring managers notice the distinction."
+    },
+    {
+      "q": "How do I show PM impact if I came from a non-PM role?",
+      "a": "Reframe your previous title around program-like activities: 'Led cross-functional initiative to streamline X,' 'Owned 6-month roadmap for Y,' 'Managed $Z budget and stakeholder alignment.' Use PM language and metrics, even if your official title was Analyst or Coordinator."
+    },
+    {
+      "q": "Should I include Agile/Scrum certifications on my resume?",
+      "a": "Only if you have them (CSM, SAFe, etc.). Don't list them prominently unless the job explicitly asks; instead, embed Agile/Scrum knowledge into your bullet points (e.g., 'Ran 2-week sprint cycles managing 40+ story points'). Hiring managers prefer demonstrated Agile chops over certs alone."
+    },
+    {
+      "q": "How many programs or initiatives should I highlight per role?",
+      "a": "Lead with 1–2 flagship programs (your biggest wins), then 2–3 supporting bullets showing breadth (cross-functional depth, risk management, process wins). Quality beats quantity; one $5M program beats five $100K projects."
+    },
+    {
+      "q": "What if I've never managed a budget—is that a dealbreaker?",
+      "a": "Not a dealbreaker, but it hurts at mid+ levels. If budget is new to you, find a 'owned cost tracking,' 'optimized vendor spend,' or 'resource allocation' angle from a past role. For entry-level, strong roadmapping and cross-functional execution can compensate."
+    }
+  ]
+}

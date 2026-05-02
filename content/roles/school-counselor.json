@@ -1,0 +1,130 @@
+{
+  "slug": "school-counselor",
+  "title": "School Counselor",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:17.181Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "School Counselor Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a winning school counselor resume with key skills, action verbs, and real examples. Get hired faster with our targeted resume guide.",
+  "h1": "School Counselor Resume: Stand Out & Get Hired",
+  "intro": "School counselors juggle student support, parent communication, and administrative duties—and your resume needs to reflect that range. This guide shows you how to highlight the soft skills and measurable outcomes that hiring managers (and district HR systems) actually look for.",
+  "audience": "Recent grad counseling students, teachers transitioning to counseling roles, and career switchers with a school counseling degree or certification seeking their first or next role in K–12 settings.",
+  "topSkills": [
+    {
+      "name": "Student Advocacy & Support",
+      "why": "Demonstrates your core responsibility: championing student success, mental health, and well-being—the heart of any counselor's job."
+    },
+    {
+      "name": "Crisis Intervention & Mental Health",
+      "why": "Schools need counselors trained to handle behavioral crises, suicide risk, and trauma; this signals you're prepared for real scenarios."
+    },
+    {
+      "name": "College & Career Counseling",
+      "why": "Many districts require counselors to guide students through post-secondary pathways, making this a high-value, differentiating skill."
+    },
+    {
+      "name": "Collaboration & Stakeholder Communication",
+      "why": "Counselors liaise with teachers, parents, administrators, and outside agencies; showing this signals you're a team player."
+    },
+    {
+      "name": "Individualized Education Plan (IEP) & 504 Plan Facilitation",
+      "why": "Districts operate under IDEA and Section 504; experience running meetings and drafting accommodations is a legal and practical need."
+    },
+    {
+      "name": "Small-Group & Classroom Counseling",
+      "why": "Many counselor jobs require classroom guidance lessons or group counseling; demonstrating facilitation shows breadth."
+    },
+    {
+      "name": "Data Analysis & Student Outcome Tracking",
+      "why": "Districts increasingly expect counselors to track attendance, grades, and engagement metrics to justify program impact."
+    },
+    {
+      "name": "SEL (Social-Emotional Learning) Program Implementation",
+      "why": "SEL is a major focus in modern schools; experience designing or delivering SEL curricula is a competitive edge."
+    },
+    {
+      "name": "School Counseling Certification (State-Specific)",
+      "why": "Many states require specific licensure or certification; listing it upfront signals you meet legal hiring requirements."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided counseling services to students and helped them with personal and academic issues.",
+      "strong": "Delivered individual and group counseling to 120+ students; tracked attendance and reduced chronic absenteeism by 15% through targeted interventions and parent partnerships.",
+      "lesson": "Concrete numbers—student caseload, outcome metrics—show scale and impact, not just activity."
+    },
+    {
+      "weak": "Facilitated IEP meetings and worked with the special education team.",
+      "strong": "Facilitated 40+ IEP and 504 Plan meetings annually; collaborated with SpEd, teachers, and families to update accommodations and ensured 95% plan compliance documentation.",
+      "lesson": "Quantifying meetings, naming the compliance metric, and listing collaborators transforms a vague duty into proof of expertise and accountability."
+    },
+    {
+      "weak": "Created guidance curriculum and taught lessons in classrooms.",
+      "strong": "Designed and delivered 25+ SEL and college-prep classroom lessons to 500+ K–12 students; pre/post surveys showed 40% increase in self-awareness and goal-setting skills.",
+      "lesson": "Pairing lesson output with student reach and measured learning gains demonstrates both volume and pedagogical rigor."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic 'counseling skills' without context",
+      "fix": "Always tie skills to school-specific scenarios (e.g., 'Used motivational interviewing in 1-on-1 sessions to help 8 at-risk freshmen improve GPA'). Specificity signals real-world application."
+    },
+    {
+      "mistake": "Omitting certification, licensure, and state requirements",
+      "fix": "Create a dedicated 'Licenses & Certifications' section near the top with your state's school counseling credential, degree, and any specialty certs (e.g., trauma-informed care, suicide prevention training)."
+    },
+    {
+      "mistake": "Using therapy language instead of school-counselor language",
+      "fix": "Schools want to hear 'student advocacy,' 'academic planning,' and 'school climate'—not therapy jargon. Adapt your language to K–12 context."
+    },
+    {
+      "mistake": "Failing to quantify time, caseload, or impact",
+      "fix": "Districts run on data. Mention caseload size, number of students served, attendance/grade improvement rates, or percentage of seniors who met college-readiness benchmarks—concrete numbers justify the role."
+    },
+    {
+      "mistake": "Not highlighting parent & community outreach",
+      "fix": "Counselors are school ambassadors. Include work with families, community agencies, and parent workshops to show you're not siloed; schools value whole-community impact."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Professional Summary' that anchors your school-level experience (e.g., '3 years supporting 300+ diverse K–8 students in academics, college planning, and mental health'). Use numbers and role-specific language upfront so ATS and hiring managers see fit immediately.",
+    "Place 'Licenses & Certifications' directly after Summary or in the top third. Districts filter by state credential and may use keyword searches for specific certificates (e.g., 'School Counseling Certification – Florida'). Make it easy to find.",
+    "Organize 'Professional Experience' by school level or caseload type if you've worked across multiple settings (e.g., 'High School Counselor, 2022–present' and 'Middle School Counselor, 2020–2022'). This clarifies whether you've rotated grades and broadens your appeal.",
+    "End with 'Professional Development' or 'Training' to list workshops, certifications, and continued education (e.g., 'Trauma-Informed Schools Certification,' 'Suicide Risk Assessment Training'). Districts favor counselors who stay current on mental health and school policy."
+  ],
+  "atsKeywords": [
+    "school counselor",
+    "student advocacy",
+    "IEP facilitation",
+    "college and career counseling",
+    "crisis intervention",
+    "mental health support",
+    "504 plan",
+    "social-emotional learning",
+    "school counseling certification",
+    "caseload management"
+  ],
+  "salarySignal": "Entry-level school counselor salaries typically range from $35,000 to $48,000 in the US, with experienced counselors earning $55,000–$75,000+ depending on district size, location, and state funding. Many districts offer summer stipends for counseling-related work.",
+  "faq": [
+    {
+      "q": "What certifications do I need to list on my school counselor resume?",
+      "a": "List your state's specific school counseling credential or license (requirements vary by state). Also include any supplemental certifications like Trauma-Informed Schools, Crisis Intervention Training (CIT), suicide prevention certification (QPR or ASIST), or SEL endorsements. Place these in a dedicated 'Licenses & Certifications' section near the top so ATS systems and hiring managers spot them immediately."
+    },
+    {
+      "q": "How do I show impact if I'm a new grad with no school counselor experience?",
+      "a": "Highlight practicum/internship placements, real numbers from your clinical work (e.g., 'Provided counseling to 45 students in K–5 setting during yearlong internship'), and any volunteer or substitute counselor roles. Focus on the breadth of settings you've touched and measurable student outcomes, even if small. Emphasize coursework and training in crisis response and SEL if practical experience is thin."
+    },
+    {
+      "q": "Should I include classroom guidance or just 1-on-1 counseling?",
+      "a": "Absolutely include classroom guidance. Many districts count SEL lessons, guidance curriculum delivery, and group counseling as core duties. Mentioning both breadth (classrooms, groups, individuals) and impact (e.g., '500+ students reached with college-readiness lessons') shows you're not limited to individual counseling and can scale your influence."
+    },
+    {
+      "q": "How do I quantify 'student success' on a school counselor resume?",
+      "a": "Use metrics like attendance improvement, GPA increase, college acceptance rates, or graduation rates for your cohort. If you track SEL outcomes, cite pre/post survey improvements. Mention caseload (e.g., '120 middle schoolers') and subgroup focus (e.g., 'first-generation college students,' 'ELL learners'). Districts respect counselors who tie their work to institutional metrics."
+    },
+    {
+      "q": "What's the best way to show parent and community collaboration?",
+      "a": "Add a bullet or section highlighting parent workshops, family outreach events, community agency referrals, or partnership programs. For example: 'Coordinated 8 parent college-prep workshops reaching 150+ families; partnered with 5 community mental health agencies for student referrals and follow-up.' This shows you understand the ecosystems schools operate in and aren't siloed in an office."
+    }
+  ]
+}

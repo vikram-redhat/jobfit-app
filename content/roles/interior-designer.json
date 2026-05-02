@@ -1,0 +1,130 @@
+{
+  "slug": "interior-designer",
+  "title": "Interior Designer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:50.860Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Interior Designer Resume Guide | Examples & Tips",
+  "metaDescription": "Craft an Interior Designer resume that lands interviews. Learn what skills to highlight, how to showcase projects, and what hiring managers actually want to see.",
+  "h1": "How to Write an Interior Designer Resume That Gets Noticed",
+  "intro": "Your interior design portfolio speaks volumes, but your resume needs to speak their language—and fast. Hiring managers at design firms, hospitality brands, and corporate offices spend seconds scanning your resume before deciding whether to dig deeper into your work. We'll show you how to structure it so they stop scrolling and start calling.",
+  "audience": "Recent design school graduates, career switchers from related creative fields, and freelance designers looking to land their first full-time role or move to a new firm.",
+  "topSkills": [
+    {
+      "name": "AutoCAD & 2D/3D design software",
+      "why": "Hiring managers expect you to be fluent in industry-standard CAD tools; it's the baseline for any interior design role."
+    },
+    {
+      "name": "Space planning & layout design",
+      "why": "This is the core of what interior designers do—showing mastery here signals you understand how to solve real spatial problems."
+    },
+    {
+      "name": "SketchUp & 3D visualization",
+      "why": "Client presentations and design communication rely heavily on 3D rendering, and firms want designers who can deliver compelling visuals quickly."
+    },
+    {
+      "name": "Color theory & material selection",
+      "why": "Demonstrating a trained eye for color palettes and fabric/finish choices shows design maturity and client-ready taste."
+    },
+    {
+      "name": "Building codes & ADA compliance",
+      "why": "Safety and accessibility knowledge is non-negotiable in commercial and residential projects; hiring managers verify you can design responsibly."
+    },
+    {
+      "name": "Client communication & presentation skills",
+      "why": "Interior designers bridge creativity and client needs; showing you can present concepts clearly and manage expectations is critical."
+    },
+    {
+      "name": "Revit & BIM software",
+      "why": "Larger firms and commercial projects increasingly use Revit; proficiency here makes you attractive to bigger clients and teams."
+    },
+    {
+      "name": "Project management & budget tracking",
+      "why": "Designers who can keep projects on timeline and within budget are more valuable and less risky to hire."
+    },
+    {
+      "name": "Adobe Creative Suite (InDesign, Illustrator, Photoshop)",
+      "why": "You'll need these for creating mood boards, presentation decks, and client-facing materials that showcase your aesthetic."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed interior spaces for residential and commercial clients.",
+      "strong": "Led design concept through completion for 8+ residential and 3 commercial projects totaling $2.1M in construction value; maintained 95% client satisfaction and zero scope creep through detailed specifications and regular design reviews.",
+      "lesson": "Adding project count, revenue impact, and a measurable satisfaction metric transforms a vague claim into proof of real delivery."
+    },
+    {
+      "weak": "Created floor plans and 3D renderings using design software.",
+      "strong": "Produced 50+ AutoCAD construction documents and SketchUp 3D renderings per quarter, reducing revision cycles by 40% through standardized templates and early client sign-off on visual presentations.",
+      "lesson": "Quantifying output (50+ documents) and showing efficiency gain (40% faster) demonstrates speed and process maturity."
+    },
+    {
+      "weak": "Collaborated with contractors and vendors on project implementation.",
+      "strong": "Managed vendor relationships for 5 concurrent projects, sourcing finishes within 10% of budget targets and coordinating site visits that reduced installation conflicts by 60%.",
+      "lesson": "Specifying the scope (5 concurrent projects), financial discipline (10% variance), and tangible outcome (60% fewer conflicts) proves you drive results beyond just 'collaboration.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Hiding your portfolio link or not mentioning it at all",
+      "fix": "Lead with a prominent portfolio URL or QR code at the top of your resume; hiring managers want to see your work immediately, and a resume without a link wastes their time and yours."
+    },
+    {
+      "mistake": "Listing software skills without clarity on your proficiency level",
+      "fix": "Note your depth: 'Proficient in AutoCAD & Revit' vs. 'Beginner in Revit'—lying about skills kills your credibility fast, and hiring managers will test you."
+    },
+    {
+      "mistake": "Treating every project equally instead of leading with your best work",
+      "fix": "Spotlight 2-3 signature projects with the highest budgets, most complex challenges, or strongest aesthetic impact; skip the small or routine work unless it shows a rare skill."
+    },
+    {
+      "mistake": "Focusing only on aesthetic choices rather than the problem you solved",
+      "fix": "For each project, explain the brief (e.g., 'Redesigned 5,000 sq ft office to improve collaboration and reduce noise') before you talk about the design direction—hiring managers care about outcomes, not just taste."
+    },
+    {
+      "mistake": "Not mentioning budget, timeline, or team role in project descriptions",
+      "fix": "Always include scope: 'Led design for $850K hospitality renovation with 8-month timeline' or 'Supported senior designer on 12-person commercial fit-out'—context proves your seniority and impact."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 2-3 line professional summary that names your specialty (e.g., 'Residential interior designer specializing in sustainable, multifamily residential with 4+ years experience') and drop your portfolio link right there.",
+    "Put your software/technical skills section high (just below contact info or after summary), since hiring managers scan for CAD and 3D tools first; group by category (CAD, 3D/Rendering, Collaboration, Design).",
+    "Under 'Selected Projects' or 'Experience,' lead each bullet with the project type, budget, and timeline upfront so hiring managers immediately know the scope you've handled.",
+    "If you're early-career, include an 'Education & Credentials' section that calls out relevant coursework, certifications (NCIDQ, IIDA membership), or design competitions—these build credibility when you lack years of experience."
+  ],
+  "atsKeywords": [
+    "Interior Design",
+    "AutoCAD",
+    "Space Planning",
+    "3D Visualization",
+    "SketchUp",
+    "Revit",
+    "Design Software",
+    "Construction Documents",
+    "Client Presentations",
+    "Building Codes"
+  ],
+  "salarySignal": "Entry-level US interior designer salaries typically range from $38,000 to $52,000; experienced designers and those in major metros (NYC, LA, Miami) often earn $65,000–$85,000+, with senior positions or firm ownership reaching $100,000 and beyond.",
+  "faq": [
+    {
+      "q": "Should I include my interior design school projects on my resume?",
+      "a": "Yes, but only if they're recent or exceptionally strong. Frame them as 'Academic Projects' with real-world scope (budget, square footage, client brief) to show how you approached design thinking. After your first 2–3 professional projects, replace school work with paid or interned experience."
+    },
+    {
+      "q": "How do I show my interior design portfolio if I'm mostly freelance?",
+      "a": "Create a simple, branded portfolio website or Behance page with your best 8–12 projects, and link it prominently at the top of your resume. Freelance work counts; just make sure each project shows a complete before/after, the design challenge, and your role."
+    },
+    {
+      "q": "What's the best way to format my software skills on an interior designer resume?",
+      "a": "Group by category (CAD: AutoCAD, Revit; Visualization: SketchUp, V-Ray; Design: Adobe Creative Suite, etc.) and list only tools you're genuinely proficient in. Consider adding proficiency level (Expert, Proficient, Beginner) only if you're mixing advanced and newer skills."
+    },
+    {
+      "q": "Do I need NCIDQ certification or IIDA membership to land a job?",
+      "a": "Not always—especially early in your career. However, listing relevant certifications or memberships on your resume signals professionalism and compliance knowledge. If you're aiming for roles in regulated states or corporate/healthcare design, certification becomes more valuable."
+    },
+    {
+      "q": "How should I describe interior design internships on my resume?",
+      "a": "Treat internships the same as junior roles: name the project scope, your specific deliverables (e.g., 'Created space plans and mood boards for 4 residential projects'), and measurable outcomes. Don't downplay the work—hiring managers value interns who show initiative and real design contribution."
+    }
+  ]
+}

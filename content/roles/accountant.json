@@ -1,0 +1,134 @@
+{
+  "slug": "accountant",
+  "title": "Accountant",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:43:59.837Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Accountant Resume: Skills, Bullets & Tips for 2026",
+  "metaDescription": "Land your next accounting job with a strong resume. See real bullet examples, key skills, and common mistakes to avoid.",
+  "h1": "How to Write an Accountant Resume That Gets Interviews",
+  "intro": "Your accounting resume needs to prove you can manage finances, follow compliance rules, and deliver accurate results—fast. This guide shows you exactly how to showcase your technical skills and accomplishments in a way that catches both ATS systems and hiring managers' eyes.",
+  "audience": "Recent accounting graduates, bookkeepers moving into accounting roles, and finance professionals looking to switch to accounting positions.",
+  "topSkills": [
+    {
+      "name": "GAAP (Generally Accepted Accounting Principles)",
+      "why": "Hiring managers expect you to know accounting standards; it's often a mandatory keyword in job postings."
+    },
+    {
+      "name": "Financial Statement Preparation",
+      "why": "Core accountant responsibility; shows you can produce balance sheets, income statements, and cash flow reports independently."
+    },
+    {
+      "name": "QuickBooks / Oracle / SAP",
+      "why": "Most mid-market and enterprise companies use specific accounting software; knowing their stack is a strong ATS signal."
+    },
+    {
+      "name": "Account Reconciliation",
+      "why": "Daily accounting work; proving you can reconcile accounts accurately and on time signals reliability and attention to detail."
+    },
+    {
+      "name": "Tax Preparation & Compliance",
+      "why": "Many accountant roles involve some tax work; familiarity with tax codes and filing procedures is a huge differentiator."
+    },
+    {
+      "name": "Accounts Payable/Receivable",
+      "why": "Core operational experience that shows you've handled cash flow management and vendor/customer relationships."
+    },
+    {
+      "name": "Excel & Data Analysis",
+      "why": "Every accountant uses spreadsheets; strong Excel skills let you automate tasks and impress during technical interviews."
+    },
+    {
+      "name": "Internal Controls & Audit",
+      "why": "Demonstrates understanding of fraud prevention and compliance, which larger companies prioritize heavily."
+    },
+    {
+      "name": "Month-End/Year-End Close",
+      "why": "Shows you've handled high-pressure periods and complex financial consolidation tasks."
+    },
+    {
+      "name": "CPA (Certified Public Accountant)",
+      "why": "If you have it, it's a credential multiplier; even if you're pursuing it, mention your progress clearly."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Reconciled accounts and prepared journal entries.",
+      "strong": "Reconciled 150+ balance sheet accounts monthly with 99.8% accuracy, reducing discrepancies by 45% through standardized audit procedures; completed close process 2 days ahead of deadline.",
+      "lesson": "Specific numbers (account count, accuracy rate, time saved) make your work tangible and quantifiable rather than routine."
+    },
+    {
+      "weak": "Used QuickBooks to process invoices and payments.",
+      "strong": "Processed 500+ vendor invoices and 800+ customer payments monthly in QuickBooks; identified and recovered $12K in duplicate payments through systematic AP audit.",
+      "lesson": "Volume metrics (invoices/payments) plus a concrete business impact (recovered funds) show efficiency and problem-solving, not just tool usage."
+    },
+    {
+      "weak": "Assisted with tax preparation and compliance.",
+      "strong": "Prepared supporting documentation for corporate tax filings (1120-C and state returns); maintained 100% compliance score across 4 consecutive audits and zero IRS adjustments.",
+      "lesson": "Named specific forms and outcomes (zero adjustments, clean audit) prove competence and reduce risk in the hiring manager's mind."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes.",
+      "fix": "Every bullet should start with what you did, then show the business result (time saved, money recovered, accuracy improved, or risk reduced)."
+    },
+    {
+      "mistake": "Hiding your software skills or keeping them vague.",
+      "fix": "Name specific systems (QuickBooks, SAP, NetSuite, Excel) you've used; recruiters often filter on these keywords and assume you haven't used them if you don't mention them."
+    },
+    {
+      "mistake": "Not mentioning regulatory or compliance work.",
+      "fix": "If you've managed audits, handled compliance, or worked on internal controls, call it out—larger companies heavily weight this experience."
+    },
+    {
+      "mistake": "Underselling internships or entry-level roles.",
+      "fix": "Even if you were a junior, quantify what you touched: number of accounts, transaction volume, or close cycles you assisted with."
+    },
+    {
+      "mistake": "Forgetting to note CPA status or active pursuit.",
+      "fix": "Put 'CPA (in progress, X of 4 exams passed)' or 'CPA-eligible' in your header or summary so it's impossible to miss."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that names your accounting focus (e.g., 'GAAP-trained accountant with 3 years' experience in month-end close and audit-ready financial reporting') and any credentials in progress.",
+    "Put your 'Core Competencies' or 'Technical Skills' section high, right after your summary—recruiters and ATS systems scan there first for keywords like GAAP, QuickBooks, and Excel.",
+    "Order your experience bullets by impact, not chronology: lead with your biggest audit saves, close-cycle wins, or compliance achievements before routine reconciliation work.",
+    "If you have a CPA or are pursuing one, include a separate 'Licenses & Certifications' section above Experience; it's a major signal and deserves visibility."
+  ],
+  "atsKeywords": [
+    "GAAP",
+    "Financial statement preparation",
+    "QuickBooks",
+    "Account reconciliation",
+    "Month-end close",
+    "Tax preparation",
+    "Accounts payable",
+    "Accounts receivable",
+    "Internal controls",
+    "CPA certified public accountant"
+  ],
+  "salarySignal": "Entry-level US accountant salaries typically range from $45K to $65K in 2026; senior accountants and those with CPA credentials often earn $70K to $95K+, depending on location and company size.",
+  "faq": [
+    {
+      "q": "Do I need a CPA to land an accountant job?",
+      "a": "No, but it's a significant advantage. Many employers hire college-degree accountants without a CPA. That said, if you're sitting for the CPA exams, mention your progress clearly—it shows trajectory and commitment."
+    },
+    {
+      "q": "What accounting software should I list on my resume?",
+      "a": "List exactly what you've used (QuickBooks, SAP, Oracle, NetSuite, Xero, etc.). If you're proficient in Excel, mention it. If a job posting emphasizes a specific tool, make sure yours matches—ATS systems filter on these phrases."
+    },
+    {
+      "q": "How do I make a bookkeeping or AP/AR role look like stepping stone to accountant?",
+      "a": "Emphasize breadth and complexity: mention exposure to GL reconciliations, multi-entity close cycles, or audit preparation, even if you only assisted. Show how your role grew or expanded into closer-to-accountant work."
+    },
+    {
+      "q": "Should I mention small business tax prep or side gigs?",
+      "a": "Yes, if it's real tax work (1040s, 1120s, state filings). Frame it as 'Tax Preparation & Compliance' experience. It signals variety and shows you've worked under pressure during busy seasons."
+    },
+    {
+      "q": "How specific should I be about account reconciliation experience?",
+      "a": "Very. Name the account count ('150+ balance sheet accounts'), frequency ('monthly'), and accuracy rate or time metric. This is bread-and-butter accountant work—being specific proves you've done serious volume."
+    }
+  ]
+}

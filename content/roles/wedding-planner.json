@@ -1,0 +1,130 @@
+{
+  "slug": "wedding-planner",
+  "title": "Wedding Planner",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:56:57.672Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Wedding Planner Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a wedding planner resume that lands interviews. See sample bullets, key skills, and ATS keywords to highlight your event expertise.",
+  "h1": "Wedding Planner Resume: How to Stand Out to Event Venues & Couples",
+  "intro": "Your wedding planner resume needs to prove you can manage budgets, coordinate vendors, and keep stressed couples calm under pressure. We'll show you how to turn your event experience into bullets that catch hiring managers' eyes—whether you're coming from hospitality, event coordination, or straight into your first planning role.",
+  "audience": "Career-switchers from hospitality or event coordination, recent grads with volunteer event experience, and established planners looking to level up their resume for a higher-end venue or firm.",
+  "topSkills": [
+    {
+      "name": "Budget Management & Cost Control",
+      "why": "Wedding planners are responsible for tracking thousands of dollars across vendors, and hiring managers need proof you won't lose clients money or exceed quotes."
+    },
+    {
+      "name": "Vendor Relationship Management",
+      "why": "Your ability to negotiate with florists, caterers, photographers, and venues directly impacts the couple's experience and your profit margin."
+    },
+    {
+      "name": "Event Timeline & Project Management",
+      "why": "Weddings have hard deadlines and multiple moving pieces; hiring managers look for your system to keep everything on track."
+    },
+    {
+      "name": "Client Communication & Conflict Resolution",
+      "why": "Couples are emotional and stressed; planners who document decisions and handle disagreements professionally retain clients and earn referrals."
+    },
+    {
+      "name": "Wedding Design & Styling",
+      "why": "Visual creativity and the ability to match aesthetic vision to budget separates good planners from ones who land high-end bookings."
+    },
+    {
+      "name": "Logistics & Day-of Coordination",
+      "why": "Running the actual wedding day—timing, setup, troubleshooting—is where your competence becomes obvious and directly affects your reputation."
+    },
+    {
+      "name": "Microsoft Excel & Wedding Planning Software",
+      "why": "Planners use spreadsheets and tools like WeddingWire, The Knot, or Honeybook to manage timelines, budgets, and vendor contacts at scale."
+    },
+    {
+      "name": "Sales & Client Acquisition",
+      "why": "Especially for planners at smaller firms or freelancers, the ability to close leads and convert inquiries into bookings is a direct revenue skill."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Missing a guest count change or a table number detail cascades into chaos; planners are held to near-perfect accuracy."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Planned weddings and worked with clients to make their events happen. Coordinated vendors and handled day-of logistics.",
+      "strong": "Coordinated 25+ weddings annually with budgets ranging from $15K–$75K; negotiated vendor contracts that averaged 12–18% below quoted rates and maintained 98% client satisfaction scores.",
+      "lesson": "Numbers (25+ weddings, budget ranges, 12–18% savings, 98% satisfaction) turn vague responsibility into measurable impact that hiring managers can immediately evaluate."
+    },
+    {
+      "weak": "Managed timelines and schedules for events. Communicated with couples and vendors regularly.",
+      "strong": "Built custom 18-month master timelines for each couple, automated vendor follow-ups via email templates, and logged 50+ vendor touch-points per wedding; zero missed deadlines across 60+ events.",
+      "lesson": "Specific systems (18-month timelines, email automation, logged touchpoints) and a concrete metric (zero missed deadlines across 60+ events) show maturity and repeatability."
+    },
+    {
+      "weak": "Helped couples with their wedding vision and made sure everything looked good on the day.",
+      "strong": "Translated couple's Pinterest boards and budget constraints into actionable décor specs; sourced and staged 40+ wedding rentals within theme parameters; earned 15+ referral bookings based on visual execution and client testimonials.",
+      "lesson": "Linking creativity to constraints (budget, theme) and adding a business outcome (15+ referrals) shows you're not just artistic—you're profitable and repeatable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes ('Responded to client emails,' 'Set up tables')",
+      "fix": "Focus on results: client retention %, referrals earned, budget savings, timelines met, or specific design wins. Every bullet should answer 'So what?'"
+    },
+    {
+      "mistake": "Burying event count or size range in the resume",
+      "fix": "Lead with volume and budget scope early ('Managed 30+ weddings annually with combined revenue of $1.2M' or 'Coordinated events for 50–300 guests'). Hiring managers scan for scale."
+    },
+    {
+      "mistake": "Treating day-of coordination as equal to planning",
+      "fix": "Separate your role clearly. Full-service planners should emphasize the 12+ months of prep work, vendor management, and design; day-of coordinators should lead with execution and problem-solving under pressure."
+    },
+    {
+      "mistake": "Forgetting to mention software/tools you use",
+      "fix": "Name the platforms (WeddingWire, Honeybook, Asana, Excel pivot tables, etc.). Many venue and firm applicant tracking systems filter for specific tools; you need the keywords visible."
+    },
+    {
+      "mistake": "Not quantifying vendor relationships or negotiation wins",
+      "fix": "Include specific wins: 'Negotiated 18-month contract with caterer at 15% discount' or 'Built preferred vendor network of 35+ trusted partners across photography, florals, and catering.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a summary or objective that anchors your scale and niche (e.g., 'Full-Service Wedding Planner | 40+ Annual Events | $500K–$2M Budgets | Specialty: Destination Weddings'). Hiring managers need to spot-check fit in 6 seconds.",
+    "Put your most recent and largest wedding portfolio or highest-revenue role in the top position, and group related skills (Vendor Management, Design, Logistics) rather than scattering them across bullet points.",
+    "If you're coming from hospitality or event coordination, create a standalone 'Relevant Experience' or 'Wedding Planning' subsection to spotlight your weddings separately from general event work.",
+    "Include a brief 'Expertise' or 'Key Competencies' section that mirrors job posting keywords (e.g., 'Client Relationship Management, Vendor Negotiation, Budget Forecasting, Day-of Coordination, Design Consultation')."
+  ],
+  "atsKeywords": [
+    "wedding planner",
+    "vendor management",
+    "budget management",
+    "event coordination",
+    "client communication",
+    "day-of coordination",
+    "wedding design",
+    "timeline management",
+    "WeddingWire",
+    "Honeybook"
+  ],
+  "salarySignal": "Entry-level wedding planner salaries (coordinator/assistant roles) typically range from $30K–$45K in the US; full-service planners at firms or high-traffic venues average $45K–$65K, with top earners and business owners in major metros earning $75K–$120K+ based on event volume and commission structure.",
+  "faq": [
+    {
+      "q": "Do I need a degree to put 'wedding planner' on my resume?",
+      "a": "No. Most couples and venues hire on portfolio and referrals, not degrees. If you have relevant event management, hospitality, or business coursework, include it; otherwise, lead with experience volume and client outcomes. A strong portfolio (or testimonials and referral count) carries more weight than a generic degree."
+    },
+    {
+      "q": "How do I show my wedding planning work if I don't have a large portfolio yet?",
+      "a": "Emphasize volunteer or small events you coordinated (friend's wedding, family milestone, non-profit gala). Include the budget scope, guest count, and any measurable outcome (vendor savings, positive feedback, referrals). One perfectly executed event is stronger than three half-efforts."
+    },
+    {
+      "q": "Should I list every vendor relationship on my resume?",
+      "a": "No—list a subset of your strongest partnerships, especially ones that differentiate you (e.g., 'Exclusive partnerships with 5 award-winning florists' or 'Established relationships with all 12 premier venues in [region]'). Quality and exclusivity matter more than a long list."
+    },
+    {
+      "q": "What if I'm transitioning from general event planning or hospitality to wedding-specific roles?",
+      "a": "Reframe relevant accomplishments to weddings: restaurant management becomes 'managed guest experience for 100+ seat events,' corporate event coordination becomes 'coordinated 20+ celebration events with A-list couples.' Use the job posting language and emphasize any wedding-adjacent experience (rehearsal dinners, bridal showers, engagement parties)."
+    },
+    {
+      "q": "How important is design or aesthetic skill to show on a resume?",
+      "a": "Very—especially if you're applying to luxury venues or high-end planning firms. Include a 1–2 line bullet on design wins, and always hyperlink to a portfolio, Pinterest board, or Instagram. Hiring managers assume you have taste; proving it with visual examples sets you apart."
+    }
+  ]
+}

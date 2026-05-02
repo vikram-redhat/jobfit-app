@@ -1,0 +1,130 @@
+{
+  "slug": "recruiter",
+  "title": "Recruiter",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:45:18.466Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Recruiter Resume: Examples & Templates for 2026",
+  "metaDescription": "Write a recruiter resume that lands interviews. See sample bullets, key skills, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a Recruiter Resume That Gets Interviews",
+  "intro": "Recruiters know better than anyone what hiring managers want to see—so your resume needs to prove you can source talent, close placements, and build pipelines. We'll show you how to translate your recruiting wins into resume bullets that stand out.",
+  "audience": "Entry-level and mid-career recruiters, HR professionals transitioning into recruiting, and staffing agency job seekers looking to strengthen their applications.",
+  "topSkills": [
+    {
+      "name": "Candidate sourcing & pipeline building",
+      "why": "This is the core deliverable recruiters are hired for; hiring managers want proof you can find qualified talent consistently."
+    },
+    {
+      "name": "ATS and recruiting software (LinkedIn Recruiter, Greenhouse, Workable)",
+      "why": "Modern recruiting relies on these platforms; fluency signals you can work independently and scale your outreach."
+    },
+    {
+      "name": "Job description analysis & role requirement mapping",
+      "why": "Recruiters who understand the role deeply place better candidates and reduce mismatches—a key metric hiring managers track."
+    },
+    {
+      "name": "Interview scheduling & candidate coordination",
+      "why": "Keeping hiring processes on track directly impacts time-to-hire and candidate experience, both high-priority metrics."
+    },
+    {
+      "name": "Placement closure & offer negotiation",
+      "why": "Closing placements is the ultimate recruiter win; demonstrating negotiation and close rates proves revenue impact."
+    },
+    {
+      "name": "Networking & relationship building",
+      "why": "Recruiters who maintain strong professional networks place faster and have access to passive candidate pools."
+    },
+    {
+      "name": "Metrics analysis (time-to-hire, quality-of-hire, offer acceptance rate)",
+      "why": "Recruiting is data-driven; showing familiarity with KPIs demonstrates you think strategically about hiring outcomes."
+    },
+    {
+      "name": "Cold outreach & email/phone prospecting",
+      "why": "High-volume outreach is bread-and-butter recruiting; hiring managers need to know you can dial for dollars or emails."
+    },
+    {
+      "name": "Employer branding & EVP communication",
+      "why": "Top recruiters attract talent by selling the company culture and mission, not just the job title."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for recruiting candidates for various open positions and helping with hiring.",
+      "strong": "Sourced and placed 35+ candidates across 8 engineering and product roles, reducing time-to-hire by 25% through LinkedIn Recruiter outreach and Boolean search optimization.",
+      "lesson": "Specific numbers (35+ placements, 8 roles, 25% reduction) and named tools transform a vague duty into a measurable achievement."
+    },
+    {
+      "weak": "Managed candidate interviews and communicated with hiring teams.",
+      "strong": "Coordinated 150+ interviews and maintained 94% offer acceptance rate by streamlining candidate prep, gathering real-time hiring feedback, and negotiating competitive packages.",
+      "lesson": "High-volume metrics (150+ interviews) plus outcome-focused data (94% acceptance rate) prove both hustle and strategic impact on hiring funnel."
+    },
+    {
+      "weak": "Built relationships with candidates and helped them find jobs.",
+      "strong": "Built pipeline of 200+ passive candidates through direct networking and monthly industry coffee chats; reactivated 15 past candidates, resulting in 5 placements within Q4.",
+      "lesson": "Quantifying network size and showing conversion (5 placements from 15 reactivated) demonstrates relationship ROI, not just goodwill."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of placement outcomes",
+      "fix": "Every bullet should end with a metric: candidates placed, placements closed, time-to-hire reduced, or offer acceptance rate. 'Screened resumes' alone means nothing; say how many you screened and what % advanced to interviews."
+    },
+    {
+      "mistake": "Forgetting to mention tools and platforms you've used",
+      "fix": "Name the ATS, recruiting software, and communication tools (LinkedIn Recruiter, Greenhouse, Workable, HubSpot, etc.) by name; these are keywords both ATS systems and human recruiters search for."
+    },
+    {
+      "mistake": "Burying your placement or closure rates",
+      "fix": "Lead with your win rate (offer acceptance %, placement closure %, time-to-hire improvement) in your most prominent bullets; hiring managers scan resumes in seconds and need your impact upfront."
+    },
+    {
+      "mistake": "Not addressing quality-of-hire or retention",
+      "fix": "If you have data on how long your placements stayed or their performance ratings, include it—this signals you're placing candidates who succeed, not just hitting volume targets."
+    },
+    {
+      "mistake": "Underplaying cold outreach and sourcing effort",
+      "fix": "Name your sourcing channels explicitly (Boolean search, GitHub mining, Blind outreach, referral networks) and quantify outreach volume (emails sent, calls logged, profiles reviewed); this shows technical recruiting chops."
+    }
+  ],
+  "structureTips": [
+    "Lead your Professional Experience section with your strongest placement or sourcing metric—hiring managers decide in 6 seconds if you're worth the call, so put your biggest win first.",
+    "Create a dedicated 'Key Metrics' or 'Recruiting KPIs' section near the top if you have strong data (e.g., 'Placements: 45 | Time-to-Hire: 18 days | Offer Acceptance Rate: 92%'); this grabs eyes immediately.",
+    "Group bullets by *outcome* (placements, sourcing, process improvement, team support) rather than by chronology; makes it easy for hiring managers to see your full scope at a glance.",
+    "If you worked in staffing/agency, emphasize revenue impact or profit margin contribution; if you were in-house, emphasize hiring speed and quality—context matters for how recruiters evaluate you."
+  ],
+  "atsKeywords": [
+    "candidate sourcing",
+    "full-cycle recruiting",
+    "ATS management",
+    "LinkedIn Recruiter",
+    "time-to-hire",
+    "offer acceptance rate",
+    "interview scheduling",
+    "pipeline building",
+    "Boolean search",
+    "employer branding"
+  ],
+  "salarySignal": "Entry-level recruiters in the US typically earn $35,000–$50,000 annually; mid-career recruiters (3–5 years) range from $50,000–$75,000; senior/specialized recruiters and those in high-cost metros often exceed $80,000.",
+  "faq": [
+    {
+      "q": "What metrics should I put on a recruiter resume?",
+      "a": "Focus on placements closed, time-to-hire, offer acceptance rate, candidate quality metrics, pipeline size, and volume stats (calls, emails, interviews conducted). Avoid vague percentages; use concrete numbers and, if possible, compare your results to team or company benchmarks."
+    },
+    {
+      "q": "Should I list every recruiting tool I've used?",
+      "a": "Yes, but be strategic. Name the 4–6 most relevant tools (ATS, LinkedIn Recruiter, scheduling software, CRM) that match the job description. Don't list every minor tool; focus on ones that signal scalability and technical competency."
+    },
+    {
+      "q": "How do I show impact if I was an in-house recruiter with limited placement data?",
+      "a": "Emphasize speed (reduced time-to-hire by X%), quality (improved retention or performance scores of your hires), and process improvement (streamlined interview flow, built candidate pipeline, improved job descriptions). Quantify process gains just as hard as you'd quantify placements."
+    },
+    {
+      "q": "Do I need to list the types of roles I recruited for?",
+      "a": "Only if they're diverse or impressive (e.g., 'Sourced engineers, PMs, and design leads across early-stage startups'). If you recruited only for one role or function, mention it in a sentence but focus bullets on *how well* you recruited, not just what you recruited."
+    },
+    {
+      "q": "How do I explain short tenure at a recruiting role?",
+      "a": "Lead with outcomes first ('Placed 20+ mid-level engineers in 6 months') rather than making tenure the focus. If you moved on, frame it positively: 'Transitioned to in-house recruiting to deepen expertise in technical hiring' or 'Moved to [new company] to scale recruiting for hypergrowth environment.'"
+    }
+  ]
+}

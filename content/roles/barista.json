@@ -1,0 +1,130 @@
+{
+  "slug": "barista",
+  "title": "Barista",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:53:07.388Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Barista Resume: Tips, Skills & Examples for 2025",
+  "metaDescription": "Build a winning barista resume with proven skills, bullet examples, and ATS keywords. Stand out to café managers and specialty coffee shops.",
+  "h1": "How to Write a Barista Resume That Gets Hired",
+  "intro": "A strong barista resume isn't just about listing coffee drinks—it's about showing café managers you can hustle during the morning rush, deliver great customer service, and maybe help them train new staff. Whether you're applying to a local indie café or a major chain, we'll help you highlight the skills that actually matter.",
+  "audience": "Cafe newcomers applying to their first barista gig, career switchers from food service or retail, and experienced baristas leveling up to specialty coffee shops or management-track positions.",
+  "topSkills": [
+    {
+      "name": "Espresso Machine Operation",
+      "why": "Café owners need to know you can dial in shots, steam milk, and troubleshoot equipment—it's the core technical skill of the role."
+    },
+    {
+      "name": "Point of Sale (POS) Systems",
+      "why": "Every café runs a POS system; fluency with platforms like Square, Toast, or Clover speeds up transactions and reduces errors."
+    },
+    {
+      "name": "Customer Service & Communication",
+      "why": "Baristas are the face of the café; managers want evidence you handle rushes, complaints, and repeat customers with grace."
+    },
+    {
+      "name": "Coffee Knowledge (Latte Art, Grind Sizes, Origins)",
+      "why": "Specialty and third-wave cafés value baristas who understand single-origin beans, brewing methods, and flavor profiles."
+    },
+    {
+      "name": "Multitasking & Speed",
+      "why": "Morning rushes demand juggling multiple orders, calls, and cleanup; hiring managers want proof you thrive under pressure."
+    },
+    {
+      "name": "Food Safety & Health Compliance",
+      "why": "Cafés must follow health codes; certifications or experience with safe food handling and cleaning protocols are a plus."
+    },
+    {
+      "name": "Cash Handling & Inventory",
+      "why": "You may reconcile tills or monitor stock; accuracy and honesty are critical to café profitability."
+    },
+    {
+      "name": "Team Collaboration & Training",
+      "why": "Busier cafés often promote baristas who help onboard new hires and support coworkers during rushes."
+    },
+    {
+      "name": "Milk Steaming & Texture Control",
+      "why": "Consistent microfoam and temperature control separate average espresso drinks from specialty-café standards."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Made espresso drinks and served customers at a busy café.",
+      "strong": "Crafted 150+ specialty espresso beverages per shift with 95%+ customer satisfaction; trained 6 new baristas on grind calibration and milk-steaming technique, reducing retrain time by 2 weeks.",
+      "lesson": "Specifics (drink volume, satisfaction score, trainees helped) prove impact; action verbs like 'crafted' and 'trained' show ownership."
+    },
+    {
+      "weak": "Responsible for opening and closing the café.",
+      "strong": "Led morning opens 4 days/week; reduced startup time by 15 minutes through streamlined equipment checks and inventory prep, enabling on-time service for 50+ customers during peak hours.",
+      "lesson": "Quantify efficiency gains and scope (4 days/week, 50+ customers); show how your speed benefits the team."
+    },
+    {
+      "weak": "Worked POS system and handled payments.",
+      "strong": "Processed 200+ daily transactions via Square POS with 99.2% cash-drawer accuracy; resolved payment discrepancies and trained 3 junior staff on refund protocols, cutting error-resolution time by 40%.",
+      "lesson": "Real numbers (200+ transactions, 99.2% accuracy, 40% improvement) demonstrate reliability and leadership."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic duties instead of quantified wins",
+      "fix": "Replace 'operated espresso machine' with 'dialed in 100+ espresso shots daily with ±2-second pull consistency' or 'mastered 8 milk-based drinks, reducing remake rate to under 2%'."
+    },
+    {
+      "mistake": "Ignoring the POS and tech side",
+      "fix": "Always mention specific POS platforms you've used (Square, Toast, Clover, Shopify) and any inventory or reporting tasks—cafés run on systems."
+    },
+    {
+      "mistake": "Not mentioning customer metrics or feedback",
+      "fix": "If you have data (mystery-shopper scores, customer satisfaction feedback, repeat-customer compliments), include it; if not, ask your manager for a quote."
+    },
+    {
+      "mistake": "Overlooking training or mentoring experience",
+      "fix": "Even if you informally helped a coworker, frame it: 'Mentored 2 new hires on latte art and espresso timing; both passed final evaluation with distinction.'"
+    },
+    {
+      "mistake": "Forgetting food safety or certifications",
+      "fix": "Add any food-handler certifications, barista coursework (SCA, Specialty Coffee Association), or allergen-awareness training—it differentiates you at quality-focused cafés."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your strongest café role; if you have specialty coffee shop or third-wave café experience, highlight it—it signals skill level.",
+    "Put certifications (SCA, TIPS, Food Handler) in a dedicated section or at the top of a Skills area; they're compliance signals and proof of commitment.",
+    "If you've worked multiple cafés, emphasize progression (barista → lead barista → shift supervisor) or specialize in growth (e.g., 'expanded drink menu by 5 seasonal offerings, increasing average ticket by 12%').",
+    "Group technical skills (espresso, POS, latte art) separately from soft skills (teamwork, communication); hiring managers scan for both."
+  ],
+  "atsKeywords": [
+    "espresso machine operation",
+    "latte art",
+    "POS systems",
+    "customer service",
+    "coffee knowledge",
+    "milk steaming",
+    "food safety",
+    "inventory management",
+    "shift supervisor",
+    "barista training"
+  ],
+  "salarySignal": "Entry-level barista roles in the US typically range from $15–$18/hour (plus tips); specialty coffee shops and high-traffic locations often pay $18–$22/hour. Shift leads and trainers may reach $22–$26/hour or more in urban centers.",
+  "faq": [
+    {
+      "q": "Do I need a barista certification to get hired?",
+      "a": "No, but it helps. Most cafés will train you on their specific equipment and workflow. However, certifications from the Specialty Coffee Association (SCA) or local barista schools show commitment and are a bonus, especially at third-wave or high-end cafés."
+    },
+    {
+      "q": "Should I put latte-art skills on my resume?",
+      "a": "Yes, if it's relevant to the café you're applying to. Specialty coffee shops and Instagram-friendly cafés value latte art; chains and quick-service spots care less. Read the job posting and tailor accordingly."
+    },
+    {
+      "q": "How do I quantify customer satisfaction as a barista?",
+      "a": "Look for hard data: Google/Yelp reviews mentioning you by name, customer feedback cards, mystery-shopper scores, or tips/loyalty data. If none exist, ask your manager for a testimonial or mention repeat customers you built relationships with."
+    },
+    {
+      "q": "What if I have no barista experience?",
+      "a": "Lead with related service skills (retail, restaurant, cashier work) and your willingness to learn. Mention any coffee passion—courses you've taken, a home espresso setup, or coffee blogs you follow—to show genuine interest, not just a job."
+    },
+    {
+      "q": "Should I mention why I left previous cafés?",
+      "a": "Only if it's a positive story (e.g., 'moved for school,' 'sought management-track opportunity'). Avoid complaints about pay, management, or workplace culture; just list dates and move on."
+    }
+  ]
+}

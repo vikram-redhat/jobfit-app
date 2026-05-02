@@ -1,0 +1,134 @@
+{
+  "slug": "diesel-mechanic",
+  "title": "Diesel Mechanic",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:00:43.592Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Diesel Mechanic Resume: Skills, Examples & Tips",
+  "metaDescription": "Build a diesel mechanic resume that lands interviews. Learn key skills, see real bullet examples, and avoid common mistakes.",
+  "h1": "Diesel Mechanic Resume: How to Stand Out to Hiring Managers",
+  "intro": "A strong diesel mechanic resume shows employers you can diagnose, repair, and maintain heavy equipment—and that you're safety-conscious and detail-oriented. This guide walks you through the skills and work history that actually matter, with real examples to help you land interviews.",
+  "audience": "Trade school graduates, apprentices transitioning to full-time diesel mechanic roles, and experienced mechanics moving to new companies or fleets.",
+  "topSkills": [
+    {
+      "name": "Engine Diagnostics & Repair",
+      "why": "Hiring managers need to know you can troubleshoot Cummins, Duramax, Powerstroke, and Allison systems—the core of the job."
+    },
+    {
+      "name": "Preventive Maintenance",
+      "why": "Fleets prioritize mechanics who catch problems early and keep downtime minimal through scheduled service."
+    },
+    {
+      "name": "Hydraulic & Electrical Systems",
+      "why": "Heavy equipment relies on hydraulics and wiring; competence here sets experienced mechanics apart."
+    },
+    {
+      "name": "ASE Certification (Heavy Duty Diesel)",
+      "why": "ASE-certified diesel mechanics command higher pay and are seen as credible by fleet managers and dealerships."
+    },
+    {
+      "name": "Computer Diagnostics (Snap-on, Cummins Insite, JPRO)",
+      "why": "Modern diesel work requires scanning tools; familiarity with fleet-standard software is a major hiring signal."
+    },
+    {
+      "name": "Transmission Repair & Service",
+      "why": "Manual and automatic heavy-duty transmissions are expensive to replace; rebuild skills are highly valued."
+    },
+    {
+      "name": "Brake System Maintenance",
+      "why": "Air brake systems on semis and heavy trucks demand specialized knowledge that not every mechanic has."
+    },
+    {
+      "name": "DOT Compliance & Safety",
+      "why": "Fleets are legally liable for vehicle condition; mechanics who understand DOT regulations and spot safety issues are essential."
+    },
+    {
+      "name": "Welding & Fabrication",
+      "why": "Frame repairs, bracket fabrication, and custom work expand your value—especially in owner-operator and small fleet shops."
+    },
+    {
+      "name": "Fleet Equipment Familiarity",
+      "why": "Experience with specific truck brands (Peterbilt, Freightliner, Volvo) or vocational gear (dump beds, liftgates) speeds hiring."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed maintenance and repairs on diesel trucks.",
+      "strong": "Completed PM services on fleet of 40+ Cummins-powered Class 8 trucks; reduced unplanned downtime by 25% through early diagnostics and proactive replacement of wear components.",
+      "lesson": "Added specific equipment type, fleet size, quantified impact, and the preventive mindset that fleets love."
+    },
+    {
+      "weak": "Used diagnostic equipment to fix engine problems.",
+      "strong": "Diagnosed and repaired complex DTC codes on Powerstroke and Duramax engines using Snap-on and JPRO software; average repair turnaround 4–6 hours with 95%+ first-pass success rate.",
+      "lesson": "Named the tools, specific engines, and measurable quality metrics—shows speed and competence."
+    },
+    {
+      "weak": "Maintained air brake systems and performed inspections.",
+      "strong": "Overhauled air brake systems (S-cam and disc), identified and corrected 20+ DOT violations, and trained 3 junior technicians on FMVSS brake inspection standards.",
+      "lesson": "Specified the brake type, compliance win, mentorship, and regulatory knowledge—ticks multiple boxes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only job titles and general duties—no equipment or systems mentioned.",
+      "fix": "Always name the engines, transmission brands, diagnostic tools, and specific systems you worked on (e.g., 'Allison transmission overhauls,' 'Caterpillar engine diagnostics')."
+    },
+    {
+      "mistake": "Forgetting to highlight ASE or other certifications prominently.",
+      "fix": "Put ASE Heavy Duty Diesel and any other industry certs (welding, EPA, CDL) in a dedicated section near the top or in your work bullets so they jump out."
+    },
+    {
+      "mistake": "No mention of safety record or DOT compliance knowledge.",
+      "fix": "Include at least one bullet about preventing safety violations, catching defects that protect driver and public, or training others on compliance."
+    },
+    {
+      "mistake": "Ignoring soft skills like communication and teamwork.",
+      "fix": "Add bullets about mentoring apprentices, working in fast-paced team environments, or handling customer communication—fleets value reliability and attitude."
+    },
+    {
+      "mistake": "Listing tools without context (e.g., 'proficient in Snap-on tools').",
+      "fix": "Tie tools to outcomes: 'Used Snap-on MODIS and JPRO to diagnose fuel system faults on 15+ trucks weekly; reduced comebacks by 18%.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with ASE Certifications, relevant licenses (CDL, EPA), and any trade school diplomas or apprenticeship completions—these are deal-breakers or deal-makers.",
+    "Put your Technical Skills section second and organize it by system (Engine, Transmission, Hydraulics, Brakes, Electrical, Diagnostics) so hiring managers instantly see breadth of knowledge.",
+    "In Work Experience, front-load the company fleet size and truck types (e.g., 'Peterbilt Class 8 freight fleet') so the reader knows your scale before reading your bullets.",
+    "If you have welding, fabrication, or custom work experience, call it out in a separate 'Additional Skills' or 'Specializations' block—many shops value these add-ons."
+  ],
+  "atsKeywords": [
+    "diesel engine repair",
+    "heavy duty diesel technician",
+    "ASE certified",
+    "Cummins engine diagnostics",
+    "air brake systems",
+    "preventive maintenance",
+    "computer diagnostics",
+    "Class 8 truck",
+    "transmission overhaul",
+    "fleet maintenance"
+  ],
+  "salarySignal": "Entry-level diesel mechanics (0–2 years) in the US typically earn $35,000–$45,000; experienced diesel mechanics with ASE certs and fleet shop experience often earn $50,000–$70,000+, with significant upside in specialized shops and owner-operator roles.",
+  "faq": [
+    {
+      "q": "Do I need ASE certification to get hired as a diesel mechanic?",
+      "a": "No, but it helps—especially for fleet and dealership roles. Many shops will hire apprentices and on-the-job learners without ASE, but certification opens doors to better pay and positions. Aim to get it within your first 1–2 years on the job."
+    },
+    {
+      "q": "What certifications should I list on my diesel mechanic resume?",
+      "a": "ASE Heavy Duty Diesel (H1–H8 tests) is the gold standard. Also list EPA Section 609 (refrigerant), CDL if applicable, any state emissions certifications, welding tickets (AWS), and manufacturer-specific training (Cummins, Volvo, Allison)."
+    },
+    {
+      "q": "Should I include personal tools and equipment I own?",
+      "a": "Yes, if relevant and valuable. A section like 'Owns comprehensive tool set and diagnostic equipment' shows commitment. If you own expensive items like a scan tool or code reader, mention it—some shops value techs who bring their own gear."
+    },
+    {
+      "q": "How do I show soft skills like reliability and teamwork on a diesel mechanic resume?",
+      "a": "Add bullets about mentoring apprentices, consistent on-time attendance, collaborating on complex multi-system repairs, and customer communication. Fleet managers care as much about attitude and reliability as technical chops."
+    },
+    {
+      "q": "What if I have experience with multiple engine brands—how do I emphasize it?",
+      "a": "List them explicitly in your Technical Skills section and in work bullets: 'Diagnosed and repaired Cummins ISX, Duramax LML/L5P, and Powerstroke 6.7L engines using OEM software.' Breadth across brands is a strong selling point for fleet and multi-brand shops."
+    }
+  ]
+}

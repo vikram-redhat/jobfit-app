@@ -1,0 +1,130 @@
+{
+  "slug": "hotel-receptionist",
+  "title": "Hotel Receptionist",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:55:38.687Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Hotel Receptionist Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a winning hotel receptionist resume with real examples, key skills, and ATS keywords. Stand out to hiring managers with proven tactics.",
+  "h1": "Hotel Receptionist Resume: How to Get Noticed by Hiring Managers",
+  "intro": "Your hotel receptionist resume is your first impression—and you've got seconds to make it count. We'll show you how to highlight the customer service chops, multitasking ability, and hospitality knowledge that hotel managers actually want to see.",
+  "audience": "Recent high school grads, hospitality school students, and career switchers looking to land their first or next front-desk role at hotels, resorts, or boutique properties.",
+  "topSkills": [
+    {
+      "name": "Guest Relations & Customer Service",
+      "why": "Hotels live or die by guest satisfaction—hiring managers need to see you can handle complaints, requests, and complaints-turned-compliments with grace."
+    },
+    {
+      "name": "Front Desk Management Systems (PMS)",
+      "why": "Properties use software like Folio, Opera, or Micros to manage reservations and check-ins; employers want proof you can navigate these tools quickly."
+    },
+    {
+      "name": "Reservation & Check-In/Check-Out Procedures",
+      "why": "This is your bread and butter—managers need confidence you understand booking flows, rate types, and upselling without being pushy."
+    },
+    {
+      "name": "Multitasking & Priority Management",
+      "why": "Receptionists juggle phone calls, walk-ins, payments, and maintenance requests simultaneously; showing you can stay calm under pressure is essential."
+    },
+    {
+      "name": "Cash Handling & Point-of-Sale (POS)",
+      "why": "You'll be processing payments and balancing tills—hotels need staff they can trust with accuracy and honesty."
+    },
+    {
+      "name": "Communication & Phone Etiquette",
+      "why": "Your voice and written responses represent the hotel; clear, professional communication skills separate good receptionists from great ones."
+    },
+    {
+      "name": "Housekeeping & Maintenance Coordination",
+      "why": "Receptionists liaise between guests and back-of-house teams; knowing how to flag urgent room issues speeds up resolution."
+    },
+    {
+      "name": "Sales & Upselling",
+      "why": "Hotels expect receptionists to promote room upgrades, packages, and add-ons; revenue-focused candidates stand out."
+    },
+    {
+      "name": "Multilingual Ability",
+      "why": "Speaking a second language (especially Spanish or Mandarin) makes you invaluable at properties with diverse guest bases."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Checked in and checked out guests and answered phones.",
+      "strong": "Processed 40-60 check-ins and check-outs daily using Opera PMS; maintained 95%+ accuracy on room assignments and payment processing; answered 100+ incoming calls per shift with zero complaints.",
+      "lesson": "Numbers prove you can handle volume and precision—add specifics about systems you used and the results you delivered."
+    },
+    {
+      "weak": "Helped guests with their needs and made them happy.",
+      "strong": "Resolved 15-20 guest issues per shift (room changes, maintenance, billing disputes) with 4.8/5.0 guest satisfaction rating; upsold premium room upgrades to 20-30% of check-ins, generating $800-1,200 in incremental revenue per week.",
+      "lesson": "Show impact in two ways: guest happiness (ratings) and hotel revenue (upsells)—both matter to management."
+    },
+    {
+      "weak": "Communicated with housekeeping and maintenance staff.",
+      "strong": "Coordinated with housekeeping and maintenance teams to prioritize 10-15 urgent room issues daily; reduced average room turnover time by 15 minutes through streamlined communication and accurate work order entry.",
+      "lesson": "Quantify your cross-team impact—faster room turnovers mean more check-ins and more revenue."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Focusing only on duties, not outcomes",
+      "fix": "Replace 'responsible for front desk' with metrics: how many guests per shift, what was your satisfaction score, how much revenue did you help generate?"
+    },
+    {
+      "mistake": "Listing generic customer service without hospitality specifics",
+      "fix": "Name the actual property management system, mention upselling numbers, reference your role in guest retention—show you understand hotel economics."
+    },
+    {
+      "mistake": "Leaving out soft skills like patience or adaptability",
+      "fix": "Weave these into bullet points with examples: 'de-escalated upset guests by listening and offering solutions, maintaining composure during 150+ check-ins on a sold-out night.'"
+    },
+    {
+      "mistake": "No mention of languages, certifications, or special training",
+      "fix": "Create a Skills section that calls out languages spoken, any hospitality certifications (e.g., Hotel Customer Service Certification), and PMS software you've used."
+    },
+    {
+      "mistake": "Overselling or lying about experience",
+      "fix": "Stick to verifiable facts—hotels do reference checks and verify employment history; honesty builds your reputation fast in a tight-knit industry."
+    }
+  ],
+  "structureTips": [
+    "Lead with a professional summary or objective that signals you understand the hospitality industry: mention guest satisfaction, revenue contribution, or a specific property type (luxury, boutique, economy).",
+    "Put your PMS software expertise prominently—create a Skills section with a subsection for 'Technology/Systems' listing Opera, Folio, Micros, or whatever tools you've mastered.",
+    "Group your experience by property type or size if you've worked at multiple hotels—hiring managers want to know you can handle their specific environment (fast-paced resort vs. quiet boutique).",
+    "If you're early-career, emphasize certifications, relevant coursework, or volunteer reception experience; include metrics from internships or student jobs to show you're serious."
+  ],
+  "atsKeywords": [
+    "front desk receptionist",
+    "guest services representative",
+    "hotel check-in",
+    "property management system",
+    "PMS software",
+    "reservation management",
+    "guest relations",
+    "point of sale",
+    "hospitality customer service",
+    "front office associate"
+  ],
+  "salarySignal": "Entry-level US hotel receptionist salaries typically range from $24,000 to $32,000 annually, with regional variation and property type affecting the range—upscale and resort properties often pay 10-20% more than budget chains.",
+  "faq": [
+    {
+      "q": "What property management system should I list on my hotel receptionist resume?",
+      "a": "List any PMS you've actually used—Opera, Folio, Micros, Marsha, or local systems all count. If you haven't used a specific brand, mention your ability to learn software quickly or list any training you've completed. Most hotels will train you on their system if you show strong fundamentals."
+    },
+    {
+      "q": "How do I show I can handle the stress of a busy front desk?",
+      "a": "Use bullet points that quantify volume and speed: '40-60 check-ins per shift,' 'managed 100+ phone calls during peak hours,' or 'maintained accuracy during sold-out nights with 20+ complaints.' Pairing volume with positive outcomes (guest satisfaction, zero errors) proves you don't just survive—you thrive."
+    },
+    {
+      "q": "Should I mention upselling or revenue if I'm a first-time receptionist?",
+      "a": "Absolutely. Even if you're new, highlight any room upgrade or add-on sales from training, internships, or student jobs. If you have no upselling experience, focus on learning and ask about sales targets in interviews—showing interest in the business side gets you hired faster."
+    },
+    {
+      "q": "Is it worth listing languages on my receptionist resume?",
+      "a": "Yes—especially if the property attracts international guests. Spanish, Mandarin, French, and German are particularly valuable. List proficiency level (fluent, conversational, working knowledge) so expectations are clear from day one."
+    },
+    {
+      "q": "What do hotel hiring managers look for most on a receptionist resume?",
+      "a": "Guest satisfaction metrics (ratings or feedback), number of transactions handled, speed, accuracy, and proof of PMS experience. Secondary but important: sales/upsell track record, bilingual ability, and any hospitality certifications. Managers hire for reliability and revenue impact."
+    }
+  ]
+}

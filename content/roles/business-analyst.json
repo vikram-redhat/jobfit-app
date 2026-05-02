@@ -1,0 +1,134 @@
+{
+  "slug": "business-analyst",
+  "title": "Business Analyst",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:42:47.384Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Business Analyst Resume: Skills, Examples & Tips",
+  "metaDescription": "Write a winning Business Analyst resume. See real examples, must-have skills, and common mistakes to avoid. Get hired faster with our expert guide.",
+  "h1": "How to Write a Business Analyst Resume That Gets Interviews",
+  "intro": "A strong Business Analyst resume balances technical chops with business storytelling—showing hiring managers you can translate data into decisions that move the needle. We'll walk you through the exact skills, structure, and bullet-point formula that lands interviews at Fortune 500s and startups alike.",
+  "audience": "Recent business school grads, career switchers from finance or operations, and mid-level analysts looking to level up to senior BA roles.",
+  "topSkills": [
+    {
+      "name": "Data Analysis & Visualization",
+      "why": "Hiring managers need to know you can extract insights from raw data and present them in ways stakeholders actually understand."
+    },
+    {
+      "name": "SQL & Database Queries",
+      "why": "Most BA roles require direct database access to pull and validate data without waiting on engineers—it's a dealbreaker for many teams."
+    },
+    {
+      "name": "Requirements Gathering & Stakeholder Management",
+      "why": "Your core job is translating messy business problems into clear, actionable requirements—this skill separates BAs from junior analysts."
+    },
+    {
+      "name": "Business Process Improvement",
+      "why": "Employers want to see you've identified inefficiencies and designed workflows that save time or money, not just documented what exists."
+    },
+    {
+      "name": "Tableau or Power BI",
+      "why": "These tools are industry standard for dashboard creation; mastery signals you can self-serve analytics without waiting on the BI team."
+    },
+    {
+      "name": "Excel (Advanced)",
+      "why": "Pivot tables, VLOOKUP, complex formulas, and data modeling are baseline for most BA roles—still the fastest way to prototype analyses."
+    },
+    {
+      "name": "Agile & Scrum Methodologies",
+      "why": "Modern BA teams work in sprints; showing Scrum or SAFe experience tells hiring managers you're comfortable in fast-moving environments."
+    },
+    {
+      "name": "JIRA & Confluence",
+      "why": "These are the default tools for writing and tracking requirements in tech and product teams—familiarity is expected."
+    },
+    {
+      "name": "Financial Acumen",
+      "why": "Being able to speak ROI, cost-benefit analysis, and business metrics helps you influence decisions and shows you think like the business."
+    },
+    {
+      "name": "Communication & Documentation",
+      "why": "Your requirements docs, use cases, and wireframes are the bridge between business and engineering—clarity is everything."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Gathered requirements from stakeholders and documented them in a spreadsheet for the development team.",
+      "strong": "Facilitated 8 cross-functional requirement workshops, synthesized feedback from 15+ stakeholders, and delivered 40-page PRD that reduced development scope creep by 25% and shipped 2 weeks ahead of schedule.",
+      "lesson": "Replace generic activities with quantified business outcomes—how many stakeholders, what was the impact, and what did it enable?"
+    },
+    {
+      "weak": "Created reports and dashboards to track KPIs.",
+      "strong": "Built 12 automated Tableau dashboards tracking 50+ KPIs across sales, marketing, and ops; reduced manual reporting time by 15 hours/week and surfaced 3 process bottlenecks that generated $200K+ in annual savings.",
+      "lesson": "Show the tool, the scope (number of dashboards/metrics), and the concrete business value—time saved or money generated."
+    },
+    {
+      "weak": "Analyzed competitor and market trends to support business strategy.",
+      "strong": "Conducted competitive analysis across 8 competitor platforms, identified 5 gaps vs. our product roadmap, and presented findings to C-suite; led to prioritization of 3 features that increased customer retention by 12% YoY.",
+      "lesson": "Ground abstract work (analysis) in a real outcome—what did leadership do with your insight, and what was the business result?"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Writing tasks instead of impact",
+      "fix": "Replace 'Wrote requirements documents' with 'Designed 5 user flows and requirements that reduced support tickets by 18% and improved onboarding NPS by 8 points.'"
+    },
+    {
+      "mistake": "Listing tools without context",
+      "fix": "Don't just say 'SQL, Tableau, Power BI'—show what you built with them: 'Wrote 20+ complex SQL queries to optimize customer cohort analysis, reducing query time from 10 min to 45 sec.'"
+    },
+    {
+      "mistake": "Ignoring the business owner perspective",
+      "fix": "Hiring managers want to know you think in terms of revenue, costs, and customer impact, not just process steps—always tie your work to a business metric."
+    },
+    {
+      "mistake": "Burying domain expertise",
+      "fix": "If you have deep experience in a high-value vertical (fintech, healthtech, e-commerce), lead with it—many companies hire for domain knowledge as much as BA skills."
+    },
+    {
+      "mistake": "Not showing stakeholder influence",
+      "fix": "Add proof that you influenced decisions: 'Presented data-driven recommendation to CMO; led to $500K budget reallocation across 3 campaigns.'"
+    }
+  ],
+  "structureTips": [
+    "Lead your summary with the domain or company stage you know best (e.g., 'B2B SaaS BA with 4 years optimizing user onboarding workflows')—it signals fit immediately.",
+    "Put your most impressive impact metrics and projects near the top of your experience section; hiring managers scan the first 2–3 bullets per role.",
+    "Group technical skills (SQL, Tableau, Python, JIRA) separately from soft skills; recruiters often search resumes for exact tool names via Ctrl+F.",
+    "Include a 'Key Projects' or 'Metrics & Impact' section if you've held multiple roles; it forces you to highlight your biggest wins in one place."
+  ],
+  "atsKeywords": [
+    "Business Requirements Document",
+    "SQL and data analysis",
+    "Tableau or Power BI",
+    "Stakeholder management and requirements gathering",
+    "Process improvement and workflow optimization",
+    "Agile and Scrum",
+    "JIRA and Confluence",
+    "Financial analysis and ROI",
+    "Cross-functional project management",
+    "KPI tracking and reporting"
+  ],
+  "salarySignal": "Entry-level Business Analysts in the US typically earn $55K–$70K; mid-level (3–5 years) earn $75K–$100K; senior BAs and principal roles push $110K–$150K+, depending on industry, region, and company size.",
+  "faq": [
+    {
+      "q": "Do I need a certification like CBAP or IIBA to get hired as a Business Analyst?",
+      "a": "Not for entry or mid-level roles—a strong portfolio of delivered projects matters more. CBAP or IIBA can help at senior levels or for government/regulated industry roles, but it's not a deal-breaker if your experience is solid."
+    },
+    {
+      "q": "Should I include SQL or Python on my Business Analyst resume if I'm just learning?",
+      "a": "Only if you've actually used it in a project or job. 'Learning Python' signals you're not confident yet. Better to say 'Proficient in SQL' and let your project bullets prove it with real examples."
+    },
+    {
+      "q": "How do I format my resume if I've done BA work but my job title was 'Operations Analyst' or 'Data Analyst'?",
+      "a": "Use your role title, but clarify your BA scope in the summary: 'Operations Analyst focused on requirements gathering, process design, and stakeholder alignment.' Your bullet points will do the heavy lifting anyway."
+    },
+    {
+      "q": "What metrics should I prioritize if I don't have direct revenue impact?",
+      "a": "Operational metrics are gold: time saved, efficiency gains, error reduction, support tickets closed, or customer satisfaction scores. Even internal process wins (20% faster data refresh, 30 hours/month saved) resonate."
+    },
+    {
+      "q": "How far back should I go with past projects if I have 7+ years of BA experience?",
+      "a": "Lead with your last 2–3 roles (10–12 years max) and keep older roles brief. Hiring managers care about your most recent and relevant work; if your best wins are 8 years old, it signals you haven't leveled up."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "seo-specialist",
+  "title": "SEO Specialist",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:40:53.884Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "SEO Specialist Resume: Examples & Keywords That Win Jobs",
+  "metaDescription": "Write an SEO specialist resume that lands interviews. See real bullet examples, top skills, ATS keywords, and common mistakes to avoid.",
+  "h1": "How to Write an SEO Specialist Resume That Ranks",
+  "intro": "SEO specialist roles are competitive, and hiring managers spend seconds scanning resumes for proof you can drive organic traffic and rankings. This guide shows you how to showcase your technical chops, campaign wins, and metrics in a way that passes ATS systems and impresses hiring teams.",
+  "audience": "Recent grads with digital marketing or content backgrounds, mid-level SEO coordinators moving to specialist roles, and career switchers from adjacent marketing disciplines.",
+  "topSkills": [
+    {
+      "name": "Technical SEO",
+      "why": "Hiring managers want to see you can audit site architecture, fix crawl errors, and optimize Core Web Vitals — not just write keywords."
+    },
+    {
+      "name": "Keyword Research & Analysis",
+      "why": "This is table stakes for SEO roles; demonstrating proficiency with tools like SEMrush, Ahrefs, or Moz signals you can identify high-intent terms."
+    },
+    {
+      "name": "On-Page & Off-Page Optimization",
+      "why": "Employers need proof you can both optimize meta tags and content strategy AND build backlink profiles that improve authority."
+    },
+    {
+      "name": "Google Analytics & Data Analysis",
+      "why": "SEO roles are metric-driven; showing comfort with GA4, conversion tracking, and reporting separates specialists from casual practitioners."
+    },
+    {
+      "name": "Content Strategy & Optimization",
+      "why": "Modern SEO isn't just links and keywords; hiring teams want specialists who can align content with user intent and business goals."
+    },
+    {
+      "name": "Link Building & Outreach",
+      "why": "Off-page authority still matters; demonstrating experience pitching, relationship-building, and securing quality backlinks is valuable."
+    },
+    {
+      "name": "CMS & HTML/CSS Basics",
+      "why": "SEO specialists who can implement changes in WordPress, Shopify, or understand basic code are more valuable to lean teams."
+    },
+    {
+      "name": "SEO Tools Proficiency",
+      "why": "Specific mention of tools like SEMrush, Moz Pro, Screaming Frog, or Google Search Console tells hiring teams you work efficiently."
+    },
+    {
+      "name": "Rank Tracking & Competitor Analysis",
+      "why": "Employers value specialists who monitor performance and benchmarking against competitors, not just implement tactics blindly."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed keyword research and optimized website pages for search engines.",
+      "strong": "Conducted keyword research identifying 40+ long-tail opportunities; optimized 15 high-value pages, driving organic traffic from 2K to 8K monthly sessions within 6 months.",
+      "lesson": "Added specific numbers (40+ keywords, 15 pages, 6-month timeline) and showed business impact (traffic growth), replacing vague action language with measurable results."
+    },
+    {
+      "weak": "Worked on link building and outreach campaigns.",
+      "strong": "Led outreach campaign securing 35 high-authority backlinks (avg. DR 45+) from niche publications; improved domain authority from 22 to 31 and increased organic referring traffic by 120%.",
+      "lesson": "Quantified backlink quality (domain rating), scope (35 links), and tied effort directly to authority and traffic metrics, showing ROI of relationship-building work."
+    },
+    {
+      "weak": "Managed technical SEO audits and fixed site issues.",
+      "strong": "Audited technical SEO using Screaming Frog; identified and resolved 200+ crawl errors, fixed Core Web Vitals (LCP < 2.5s), and improved indexation by 85%, lifting organic visibility by 45%.",
+      "lesson": "Named the tool used, quantified scope (200+ errors), cited specific metrics (Core Web Vitals), and linked fixes to business outcome (visibility lift), making the work tangible."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing SEO duties without metrics or impact.",
+      "fix": "Always attach numbers—traffic growth, ranking improvements, conversion lift, or backlink gain—to show what your work actually achieved, not just what you did."
+    },
+    {
+      "mistake": "Overloading with tool names and no context.",
+      "fix": "Mention 3-4 key tools (SEMrush, GA4, Google Search Console, etc.) in a skills section, then use them as proof points in bullets, not a tech spec sheet."
+    },
+    {
+      "mistake": "Mixing strategy and tactical wins without hierarchy.",
+      "fix": "Lead with campaign outcomes and strategy (e.g., 'Built content pillar strategy targeting 50 buyer-journey terms') before granular tactics (e.g., 'optimized 12 cluster pages')."
+    },
+    {
+      "mistake": "Ignoring on-page and technical SEO in favor of content.",
+      "fix": "SEO roles expect balance; show wins in content, technical audits, and link building so hiring teams see you're well-rounded, not content-only."
+    },
+    {
+      "mistake": "Not mentioning CMS fluency or basic technical ability.",
+      "fix": "If you can implement changes in WordPress, tag pages in Shopify, or read HTML, mention it; it signals you're not fully dependent on developers."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with a 2-3 line summary of your main SEO wins—e.g., 'Drove 150% organic traffic growth across 3 domains through technical SEO, content strategy, and link building'—so hiring managers grasp scope immediately.",
+    "In your skills section, group tools and hard skills separately from soft skills; list 3-5 top SEO tools, then analytics, CMS, and HTML/CSS if applicable, so ATS systems and humans both catch your keyword strength.",
+    "Within job descriptions, lead with campaign or strategic results (organic growth, ranking improvements, authority gains), then break down the 2-3 main tactics (technical, content, links) that drove them.",
+    "If you're a recent grad or career switcher, include a 'SEO Projects' or 'Portfolio' section showcasing one personal site or client case study with before/after metrics; it compensates for thin work experience."
+  ],
+  "atsKeywords": [
+    "technical SEO",
+    "keyword research",
+    "on-page optimization",
+    "link building",
+    "Google Analytics",
+    "content strategy",
+    "SEMrush",
+    "Ahrefs",
+    "search engine optimization",
+    "organic traffic growth",
+    "Core Web Vitals",
+    "Google Search Console"
+  ],
+  "salarySignal": "Entry-level SEO specialist roles in the US typically range from $40K–$55K; mid-level specialists (3–5 years) earn $55K–$85K; senior specialists with team leadership can reach $85K–$130K+. Salary varies widely by region, company size, and industry.",
+  "faq": [
+    {
+      "q": "What metrics should I include on an SEO specialist resume?",
+      "a": "Focus on organic traffic growth (monthly sessions or year-over-year %), ranking improvements (keywords in top 10 or 20), domain authority or SEO score gains, backlink count and quality (domain rating), and conversion lift tied to SEO. Avoid vanity metrics; always tie efforts to business outcomes."
+    },
+    {
+      "q": "Do I need to list every SEO tool I've used?",
+      "a": "No. List 3–5 tools you know well (Google Analytics, SEMrush, Ahrefs, Google Search Console, Screaming Frog, etc.) in your skills section. Mention specific tools in bullets only if they're directly tied to a significant win, so hiring managers see proficiency, not a checklist."
+    },
+    {
+      "q": "Should I include my own website or blog on my SEO resume?",
+      "a": "Yes, if it's relevant and ranks for SEO-adjacent keywords. A personal site with 100+ monthly organic visitors or a blog ranking for industry terms is strong portfolio proof. Link to it and show metrics; weak sites can hurt credibility."
+    },
+    {
+      "q": "How do I position myself as an SEO specialist if I'm coming from content or social media?",
+      "a": "Highlight transferable skills (keyword planning, audience research, analytics chops), but lead with any SEO-specific work—technical audits, on-page optimization, rank tracking. If you lack work experience, build a case study or optimize a personal site to show SEO chops."
+    },
+    {
+      "q": "What's the difference between an SEO coordinator and SEO specialist resume?",
+      "a": "A coordinator resume shows execution of tactical tasks (optimizing pages, building basic backlinks) under direction; a specialist resume emphasizes strategy, ownership of campaigns from planning through measurement, and direct business impact. Specialists lead, coordinators execute."
+    }
+  ]
+}

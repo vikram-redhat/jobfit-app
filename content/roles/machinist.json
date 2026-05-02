@@ -1,0 +1,130 @@
+{
+  "slug": "machinist",
+  "title": "Machinist",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:01:58.151Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Machinist Resume: Sample Bullets & Skills Guide",
+  "metaDescription": "Land your next machinist role. See strong resume bullets, top skills, and ATS keywords hiring managers actually search for.",
+  "h1": "Machinist Resume: Template, Skills & Sample Bullets",
+  "intro": "Your machinist resume needs to prove you can read blueprints, run tight tolerances, and keep equipment running safely. We'll show you how to translate hands-on shop floor wins into bullets that catch a hiring manager's eye—and pass their ATS scan.",
+  "audience": "Trade school grads, apprenticeship completers, and experienced machinists looking to move into supervisory or specialized CNC roles.",
+  "topSkills": [
+    {
+      "name": "CNC Programming & Operation",
+      "why": "Most modern shops require CNC machine proficiency; it's often the first filter on job postings and ATS systems."
+    },
+    {
+      "name": "Blueprint Reading & Interpretation",
+      "why": "Hiring managers need confidence you can translate technical drawings into finished parts without rework."
+    },
+    {
+      "name": "Precision Measurement & Tolerances",
+      "why": "Ability to work within spec (micrometers, thousandths) separates reliable machinists from average ones."
+    },
+    {
+      "name": "Manual Lathe & Milling Machine Operation",
+      "why": "Even in CNC-heavy shops, manual machine skill proves adaptability and foundational expertise."
+    },
+    {
+      "name": "CAD Software (SolidWorks, AutoCAD)",
+      "why": "Design-to-production fluency makes you valuable for prototyping, tooling, and custom jobs."
+    },
+    {
+      "name": "Tool & Die Making",
+      "why": "Specialized skill that commands higher wages and opens doors to advanced manufacturing roles."
+    },
+    {
+      "name": "Quality Control & Inspection",
+      "why": "Shows you catch defects before they ship; critical for customers and regulatory compliance."
+    },
+    {
+      "name": "Equipment Troubleshooting & Maintenance",
+      "why": "Downtime costs money; machinists who prevent or quickly fix issues are always in demand."
+    },
+    {
+      "name": "OSHA Safety & Shop Floor Compliance",
+      "why": "Non-negotiable in regulated manufacturing; many ATS systems flag for safety certifications."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Operated CNC machines and performed quality checks on parts.",
+      "strong": "Programmed and operated CNC mills and lathes to produce 500+ precision parts monthly within ±0.001\" tolerances; reduced scrap rate by 12% through proactive tool monitoring and offset adjustments.",
+      "lesson": "Specific numbers (part volume, tolerance specs, measurable improvement) replace vague language and prove impact."
+    },
+    {
+      "weak": "Read blueprints and made parts according to specifications.",
+      "strong": "Interpreted complex multi-view blueprints and GD&T callouts to machine aerospace-grade aluminum and stainless components; zero rework orders in 18-month period across 200+ jobs.",
+      "lesson": "Naming the industry (aerospace), material, and a quality metric (zero rework) shows you understand what matters to that shop."
+    },
+    {
+      "weak": "Maintained machines and kept the shop running smoothly.",
+      "strong": "Diagnosed and resolved spindle runout, coolant flow, and electrical issues on three lathe-mill centers; average machine uptime improved to 96%, saving an estimated 40+ hours of downtime per quarter.",
+      "lesson": "Concrete troubleshooting examples and uptime percentage prove you're a problem-solver, not just an operator."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only job titles without proof of skill depth",
+      "fix": "Always pair a machine type (CNC 4-axis, manual lathe, VMC) with a measurable outcome—parts produced, tolerances held, or time saved."
+    },
+    {
+      "mistake": "Ignoring certifications and training",
+      "fix": "Add a dedicated section for any trade certifications, apprenticeships, tool-and-die licenses, or CNC programming courses; ATS systems often filter by these."
+    },
+    {
+      "mistake": "Focusing on general 'teamwork' instead of technical collaboration",
+      "fix": "Say 'Coordinated with CAD design team to refine toolpaths, reducing machining time by 15%' instead of 'Worked well with others.'"
+    },
+    {
+      "mistake": "Downplaying safety or compliance knowledge",
+      "fix": "Explicitly mention any OSHA training, lockout/tagout (LOTO) proficiency, or safety audits you've led—shops prioritize this."
+    },
+    {
+      "mistake": "Not listing specific machines, materials, or industries you've worked with",
+      "fix": "Include exact machine models (Haas VF-4, Okuma Lathe), materials (titanium, cast iron, composites), and industries (aerospace, automotive, medical device) so hiring managers instantly see relevance."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Technical Skills' or 'Core Competencies' section that mirrors the job posting—CNC programming languages, machine types, CAD software, and certifications should appear in the first third of your resume.",
+    "In the work history, front-load your most recent and most complex role, and emphasize machines and precision metrics over general duties; a hiring manager scans fast.",
+    "Create a separate 'Certifications & Training' section if you have apprenticeships, tool-and-die licenses, or CNC programming certs; these often unlock ATS gates.",
+    "If you've worked with multiple industries (automotive, aerospace, medical), briefly call out industry-specific experience in bullet points—hiring managers often prioritize relevant vertical knowledge."
+  ],
+  "atsKeywords": [
+    "CNC programming",
+    "CNC machining",
+    "blueprint reading",
+    "precision measurement",
+    "manual lathe operation",
+    "milling machine",
+    "CAD software",
+    "tool and die",
+    "quality control inspection",
+    "OSHA safety"
+  ],
+  "salarySignal": "Entry-level machinists in the US typically earn $30,000–$40,000; experienced machinists and CNC specialists often reach $50,000–$70,000+, with tool-and-die makers and supervisory roles pushing into the $75,000–$90,000+ range.",
+  "faq": [
+    {
+      "q": "Should I put CNC programming languages on my machinist resume?",
+      "a": "Yes—absolutely. If you know G-code, M-code, or proprietary languages (Fanuc, Haas, Mazak), list them in your technical skills section. Many ATS systems search for these exact terms, and it's a quick signal of expertise."
+    },
+    {
+      "q": "How do I describe hands-on experience if I'm coming from a trade apprenticeship?",
+      "a": "Treat your apprenticeship like a job: list the employer (shop or manufacturer), dates, and specific machines and projects. Use the same bullet-point format as regular work history, and highlight measurable outcomes or certifications earned."
+    },
+    {
+      "q": "What if I mostly worked on older, manual machines—will that hurt my resume?",
+      "a": "No—manual machine skill is still valuable and shows foundational knowledge. Pair it with any CNC training or modern software you've picked up, and emphasize precision and problem-solving to show you can adapt to newer equipment."
+    },
+    {
+      "q": "Do I need CAD experience to be competitive?",
+      "a": "It depends on the job and industry. Aerospace and medical device shops almost always want CAD fluency; general job shops may not. Check the posting—if CAD is mentioned, learn SolidWorks or AutoCAD basics and add it to your resume."
+    },
+    {
+      "q": "How do I highlight safety and compliance without sounding generic?",
+      "a": "Be specific: mention OSHA certifications, lockout/tagout (LOTO) qualifications, or any safety audits you've led or participated in. For example: 'Achieved 2-year accident-free record' or 'Certified in OSHA 10-hour construction safety' show concrete commitment."
+    }
+  ]
+}

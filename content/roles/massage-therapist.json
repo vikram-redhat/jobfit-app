@@ -1,0 +1,130 @@
+{
+  "slug": "massage-therapist",
+  "title": "Massage Therapist",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:58:10.447Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Massage Therapist Resume: Tips & Examples for 2025",
+  "metaDescription": "Write a standout massage therapist resume with real examples, key skills, and ATS keywords. Land more client and clinic interviews.",
+  "h1": "Massage Therapist Resume: How to Land More Bookings and Job Offers",
+  "intro": "Your massage therapy resume needs to do more than list certifications—it needs to show clinics and spas that you're a skilled, professional practitioner clients will trust. We'll walk you through the exact skills, bullets, and structure that get results.",
+  "audience": "Licensed massage therapists seeking positions at spas, clinics, or wellness centers; career switchers from healthcare or fitness; and recent graduates of massage therapy programs.",
+  "topSkills": [
+    {
+      "name": "Swedish Massage",
+      "why": "The most common modality employers and clients request; demonstrating competency here is table stakes."
+    },
+    {
+      "name": "Deep Tissue Massage",
+      "why": "Shows ability to work with muscle tension and pain management—a high-value service clinics market heavily."
+    },
+    {
+      "name": "Client Assessment & Intake",
+      "why": "Hiring managers want therapists who can safely screen for contraindications and customize treatment."
+    },
+    {
+      "name": "Therapeutic Modalities (e.g., Sports Massage, Trigger Point, Myofascial Release)",
+      "why": "Specialty skills justify premium pricing and set you apart from generic relaxation-only therapists."
+    },
+    {
+      "name": "HIPAA Compliance & Confidentiality",
+      "why": "Clinics and medical spas require absolute trust; listing this signals professionalism and legal awareness."
+    },
+    {
+      "name": "Client Retention & Booking Management",
+      "why": "Spas care about repeat business; showing you can build loyal clientele proves business-side value."
+    },
+    {
+      "name": "Anatomy & Physiology Knowledge",
+      "why": "Demonstrates competency in the science behind your work—essential for clinical and medical spa roles."
+    },
+    {
+      "name": "Ergonomics & Body Mechanics",
+      "why": "Employers want therapists who can work long hours without injury; this signals sustainability and safety awareness."
+    },
+    {
+      "name": "Licensed Massage Therapist (LMT) Certification",
+      "why": "Non-negotiable credential in most states; must be clearly stated with your license number and state."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided massage therapy services to clients and helped them feel better.",
+      "strong": "Delivered customized Swedish, deep tissue, and trigger point massage to 25–35 weekly clients; maintained 85%+ rebook rate through personalized treatment plans and follow-up care.",
+      "lesson": "Specific modalities, client volume, and retention metrics prove you're results-driven and organized."
+    },
+    {
+      "weak": "Worked at a busy spa and did various types of massages.",
+      "strong": "Managed peak-season client load at full-service spa (50+ appointments/week); reduced no-show rate by 15% via automated appointment reminders and same-day confirmation calls.",
+      "lesson": "Quantified your impact on operations and client behavior—spas need therapists who help the business run smoother."
+    },
+    {
+      "weak": "Educated clients about relaxation and wellness.",
+      "strong": "Developed and delivered 8-week chair massage wellness program at corporate client site (120+ employees); generated $2K+ in referral revenue and led to 3 additional corporate contracts.",
+      "lesson": "Show revenue, scope (number of people), and repeat business—this proves you can be a revenue driver, not just a service provider."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Forgetting to list your license number and state clearly.",
+      "fix": "Add a dedicated 'Licenses & Certifications' section with full state abbreviation, license number, and expiration date—clinics screen for this immediately."
+    },
+    {
+      "mistake": "Using vague language like 'helped clients relax' for every bullet.",
+      "fix": "Swap generic wellness language for specific modalities, client volume, retention rates, and any business impact (bookings, referrals, revenue)."
+    },
+    {
+      "mistake": "Listing every certification but no context on how you use them.",
+      "fix": "Show which certifications directly support your strongest skills; if you're a sports massage specialist, lead with that, not just 'massage therapy certified.'"
+    },
+    {
+      "mistake": "Omitting client management or business-side achievements.",
+      "fix": "Spas and clinics are businesses—mention if you built a loyal clientele, reduced cancellations, or drummed up referrals."
+    },
+    {
+      "mistake": "Not emphasizing safety, hygiene, or compliance practices.",
+      "fix": "Call out HIPAA compliance, sanitation protocols, or injury-prevention measures to signal you're professional and trustworthy."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Licenses & Certifications' section at the top; clinics scan for this first and may auto-disqualify if it's buried.",
+    "Group experience by modality or setting (e.g., 'Sports Massage Therapist at XYZ Clinic' and 'Spa Massage Therapist at ABC Resort') to show specialization and versatility.",
+    "Place your strongest, most quantified achievement bullets in your most recent role—hiring managers spend the most time reading the top job.",
+    "Use a separate 'Core Competencies' section to mirror the exact modalities and skills listed in the job posting (e.g., 'Therapeutic Modalities: Swedish, Deep Tissue, Myofascial Release, Trigger Point')."
+  ],
+  "atsKeywords": [
+    "Licensed Massage Therapist",
+    "Deep Tissue Massage",
+    "Swedish Massage",
+    "Client Assessment",
+    "Therapeutic Modalities",
+    "HIPAA Compliance",
+    "Sports Massage",
+    "Myofascial Release",
+    "Trigger Point Therapy",
+    "Client Retention"
+  ],
+  "salarySignal": "Entry-level massage therapists in the US typically earn $28K–$38K annually, while experienced therapists in spas and wellness clinics range from $35K–$55K; independent contractors and those in high-demand specialties (sports, medical) often earn more.",
+  "faq": [
+    {
+      "q": "Do I need to list my massage license number on my resume?",
+      "a": "Yes—always include your full license number, state, and expiration date in your 'Licenses & Certifications' section. Clinics and spas verify this immediately, so missing or incorrect info can disqualify you."
+    },
+    {
+      "q": "What's the best way to show my specialty (e.g., sports massage or prenatal)?",
+      "a": "Lead your job titles or a dedicated 'Core Competencies' section with your specialty. For example, write 'Sports Massage Therapist – XYZ Clinic' instead of just 'Massage Therapist.' Use exact modality names from the job posting."
+    },
+    {
+      "q": "Should I include my client testimonials or reviews on my resume?",
+      "a": "No—keep your resume professional and metric-driven. Instead, mention strong client retention rates, rebook percentages, or referral numbers. Offer to share testimonials separately if the employer asks."
+    },
+    {
+      "q": "How do I quantify my massage therapy work if I'm self-employed or worked at a small practice?",
+      "a": "Track and list: weekly/monthly client volume, rebook or retention rate (%), referral revenue, specialties offered, and any corporate or wellness contracts. Even rough estimates (e.g., '20–30 clients/week') strengthen your bullets."
+    },
+    {
+      "q": "What if I don't have formal work experience yet (e.g., recent grad)?",
+      "a": "Emphasize certifications, internships, clinical rotations, and practicum hours. Add a 'Core Competencies' section listing all modalities you've trained in, and include any volunteer or student clinic experience with client counts and modalities used."
+    }
+  ]
+}

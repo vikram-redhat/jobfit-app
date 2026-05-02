@@ -1,0 +1,134 @@
+{
+  "slug": "animator",
+  "title": "Animator",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:49.093Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Animator Resume: Skills, Examples & Tips for 2026",
+  "metaDescription": "Land your animation job with a resume that showcases your reel, software skills, and real project impact. See sample bullets and ATS keywords.",
+  "h1": "How to Write an Animator Resume That Gets You Hired",
+  "intro": "Your animation skills are only half the battle—your resume needs to sell your reel and prove you can deliver on time and on brief. We'll walk you through the specific resume language, portfolio callouts, and keywords that make studios and production companies take you seriously.",
+  "audience": "Recent animation school grads, self-taught animators breaking into the industry, and artists transitioning from related creative fields like illustration or VFX.",
+  "topSkills": [
+    {
+      "name": "3D Animation (Maya, Blender, Cinema 4D)",
+      "why": "Studios filter for software proficiency first; showing mastery of industry-standard tools is non-negotiable."
+    },
+    {
+      "name": "2D Animation (Toon Boom, Procreate Dreams, TVPaint)",
+      "why": "Many roles focus on frame-by-frame or digital 2D work; naming the exact tool matters for ATS and hiring managers."
+    },
+    {
+      "name": "Character Animation",
+      "why": "Character rigging, walk cycles, and facial animation are core disciplines that studios explicitly hire for."
+    },
+    {
+      "name": "Motion Graphics",
+      "why": "After Effects and motion design skills open doors in broadcast, advertising, and streaming content production."
+    },
+    {
+      "name": "Storyboarding & Animatic Creation",
+      "why": "Pre-production skills show you can plan shots and timing before hitting render; valued in TV and film pipelines."
+    },
+    {
+      "name": "Rigging & Modeling",
+      "why": "Technical animation knowledge (joints, deformers, UV mapping) makes you versatile and reduces production bottlenecks."
+    },
+    {
+      "name": "Adobe Creative Suite (Photoshop, Illustrator)",
+      "why": "Asset prep, texture work, and design refinement are standard; proficiency signals you're production-ready."
+    },
+    {
+      "name": "Rendering & Compositing",
+      "why": "Understanding render engines (Arnold, RenderMan, Cycles) and node-based compositing (Nuke, Fusion) rounds out your pipeline knowledge."
+    },
+    {
+      "name": "Animation Principles & VFX",
+      "why": "Demonstrating grasp of timing, spacing, appeal, and particle effects shows you understand the fundamentals beyond software."
+    },
+    {
+      "name": "Deadline & Pipeline Management",
+      "why": "Studios need animators who hit deadlines and communicate clearly within collaborative production workflows."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created character animations for a short film project using Maya.",
+      "strong": "Animated 12 hero character walk cycles and 40+ secondary motion shots in Maya for a 5-minute short film, delivered 2 weeks ahead of schedule and approved on first render pass.",
+      "lesson": "Concrete numbers (shot counts, timeline, approval rate) prove you work efficiently and to spec, not just that you 'made' something."
+    },
+    {
+      "weak": "Worked with a team on motion graphics and visual effects.",
+      "strong": "Led motion graphics for 8 broadcast bumpers and 25 social media assets in After Effects, reducing turnaround time by 35% through custom expression templates and asset management.",
+      "lesson": "Quantify collaboration scope (asset count, time savings) and show ownership of process improvement—studios value efficiency, not just output."
+    },
+    {
+      "weak": "Familiar with 3D software and character rigging.",
+      "strong": "Rigged and skinned 6 full-body game characters in Maya (complex cloth and hair setups), reducing animator bind time by 40% and enabling rapid iteration for gameplay.",
+      "lesson": "Name the specific scope (character count, complexity level) and business impact (time saved, enabling downstream work) to prove technical depth and production mindset."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "No portfolio link or reel callout on the resume itself.",
+      "fix": "Always include a clickable link to your animation reel or portfolio at the top, and mention in bullets which projects are in your reel so recruiters know what to expect."
+    },
+    {
+      "mistake": "Listing software without context or proficiency level.",
+      "fix": "Group tools by proficiency tier (Expert, Intermediate, Learning) and show in bullets which tools you used for real, shipped projects—not just tutorials."
+    },
+    {
+      "mistake": "Focusing on school projects without mentioning client work or studio internships.",
+      "fix": "Highlight any professional gigs, freelance client deliverables, or production studio experience upfront; studios want to see real-world pipeline exposure, not just coursework."
+    },
+    {
+      "mistake": "Vague descriptions like 'worked on animation' without shot counts or deliverable scope.",
+      "fix": "Always quantify: number of shots, seconds of footage, characters, assets, or number of frames you personally animated to prove output and ownership."
+    },
+    {
+      "mistake": "Forgetting to mention animation principles or industry-standard processes.",
+      "fix": "Call out your grasp of timing & spacing, appeal, staging, or specific pipeline methodologies (e.g., 'motion capture cleanup,' 'rigged asset optimization') to show you think beyond software."
+    }
+  ],
+  "structureTips": [
+    "Lead with Portfolio/Reel at the very top: your link should be the first thing hiring managers see, before your name if space allows. Recruiters may spend 6 seconds on your resume before clicking your reel.",
+    "Group your experience by discipline (Character Animation, Motion Graphics, VFX, etc.) if you have mixed work, so your strongest area jumps out. Chronological order is secondary to impact.",
+    "Put your software skills in a dedicated 'Tools & Software' section, organized by proficiency tier and grouped by category (3D, 2D, Compositing, Design). This makes ATS scanning and quick human scanning faster.",
+    "Prioritize shipped or client-facing projects in your bullets. If you have both student and professional work, lead with any paid gigs, freelance clients, or studio internships; these signal real-world readiness."
+  ],
+  "atsKeywords": [
+    "Character animation",
+    "3D animation Maya",
+    "Motion graphics After Effects",
+    "Rigging and skinning",
+    "2D animation Toon Boom",
+    "Storyboarding and animatics",
+    "Compositing and VFX",
+    "Animation principles and timing",
+    "Blender 3D modeling",
+    "Rendering and lighting"
+  ],
+  "salarySignal": "Entry-level animators in the US typically earn $40,000–$60,000; mid-level (3–5 years) animators range $60,000–$85,000; senior and lead roles can reach $90,000–$130,000+, depending on studio location and specialization.",
+  "faq": [
+    {
+      "q": "Should I put my animation reel on my resume or just link to it?",
+      "a": "Always include a clickable link at the top of your resume—ideally a custom portfolio site or Vimeo link. Never embed video files. Mention in your bullet points which specific projects appear in your reel so recruiters know what to watch."
+    },
+    {
+      "q": "What if I only have school projects and no professional animation work yet?",
+      "a": "Lead with your best student work and highlight any freelance gigs, even small ones. Call out if your capstone was a team production with a real director or if you worked on a published indie game. Internship experience (even unpaid) beats pure coursework."
+    },
+    {
+      "q": "How do I show I understand animation software if I'm self-taught?",
+      "a": "List the tools and link to shipped projects or public assets (itch.io, ArtStation, GitHub). Mention any online certifications or boot camps you completed. Hiring managers care about output and on-time delivery more than the diploma on your wall."
+    },
+    {
+      "q": "Should I list every software I've touched or only the ones I'm expert in?",
+      "a": "Create tiers: 'Expert' (shipped projects), 'Proficient' (completed coursework or client work), and 'Learning' (tutorials or recent training). Only include tools you can speak to confidently in an interview—listing 15 programs waters down your narrative."
+    },
+    {
+      "q": "How do I quantify animation work on a resume when the deliverable is a video, not a spreadsheet?",
+      "a": "Count shots, seconds of footage, character count, frame ranges, and specific technical achievements (e.g., '400 frames of dialogue animation,' '6 hero characters rigged,' '8 visual effects sequences'). Also mention timeline, approvals, or efficiency wins (e.g., 'rendered 30% faster than legacy pipeline')."
+    }
+  ]
+}

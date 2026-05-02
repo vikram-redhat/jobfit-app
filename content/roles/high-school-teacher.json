@@ -1,0 +1,134 @@
+{
+  "slug": "high-school-teacher",
+  "title": "High School Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:02:03.951Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "High School Teacher Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a standout high school teacher resume with actionable examples, ATS keywords, and proven strategies to land interviews.",
+  "h1": "High School Teacher Resume: Stand Out to Hiring Managers",
+  "intro": "Your high school teacher resume needs to show you can manage a classroom, boost student outcomes, and collaborate with other educators—not just list your certifications. We'll walk you through what hiring managers and principals actually look for, plus concrete examples of how to reframe your experience to land interviews.",
+  "audience": "Recent education graduates, career switchers moving into teaching, and experienced teachers looking to change schools or districts.",
+  "topSkills": [
+    {
+      "name": "Classroom Management",
+      "why": "Principals want to know you can maintain a productive, safe learning environment—this is often the first thing they evaluate."
+    },
+    {
+      "name": "Curriculum Development & Instructional Design",
+      "why": "Showing you can design engaging lessons tailored to different learning styles sets you apart from candidates who just follow a textbook."
+    },
+    {
+      "name": "Assessment & Data Analysis",
+      "why": "Modern schools track student progress through standardized tests and formative assessments; demonstrating your ability to interpret data proves impact."
+    },
+    {
+      "name": "State Teaching Certification/License",
+      "why": "This is a non-negotiable requirement; always include your specific certification number and validity dates on your resume."
+    },
+    {
+      "name": "Differentiated Instruction",
+      "why": "Hiring managers want evidence you can adapt lessons for ESL, gifted, and special education students in the same classroom."
+    },
+    {
+      "name": "Parent Communication & Engagement",
+      "why": "Schools value teachers who build relationships with families and keep them informed about student progress—it improves retention and outcomes."
+    },
+    {
+      "name": "Technology Integration (Google Classroom, Canvas, Zoom)",
+      "why": "Post-pandemic, schools expect teachers to blend in-person and remote instruction seamlessly; specific platform experience matters."
+    },
+    {
+      "name": "Collaboration & Team Teaching",
+      "why": "Modern schools emphasize PLCs (Professional Learning Communities) and cross-curricular projects; show you work well with colleagues."
+    },
+    {
+      "name": "Subject Matter Expertise",
+      "why": "For secondary teachers, deep knowledge of your subject area (e.g., AP Biology, Pre-Calculus) is a major hiring signal."
+    },
+    {
+      "name": "Special Education/ELL Support",
+      "why": "Any training, certification, or hands-on experience with diverse learners makes you a stronger candidate in inclusive schools."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught English classes to high school students and used various teaching methods.",
+      "strong": "Designed and implemented differentiated curricula for 120+ 9th-grade English students across 4 sections, resulting in a 15% increase in proficiency on state writing assessments; used formative assessments weekly to adjust instruction for ESL and gifted learners.",
+      "lesson": "The strong version quantifies reach (120+ students, 4 sections), specifies results (15% increase in state assessments), and names teaching strategies (differentiation, formative assessment)—all things principals measure."
+    },
+    {
+      "weak": "Managed classroom behavior and communicated with parents.",
+      "strong": "Implemented a classroom management system (token economy + restorative circles) that reduced disciplinary referrals by 40%; held monthly virtual office hours and sent weekly progress updates to 85% of families, resulting in 92% parent engagement at back-to-school events.",
+      "lesson": "Concrete metrics (40% fewer referrals, 92% engagement) and specific strategies (token economy, restorative circles) prove both your classroom control and ability to involve families—key metrics for principals."
+    },
+    {
+      "weak": "Used Google Classroom and other tools to teach hybrid classes.",
+      "strong": "Transitioned 130 AP Calculus students to fully remote instruction in 8 weeks using Google Classroom, Desmos, and Zoom; maintained 85% attendance and achieved 78% pass rate on AP exam (vs. 72% district average), leveraging asynchronous video lessons and live office hours.",
+      "lesson": "Naming the platforms, the scale (130 students), and outcomes (78% vs. 72% district benchmark) shows you didn't just use tech—you used it strategically to exceed expectations."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only job duties instead of student or school impact.",
+      "fix": "Replace 'Taught U.S. History' with 'Increased student engagement in U.S. History by incorporating primary-source document analysis, leading to a 12-point improvement in unit exam scores and 94% course completion rate.'"
+    },
+    {
+      "mistake": "Burying your teaching certification or leaving it vague.",
+      "fix": "Create a dedicated 'Certifications' section with the exact license type, state, number, and expiration date (e.g., 'State of California Single Subject Teaching Credential, Social Science, License #123456, Valid through 2028')."
+    },
+    {
+      "mistake": "Not mentioning professional development or ongoing learning.",
+      "fix": "Include any training, workshops, or courses relevant to your role (e.g., 'Completed 40-hour Google Certified Educator training' or 'Attended Responsive Classroom summer institute, 2023')—schools want to see growth mindset."
+    },
+    {
+      "mistake": "Overlooking extracurricular or committee involvement.",
+      "fix": "Add a line like 'Led debate team to state tournament (3 consecutive years)' or 'Served on curriculum review committee; contributed to redesign of 9th-grade science standards'—shows leadership and school culture fit."
+    },
+    {
+      "mistake": "Using vague language like 'helped students learn' instead of measurable outcomes.",
+      "fix": "Be specific: 'Facilitated hands-on lab projects that resulted in 88% of students demonstrating mastery of the scientific method on post-assessments, up from 72% at year start.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with your teaching certification and licenses at the top—some ATS systems and principals scan for this first, and it's non-negotiable.",
+    "Put your most recent and strongest teaching role first, with a 2-3 line summary of scope (e.g., 'Taught 140+ students across 5 sections of Biology and Chemistry, with emphasis on inquiry-based learning and diverse learner needs').",
+    "Create a separate 'Professional Development & Certifications' section to highlight any advanced training (e.g., Google Certified, National Board Certification, SIOP, special education endorsements) that sets you apart.",
+    "If you have limited or no full-time teaching experience, lead with student teaching or practicum work and emphasize the scale, diversity, and results (e.g., 'Student Taught: 90 students across 3 sections of 10th-grade English; designed 25+ lessons; received 'exemplary' evaluation from supervising teacher')."
+  ],
+  "atsKeywords": [
+    "teaching certification",
+    "classroom management",
+    "differentiated instruction",
+    "curriculum development",
+    "student assessment",
+    "parent communication",
+    "Google Classroom",
+    "state standards",
+    "professional learning community",
+    "inclusive education"
+  ],
+  "salarySignal": "Entry-level US high school teacher salaries typically range from $35,000 to $45,000; experienced teachers in well-funded districts can reach $65,000+, with strong pension and benefits packages standard across public schools.",
+  "faq": [
+    {
+      "q": "Should I include student test score improvements on my resume?",
+      "a": "Yes—but only if they're significant and contextual. For example: 'Increased standardized assessment proficiency from 58% to 71% in one school year through targeted small-group interventions.' Avoid inflating numbers; principals verify claims and value honesty over hype."
+    },
+    {
+      "q": "How do I highlight teaching experience if I've only done student teaching?",
+      "a": "Treat student teaching as a full job entry with the school name, grade level, subject, and number of students taught. Quantify what you did: 'Designed 30+ lessons, assessed 80 students, collaborated with mentor teacher on differentiation strategies.' Many hiring managers understand the student-teaching pipeline and value candidates who show initiative even with limited experience."
+    },
+    {
+      "q": "What if I've taught in multiple districts or subjects?",
+      "a": "List each role separately with dates, school name, and district. Use consistent formatting and highlight cross-subject or cross-district wins (e.g., 'Developed school-wide writing rubric adopted across 3 secondary campuses'). This shows adaptability and systemic impact."
+    },
+    {
+      "q": "Should I mention that I'm pursuing National Board Certification?",
+      "a": "Absolutely. Add a line like 'In progress: National Board Certification in Adolescence and Young Adulthood (expected completion 2026).' It signals ambition and commitment to mastery—principals view this favorably and some districts offer bonus pay once you achieve it."
+    },
+    {
+      "q": "How important is it to mention clubs, sports coaching, or extracurricular activities?",
+      "a": "Very. Include them in a separate line or bullet if they're significant (e.g., 'Coached varsity basketball team; led team to regional playoffs 2 years running' or 'Sponsored student government club; increased participation by 35% through new meeting format'). Schools value teachers who contribute beyond the classroom."
+    }
+  ]
+}

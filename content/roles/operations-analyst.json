@@ -1,0 +1,130 @@
+{
+  "slug": "operations-analyst",
+  "title": "Operations Analyst",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:42:42.796Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Operations Analyst Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a winning Operations Analyst resume. Learn which skills to highlight, how to quantify impact, and what hiring managers actually want to see.",
+  "h1": "How to Write an Operations Analyst Resume That Gets Interviews",
+  "intro": "An Operations Analyst resume needs to show you can spot inefficiencies, fix broken processes, and back up your improvements with real numbers. We'll walk you through the skills, bullet formats, and structure that actually land interviews—and the common pitfalls to skip.",
+  "audience": "Recent business school grads, career switchers from finance or supply chain roles, and entry-to-mid-level candidates moving into operations management.",
+  "topSkills": [
+    {
+      "name": "Process Improvement & Optimization",
+      "why": "Hiring managers want to see you've actually identified and fixed operational bottlenecks, not just documented them."
+    },
+    {
+      "name": "Data Analysis & Reporting",
+      "why": "Operations decisions live and die by data; you need to show comfort with spreadsheets, dashboards, and deriving insights from messy datasets."
+    },
+    {
+      "name": "Project Management",
+      "why": "Operations roles involve coordinating cross-functional teams and delivering initiatives on time and within scope."
+    },
+    {
+      "name": "Supply Chain & Logistics",
+      "why": "Many operations roles touch inventory, vendor relationships, or fulfillment; even basic familiarity signals you understand the function."
+    },
+    {
+      "name": "Root Cause Analysis",
+      "why": "Employers want analysts who dig into the 'why' behind problems, not just surface-level quick fixes."
+    },
+    {
+      "name": "SQL, Python, or Excel Automation",
+      "why": "Technical skills help you scale your analysis and automate repetitive tasks—a huge plus for operations roles."
+    },
+    {
+      "name": "Cost Reduction & Budget Management",
+      "why": "Operations is often tied to the bottom line; showing you've saved money or reduced waste resonates immediately."
+    },
+    {
+      "name": "Stakeholder Communication",
+      "why": "You'll be presenting findings to non-technical leaders and coordinating between departments; clarity and influence matter."
+    },
+    {
+      "name": "Standard Operating Procedures (SOPs)",
+      "why": "Writing or updating SOPs shows you can translate improvements into lasting documentation and training."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Analyzed warehouse operations and helped improve efficiency.",
+      "strong": "Conducted root cause analysis on warehouse picking process; redesigned layout and updated SOP, reducing order fulfillment time by 25% and cutting overtime costs by $180K annually.",
+      "lesson": "The strong version includes the method (root cause analysis), the specific change (layout redesign + SOP update), and two quantified outcomes (time and cost)."
+    },
+    {
+      "weak": "Used Excel to create reports for management.",
+      "strong": "Built automated weekly performance dashboard in Excel using VLOOKUP and pivot tables; surfaced 12% variance in KPIs that led to discovery of duplicate invoice submissions, saving $45K in vendor overpayments.",
+      "lesson": "Naming the tool and technique, showing the insight it uncovered, and tying it to business impact transforms a task into a win."
+    },
+    {
+      "weak": "Worked with cross-functional teams to improve processes.",
+      "strong": "Led cross-functional working group (Finance, Ops, IT) to standardize vendor onboarding; reduced mean time to contract execution from 35 days to 10 days and improved vendor compliance tracking from 68% to 94%.",
+      "lesson": "Specificity about which teams, what you standardized, and measurable before/after metrics make this credible and impressive."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes.",
+      "fix": "Every bullet should answer 'so what?'—what changed or improved as a result of your work? Focus on impact, not activity."
+    },
+    {
+      "mistake": "Using vague words like 'helped,' 'assisted,' or 'supported.'",
+      "fix": "Lead with action verbs that show ownership: 'Led,' 'Designed,' 'Implemented,' 'Optimized,' 'Reduced,' 'Automated.' Avoid passive phrasing."
+    },
+    {
+      "mistake": "Forgetting to include metrics or dollar impact.",
+      "fix": "Operations roles are measured by efficiency, cost, and speed. Include percentages, dollar amounts, time saved, or volume increases wherever possible."
+    },
+    {
+      "mistake": "Not mentioning tools or software you've used.",
+      "fix": "Call out Excel, SQL, Tableau, Alteryx, Salesforce, SAP, or any other platform relevant to the job description—these are ATS keywords and proof of technical capability."
+    },
+    {
+      "mistake": "Separating 'Skills' section from proof in bullets.",
+      "fix": "Don't just list 'Process Improvement' as a skill; show it in your bullet points with concrete examples. Skills should echo and reinforce what your experience demonstrates."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most quantifiable wins—cost savings, time reductions, or process metrics—not your longest tenure.",
+    "Group bullets under each role by theme (Process Improvement, Analytics, Vendor Management) if you've held broad roles; it helps readers see the scope of your work.",
+    "If you're early-career or career-switching, include a 'Core Competencies' or 'Technical Skills' section that mirrors the job description—ATS systems scan for exact matches.",
+    "Put tools and certifications (Six Sigma, PMP, SQL, Tableau) high up if relevant; many hiring managers filter resumes by software proficiency first."
+  ],
+  "atsKeywords": [
+    "process improvement",
+    "operations analysis",
+    "root cause analysis",
+    "data analysis",
+    "supply chain optimization",
+    "project management",
+    "cost reduction",
+    "Excel",
+    "SQL",
+    "KPI dashboard"
+  ],
+  "salarySignal": "Entry-level Operations Analyst salaries in the US typically range from $50K to $65K; mid-level positions (3–5 years) often reach $70K–$90K. Salary varies widely by region, company size, and industry sector.",
+  "faq": [
+    {
+      "q": "Should I list Excel skills on my resume if I'm applying for an Operations Analyst role?",
+      "a": "Yes—absolutely. Excel is table stakes for operations roles. Go beyond just listing it; show what you built (pivot tables, VLOOKUPs, automated dashboards) in your bullet points or Skills section. If you know SQL or Python too, lead with those."
+    },
+    {
+      "q": "How do I show impact if I was only a junior analyst or intern?",
+      "a": "Focus on the insights you discovered, processes you helped streamline, or time/money you contributed to saving—even if small. Use phrasing like 'contributed to' or 'identified an opportunity to,' and quantify the outcome. Intern and junior roles can still show meaningful wins."
+    },
+    {
+      "q": "What's the difference between an Operations Analyst and a Business Analyst?",
+      "a": "Operations Analysts focus on internal workflows, efficiency, cost, and supply chain; Business Analysts often work on broader strategic initiatives, product features, and cross-company processes. Tailor your resume to the specific job description—but both value data, process understanding, and impact storytelling."
+    },
+    {
+      "q": "How many bullet points per role should I include?",
+      "a": "Aim for 4–6 bullets per role, ordered by impact (biggest wins first). Quality over quantity—each bullet should be a win, not filler. Early-career roles may have fewer; later roles can justify 6–8."
+    },
+    {
+      "q": "Do I need certifications like Six Sigma or PMP to land an Operations Analyst job?",
+      "a": "Not required to start, but they're a strong differentiator. If you have them, list them in a dedicated 'Certifications' section near the top. If you don't, focus on quantified wins and technical skills (Excel, SQL); you can earn certifications later once you're in the role."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "human-resources-manager",
+  "title": "Human Resources Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:45:18.728Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Human Resources Manager Resume: Guide & Examples",
+  "metaDescription": "Build a standout HR Manager resume with skill templates, bullet examples, and ATS tips that hiring managers actually want to see.",
+  "h1": "Human Resources Manager Resume Guide",
+  "intro": "As an HR Manager, your resume needs to prove you can handle hiring, employee relations, compliance, and culture—all at once. We'll show you how to highlight the wins that matter most to hiring teams and get past both ATS systems and human eyes.",
+  "audience": "HR professionals moving into manager roles, HR coordinators seeking promotion, and career switchers from operations or recruiting with HR experience.",
+  "topSkills": [
+    {
+      "name": "Talent Acquisition & Recruitment",
+      "why": "Hiring managers want to see you can source, vet, and close top talent—the foundation of any HR leader's job."
+    },
+    {
+      "name": "Employee Relations",
+      "why": "Your ability to manage conflict, conduct feedback sessions, and build workplace culture is critical to retention and engagement metrics."
+    },
+    {
+      "name": "HR Compliance & Employment Law",
+      "why": "Staying compliant with labor laws, benefits regulations, and workplace policies protects the company and shows legal acumen."
+    },
+    {
+      "name": "Performance Management",
+      "why": "Designing and executing review cycles, goal-setting frameworks, and performance improvement plans demonstrates strategic people development."
+    },
+    {
+      "name": "Compensation & Benefits Administration",
+      "why": "Managing salary structures, benefit packages, and payroll coordination shows operational depth and financial stewardship."
+    },
+    {
+      "name": "HRIS & HR Technology",
+      "why": "Proficiency with Workday, BambooHR, ADP, or similar platforms shows you can streamline processes and work with data."
+    },
+    {
+      "name": "Onboarding & Employee Development",
+      "why": "Structuring new-hire programs and training initiatives reduces turnover and signals investment in long-term talent growth."
+    },
+    {
+      "name": "Organizational Development",
+      "why": "Shaping team structure, culture initiatives, and cross-functional collaboration proves you think beyond day-to-day HR."
+    },
+    {
+      "name": "Conflict Resolution & Mediation",
+      "why": "HR managers must navigate sensitive interpersonal issues fairly and discreetly—a key differentiator in this role."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for hiring and recruiting new employees for the company.",
+      "strong": "Led full-cycle recruiting for 15+ open roles annually; reduced time-to-hire from 45 to 28 days and improved offer acceptance rate to 92% through targeted sourcing and candidate experience improvements.",
+      "lesson": "Specific metrics (days, percentage, volume) show impact; active verbs and quantified outcomes beat vague duties."
+    },
+    {
+      "weak": "Managed employee relations and handled HR issues as needed.",
+      "strong": "Resolved 20+ employee relations cases annually, including performance issues and disputes, with 100% resolution rate and zero escalations to legal; conducted exit interviews to identify retention drivers.",
+      "lesson": "Numbers, outcomes (zero escalations), and business connection (retention insight) elevate a generic responsibility into proof of competence."
+    },
+    {
+      "weak": "Implemented new HR system and handled company benefits.",
+      "strong": "Migrated 200+ employees to new HRIS (Workday) with <2% adoption friction; redesigned benefits package, resulting in 18% increase in enrollment and $50K+ annual savings through streamlined administration.",
+      "lesson": "Include the tool name, scale, and direct business impact (cost, engagement, efficiency); shows technical and strategic thinking."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of achievements.",
+      "fix": "Replace 'Managed hiring' with 'Filled 12 critical roles 20% faster by redesigning the screening process'—tie every task to a measurable outcome."
+    },
+    {
+      "mistake": "Avoiding numbers and metrics.",
+      "fix": "Every HR Manager role touches headcount, turnover, budget, or time. Use them: '12 direct reports,' 'reduced turnover by 15%,' '$2M benefits budget,' 'cut onboarding time by 3 weeks.'"
+    },
+    {
+      "mistake": "Forgetting compliance and legal wins.",
+      "fix": "Don't skip mentions of policy updates, successful audits, zero litigation, or proactive compliance measures—these are huge for risk-averse hiring teams."
+    },
+    {
+      "mistake": "Not naming specific HR systems or tools.",
+      "fix": "Say 'Workday,' 'BambooHR,' 'ADP,' or 'Greenhouse' instead of just 'HRIS' or 'HR software'—ATS systems keyword-match on exact tool names."
+    },
+    {
+      "mistake": "Downplaying culture and DEI initiatives.",
+      "fix": "If you led employee resource groups, diversity hiring, or culture surveys, include them—modern HR leaders shape workplace experience, not just process."
+    }
+  ],
+  "structureTips": [
+    "Lead with your strongest win: If you've reduced turnover, closed hard-to-fill roles, or saved the company money, put that bullet first—it's your headline.",
+    "Group bullet points by function: Break your role into Recruitment, Compliance, Performance Management, and Benefits so hiring managers scan quickly and ATS systems pick up keyword clusters.",
+    "Put HRIS and tool expertise in a dedicated Skills section: List every HR platform, payroll system, and data tool you've used; these are common ATS keywords.",
+    "Include metrics on headcount, retention, and time-to-hire: HR leaders live and die by these KPIs—use them to frame your impact across every role."
+  ],
+  "atsKeywords": [
+    "talent acquisition",
+    "employee relations",
+    "HR compliance",
+    "performance management",
+    "HRIS",
+    "benefits administration",
+    "recruiting",
+    "onboarding",
+    "employment law",
+    "organizational development"
+  ],
+  "salarySignal": "Entry-level HR Manager salaries in the US typically range from $55,000 to $70,000; mid-career managers earn $70,000–$95,000; senior HR Managers at larger companies can exceed $120,000, often with bonus and benefits.",
+  "faq": [
+    {
+      "q": "Should I list ATS software experience on an HR Manager resume?",
+      "a": "Absolutely. Name the exact platforms: Workday, BambooHR, ADP, Greenhouse, Lever, Taleo, etc. Hiring managers often filter resumes by HRIS proficiency, so specificity matters for both ATS and human readers."
+    },
+    {
+      "q": "How do I showcase HR compliance wins without being boring?",
+      "a": "Tie compliance to business outcomes: 'Redesigned leave-of-absence policy and updated FMLA documentation, reducing legal risk and cutting admin time by 8 hours/week' or 'Conducted full workplace audit and achieved 100% compliance with new state regulations.' Compliance prevents disasters—frame it that way."
+    },
+    {
+      "q": "Do I need to mention every HR function or just my strengths?",
+      "a": "Lead with your strengths, but don't completely omit core functions. If hiring isn't your strong suit, at least mention it briefly; hiring managers want to see you're capable across the full HR spectrum, even if you shine in one area."
+    },
+    {
+      "q": "How important are turnover and retention metrics on an HR Manager resume?",
+      "a": "Very. Turnover rate is one of the top KPIs for HR success. If you reduced it, include the percentage. If you maintained low turnover in a competitive market, call it out. Retention is proof you build culture and manage people well."
+    },
+    {
+      "q": "Should I mention salary negotiation or compensation strategy?",
+      "a": "If you've touched comp strategy, absolutely. Examples: 'Conducted market analysis and adjusted salary bands to improve competitiveness, increasing offer acceptance by 12%' or 'Managed $1.5M annual compensation budget while maintaining equity across teams.' This shows financial acumen."
+    }
+  ]
+}

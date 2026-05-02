@@ -1,0 +1,134 @@
+{
+  "slug": "podcast-producer",
+  "title": "Podcast Producer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:35.737Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Podcast Producer Resume: Tips & Examples for 2024",
+  "metaDescription": "Write a standout podcast producer resume. Learn what skills matter, see strong bullet examples, and avoid common mistakes hiring managers spot instantly.",
+  "h1": "Podcast Producer Resume: Stand Out in Creative Audio",
+  "intro": "Podcast production is booming, and the competition for producer roles is fierce. Your resume needs to show you can wrangle talent, manage workflows, and deliver polished audio content on deadline. We'll walk you through exactly what to highlight so hiring managers and studio recruiters take you seriously.",
+  "audience": "Recent audio school grads, self-taught producers, and creatives pivoting from radio, music production, or media into podcast roles.",
+  "topSkills": [
+    {
+      "name": "Audio Editing & Mixing (Audition, Logic Pro, Reaper)",
+      "why": "The technical core of podcast production—hiring managers expect you to be fluent in at least one professional DAW and capable of delivering broadcast-quality audio."
+    },
+    {
+      "name": "Show Planning & Production Workflow",
+      "why": "Producers juggle recording schedules, guest coordination, and editorial timelines; demonstrating organized systems separates you from amateurs."
+    },
+    {
+      "name": "Sound Design & Podcast Branding",
+      "why": "Great podcast producers craft sonic identity—intros, transitions, and effects that make shows recognizable and professional."
+    },
+    {
+      "name": "Guest Coordination & Talent Management",
+      "why": "You're often the glue between hosts and guests; studios need proof you can schedule, brief, and manage personalities."
+    },
+    {
+      "name": "Multi-Track Recording & Live Podcast Production",
+      "why": "Live or remote recording sessions require technical troubleshooting and real-time quality control—a critical producer skill."
+    },
+    {
+      "name": "Podcast Distribution & RSS Management",
+      "why": "Producers upload to platforms like Spotify, Apple Podcasts, and Anchor; understanding distribution workflows and metadata matters."
+    },
+    {
+      "name": "Transcription & SEO Optimization",
+      "why": "Modern podcast shows need searchable content and show notes; producers who handle this add measurable value to discoverability."
+    },
+    {
+      "name": "Adobe Creative Suite (Premiere, After Effects)",
+      "why": "Video clips, trailers, and promotional content are now standard; cross-media skills make you more marketable."
+    },
+    {
+      "name": "Project Management & Deadline Ownership",
+      "why": "Shows ship on a schedule; demonstrating you can track milestones, flag delays, and deliver on time is non-negotiable."
+    },
+    {
+      "name": "Audience Analytics & Growth Strategy",
+      "why": "Data-driven producers understand listener metrics and can tie production choices to engagement—increasingly expected at ambitious studios."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Edited and mixed podcast episodes for multiple shows.",
+      "strong": "Produced and mixed 40+ podcast episodes annually for 3 flagship shows, reducing post-production time by 25% through custom editing templates and batch processing workflows.",
+      "lesson": "Numbers, specificity, and a process improvement signal you're organized and thinking like a business partner, not just a technician."
+    },
+    {
+      "weak": "Managed guest bookings and coordinated recording sessions.",
+      "strong": "Coordinated 8-12 guest interviews per month, building pre-interview briefs that reduced on-air technical issues by 40% and improved first-take quality.",
+      "lesson": "Shift from 'did the task' to 'improved the outcome'—metrics on quality or efficiency show you think beyond logistics."
+    },
+    {
+      "weak": "Handled social media and promotion for podcasts.",
+      "strong": "Created 30-second audio clips and promotional graphics from 80+ episodes, resulting in 35% increase in weekly downloads and 12K new followers across social channels.",
+      "lesson": "Tie creative output to audience growth or engagement—studios measure producer value partly through listener acquisition."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context.",
+      "fix": "Don't just say 'Adobe Audition' or 'Logic Pro'—explain what you *built* with them, e.g. 'mixed 15+ episodes monthly in Audition' or 'engineered live remote sessions using Logic Pro.'"
+    },
+    {
+      "mistake": "Ignoring show-specific metrics.",
+      "fix": "If available, cite downloads, listener growth, or awards your shows won—tie your work to tangible audience results, even if just 'grew show from 5K to 18K monthly listeners.'"
+    },
+    {
+      "mistake": "Downplaying non-technical skills.",
+      "fix": "Producers aren't just audio engineers; emphasize talent wrangling, editorial judgment, and deadline management equally—these are deal-breakers if missing."
+    },
+    {
+      "mistake": "Not mentioning remote or multi-track recording experience.",
+      "fix": "Post-pandemic, remote guest recording is the norm; include your experience with Riverside.fm, SquadCast, Zencastr, or raw Zoom setup if you have it."
+    },
+    {
+      "mistake": "Forgetting to mention podcast portfolio or demos.",
+      "fix": "Link to your best 2-3 episodes in your portfolio or 'Notable Projects' section; hiring managers will listen—make sure your work sounds professional."
+    }
+  ],
+  "structureTips": [
+    "Lead with a Skills section highlighting audio tools (Audition, Logic, Reaper) and soft skills (guest coordination, project management) before your experience—many studios scan for software fluency first.",
+    "In your experience section, group by *show or podcast portfolio* rather than just job title; e.g., 'Producer, The Daily Digest Podcast (120K listeners)' tells the story faster.",
+    "Add a 'Notable Productions' or 'Portfolio' section with 2-3 hyperlinks to your best work—hiring managers will actually listen to samples, so make them count.",
+    "Include any live or remote production experience prominently; it's a differentiator and increasingly valuable in the industry."
+  ],
+  "atsKeywords": [
+    "podcast production",
+    "audio editing",
+    "Adobe Audition",
+    "guest coordination",
+    "remote recording",
+    "podcast distribution",
+    "sound design",
+    "multi-track recording",
+    "show notes and transcription",
+    "audience analytics"
+  ],
+  "salarySignal": "Entry-level podcast producer roles in the US typically range from $35K–$50K; mid-level producers at established networks or studios earn $50K–$75K+. Freelance rates vary widely by project scope.",
+  "faq": [
+    {
+      "q": "What should I include in a podcast producer portfolio?",
+      "a": "Link 2–3 of your best-edited episodes (full or clips), a sample show notes document, and optionally a short reel or promo you designed. Quality beats quantity—hiring managers often listen to full episodes to assess your mix, pacing, and editing taste."
+    },
+    {
+      "q": "Do I need formal audio engineering training to be a podcast producer?",
+      "a": "No. Many successful podcast producers are self-taught via online courses (Skillshare, Udemy) or bootcamps. What matters is a solid portfolio, fluency with industry tools, and proof you can deliver polished, on-time episodes. Your resume should emphasize *projects and shows* over degrees if you don't have formal credentials."
+    },
+    {
+      "q": "How do I highlight freelance podcast work on my resume?",
+      "a": "Create a 'Freelance Projects' or 'Notable Productions' section listing 3–5 shows, listener counts (if public), and key responsibilities. Be specific: 'Mixed 25+ episodes for 3 independent podcasts, averaging 8K–15K monthly listeners,' sounds stronger than 'worked on various podcasts.'"
+    },
+    {
+      "q": "Should I mention guest booking if I haven't worked in a studio?",
+      "a": "Absolutely—if you've coordinated guests for your own podcast or a side project, include it. Phrase it as 'booked and prepped 15+ guests for indie podcast series' or similar. Studios value this skill even at grassroots level."
+    },
+    {
+      "q": "What metrics matter most for a podcast producer resume?",
+      "a": "Downloads or listener growth (e.g., 'grew audience from 2K to 12K monthly'), episode volume (e.g., '40+ episodes annually'), production timeline efficiency (e.g., 'reduced edit-to-publish time by 30%'), and social amplification (followers, clip views). Any tie between your work and audience or business results strengthens your candidacy."
+    }
+  ]
+}

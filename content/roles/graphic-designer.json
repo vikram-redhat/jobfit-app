@@ -1,0 +1,130 @@
+{
+  "slug": "graphic-designer",
+  "title": "Graphic Designer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:47:57.051Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Graphic Designer Resume: Stand Out to Creative Employers",
+  "metaDescription": "Land your graphic design role with a resume that showcases your portfolio impact. See real bullet examples, ATS keywords, and how to highlight visual work.",
+  "h1": "How to Write a Graphic Designer Resume That Gets Noticed",
+  "intro": "Your graphic design resume needs to prove you can solve visual problems, not just make things look pretty. We'll show you how to translate your portfolio work into metrics-driven bullets and position yourself to land interviews at design studios, in-house teams, and agencies.",
+  "audience": "Recent design graduates, junior designers pivoting from freelance work, and career switchers with visual design skills applying to their first or next design role.",
+  "topSkills": [
+    {
+      "name": "Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+      "why": "Nearly every design job posting lists proficiency in Adobe's core tools as a must-have; it's the industry standard."
+    },
+    {
+      "name": "UI/UX Design",
+      "why": "Hiring managers want designers who understand user experience and can design interfaces, not just static graphics."
+    },
+    {
+      "name": "Brand Identity Development",
+      "why": "Creating cohesive visual systems, logos, and brand guidelines is a high-value skill that shows strategic thinking."
+    },
+    {
+      "name": "Typography",
+      "why": "Strong typography skills separate skilled designers from amateurs; it's noticed in portfolios and signals craft."
+    },
+    {
+      "name": "Design Systems & Figma",
+      "why": "Modern teams use Figma for collaboration and design systems management; it's increasingly expected over desktop tools alone."
+    },
+    {
+      "name": "Print Design & Layout",
+      "why": "Many roles still need designers who can produce collateral, packaging, and print-ready files with attention to technical specs."
+    },
+    {
+      "name": "Web Design & Responsive Design",
+      "why": "Understanding how designs adapt across devices and screens is critical in today's multi-platform environment."
+    },
+    {
+      "name": "Prototyping & Interaction Design",
+      "why": "Showing you can prototype user flows and interactions (in tools like Figma or Principle) makes you more competitive for digital roles."
+    },
+    {
+      "name": "Color Theory & Visual Hierarchy",
+      "why": "These fundamentals demonstrate that your design choices are intentional and informed, not arbitrary."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed graphics and marketing materials for social media.",
+      "strong": "Created 40+ social media graphics and promotional assets that increased Instagram engagement by 25-35%, resulting in 10K+ new followers over 6 months.",
+      "lesson": "Added specificity (40+ assets), a measurable outcome (engagement %), and business impact (follower growth) instead of just describing the task."
+    },
+    {
+      "weak": "Worked on brand identity projects and logo design.",
+      "strong": "Developed complete brand identity system (logo, color palette, typography, brand guidelines) for 3 startup clients; all brands adopted materials across 5+ touchpoints within first quarter.",
+      "lesson": "Specified deliverables (complete system), quantity (3 clients), scope (5+ touchpoints), and adoption rate—showing your work had real business use."
+    },
+    {
+      "weak": "Used Figma and Adobe software to create designs.",
+      "strong": "Prototyped and iterated 8 user flows in Figma; designs tested with 20+ users and led to 40% reduction in task completion time before handoff to engineering.",
+      "lesson": "Named tools, added user testing context, and led with a measurable improvement (40% faster completion), proving design-driven impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without showing impact",
+      "fix": "Replace 'Proficient in Adobe Creative Suite' with bullets that show what you *made* with those tools and how it drove results."
+    },
+    {
+      "mistake": "Forgetting to mention portfolio or linking strategy",
+      "fix": "Include a prominent portfolio URL and, in bullets, reference specific projects in your portfolio so hiring managers know where to look."
+    },
+    {
+      "mistake": "No numbers or metrics in design bullets",
+      "fix": "Quantify your work: projects shipped, design systems built, user testing participants, engagement lift, design approval rate, turnaround time improved, etc."
+    },
+    {
+      "mistake": "Writing like a generalist instead of showing specialization",
+      "fix": "If you're strong in UI/UX, print, or motion design, lead with those—tailor your bullets to the job description and highlight your niche."
+    },
+    {
+      "mistake": "Undervaluing collaborative or process-driven work",
+      "fix": "Highlight cross-functional work: 'collaborated with product and engineering,' 'led design critiques,' 'mentored junior designers'—agencies and teams value teamwork."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 'Design Portfolio' or 'Key Projects' section right under your header that lists 2–3 standout case studies with links; hiring managers want to see work immediately.",
+    "Put your strongest design tools (Figma, Adobe Suite, Sketch) in a dedicated 'Design Tools' or 'Technical Skills' section so ATS scanners and humans alike can spot proficiency fast.",
+    "Organize experience by *type of work* (UI/UX, branding, print, web) within each role if you've done multiple disciplines; it makes your range clear and easier to scan.",
+    "Include metrics and user-facing outcomes (engagement, adoption, user testing results, time savings) in every bullet to shift focus from 'I designed this' to 'this design had an impact.'"
+  ],
+  "atsKeywords": [
+    "Adobe Creative Suite",
+    "Figma design",
+    "UI/UX design",
+    "brand identity",
+    "design systems",
+    "user research",
+    "responsive design",
+    "prototyping",
+    "visual design",
+    "Adobe Illustrator"
+  ],
+  "salarySignal": "Entry-level graphic designer positions in the US typically range from $35K–$50K annually, while mid-level designers with 3–5 years of experience earn $50K–$75K; senior and specialized roles (UX, motion, brand strategy) often exceed $75K.",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my resume?",
+      "a": "Yes—make it prominent. Add it to your header or create a 'Portfolio' line right below your name. Use a clean, branded URL (not a long Dribbble or Behance link) so it's easy to type. Hiring managers expect to see your work, and a missing portfolio is a red flag."
+    },
+    {
+      "q": "How do I quantify design work if I'm mostly self-taught or a freelancer?",
+      "a": "Count projects (20+ designs completed), client satisfaction (5-star average, 90% repeat rate), turnaround time (3-day delivery vs. industry standard 7 days), or reach (designs used across 500K+ social media impressions). If you've done passion projects, mention engagement metrics or user feedback."
+    },
+    {
+      "q": "What if I'm transitioning from print design to digital/UX?",
+      "a": "Reframe your print bullets to highlight transferable skills: layout logic, typography mastery, user-centered thinking. Then *add* digital skills you've learned (Figma, prototyping, responsive design). Use keywords from the job description and make it clear you're intentional about the shift."
+    },
+    {
+      "q": "Do I need to list every design tool I've ever touched?",
+      "a": "No—list tools relevant to the job and your strongest skills. Focus on Figma, Adobe Suite, and Sketch; only add niche tools (Sketch, XD, Cinema 4D) if the job mentions them or if you're expert-level. Quality over quantity; hiring managers care that you can think, not that you've dabbled."
+    },
+    {
+      "q": "How do I make my design resume stand out visually?",
+      "a": "Keep it clean and readable—white space, clear hierarchy, consistent typography—but *don't* go overboard with color or fonts. Your resume should reflect good design taste, not be a portfolio piece. Aim for legible, professional, and on-brand; let your portfolio be the showstopper."
+    }
+  ]
+}

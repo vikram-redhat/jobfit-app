@@ -1,0 +1,134 @@
+{
+  "slug": "landscaper",
+  "title": "Landscaper",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:00:42.548Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Landscaper Resume: Skills, Templates & Tips for 2026",
+  "metaDescription": "Build a winning landscaper resume with actionable examples, key skills, and ATS keywords. Land your next grounds maintenance or design role.",
+  "h1": "How to Write a Landscaper Resume That Gets Results",
+  "intro": "Your landscaper resume needs to show you can transform outdoor spaces while managing budgets, teams, and timelines. Whether you're breaking into the industry or leveling up from crew member to supervisor, we'll show you how to highlight the skills that matter to hiring managers in landscaping and grounds maintenance.",
+  "audience": "Career switchers entering the trades, crew members aiming for crew lead or supervisor roles, and landscapers moving between regions or company sizes.",
+  "topSkills": [
+    {
+      "name": "Landscape Design & Installation",
+      "why": "Clients and property managers want landscapers who can visualize and execute plantings, hardscaping, and outdoor layouts from concept to completion."
+    },
+    {
+      "name": "Equipment Operation",
+      "why": "Proficiency with mowers, trimmers, blowers, skid steers, and excavators signals safety, efficiency, and minimal on-the-job training needed."
+    },
+    {
+      "name": "Lawn & Turf Management",
+      "why": "Seasonal care, disease identification, soil health, and irrigation knowledge prove you understand plant biology and can keep properties looking pristine year-round."
+    },
+    {
+      "name": "Hardscaping",
+      "why": "Patios, retaining walls, pathways, and drainage systems require technical skill and add high-value revenue streams that contractors need."
+    },
+    {
+      "name": "Team Leadership & Safety",
+      "why": "Managing crews, enforcing OSHA compliance, and creating safe work environments are non-negotiable for crew leads and supervisors."
+    },
+    {
+      "name": "Customer Service & Communication",
+      "why": "Landscaping is client-facing; demonstrating communication, follow-up, and problem-solving earns repeat business and referrals."
+    },
+    {
+      "name": "Maintenance Scheduling & Organization",
+      "why": "Ability to plan seasonal work, manage multiple properties, and meet deadlines separates reliable contractors from flaky ones."
+    },
+    {
+      "name": "Pest & Weed Control",
+      "why": "Knowledge of integrated pest management, herbicide application, and plant health treatment expands your scope and client retention."
+    },
+    {
+      "name": "Budget & Cost Management",
+      "why": "Estimating project costs, tracking materials, and managing crew hours directly impact a company's bottom line."
+    },
+    {
+      "name": "Certifications (Pesticide, Heavy Equipment, CDL)",
+      "why": "State-specific licenses and certifications remove barriers to hiring and open doors to higher-paying roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped install plants and maintained landscaping for residential clients.",
+      "strong": "Designed and installed 40+ landscape projects annually for residential and commercial clients, including full-scale hardscaping, generating $50K–$80K revenue per season.",
+      "lesson": "Specific project counts and revenue impact prove your value; generic 'helped' doesn't stand out to hiring managers reviewing 50 resumes."
+    },
+    {
+      "weak": "Used equipment safely and on time.",
+      "strong": "Operated and maintained skid steer, excavator, and zero-turn mower fleet; reduced equipment downtime by 25% through proactive maintenance and log tracking.",
+      "lesson": "Naming specific equipment + a quantified improvement (uptime, cost savings) shows you're reliable and contribute to operational efficiency."
+    },
+    {
+      "weak": "Managed a team of landscapers.",
+      "strong": "Led 6-person crew across 15–20 residential and commercial accounts; implemented new scheduling system that reduced duplicate site visits by 30% and improved customer satisfaction scores from 4.2 to 4.8 stars.",
+      "lesson": "Numbers—team size, account volume, satisfaction lift—make leadership tangible and show you solve real business problems."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing vague duties instead of measurable outcomes",
+      "fix": "Replace 'maintained lawns' with 'maintained 12 commercial properties on bi-weekly cycle with zero customer complaints and 98% on-time completion rate.'"
+    },
+    {
+      "mistake": "Hiding certifications or licenses in the body of bullet points",
+      "fix": "Create a dedicated 'Licenses & Certifications' section above or below your experience; highlight pesticide applicator license, heavy equipment certification, and CDL prominently."
+    },
+    {
+      "mistake": "Not mentioning client retention or repeat work",
+      "fix": "Add a bullet about retention: 'Built client base through referrals; 85% of accounts renewed annually and upgraded service packages within 3 years.'"
+    },
+    {
+      "mistake": "Focusing only on hands-on work, not crew or business skills",
+      "fix": "If you've taken on any admin, scheduling, or client communication, say so: 'Coordinated scheduling for 8-person crew across 40+ weekly accounts and managed contract renewals.'"
+    },
+    {
+      "mistake": "Omitting seasonal or weather-related project achievements",
+      "fix": "Highlight multi-season work: 'Oversaw spring bed prep, summer maintenance, fall cleanup, and winter salting for 18-property portfolio; maintained premium service uptime through all weather.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a summary or objective that names the role you're targeting (e.g., 'Crew Lead / Landscape Supervisor') and one standout skill (e.g., 'Specializing in hardscaping and team leadership'). Hiring managers scan the top third in seconds.",
+    "Put 'Licenses & Certifications' in a dedicated section near the top; recruiters and compliance teams search resumes for proof of state licensing, pesticide credentials, and equipment certs before they even read your work history.",
+    "Group experience by role title or specialization (e.g., 'Lead Landscaper', 'Crew Member', 'Landscape Designer') rather than employer if you've been at the same company for years. This helps ATS parsing and shows progression.",
+    "If you don't have formal landscaping work history, create a 'Core Competencies' or 'Technical Skills' section listing equipment, plants, and methods you've learned in training or certifications; this signals readiness to supervisors hiring entry-level crew."
+  ],
+  "atsKeywords": [
+    "landscape design and installation",
+    "lawn maintenance and turf management",
+    "hardscaping and patio installation",
+    "equipment operation and maintenance",
+    "crew leadership and supervision",
+    "pesticide applicator license",
+    "irrigation system design",
+    "customer service and property management",
+    "heavy equipment operator",
+    "OSHA safety compliance"
+  ],
+  "salarySignal": "Entry-level landscapers in the US typically earn $28K–$38K annually; crew leads and supervisors range $40K–$60K; experienced contractors or business owners often exceed $70K depending on region, company size, and specialization.",
+  "faq": [
+    {
+      "q": "What should I put on a landscaper resume with no formal experience?",
+      "a": "Focus on relevant skills training, certifications (pesticide applicator, heavy equipment), volunteer grounds work, or related roles (groundskeeping, golf course maintenance). Create a 'Technical Skills' section listing equipment, plant knowledge, and methods you've learned, and be honest about your level (e.g., 'Completing [Course Name], expected certification Q2 2026')."
+    },
+    {
+      "q": "Do I need to list every tool and machine I can use?",
+      "a": "No, but do mention the main ones: zero-turn mowers, trimmers, blowers, skid steers, excavators, and any others specific to your target role. Focus on equipment that's relevant to the job posting and shows you're not starting from scratch."
+    },
+    {
+      "q": "How do I show I'm a crew lead if I haven't had that title?",
+      "a": "Use bullet points that highlight leadership: 'Trained and supervised 3–4 junior crew members on safety and installation techniques,' or 'Coordinated daily schedules and quality control across 10+ residential accounts.' These demonstrate readiness for promotion without an official title."
+    },
+    {
+      "q": "Should I include before-and-after photos or a portfolio on my landscaper resume?",
+      "a": "A traditional resume is text-based for ATS compatibility, but include a line like 'Portfolio of 50+ completed projects available upon request' or a link to a simple website or Instagram if you have one. Many landscape companies appreciate visual proof of your work."
+    },
+    {
+      "q": "What certifications should I prioritize on a landscaper resume?",
+      "a": "Pesticide applicator license (state-specific) and heavy equipment operation (skid steer, excavator) are top priorities because they expand your scope and earning potential. CDL is valuable if you haul materials or equipment. Add any horticulture or landscape design certificates as bonuses."
+    }
+  ]
+}

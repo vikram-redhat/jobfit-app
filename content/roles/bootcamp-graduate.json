@@ -1,0 +1,130 @@
+{
+  "slug": "bootcamp-graduate",
+  "title": "Coding Bootcamp Graduate",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:07:07.755Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Coding Bootcamp Graduate Resume: Get Hired Fast",
+  "metaDescription": "Build a standout coding bootcamp graduate resume. Learn what employers want, see strong bullet examples, and avoid common mistakes.",
+  "h1": "Coding Bootcamp Graduate Resume: Land Your First Dev Job",
+  "intro": "You just finished an intensive bootcamp—now comes the hard part: getting hired. Your resume needs to prove you can code, even without the 4-year degree. We'll show you how to highlight projects, skills, and impact in ways that get you past both ATS systems and hiring managers.",
+  "audience": "Recent bootcamp graduates applying to junior developer roles, early-career developers without a computer science degree, and career switchers breaking into tech.",
+  "topSkills": [
+    {
+      "name": "Full-stack web development (front-end + back-end)",
+      "why": "Most bootcamp jobs start with full-stack JavaScript or similar; showing end-to-end capability proves you can build complete features."
+    },
+    {
+      "name": "JavaScript / TypeScript",
+      "why": "The de facto standard language for bootcamp grads; hiring managers expect this as a baseline."
+    },
+    {
+      "name": "React, Vue, or Angular",
+      "why": "Frontend frameworks are table stakes; pick the one you actually used and name it explicitly."
+    },
+    {
+      "name": "REST APIs and HTTP",
+      "why": "Backend communication is core to most junior roles; knowing how to build or consume APIs is essential."
+    },
+    {
+      "name": "Git and version control",
+      "why": "Every employer uses Git; being fluent proves you can collaborate and manage code changes."
+    },
+    {
+      "name": "Database fundamentals (SQL or NoSQL)",
+      "why": "Data storage is non-negotiable; even basic CRUD operations belong on your resume."
+    },
+    {
+      "name": "Problem-solving and debugging",
+      "why": "Bootcamp grads are often hired for mindset over perfection; show how you troubleshoot and learn."
+    },
+    {
+      "name": "Responsive design and CSS",
+      "why": "Frontend-heavy roles require visible UI skills; even backend devs benefit from showing styling competence."
+    },
+    {
+      "name": "Agile / sprint-based workflows",
+      "why": "If your bootcamp used sprints or stand-ups, call them out—it signals real-world readiness."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a web application with JavaScript and React.",
+      "strong": "Architected a full-stack e-commerce app using React, Node.js, and MongoDB; implemented user authentication, integrated Stripe payments, and reduced checkout flow from 5 steps to 2, increasing test conversions by 15%.",
+      "lesson": "Specific tech stack + concrete feature wins + metric = proof of capability. Show what you built, how, and why it mattered."
+    },
+    {
+      "weak": "Worked on a team project during bootcamp.",
+      "strong": "Collaborated with 3 engineers on a real-time chat app; owned backend API design using Express and Socket.io, wrote unit tests achieving 85% code coverage, and deployed to Heroku for live demo at graduation showcase.",
+      "lesson": "Name your role, your teammates, your tech choices, and a measurable outcome. It shows you can deliver in a team and handle real-world constraints."
+    },
+    {
+      "weak": "Created a personal project to learn programming.",
+      "strong": "Built a weather dashboard (React + OpenWeather API) to learn async JavaScript; implemented geolocation, city search, and 7-day forecast; published to GitHub (150+ views); deployed on Netlify with 99.5% uptime.",
+      "lesson": "Even solo projects deserve metrics: GitHub traffic, uptime, or performance wins. Proof that you can ship and maintain real code."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing bootcamp like it's a 4-year degree",
+      "fix": "Write 'X Bootcamp (3-month intensive program)' or 'Coding Bootcamp, JavaScript specialization' to be clear and honest. Employers respect bootcamp grads—don't oversell or hide it."
+    },
+    {
+      "mistake": "Including every language or tool you touched for 2 hours",
+      "fix": "List only skills you can actually code with or explain in an interview. Hiring managers will test; if you can't back it up, you'll fail the technical screen."
+    },
+    {
+      "mistake": "Not linking to live project demos or GitHub",
+      "fix": "Add URLs to deployed apps (Vercel, Netlify, GitHub Pages) and GitHub repos so hiring managers can instantly see your code and proof of work."
+    },
+    {
+      "mistake": "Using vague descriptions like 'Worked with React'",
+      "fix": "Be specific: 'Built interactive dashboard with React hooks and Axios, fetching real-time data from 3 APIs' shows exactly what you did and why it matters."
+    },
+    {
+      "mistake": "Burying bootcamp projects in an 'Other' section",
+      "fix": "Create a 'Projects' section near the top (after skills, before experience) and treat each capstone or portfolio piece like a job. These are your proof of work."
+    }
+  ],
+  "structureTips": [
+    "Lead with a clean 'Skills' section listing languages, frameworks, tools, and concepts—3–4 categories, 20–25 total items. ATS and hiring managers scan this first.",
+    "Put your strongest 2–3 bootcamp projects in a dedicated 'Projects' section right below skills, with live links and tech stacks. This is your portfolio compressed into resume form.",
+    "If you have any relevant work experience (freelance, internship, past career), list it after projects—even part-time or self-employed roles count and add credibility.",
+    "Include a brief 'Education' section naming the bootcamp, the specialization (web dev, data science, etc.), and the graduation date. Honesty builds trust; hiding it raises red flags."
+  ],
+  "atsKeywords": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "full-stack development",
+    "REST API",
+    "Git",
+    "responsive design",
+    "agile",
+    "bootcamp graduate",
+    "project-based learning"
+  ],
+  "salarySignal": "Entry-level bootcamp grad positions in the US typically range from $60,000 to $80,000 annually in 2026, depending on location (HCOL areas like SF or NYC skew higher) and company size.",
+  "faq": [
+    {
+      "q": "Should I hide the fact that I went to a bootcamp instead of a 4-year college?",
+      "a": "No. Be transparent. Most tech companies no longer require a degree, and many actively hire bootcamp grads. What matters is your skills and portfolio—if you can code, employers will care more about that than your diploma. Honesty also builds trust from day one."
+    },
+    {
+      "q": "How do I make my bootcamp capstone project stand out on a resume?",
+      "a": "Treat it like a real job: name the tech stack, describe your role (backend, frontend, or full-stack), include 1–2 impact metrics (features shipped, performance wins, or user engagement), and add a live link. Even a simple portfolio project with a deployed URL and GitHub repo is stronger than a description alone."
+    },
+    {
+      "q": "What if I don't have 'real' work experience as a developer?",
+      "a": "Bootcamp projects, freelance side work, and open-source contributions all count. If you've built and shipped anything—even a small app or a PR merged to an open-source repo—include it. Hiring managers want proof you can code; it doesn't have to be a W-2 job."
+    },
+    {
+      "q": "Do I need to list every coding language I learned?",
+      "a": "No. Only list languages and tools you're confident coding with. If you spent a week on Python but spent 3 months on JavaScript, lead with JavaScript. You'll likely be quizzed in interviews, so stick to what you can defend."
+    },
+    {
+      "q": "How important is GitHub on my resume?",
+      "a": "Very. Always link to your GitHub profile in the header/contact section. Recruiters and hiring managers will check your repos to see your code quality, commit history, and ability to work with version control. A strong GitHub presence can be a bigger plus than a perfect resume."
+    }
+  ]
+}

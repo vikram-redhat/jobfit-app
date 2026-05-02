@@ -1,0 +1,126 @@
+{
+  "slug": "instructional-designer",
+  "title": "Instructional Designer",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:18.111Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Instructional Designer Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a standout instructional designer resume. See how to highlight L&D projects, learning outcomes, and design skills that hiring managers actually want.",
+  "h1": "How to Write an Instructional Designer Resume That Gets Interviews",
+  "intro": "Instructional designers bridge the gap between learning science and real-world training—and your resume needs to prove you can do both. We'll show you how to turn project experience and design chops into bullets that hiring managers can't ignore.",
+  "audience": "Recent grads with education or psychology degrees, career switchers from corporate training or tech, and mid-level instructional designers hunting their next role.",
+  "topSkills": [
+    {
+      "name": "Learning Management Systems (LMS)",
+      "why": "Most hiring managers require hands-on experience with Moodle, Canvas, Blackboard, or similar platforms—it's table stakes."
+    },
+    {
+      "name": "ADDIE Model & Instructional Design Frameworks",
+      "why": "Employers want to see you know structured design methodology, not just random training ideas."
+    },
+    {
+      "name": "eLearning Authoring Tools (Articulate Storyline, Adobe Captivate)",
+      "why": "These tools are how you actually build courses; demonstrating proficiency signals you can deliver finished products."
+    },
+    {
+      "name": "Course Development & Curriculum Design",
+      "why": "Employers care about your ability to map learning objectives and structure a complete learning experience."
+    },
+    {
+      "name": "Instructional Assessment & Evaluation",
+      "why": "IDs need to measure learning outcomes; hiring managers look for Kirkpatrick Model familiarity and assessment chops."
+    },
+    {
+      "name": "Graphic Design & Visual Communication",
+      "why": "Even if you're not a designer, UI/UX basics make your courses more engaging and professional."
+    },
+    {
+      "name": "Subject Matter Expert (SME) Collaboration",
+      "why": "IDs spend half their time interviewing and translating expert knowledge; showing you can manage that process is crucial."
+    },
+    {
+      "name": "Needs Analysis & Training Requirements",
+      "why": "Employers value IDs who can diagnose gaps before designing; this separates strategic designers from tool operators."
+    },
+    {
+      "name": "Mobile & Microlearning Design",
+      "why": "Remote and mobile training are industry trends; experience here sets you apart."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed and created an online compliance training course for new employees.",
+      "strong": "Designed and delivered compliance training program for 500+ new hires, reducing training time by 25% through modular microlearning and interactive scenarios; achieved 94% course completion rate within first quarter.",
+      "lesson": "Added scale (500+ users), measurable outcome (25% time reduction), and engagement metric (94% completion) instead of just describing the task."
+    },
+    {
+      "weak": "Collaborated with subject matter experts to develop course content.",
+      "strong": "Conducted 12+ SME interviews over 4 weeks using needs analysis framework; translated technical knowledge into 8-module eLearning course (Articulate Storyline) with 89% post-test pass rate and 4.2/5 learner satisfaction rating.",
+      "lesson": "Quantified the work (12+ interviews), named the tool and output, and backed it up with learning outcomes (pass rate) and user feedback (satisfaction score)."
+    },
+    {
+      "weak": "Updated learning management system with new courses.",
+      "strong": "Migrated 15 legacy courses to Canvas LMS, implementing new SCORM standards and branching logic; reduced course load time by 40% and improved mobile accessibility, enabling 30% increase in mobile learners.",
+      "lesson": "Specified the system, gave scope (15 courses), explained technical improvements (SCORM, branching), and showed business impact (platform adoption and accessibility gains)."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without showing impact.",
+      "fix": "Always pair tool mention with a learning outcome or efficiency gain—'used Articulate Storyline to build 5 courses' is weaker than 'built 5 interactive courses in Articulate Storyline that reduced training time by 20%.'"
+    },
+    {
+      "mistake": "Emphasizing content writing over instructional design decisions.",
+      "fix": "Focus on learning objectives, assessment methods, and design choices rather than just 'wrote scripts' or 'created graphics'—employers hire IDs, not content writers."
+    },
+    {
+      "mistake": "Ignoring learning outcomes and evaluation metrics.",
+      "fix": "Always include measurement: completion rates, assessment scores, learner satisfaction (NPS or survey scores), or business impact (time-to-proficiency, error reduction) from your projects."
+    },
+    {
+      "mistake": "Forgetting to mention audience or scale.",
+      "fix": "Specify who you designed for (sales reps, customer support, executives) and how many learners—context makes your work more credible and memorable."
+    }
+  ],
+  "structureTips": [
+    "Lead with a professional summary that positions you as a learning strategist, not just a course builder—mention methodologies (ADDIE, SAM) and your track record of improving performance or engagement.",
+    "Organize your experience section by project type or impact area (e.g., 'eLearning Development,' 'Assessment & Evaluation,' 'LMS Implementation') so hiring managers quickly see your range.",
+    "Put certifications and formal training (IDOL, ATD, CompTIA, or degree in instructional design) in a dedicated section near the top—these signal credibility to ATS systems and hiring managers.",
+    "If you're early-career, include a 'Key Projects' or 'Portfolio Highlights' section with links to live courses or Articulate Rise examples—IDs need visual proof of their work."
+  ],
+  "atsKeywords": [
+    "Instructional Design",
+    "eLearning Development",
+    "Learning Management System (LMS)",
+    "ADDIE Model",
+    "Articulate Storyline",
+    "Course Development",
+    "Needs Analysis",
+    "Assessment and Evaluation",
+    "Learning Outcomes",
+    "Subject Matter Expert Collaboration"
+  ],
+  "salarySignal": "Entry-level instructional designers in the US typically earn $45,000–$55,000, while mid-level IDs with 3–5 years of experience range from $60,000–$75,000. Senior IDs and learning leaders can exceed $90,000 depending on region and industry.",
+  "faq": [
+    {
+      "q": "What should I include if I don't have formal ID experience?",
+      "a": "Highlight adjacent work: corporate training delivery, curriculum development, e-course maintenance, or even teaching/tutoring that involved designing lessons or assessments. Then focus on tools you've used (LMS, Articulate, PowerPoint, Canva) and frameworks you've studied (ADDIE, Bloom's Taxonomy). Consider listing a portfolio project—even a mock course you built during certification—to show hands-on design capability."
+    },
+    {
+      "q": "Should I list every LMS I've used, or just the major ones?",
+      "a": "List platforms where you've actually designed or deployed courses, but prioritize the most current and widely-used ones (Canvas, Moodle, Blackboard, Workday Learning, SAP SuccessFactors). If you're proficient in older systems, mention them briefly but don't oversell—employers care more about your design thinking than your LMS history."
+    },
+    {
+      "q": "How do I show learning outcomes on a resume when I don't have test scores?",
+      "a": "Use engagement proxies: completion rates, time-to-proficiency, course satisfaction scores (e.g., 'achieved 4.5/5 NPS'), or behavioral outcomes like 'improved first-call resolution by 15% post-training.' If you don't have hard metrics, mention that you designed assessments aligned to measurable objectives—that signals design rigor even without the final data."
+    },
+    {
+      "q": "Is a portfolio link mandatory on an ID resume?",
+      "a": "Not mandatory, but highly recommended. A live link to an Articulate Rise course, a YouTube demo, or a PDF walkthrough of one project makes you stand out and proves you can build interactive content. If you don't have a public portfolio, create one using free tools or mock projects during job search."
+    },
+    {
+      "q": "What certifications should I prioritize on my resume?",
+      "a": "ATD (Association for Talent Development) Certified Professional (CTDP), Instructional Design (IDOL) certification, and Articulate certifications carry weight. If you're early-career without these, list any completed coursework, Google UX certificates, or CompTIA certifications related to training. Formal credentials are worth mentioning but aren't required if you have solid project experience."
+    }
+  ]
+}

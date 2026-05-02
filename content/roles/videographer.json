@@ -1,0 +1,130 @@
+{
+  "slug": "videographer",
+  "title": "Videographer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:49:13.428Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Videographer Resume: Best Examples & Tips for 2026",
+  "metaDescription": "Build a standout videographer resume with proven bullet points, key skills, and ATS keywords. Learn what hiring managers actually want to see.",
+  "h1": "How to Write a Videographer Resume That Gets You Hired",
+  "intro": "Your videographer resume needs to show both technical chops and creative vision—two things a hiring manager can't always judge from descriptions alone. We'll walk you through the exact skills, formatting tricks, and bullet-writing strategies that land interviews at production companies, studios, brands, and in-house teams.",
+  "audience": "Recent film school grads, self-taught videographers building their first professional resume, and creators transitioning from social media or YouTube into studio or agency work.",
+  "topSkills": [
+    {
+      "name": "Adobe Creative Suite (Premiere Pro, After Effects, Audition)",
+      "why": "Hiring managers expect fluency in industry-standard NLE and motion graphics tools; it's the baseline for almost every videography role."
+    },
+    {
+      "name": "Multi-camera production & shoot planning",
+      "why": "Shows you can manage complexity on set, coordinate crew, and deliver footage that's ready to edit without constant reshoots."
+    },
+    {
+      "name": "Color grading & color correction",
+      "why": "Separates amateur videographers from professionals; demonstrates you understand post-production finishing and visual storytelling."
+    },
+    {
+      "name": "Lighting design & cinematography",
+      "why": "Proves you can build visual mood and technical quality, not just point a camera—critical for anything beyond talking-head content."
+    },
+    {
+      "name": "4K/UHD & RAW footage workflow",
+      "why": "Modern productions increasingly demand high-resolution and raw capture; shows you're up-to-date with current industry standards."
+    },
+    {
+      "name": "DaVinci Resolve (or Avid Media Composer)",
+      "why": "Secondary editing platforms are valuable for larger productions and broadcast; expands your marketability to different studios."
+    },
+    {
+      "name": "Motion graphics & animation (After Effects, Cinema 4D)",
+      "why": "Agencies and corporate clients love videographers who can add animated graphics, lower thirds, and kinetic typography in-house."
+    },
+    {
+      "name": "Audio mixing & sound design",
+      "why": "Poor audio kills otherwise great video; demonstrating you can mix dialogue, music, and effects shows professional completeness."
+    },
+    {
+      "name": "Client communication & project management",
+      "why": "Hiring managers want to know you can brief clients, deliver drafts on time, and handle revision cycles without drama."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Shot and edited video content for social media and marketing campaigns.",
+      "strong": "Directed and shot 40+ short-form videos (15–60 sec) for Instagram and TikTok, managing full production pipeline from storyboard to final color grade; increased client engagement by 35–50% per campaign.",
+      "lesson": "Specific numbers (40+ videos, 15–60 sec, 35–50% lift) give proof of output and impact; naming the full pipeline shows end-to-end ownership."
+    },
+    {
+      "weak": "Used Adobe Premiere Pro and After Effects for video editing and effects.",
+      "strong": "Edited 20+ promotional and event videos in Premiere Pro; created custom motion graphics and animated titles in After Effects; delivered projects in 4K with Adobe Media Encoder optimization for web and broadcast.",
+      "lesson": "Naming the tool is not enough—show what you made with it, how many, and the technical specs (4K, broadcast-ready) that matter to employers."
+    },
+    {
+      "weak": "Worked on production crew for commercial shoots.",
+      "strong": "Coordinated lighting and camera operation for 8 multi-day commercial shoots across 3 brands; collaborated with DP and gaffer to achieve client-approved creative direction; captured 60+ hours of usable footage with 92% first-pass approval rate in post-production.",
+      "lesson": "Roles on set sound passive without specifics; adding crew roles (lighting, camera), deliverables (hours of footage), and quality metrics (approval rate) proves you drove results."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing software without showing what you made with it.",
+      "fix": "Always pair tool names with concrete deliverables—'Adobe Premiere Pro' alone means nothing; 'cut 15 client testimonial videos in Premiere Pro' means everything."
+    },
+    {
+      "mistake": "No portfolio or reel link on your resume.",
+      "fix": "Include a clickable link to your demo reel or portfolio (Vimeo, YouTube, or personal site) near your name—your video work is your proof."
+    },
+    {
+      "mistake": "Overselling 'passion' and 'creativity' without technical depth.",
+      "fix": "Replace 'passionate videographer with creative vision' with specific technical wins: frame rates, color spaces, lighting techniques, software proficiency, and measurable project outcomes."
+    },
+    {
+      "mistake": "Burying freelance or passion projects as 'Other'.",
+      "fix": "If you don't have a traditional job history, lead with a 'Selected Work' or 'Notable Projects' section that showcases your best videos and the production challenges you solved."
+    },
+    {
+      "mistake": "Ignoring the business side of videography.",
+      "fix": "Hiring managers care about deadline hits, budget management, and client handoffs as much as creative chops—call out projects you delivered on time and on budget."
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio link (Vimeo or personal site) at the very top—your resume is a gateway to your reel, not a substitute for it.",
+    "If you're early in your career, organize by 'Selected Projects' or 'Notable Productions' before or alongside traditional job titles to highlight standout work.",
+    "Group technical skills into tiers: 'Primary Tools' (Premiere Pro, After Effects, lighting), 'Secondary Tools' (Avid, DaVinci Resolve), and 'Competencies' (color grading, sound mixing)—hiring managers scan these categories.",
+    "Put client names and brands you've worked with in your bullets if you can—'shot 3 spots for Nike' carries weight; always check NDAs first."
+  ],
+  "atsKeywords": [
+    "videographer",
+    "video production",
+    "Adobe Premiere Pro",
+    "cinematography",
+    "color grading",
+    "motion graphics",
+    "After Effects",
+    "multi-camera production",
+    "4K video",
+    "client deliverables"
+  ],
+  "salarySignal": "Entry-level videographers in the US typically earn $28,000–$42,000 annually; mid-level (3–5 years) range from $45,000–$65,000; senior roles and agency leads can exceed $75,000. Freelance rates vary widely by project scope and client, often $500–$3,000+ per day.",
+  "faq": [
+    {
+      "q": "Should I include my YouTube channel or personal projects on my videographer resume?",
+      "a": "Yes—if they're polished and relevant to the role. Create a 'Portfolio' or 'Selected Work' section with a Vimeo or website link. Hiring managers expect to see your best videos; a YouTube link works, but Vimeo gives you more control over quality and presentation."
+    },
+    {
+      "q": "What should I do if I don't have professional videography experience yet?",
+      "a": "Lead with a 'Notable Projects' section showcasing your best self-made work—short films, event coverage, branded content, or passion projects. Quantify effort: 'Shot and edited 12-minute short film; directed 2-person crew; color-graded in DaVinci Resolve.' This proves capability even without a client name."
+    },
+    {
+      "q": "How do I list freelance videography work if I've worked for multiple small clients?",
+      "a": "Group freelance work under 'Freelance Videographer' with a date range (2022–Present) and 2–3 bullet points covering your typical scope, tools, and output. Example: 'Produced 50+ short-form videos for 15+ clients in tech, e-commerce, and nonprofits; managed pre-production, shoot, and post-production end-to-end.'"
+    },
+    {
+      "q": "What technical certifications or training should I list?",
+      "a": "Include formal training only if it's recent and credible (e.g., Adobe Certified Associate, film school degree, or a recognized bootcamp). Skip generic 'YouTube-learned' claims; instead, let your portfolio prove competency. Soft skills like 'Project Management Certification' matter less than your reel."
+    },
+    {
+      "q": "How important is it to list camera gear I own?",
+      "a": "Don't lead with it. If relevant (e.g., you own a cinema camera used on past projects), add a brief 'Equipment' line at the bottom. Focus on what you *made* with any gear, not what you own—equipment is a tool, not a credential."
+    }
+  ]
+}

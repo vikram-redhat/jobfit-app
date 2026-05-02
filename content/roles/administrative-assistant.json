@@ -1,0 +1,130 @@
+{
+  "slug": "administrative-assistant",
+  "title": "Administrative Assistant",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:47:53.283Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Administrative Assistant Resume: Tips & Examples",
+  "metaDescription": "Build a standout Administrative Assistant resume with skills, bullet examples, and ATS keywords that get past screening.",
+  "h1": "How to Write an Administrative Assistant Resume",
+  "intro": "Your resume is your ticket into the office—and it needs to prove you can handle chaos with calm, organize without fuss, and support a team like a pro. We'll walk you through the exact skills, keywords, and bullet points that make hiring managers reach out.",
+  "audience": "Recent grads, career changers pivoting into admin roles, and current admins looking to level up to senior or specialized positions.",
+  "topSkills": [
+    {
+      "name": "Calendar & scheduling management",
+      "why": "Admins spend a huge chunk of time coordinating meetings, travel, and appointments—hiring managers need proof you can juggle competing priorities."
+    },
+    {
+      "name": "Microsoft Office & Google Workspace",
+      "why": "These tools are table stakes; you'll use them daily to create docs, manage spreadsheets, and communicate. Missing them signals you're not ready."
+    },
+    {
+      "name": "Email management & communication",
+      "why": "You're often the gatekeeper of inboxes and messaging; showing you can organize, prioritize, and draft professional communication is essential."
+    },
+    {
+      "name": "Project coordination",
+      "why": "Admins support project delivery by tracking timelines, coordinating resources, and keeping teams aligned—this demonstrates strategic thinking."
+    },
+    {
+      "name": "Document preparation & filing",
+      "why": "From contracts to reports, admins create and organize critical paperwork; this skill shows attention to detail and organizational prowess."
+    },
+    {
+      "name": "Office management systems",
+      "why": "Experience with tools like Asana, Monday.com, or Slack shows you can adapt to modern workflows and reduce friction."
+    },
+    {
+      "name": "Customer & vendor relations",
+      "why": "Admins are often the first point of contact; demonstrating relationship-building chops shows you can represent the company well."
+    },
+    {
+      "name": "Data entry & database management",
+      "why": "Accuracy and speed with CRM or HR systems (like Workday or HubSpot) prove you can maintain company records reliably."
+    },
+    {
+      "name": "Expense reporting & reconciliation",
+      "why": "Financial accuracy and process compliance matter; this skill reassures employers you can handle money and compliance tasks."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed calendars and scheduled meetings for the executive team.",
+      "strong": "Coordinated schedules and booked 50+ executive meetings monthly across 4 time zones, reducing double-bookings by 100% and cutting meeting setup time by 40%.",
+      "lesson": "Quantify the scope (50+ meetings, 4 time zones) and show the impact (zero double-bookings, faster turnaround)—transforms a vague task into proof of competence."
+    },
+    {
+      "weak": "Prepared reports and documents for the office.",
+      "strong": "Created weekly status reports and presentation decks for C-level reviews using Excel and PowerPoint; designed a template system that reduced prep time from 8 to 3 hours per cycle.",
+      "lesson": "Name the specific deliverables (status reports, decks) and quantify the efficiency gain (5-hour time savings); shows you think like an operator, not just a task-doer."
+    },
+    {
+      "weak": "Organized office events and team activities.",
+      "strong": "Planned and executed 8 company events annually (town halls, holiday parties, offsites) for 120+ employees, managing budgets of $15K–$30K and coordinating vendors, catering, and logistics.",
+      "lesson": "Include scope (8 events, 120 people), budget ownership, and vendor coordination; proves you can juggle moving parts and represent the company professionally."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of wins",
+      "fix": "Avoid 'Answered phones and greeted visitors.' Instead, focus on outcomes: 'Screened 100+ inbound calls daily, routing 95% to the right department on first contact, improving response speed.'"
+    },
+    {
+      "mistake": "Omitting software & tools you know",
+      "fix": "Don't bury Outlook, Google Calendar, Slack, or Asana in a vague 'proficient in software' line—list them clearly so ATS catches them and hiring managers see you're tech-savvy."
+    },
+    {
+      "mistake": "Underselling project coordination",
+      "fix": "You may not manage people, but you manage workflows and deadlines; reframe this as 'coordinated cross-functional projects' or 'tracked project timelines' to show strategic contribution."
+    },
+    {
+      "mistake": "Ignoring compliance and accuracy metrics",
+      "fix": "Admin work requires zero errors; highlight audit results, error rates, or compliance wins ('Processed 500+ expense reports with zero discrepancies') to prove reliability."
+    },
+    {
+      "mistake": "Weak action verbs (e.g., 'handled,' 'worked on')",
+      "fix": "Swap these for stronger verbs: 'coordinated,' 'optimized,' 'streamlined,' 'executed,' 'facilitated,' or 'spearheaded'—they convey ownership and agency."
+    }
+  ],
+  "structureTips": [
+    "Lead with a snappy professional summary that names your core strength (e.g., 'Detail-oriented Administrative Assistant with 3+ years coordinating schedules, managing projects, and supporting C-suite executives'). This hooks the reader immediately.",
+    "Put your core technical skills (Office 365, Google Workspace, Slack, Asana, etc.) in a dedicated 'Core Competencies' or 'Skills' section near the top so ATS bots and busy recruiters spot them fast.",
+    "Order your work experience by impact, not recency. If you have a standout project or achievement, lead that role's bullet list with it to grab attention before they scroll away.",
+    "If you're entry-level or career-switching, add a brief 'Relevant Projects' or 'Certifications' section (e.g., Google Office Certification, Project Management fundamentals) to bridge experience gaps."
+  ],
+  "atsKeywords": [
+    "Administrative Assistant",
+    "Calendar management",
+    "Microsoft Office",
+    "Google Workspace",
+    "Project coordination",
+    "Email management",
+    "Office management",
+    "Document preparation",
+    "Executive support",
+    "Scheduling"
+  ],
+  "salarySignal": "Entry-level Administrative Assistant roles in the US typically start at $30K–$35K, while mid-level positions (3–5 years) range from $38K–$48K. Senior or specialized admin roles can reach $50K–$60K+ depending on industry and location.",
+  "faq": [
+    {
+      "q": "What should I put in my professional summary for an admin resume?",
+      "a": "Lead with years of experience, your core strength (e.g., 'calendar & project coordination'), and one key win (e.g., 'streamlined vendor relations for 30+ accounts'). Keep it 2–3 lines and specific to the job you're applying for. Generic summaries get skipped; targeted ones get reads."
+    },
+    {
+      "q": "How do I show I'm organized on a resume if I haven't used fancy software?",
+      "a": "Use concrete metrics: 'Maintained 100% accuracy on expense reconciliation across 50+ monthly transactions,' or 'Processed 300+ calendar requests quarterly with zero scheduling conflicts.' Precision and numbers prove organization without naming tools."
+    },
+    {
+      "q": "Should I list every software tool I've touched, or focus on the big ones?",
+      "a": "List the ones you're proficient in and that match the job description. Focus on widely-used tools (Excel, Outlook, Slack, Asana, Monday.com) in a skills section; niche tools can be mentioned in bullet points if they're relevant to the role."
+    },
+    {
+      "q": "How do I frame my admin role if I'm switching industries?",
+      "a": "Highlight transferable skills: process improvement, stakeholder communication, multi-tasking, and reliability. Use language like 'executed cross-functional initiatives' or 'optimized workflows' to show you can think strategically, not just execute tasks. Keep the new industry's pain points in mind."
+    },
+    {
+      "q": "What's the difference between an Administrative Assistant and an Executive Assistant resume?",
+      "a": "Executive Assistant roles emphasize high-level strategic support, confidentiality, and C-suite relationship management. Admin roles focus on broader office operations, vendor coordination, and team support. Tailor your resume to highlight the seniority level and scope of responsibility for the specific role you're applying to."
+    }
+  ]
+}

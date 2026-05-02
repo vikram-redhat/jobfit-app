@@ -1,0 +1,130 @@
+{
+  "slug": "welder",
+  "title": "Welder",
+  "category": "trades",
+  "generatedAt": "2026-05-02T22:59:23.085Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Welder Resume Guide: Skills, Examples & Tips",
+  "metaDescription": "Build a winning welder resume with proven skills, strong bullets, and ATS keywords. Land your next welding job with actionable advice.",
+  "h1": "Welder Resume: Essential Skills, Examples & Mistakes to Avoid",
+  "intro": "A welder's resume needs to showcase both technical certifications and real-world productivity—hiring managers want proof you can pass inspections and hit deadlines. This guide walks you through the exact format, keywords, and bullet points that get welders noticed by employers and ATS systems.",
+  "audience": "Trade school graduates, entry-level welders seeking first production roles, and experienced welders moving between shops or industries.",
+  "topSkills": [
+    {
+      "name": "MIG Welding (GMAW)",
+      "why": "MIG is the most common industrial welding process, and employers filter for it as a core requirement on every job posting."
+    },
+    {
+      "name": "TIG Welding (GTAW)",
+      "why": "TIG welding signals precision and skill, especially valuable in aerospace, automotive, and high-quality fabrication roles."
+    },
+    {
+      "name": "Stick Welding (SMAW)",
+      "why": "Stick is essential for field work, structural steel, and maintenance—recruiters search for it explicitly on job boards."
+    },
+    {
+      "name": "AWS Certifications (D1.1, D1.5)",
+      "why": "AWS credentials prove code compliance and safety knowledge; employers require or strongly prefer them for regulated industries."
+    },
+    {
+      "name": "Blueprint & Welding Symbol Reading",
+      "why": "Ability to interpret drawings directly impacts quality and reduces rework; it's a non-negotiable for fabrication shops."
+    },
+    {
+      "name": "Metal Fabrication & Layout",
+      "why": "Welders who can prep, measure, and cut materials are more efficient and require less supervision."
+    },
+    {
+      "name": "Quality Control & Inspection",
+      "why": "Demonstrating knowledge of visual inspection, leak testing, and NDT (non-destructive testing) shows quality-first mindset."
+    },
+    {
+      "name": "Safety Compliance (OSHA, PPE)",
+      "why": "Safety-first language reduces liability concerns and is mandatory across union and non-union shops."
+    },
+    {
+      "name": "CNC Plasma Cutting & Automated Equipment",
+      "why": "Familiarity with modern fabrication tech makes you competitive for higher-paying production roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Welded parts for customers and met production goals.",
+      "strong": "Completed 150+ MIG and TIG welds weekly with 98% first-pass inspection rate on structural and pressure vessel components; reduced rework by 15% through improved joint prep technique.",
+      "lesson": "Quantified output (parts/week), quality metric (inspection pass rate), and impact (rework reduction) transform a generic task into proof of value."
+    },
+    {
+      "weak": "Responsible for maintaining welding equipment.",
+      "strong": "Maintained 8 MIG/TIG stations through daily preventive checks and calibration, minimizing downtime to <2% monthly; trained 3 junior welders on equipment care per company protocol.",
+      "lesson": "Specific equipment count, uptime percentage, and training impact show initiative and reliability beyond basic maintenance."
+    },
+    {
+      "weak": "Welded according to blueprints and AWS standards.",
+      "strong": "Interpreted AWS D1.1 structural steel code on 200+ joint details per shift; passed all radiographic and visual inspections on pipeline spools with zero defects across 6-month run.",
+      "lesson": "Naming the specific code (D1.1), the test type (radiographic/visual), and the outcome (zero defects) proves code literacy and safety-mindedness."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certifications without expiration dates.",
+      "fix": "Always include certification type and expiration year (e.g., 'AWS D1.1 Structural Steel Cert, expires 2027'); expired certs hurt credibility."
+    },
+    {
+      "mistake": "Vague descriptions like 'worked on welding projects'.",
+      "fix": "Name the material (structural steel, aluminum, stainless), the process (MIG/TIG/stick), and the context (pressure vessel, shipbuilding, automotive) to show depth."
+    },
+    {
+      "mistake": "Not mentioning inspection or quality involvement.",
+      "fix": "Include at least one bullet on quality control—whether visual inspection, leak testing, or NDT familiarity—because employers assume quality-first welders earn more responsibility."
+    },
+    {
+      "mistake": "Omitting safety achievements or safety incidents.",
+      "fix": "Lead with safety: mention zero-incident safety records, OSHA awareness, or incident prevention to signal low-liability hire."
+    },
+    {
+      "mistake": "Ignoring modern tools (CNC, plasma cutters, automation).",
+      "fix": "Even if basic, mention any hands-on experience with CNC plasma cutting, automated welding systems, or robotic cell operation; it shows adaptability."
+    }
+  ],
+  "structureTips": [
+    "Lead with certifications (AWS credentials, certs, license type) in a dedicated section right after contact info; employers scan for these first.",
+    "Put your strongest productivity/quality bullet at the top of each job description—hiring managers decide in 10 seconds whether you're a fit, so frontload impact.",
+    "Group bullets by process (MIG, TIG, Stick) within a single role if you switched processes, making it easy for ATS and hiring managers to scan your range.",
+    "Include a 'Technical Skills' line-item list naming materials (mild steel, stainless, aluminum, carbon steel) and equipment (Miller, Lincoln, automated systems) to match common job posting language."
+  ],
+  "atsKeywords": [
+    "AWS Certified Welder",
+    "MIG Welding GMAW",
+    "TIG Welding GTAW",
+    "Stick Welding SMAW",
+    "Structural Steel Welding",
+    "Blueprint Reading",
+    "Quality Inspection",
+    "OSHA Compliance",
+    "First Pass Inspection Rate",
+    "Pressure Vessel"
+  ],
+  "salarySignal": "Entry-level welders in the US typically earn $35,000–$45,000 annually; experienced welders with AWS certs in high-demand regions (oil/gas, aerospace, construction) often reach $55,000–$75,000+.",
+  "faq": [
+    {
+      "q": "Should I list every certification or just the active ones?",
+      "a": "List only active, current certifications with expiration dates; expired certs confuse recruiters and suggest you're not current. If you're about to renew, note 'Renewal scheduled Q2 2026.'"
+    },
+    {
+      "q": "How do I quantify welding work on a resume?",
+      "a": "Use pieces per week/month, joint count, inspection pass rate, or rework reduction percentage. For example: '80+ structural welds monthly with 99% first-pass inspection' is powerful and measurable."
+    },
+    {
+      "q": "Do I need to mention the brand of welding machines I've used?",
+      "a": "Yes, include 1–2 major brands (Miller, Lincoln, ESAB) if you've trained on them; it shows versatility and helps ATS match job keywords, but don't list every machine."
+    },
+    {
+      "q": "What if I'm transitioning between welding specialties (e.g., structural to pipe)?",
+      "a": "Create a skills section that names both specialties and include a brief summary line like 'Transitioning from structural to pipe welding; X-ray certified and eager to grow pipe credentials.' Employers respect honesty."
+    },
+    {
+      "q": "How much space should certifications take up on my resume?",
+      "a": "Allocate 4–6 lines for a dedicated 'Certifications' section listing type, issuing body, and expiration. This shows credibility without padding, and hiring managers love it."
+    }
+  ]
+}

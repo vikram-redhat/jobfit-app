@@ -1,0 +1,126 @@
+{
+  "slug": "new-grad-software-engineer",
+  "title": "New Grad Software Engineer",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:04:33.246Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "New Grad Software Engineer Resume: Guide & Examples",
+  "metaDescription": "Land your first dev job with a strong resume. See what hiring managers want, real examples, and ATS keywords that work.",
+  "h1": "New Grad Software Engineer Resume: What Hiring Managers Actually Want",
+  "intro": "Your first dev role is out there—but your resume has to get you past the initial screen. We'll show you exactly what hiring managers look for, how to talk about projects that matter, and how to dodge the mistakes that sink new grad applications.",
+  "audience": "Recent computer science graduates, bootcamp grads, and self-taught developers applying to their first or early-career software engineering roles.",
+  "topSkills": [
+    {
+      "name": "Relevant Programming Languages (Python, Java, C++, JavaScript)",
+      "why": "Hiring managers filter for specific languages first; make sure your top 3–4 are listed and appear in your work/project descriptions."
+    },
+    {
+      "name": "Version Control (Git, GitHub)",
+      "why": "Nearly every team uses Git; demonstrating proficiency signals you can collaborate and manage code professionally."
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "why": "Technical interviews still test these; mentioning projects or coursework that involved optimizing algorithms shows interview readiness."
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "why": "OOP is the backbone of most production codebases; showing you understand classes, inheritance, and design patterns matters."
+    },
+    {
+      "name": "RESTful APIs",
+      "why": "Building or consuming APIs is a core part of backend and full-stack roles; mention any experience with HTTP, endpoints, or integration."
+    },
+    {
+      "name": "SQL & Databases",
+      "why": "Data persistence is non-negotiable; even basic SQL or experience with PostgreSQL, MySQL, or MongoDB sets you apart from code-only portfolios."
+    },
+    {
+      "name": "Web Development (HTML, CSS, JavaScript/React)",
+      "why": "Front-end and full-stack roles expect this foundation; mention frameworks or libraries you've actually built with."
+    },
+    {
+      "name": "CI/CD & Testing",
+      "why": "Unit testing, integration testing, and familiarity with CI/CD pipelines show you think like a production engineer, not just a hobbyist."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a web application using React and Node.js.",
+      "strong": "Developed full-stack e-commerce app (React frontend, Node.js/Express backend) with SQL database; implemented payment API integration and unit tests covering 80%+ code, deployed on AWS.",
+      "lesson": "Specific tech stack, real scope, quantifiable testing coverage, and deployment platform prove you shipped something end-to-end."
+    },
+    {
+      "weak": "Participated in a team project to solve coding problems.",
+      "strong": "Collaborated with 3 peers on GitHub to optimize a graph-traversal algorithm, reducing runtime complexity from O(n²) to O(n log n); code reviewed 12+ pull requests.",
+      "lesson": "Named the algorithm problem, showed the actual improvement, and highlighted peer review—all proof of collaborative depth."
+    },
+    {
+      "weak": "Completed coursework in data structures and algorithms.",
+      "strong": "Mastered core CS fundamentals (sorting, searching, dynamic programming, graph theory) through 200+ LeetCode problems and capstone project; scored 92% on final algorithms exam.",
+      "lesson": "Translate coursework into proof points: a specific practice platform, problem count, and a real grade or project outcome."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every language you've ever touched.",
+      "fix": "Only list languages you're confident coding in during an interview; prioritize depth over breadth and let your projects speak for tool choices."
+    },
+    {
+      "mistake": "Treating internships and university projects as throwaway lines.",
+      "fix": "Treat every role and project as a job: describe the problem, your solution, the tech stack, and the measurable outcome (performance, test coverage, user impact)."
+    },
+    {
+      "mistake": "No GitHub link or portfolio.",
+      "fix": "Add a clickable GitHub URL with 2–3 polished projects that show real code; include a README explaining what the app does, how to run it, and what you built."
+    },
+    {
+      "mistake": "Vague impact and no metrics.",
+      "fix": "Replace 'worked on' with action verbs and numbers: 'reduced API response time by 40%', 'increased test coverage to 85%', 'shipped feature for 500+ beta users'."
+    },
+    {
+      "mistake": "Leaving off technical skills section or hiding it.",
+      "fix": "Place a 'Technical Skills' or 'Skills' section near the top; organize by category (Languages, Frameworks, Tools, Databases) so ATS parsers and recruiters find keywords instantly."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or skip it if your experience is thin—instead, put projects and internships first, before education.",
+    "Create a dedicated 'Technical Skills' section organized by category (Languages, Frameworks, Databases, Tools) to catch ATS filters and make scanning instant.",
+    "For each project or internship, use a problem-solution-metric structure: 'Built [what] using [tech stack] to [outcome]. Result: [metric/proof].'",
+    "Place your strongest project or internship at the top of experience; hiring managers skim, so put your best foot forward immediately."
+  ],
+  "atsKeywords": [
+    "Software Engineer",
+    "Entry-Level Software Developer",
+    "Full-Stack Developer",
+    "Java",
+    "Python",
+    "JavaScript",
+    "React",
+    "RESTful API",
+    "Git GitHub",
+    "SQL Database"
+  ],
+  "salarySignal": "Entry-level US software engineer salaries typically range from $70,000 to $100,000 in 2026, depending on company size, location, and degree/bootcamp background.",
+  "faq": [
+    {
+      "q": "Should I include GPA on my new grad resume?",
+      "a": "Only if it's 3.5 or higher; many companies don't filter by GPA anymore, and omitting a lower one won't hurt. If space is tight, skip it and let projects shine."
+    },
+    {
+      "q": "How do I write about academic projects if they're not real work?",
+      "a": "Treat them the same way: describe the technical problem, what you built, what tech you used, and a concrete outcome (grades, lines of code, test coverage, performance benchmark). Real effort = real resume material."
+    },
+    {
+      "q": "Do I need a portfolio website if I have a GitHub?",
+      "a": "GitHub is sufficient if your repos are well-organized and have clear READMEs. A portfolio site adds polish but isn't required; invest time in polishing 2–3 GitHub projects instead."
+    },
+    {
+      "q": "How long should my new grad resume be?",
+      "a": "One page is ideal and doable with tight formatting and no fluff. Focus on substance: impact, metrics, and shipped work beat length every time."
+    },
+    {
+      "q": "What if I have no internship experience?",
+      "a": "Lean on 3–4 personal projects or open-source contributions with real scope; structure them like work experience (problem, solution, tech, outcome). Internships help, but strong project work is a close second."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "library-assistant",
+  "title": "Library Assistant",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:07:05.835Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Library Assistant Resume: Tips & Examples for 2025",
+  "metaDescription": "Build a winning Library Assistant resume with actionable examples, key skills, and ATS optimization tips for entry-level library jobs.",
+  "h1": "How to Write a Library Assistant Resume That Gets Interviews",
+  "intro": "Library Assistant roles are a great entry point into library science—but your resume needs to show you can handle both the technical and people skills the job demands. We'll walk you through exactly what hiring librarians want to see, from cataloging experience to patron engagement, with concrete examples you can adapt right now.",
+  "audience": "Recent library science graduates, students finishing their MLIS, and career changers looking to break into library work without prior library experience.",
+  "topSkills": [
+    {
+      "name": "Library catalog systems (ILS/OPAC)",
+      "why": "Hiring librarians immediately check if you can navigate Integrated Library Systems like Koha, Evergreen, or Polaris—this is core to the job."
+    },
+    {
+      "name": "Cataloging and classification",
+      "why": "Dewey Decimal System, Library of Congress Classification, and basic metadata skills prove you understand library organization."
+    },
+    {
+      "name": "Patron services & customer service",
+      "why": "Library Assistants spend significant time helping patrons; showing empathy and communication skills sets you apart."
+    },
+    {
+      "name": "Circulation desk operations",
+      "why": "Check-in/check-out, hold management, fines processing—these are day-to-day responsibilities hiring managers expect."
+    },
+    {
+      "name": "Digital literacy instruction",
+      "why": "Modern libraries need assistants who can teach patrons basic tech skills; it's increasingly expected."
+    },
+    {
+      "name": "Shelving and stack maintenance",
+      "why": "Foundational library task; showing you can keep collections organized and accessible matters."
+    },
+    {
+      "name": "Reference desk support",
+      "why": "Assisting patrons with research, locating materials, and answering questions demonstrates core library values."
+    },
+    {
+      "name": "Microsoft Office & library software",
+      "why": "Familiarity with Word, Excel, and specialized library databases makes you immediately productive."
+    },
+    {
+      "name": "Inventory management & weeding",
+      "why": "Managing collection health, identifying outdated materials, and processing donations are routine duties."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped patrons find books and information at the library.",
+      "strong": "Assisted 40-60 patrons daily at reference desk, resolving research queries and teaching basic database navigation; reduced average patron wait time by 15 minutes through proactive shelf-reading.",
+      "lesson": "Replace vague 'helped' with specific patron volume, measurable outcomes (wait time), and concrete tasks (database training)."
+    },
+    {
+      "weak": "Did cataloging and entered data into the library system.",
+      "strong": "Cataloged 25-35 new acquisitions weekly using Dewey Decimal System and Koha ILS; maintained 99% accuracy rate on metadata entry and processed hold requests with zero errors over 6 months.",
+      "lesson": "Name the specific system, quantify volume, and highlight accuracy metrics—hiring librarians care about precision."
+    },
+    {
+      "weak": "Supported library programs and events.",
+      "strong": "Coordinated and staffed 8-10 monthly community literacy programs; promoted events via social media, resulting in 30% increase in teen attendance; assisted patrons with technology setup for online learning sessions.",
+      "lesson": "Move beyond 'supported' to specific event count, measurable impact (attendance increase), and the skills you showcased."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic office skills instead of library-specific ones",
+      "fix": "Replace 'data entry' with the actual systems you used (e.g., 'ILS data entry', 'Koha catalog management'); be precise about library software."
+    },
+    {
+      "mistake": "Ignoring soft skills that matter in libraries",
+      "fix": "Include specific examples of patron communication, conflict resolution, or teamwork—libraries are service-oriented and collaborative."
+    },
+    {
+      "mistake": "Not mentioning relevant coursework or certifications",
+      "fix": "If you've completed library science courses, MLIS prerequisites, or earned library certifications, add a 'Relevant Coursework' or 'Certifications' section near the top."
+    },
+    {
+      "mistake": "Downplaying volunteer or student assistant experience",
+      "fix": "Library experience is library experience—prominently feature any time spent in a library setting, even unpaid internships or course projects."
+    },
+    {
+      "mistake": "Forgetting to highlight technology comfort",
+      "fix": "Libraries increasingly need tech-savvy staff; call out experience with databases, software, or helping patrons with digital tools."
+    }
+  ],
+  "structureTips": [
+    "Lead with a professional summary or objective (2-3 lines) that signals you understand modern library roles: 'Entry-level Library Assistant with hands-on experience in cataloging, patron services, and circulation systems. Seeking to support library operations and serve patrons in a community-focused environment.'",
+    "Put relevant coursework or certifications (MLIS progress, ALA member, or library-specific training) in a dedicated section right after contact info if you're a new grad—it signals serious intent.",
+    "Group experience by skill cluster if you're light on pure library work: create sections like 'Library Experience,' 'Customer Service,' and 'Technical Skills' so hiring managers see depth even if your jobs weren't all library roles.",
+    "Use a clean, simple format with consistent date formatting and bullet points; librarians appreciate organization and attention to detail—a sloppy resume signals you won't care about catalog accuracy."
+  ],
+  "atsKeywords": [
+    "Library Assistant",
+    "Integrated Library System",
+    "Cataloging",
+    "Circulation desk",
+    "Patron services",
+    "Dewey Decimal System",
+    "Library of Congress Classification",
+    "Reference desk",
+    "ILS software",
+    "Collection management"
+  ],
+  "salarySignal": "Entry-level Library Assistant roles in the US typically range from $24,000 to $32,000 annually, though salaries vary significantly by library type (academic, public, special), region, and whether the position includes benefits.",
+  "faq": [
+    {
+      "q": "Do I need an MLIS to be a Library Assistant?",
+      "a": "No—Library Assistant is an entry-level role that typically requires only a high school diploma or associate degree. However, if you're pursuing an MLIS, mentioning that on your resume is a big plus and shows career trajectory."
+    },
+    {
+      "q": "What should I do if I have no library experience?",
+      "a": "Highlight any customer service, research, or technical skills from other jobs. Mention if you're a heavy library user, volunteer work, or relevant coursework. Many librarians value transferable skills like attention to detail and empathy over prior library work."
+    },
+    {
+      "q": "Should I list specific ILS software I've used?",
+      "a": "Absolutely. Name the systems (Koha, Evergreen, Polaris, Voyager, etc.) explicitly—hiring librarians search for these. If you haven't used a specific system, mention that you're 'quick to learn library software' and highlight any related technical training."
+    },
+    {
+      "q": "How do I make a short resume stand out as a new grad?",
+      "a": "Use your education section to highlight relevant coursework, library projects, or capstones. Include a short 'Skills' section with library systems and soft skills. Emphasize any internships, volunteer hours, or part-time library work—even 3–6 months of shelving or shelving assistant work matters."
+    },
+    {
+      "q": "What's the best way to describe volunteer library work?",
+      "a": "Treat it the same way you'd treat paid work—use action verbs, quantify impact, and list specific tasks. Librarians respect volunteerism and will read volunteer experience seriously, especially if it spans several months or shows consistent commitment."
+    }
+  ]
+}

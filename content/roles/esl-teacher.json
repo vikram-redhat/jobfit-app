@@ -1,0 +1,130 @@
+{
+  "slug": "esl-teacher",
+  "title": "ESL Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:19.722Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "ESL Teacher Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a standout ESL teacher resume with actionable examples, key skills, and ATS keywords. Land your next English language teaching role.",
+  "h1": "How to Write an ESL Teacher Resume That Gets Interviews",
+  "intro": "Your ESL teacher resume needs to show that you can actually move students from struggling to confident with English—not just that you're patient and organized. We'll walk you through the exact skills, achievements, and formatting that get hiring managers and schools to call you back.",
+  "audience": "Recent TESOL/TEFL graduates, career switchers from teaching fields, and experienced ESL educators looking to land roles in public schools, private language institutes, or corporate training programs.",
+  "topSkills": [
+    {
+      "name": "TESOL/TEFL Certification",
+      "why": "Schools and language institutes almost always require this credential; it signals formal training in language acquisition theory and classroom methodology."
+    },
+    {
+      "name": "Communicative Language Teaching",
+      "why": "This modern approach emphasizes real-world communication over rote grammar—exactly what administrators and parents expect from effective ESL programs."
+    },
+    {
+      "name": "Student Assessment & Progress Tracking",
+      "why": "Hiring managers want evidence that you measure growth, adjust lessons based on data, and can demonstrate improvement to parents and administrators."
+    },
+    {
+      "name": "Differentiated Instruction",
+      "why": "ESL classrooms have mixed proficiency levels; schools need proof you can tailor lessons so absolute beginners and intermediate students both learn."
+    },
+    {
+      "name": "Classroom Management",
+      "why": "Managing a multilingual classroom with varying behavior norms requires specific strategies—this skill reassures administrators you can keep a productive environment."
+    },
+    {
+      "name": "Lesson Planning & Curriculum Development",
+      "why": "Schools want teachers who can design coherent curricula aligned to standards like CEFR or state English proficiency benchmarks, not just wing it day-to-day."
+    },
+    {
+      "name": "Cultural Competency & Inclusion",
+      "why": "ESL roles require sensitivity to diverse backgrounds; this skill shows you create welcoming spaces where non-native speakers feel safe to take risks."
+    },
+    {
+      "name": "Technology Integration (Google Classroom, Zoom, LMS)",
+      "why": "Post-pandemic, schools expect teachers to blend in-person and remote instruction; competency with common platforms is now non-negotiable."
+    },
+    {
+      "name": "Parent & Stakeholder Communication",
+      "why": "ESL teachers often bridge cultural and language gaps with families; schools value teachers who can report progress clearly to non-English-speaking parents."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught English to ESL students and helped them improve their language skills.",
+      "strong": "Designed and delivered 40-hour communicative language curriculum for 25 intermediate ESL students; 75% achieved proficiency on CEFR B1 exit assessment within one academic year.",
+      "lesson": "The strong version adds a specific student count, the teaching method, measurable proficiency outcome, and a concrete timeframe—proof you moved the needle, not just showed up."
+    },
+    {
+      "weak": "Managed diverse classroom with students from different backgrounds.",
+      "strong": "Implemented differentiated small-group instruction for mixed-proficiency cohort of 18 students (A1–B2 levels); reduced behavioral incidents by 60% through cultural responsiveness training and adapted routines.",
+      "lesson": "Quantifying the challenge (mixed levels, specific count) and the result (% improvement in behavior) shows you problem-solved with real impact, not just good intentions."
+    },
+    {
+      "weak": "Created lesson plans and assessed student progress regularly.",
+      "strong": "Developed 50+ Google Classroom-based lessons aligned to CEFR standards; tracked vocabulary retention and speaking fluency biweekly using Speeko app data, adjusted pacing for 80% of cohort based on assessment results.",
+      "lesson": "Naming the platform, the standards framework, and the tools you used—plus tying assessment to action—shows you're methodical and data-driven, not guessing at effectiveness."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Treating ESL teaching like general classroom teaching",
+      "fix": "Emphasize language-specific expertise: mention methodologies (CLT, TPRS), proficiency frameworks (CEFR, ACTFL), and language-focused tools (vocabulary apps, pronunciation software) that set you apart."
+    },
+    {
+      "mistake": "Burying or omitting TESOL/TEFL certification",
+      "fix": "List it prominently in a Certifications section near the top, include the credential name, issuing body, date, and any specialization (e.g., 'TESOL Certificate, 120-hour program, Teaching Children focus')."
+    },
+    {
+      "mistake": "Claiming fluency in languages you don't actually speak at native level",
+      "fix": "Be honest and specific: instead of 'fluent Spanish,' write 'Spanish (intermediate, conversational level)' or 'Working knowledge of Mandarin' to match hiring manager expectations."
+    },
+    {
+      "mistake": "Focusing on how many years you've taught instead of what students learned",
+      "fix": "Replace '8 years of ESL experience' with concrete outcomes: 'Coached 120+ adult ESL learners to TOEIC scores above 700' or 'Improved K–2 ELL cohort reading fluency by 45% in one year.'"
+    },
+    {
+      "mistake": "Ignoring parent and family engagement",
+      "fix": "Add a bullet about parent communication, translation support, or community partnerships—schools increasingly value teachers who help families understand their child's progress and support learning at home."
+    }
+  ],
+  "structureTips": [
+    "Lead with Certifications (TESOL, TEFL, etc.) in a dedicated section right after your summary—schools screen for these first, and you want them to see instantly that you're credentialed.",
+    "Group teaching experience by level or setting (e.g., 'Elementary ESL,' 'Adult Business English,' 'University EAP') rather than just chronological job titles; this helps hiring managers quickly assess if your level matches their need.",
+    "Add a 'Languages' section that honestly reflects your proficiency level and any heritage speaker background; for ESL roles, this is a resume asset if you have it.",
+    "In your Professional Summary, name one signature methodology or specialization ('passionate about communicative language teaching and multimodal literacy') rather than generic 'dedicated educator' language."
+  ],
+  "atsKeywords": [
+    "TESOL certification",
+    "TEFL certified",
+    "Communicative Language Teaching",
+    "CEFR levels",
+    "ESL classroom management",
+    "Differentiated instruction",
+    "English proficiency assessment",
+    "Curriculum development ESL",
+    "English language learner support",
+    "Multilingual education"
+  ],
+  "salarySignal": "Entry-level ESL teacher salaries in the US typically range from $28,000 to $40,000 annually; experienced teachers and those with TESOL credentials in high-cost areas or private schools can earn $45,000–$65,000+. Salary varies widely by region, school type (public vs. private), and student population.",
+  "faq": [
+    {
+      "q": "Do I need a TESOL certificate to get an ESL teaching job?",
+      "a": "It depends on the employer. Most public schools require or strongly prefer TESOL/TEFL certification (120+ hours minimum); private language institutes, online platforms, and some international schools may be more flexible. A credential gives you a competitive edge and is worth the investment if you're serious about ESL work."
+    },
+    {
+      "q": "Should I list my own language skills on an ESL resume?",
+      "a": "Yes, if they're genuinely useful and honest. If you speak Spanish, Mandarin, or Arabic, list it with a realistic proficiency level (conversational, intermediate, fluent). Many schools serve specific immigrant communities and value teachers who can communicate with families or co-teach with bilingual partners."
+    },
+    {
+      "q": "What metrics matter most on an ESL teacher resume?",
+      "a": "Focus on student proficiency gains (e.g., % who reached target CEFR level), assessment score improvements, classroom size and proficiency mix, and any programs you implemented or led (e.g., newcomer orientation, family literacy nights). Schools want proof of measurable language growth, not just attendance or participation."
+    },
+    {
+      "q": "How do I highlight experience with young learners vs. adults?",
+      "a": "Create separate job entries or sub-bullets for each population you've taught. Note the specific age group, proficiency level, and relevant skills (e.g., 'phonemic awareness instruction for K–2 ELLs' vs. 'TOEIC/business English prep for corporate clients'). Schools hire for specific level bands, so clarity helps."
+    },
+    {
+      "q": "Is volunteer or online ESL teaching experience worth putting on a resume?",
+      "a": "Absolutely, especially if you're a new grad or career changer. List it with the same detail as paid roles: platform used (VIPKid, Italki, etc.), student count, proficiency levels taught, and outcomes. Frame it as 'gained classroom experience' or 'built digital instruction skills' so it's clear and valuable to hiring managers."
+    }
+  ]
+}

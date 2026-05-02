@@ -1,0 +1,130 @@
+{
+  "slug": "bartender",
+  "title": "Bartender",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:53:06.265Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Bartender Resume: Template & Tips for 2026",
+  "metaDescription": "Craft a winning bartender resume with actionable tips, sample bullets, and ATS keywords that get you hired. Includes common mistakes to avoid.",
+  "h1": "How to Write a Bartender Resume That Gets You Hired",
+  "intro": "A great bartender resume shows you can mix drinks fast, handle the dinner rush, and keep customers coming back. We'll walk you through the skills hiring managers actually want, real resume examples, and the mistakes that cost you interviews.",
+  "audience": "Hospitality workers transitioning from serving or other venues, new grads looking to break into bartending, and bartenders moving to better establishments.",
+  "topSkills": [
+    {
+      "name": "Mixology & Cocktail Craftsmanship",
+      "why": "Managers hire bartenders who know classic cocktails, modern techniques, and can build drinks confidently under pressure."
+    },
+    {
+      "name": "POS Systems (Toast, Square, Micros)",
+      "why": "Most bars use digital systems to ring up orders and manage inventory; familiarity with specific platforms is a quick win."
+    },
+    {
+      "name": "Customer Service & Hospitality",
+      "why": "Bars live or die by repeat customers and positive Yelp reviews; hiring managers need evidence you create memorable experiences."
+    },
+    {
+      "name": "Cash Handling & Till Accuracy",
+      "why": "Bartenders manage their own cash drawers and liquor counts; accuracy and honesty are non-negotiable."
+    },
+    {
+      "name": "Inventory Management & Bar Stocking",
+      "why": "Successful bartenders keep the bar organized, restock proactively, and flag low inventory before you run out mid-shift."
+    },
+    {
+      "name": "Multitasking & Pressure Management",
+      "why": "Friday nights are chaos; hiring managers want proof you stay calm and efficient when the line is out the door."
+    },
+    {
+      "name": "Knowledge of Spirits & Wine",
+      "why": "Upselling and pairing drinks with food raises ticket averages; managers value bartenders who understand flavor profiles and provenance."
+    },
+    {
+      "name": "ServSafe Alcohol Certification",
+      "why": "Many states and upscale venues require this; listing it signals compliance and professionalism."
+    },
+    {
+      "name": "Team Collaboration & Communication",
+      "why": "Bartenders coordinate with servers, back-of-house, and management all shift long; teamwork matters."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Made cocktails and served customers at busy bar.",
+      "strong": "Executed 80–120 cocktails per shift during peak hours, maintaining 99% accuracy on complex orders while upselling premium spirits and house specials to increase average check by 15–20%.",
+      "lesson": "Quantifying volume, speed, and business impact transforms a vague duty into proof of competence and revenue contribution."
+    },
+    {
+      "weak": "Responsible for managing cash and inventory.",
+      "strong": "Balanced cash drawer daily with zero discrepancies across 6+ months; conducted weekly liquor inventory audits, identifying waste patterns and reducing shrinkage by 8–12%.",
+      "lesson": "Specific numbers and time frames show reliability and proactive problem-solving, not just basic compliance."
+    },
+    {
+      "weak": "Trained new bartenders and helped with customer issues.",
+      "strong": "Mentored 5+ junior bartenders on signature cocktails and POS procedures; resolved high-tension customer complaints with empathy, converting 70%+ of complaints into positive reviews and repeat visits.",
+      "lesson": "Naming the outcome (conversions, retention, training completions) proves your impact goes beyond the day-to-day."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic 'customer service' without context.",
+      "fix": "Be specific: did you reduce wait times, earn a tip percentage above 18%, build regular clientele, or get positive online reviews? Name the outcome."
+    },
+    {
+      "mistake": "Omitting certifications like ServSafe or mixology credentials.",
+      "fix": "List any alcohol certifications, bartending school diplomas, or sommelier trainings prominently; they're quick proof of credibility."
+    },
+    {
+      "mistake": "No mention of POS systems or relevant software.",
+      "fix": "Research the venues you're applying to and note their POS; if you've used Toast, Square, Micros, or other systems, call them out by name."
+    },
+    {
+      "mistake": "Vague references to 'high-volume' or 'fast-paced' without numbers.",
+      "fix": "Replace adjectives with metrics: 'served 150+ covers per shift', 'handled 40+ cocktail orders during 2-hour happy hour', etc."
+    },
+    {
+      "mistake": "Forgetting to highlight upselling and revenue impact.",
+      "fix": "If you increased average check, introduced house cocktails successfully, or drove bottle service, mention it—bars are businesses."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or objective that nods to your bartending philosophy and the type of venue you're targeting (e.g., 'craft cocktail bartender' vs. 'high-volume nightlife expert').",
+    "Put certifications (ServSafe, mixology, sommelier) near the top of your skills or in their own section; hiring managers scan for these immediately.",
+    "Group bar experience in reverse chronological order, but highlight the venue type and signature accomplishments—upsells, training, inventory wins, or customer loyalty metrics.",
+    "Include a brief 'Technical Skills' section listing POS systems, spirits knowledge, and any software you're comfortable with; match the language in the job posting."
+  ],
+  "atsKeywords": [
+    "Bartender",
+    "Mixology",
+    "POS systems",
+    "Cash handling",
+    "Customer service",
+    "Inventory management",
+    "ServSafe Alcohol",
+    "Cocktail preparation",
+    "Bar management",
+    "Upselling"
+  ],
+  "salarySignal": "Entry-level bartender US salaries typically range from $26,000 to $32,000 per year plus tips; experienced bartenders in high-traffic venues and urban areas often earn $40,000–$60,000+ annually with gratuities.",
+  "faq": [
+    {
+      "q": "Do I need bartending school or a certificate to get hired?",
+      "a": "No, but it helps. Many bars hire on-the-job, especially if you have strong hospitality experience. ServSafe Alcohol certification and mixology training are nice-to-haves that set you apart and signal seriousness. If you're entering the field, a bartending course (4–12 weeks) can accelerate your hiring."
+    },
+    {
+      "q": "What should I put in my professional summary as a bartender?",
+      "a": "Keep it brief and venue-specific. Example: 'Customer-focused bartender with 3+ years in craft cocktail environments and expertise in POS systems and spirits knowledge. Proven track record of upselling premium products and building loyal clientele.' Avoid generic fluuff."
+    },
+    {
+      "q": "How do I quantify my bartender experience if I don't have exact numbers?",
+      "a": "Estimate conservatively based on shift length, venue size, and busy periods. If you worked at a 100-seat bar with happy hour, you likely did 50–100+ cocktails per shift. Ask former managers for specifics if possible; they're often happy to confirm on a reference call."
+    },
+    {
+      "q": "Should I list bartending skills like 'flair' or freestyle pouring?",
+      "a": "Only if the job posting or venue culture values it (e.g., nightlife or high-energy venues). For upscale cocktail bars and fine dining, focus on technique, knowledge, and professionalism. Read the room first."
+    },
+    {
+      "q": "How important is knowing wine and beer if I'm applying to a beer-focused bar?",
+      "a": "Very. Customize your skills section for each application. Beer-focused? Highlight craft beer knowledge, tap rotation, and beer pairing. Wine bar? Emphasize regions, varietals, and sommelier training. Generic spirits-only talk won't land you the role."
+    }
+  ]
+}

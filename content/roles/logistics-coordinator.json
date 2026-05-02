@@ -1,0 +1,130 @@
+{
+  "slug": "logistics-coordinator",
+  "title": "Logistics Coordinator",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:47:52.694Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Logistics Coordinator Resume: Skills, Examples & Templates",
+  "metaDescription": "Write a winning Logistics Coordinator resume. See sample bullets, key skills, and ATS keywords that hiring managers actually search for.",
+  "h1": "How to Write a Logistics Coordinator Resume That Gets Noticed",
+  "intro": "A Logistics Coordinator resume needs to prove you can manage shipments, track inventory, and solve supply chain problems under pressure. This guide shows you exactly what hiring managers want to see—and how to rewrite your bullets to stand out.",
+  "audience": "Recent grads, career switchers moving into supply chain roles, and current logistics coordinators aiming for promotions or stronger offers.",
+  "topSkills": [
+    {
+      "name": "Inventory Management",
+      "why": "Logistics Coordinators spend hours tracking stock levels, flagging shortages, and updating systems—hiring managers prioritize candidates who've done this in a real role."
+    },
+    {
+      "name": "Supply Chain Optimization",
+      "why": "Showing you've reduced costs or improved order fulfillment times signals you understand logistics as a business problem, not just data entry."
+    },
+    {
+      "name": "Warehouse Management Systems (WMS)",
+      "why": "Nearly every logistics job uses software like Manhattan, SAP, or Blue Yonder—explicit WMS experience is a hard filter on many job postings."
+    },
+    {
+      "name": "Freight & Shipping Coordination",
+      "why": "Coordinating with carriers, negotiating rates, and tracking shipments is core to the role and appears in 60%+ of job descriptions."
+    },
+    {
+      "name": "Order Fulfillment",
+      "why": "End-to-end order processing from receipt to delivery is the bread and butter of the job; hiring managers want measurable speed or accuracy improvements."
+    },
+    {
+      "name": "Data Entry & Spreadsheet Management",
+      "why": "While less glamorous, clean data is essential to supply chain; Excel/Google Sheets proficiency is table stakes and worth noting if you're strong here."
+    },
+    {
+      "name": "Vendor & Carrier Management",
+      "why": "Building relationships with third-party logistics providers and managing SLAs shows you can communicate and solve problems across teams."
+    },
+    {
+      "name": "Problem-Solving & Process Improvement",
+      "why": "Logistics roles are full of surprises—hiring managers love candidates who've identified bottlenecks and implemented faster or cheaper workflows."
+    },
+    {
+      "name": "Documentation & Compliance",
+      "why": "Tracking receipts, bills of lading, and regulatory paperwork keeps operations legal; accuracy here prevents costly mistakes."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed inventory and helped with shipping tasks",
+      "strong": "Coordinated receipt, storage, and shipment of 5,000+ SKUs monthly; reduced inventory discrepancies by 18% through cycle count audits and WMS data cleanup",
+      "lesson": "Adding real numbers (5,000+ SKUs, 18% reduction) and naming the tool you used (WMS) transforms a vague duty into proof of impact."
+    },
+    {
+      "weak": "Worked with freight carriers to arrange shipments",
+      "strong": "Negotiated and managed contracts with 8+ freight carriers; consolidated shipments to reduce outbound shipping costs by 22% YoY while maintaining 98% on-time delivery",
+      "lesson": "Showing the business outcome (cost savings) and a reliability metric (98% on-time) proves you drove results, not just processed orders."
+    },
+    {
+      "weak": "Used various software systems to track orders",
+      "strong": "Trained on and optimized workflows in Blue Yonder WMS and SAP; decreased order processing time from 6 hours to 2 hours per batch through process redesign",
+      "lesson": "Naming specific software and quantifying the time/efficiency gain shows you're technical enough to add value and not afraid of new systems."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing software without context",
+      "fix": "Don't just say 'proficient in Excel'—say what you built with it, like 'created daily inventory reconciliation report tracking 2,000+ line items' or 'automated carrier performance dashboard reducing manual updates by 8 hours/week.'"
+    },
+    {
+      "mistake": "Focusing on task volume instead of efficiency",
+      "fix": "Avoid 'processed 500 orders per week' without context; instead say 'processed 500 orders per week with 99.2% accuracy' or 'reduced processing time per order by 20% through template standardization.'"
+    },
+    {
+      "mistake": "Forgetting to mention metrics or impact",
+      "fix": "Every bullet should tie to cost, speed, accuracy, or team impact—hiring managers want to see you think like a business partner, not just an executor."
+    },
+    {
+      "mistake": "Not showing cross-functional collaboration",
+      "fix": "Logistics Coordinators work with procurement, operations, and sales teams; highlight how you liaised with other departments to solve problems or meet deadlines."
+    },
+    {
+      "mistake": "Leaving off industry certifications or training",
+      "fix": "If you have APICS CPIM, CSCP, ASCM, or hazmat certifications, put them in a dedicated section—these are major resume filters for serious logistics roles."
+    }
+  ],
+  "structureTips": [
+    "Lead with WMS and supply chain software skills in your skills section—these are ATS keywords and the first thing hiring managers filter for.",
+    "Put your most impressive inventory or cost-saving wins in your first 2–3 bullets; hiring managers skim, so bury weaker achievements further down.",
+    "If you've been promoted or moved to a higher-level logistics role, put your most recent and advanced responsibilities first, even within the same job.",
+    "Include a dedicated 'Software & Tools' subsection listing WMS, ERP, TMS, and other systems you've trained on—this makes it easy for ATS to pick up hard skills."
+  ],
+  "atsKeywords": [
+    "Warehouse Management System",
+    "inventory management",
+    "order fulfillment",
+    "supply chain coordination",
+    "freight coordination",
+    "vendor management",
+    "shipping and receiving",
+    "process improvement",
+    "logistics operations",
+    "carrier management"
+  ],
+  "salarySignal": "Entry-level Logistics Coordinator salaries in the US typically range from $32,000 to $42,000 annually; coordinators with 3+ years of experience and WMS expertise often earn $42,000–$55,000, with regional and company size variations.",
+  "faq": [
+    {
+      "q": "What metrics should I include on a Logistics Coordinator resume?",
+      "a": "Focus on three types: speed (order cycle time, processing time), accuracy (discrepancy rates, on-time delivery %), and cost (shipping savings, inventory reduction %). Use real numbers from your performance reviews or systems reports—hiring managers can tell when you're making numbers up."
+    },
+    {
+      "q": "Do I need WMS experience to get hired as a Logistics Coordinator?",
+      "a": "Not always for entry-level roles, but it's a major advantage. If you don't have it, emphasize your Excel skills, attention to detail, and willingness to learn—and mention if you've picked up any free WMS training online. Larger companies will almost certainly require it."
+    },
+    {
+      "q": "Should I put 'Logistics Coordinator' or a different job title on my resume?",
+      "a": "Use your actual job title first, but if it was something vague like 'Operations Associate' or 'Warehouse Assistant,' add a clarifying subtitle like 'Logistics Coordinator (Inventory & Shipping)' to help ATS match the role description."
+    },
+    {
+      "q": "How do I show impact if I mostly did routine tasks?",
+      "a": "Look for process improvements you suggested, problems you solved faster than expected, quality issues you caught, or team members you trained. Even small wins count—'reduced misshipment rate from 3% to 1%' or 'cut invoice discrepancy time from 2 days to 4 hours' are strong bullets."
+    },
+    {
+      "q": "Is it worth mentioning certifications like APICS or CSCP?",
+      "a": "Absolutely. Certifications signal commitment to supply chain excellence and are often listed as a 'nice to have' or 'preferred' requirement in job postings. Put them in a dedicated section below your experience to maximize ATS visibility."
+    }
+  ]
+}

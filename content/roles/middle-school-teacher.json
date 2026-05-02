@@ -1,0 +1,130 @@
+{
+  "slug": "middle-school-teacher",
+  "title": "Middle School Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:01:58.361Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Middle School Teacher Resume: Tips & Examples",
+  "metaDescription": "Write a standout middle school teacher resume. Learn what skills hiring principals want, see real bullet examples, and avoid common mistakes.",
+  "h1": "Middle School Teacher Resume: How to Stand Out to Principals",
+  "intro": "Middle school is chaotic, rewarding, and requires a very specific skill set—and your resume needs to prove you've got it. Whether you're a first-time teacher, returning to the classroom, or switching from another role, this guide shows you exactly what to highlight so principals see you're ready for the job.",
+  "audience": "New teachers fresh from credential programs, career switchers from corporate or other fields, and returning educators updating their resumes for 2024–2025 school year placements.",
+  "topSkills": [
+    {
+      "name": "Classroom Management",
+      "why": "Principals hire for behavior control first—showing you can handle 30 energetic 11–14-year-olds is your biggest selling point."
+    },
+    {
+      "name": "Differentiated Instruction",
+      "why": "Middle schoolers have wildly different skill levels in the same grade; demonstrating you can teach to multiple levels is essential."
+    },
+    {
+      "name": "Standards-Based Curriculum Design",
+      "why": "Schools need teachers who can map lessons to state standards (Common Core, NGSS, etc.) and document alignment."
+    },
+    {
+      "name": "Student Engagement & Motivation",
+      "why": "This age group needs relevance and active learning; showing you use projects, discussions, or tech to keep them interested matters."
+    },
+    {
+      "name": "Data-Driven Instruction",
+      "why": "Formative and summative assessment data guides decision-making; teachers who track and adjust based on evidence are valued."
+    },
+    {
+      "name": "SEL (Social-Emotional Learning)",
+      "why": "Tween and teen mental health is a priority; schools reward teachers who integrate SEL and build positive relationships."
+    },
+    {
+      "name": "Parent & Family Communication",
+      "why": "Middle school requires regular, transparent contact with parents; demonstrating this shows maturity and professionalism."
+    },
+    {
+      "name": "Technology Integration",
+      "why": "Google Classroom, Canva, virtual labs, or blended learning are now table stakes in most districts."
+    },
+    {
+      "name": "Inclusive/Special Education Support",
+      "why": "Most middle schools expect teachers to support inclusive classrooms and work with ELL and IEP students."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught 7th grade science and helped students learn about ecosystems.",
+      "strong": "Designed and delivered ecosystem unit using field observations and data collection; 78% of students met proficiency on post-unit assessment, up from 62% baseline.",
+      "lesson": "Adding a specific skill, a concrete outcome, and a metric (improvement) transforms a generic bullet into evidence of impact."
+    },
+    {
+      "weak": "Managed classroom and communicated with parents.",
+      "strong": "Implemented structured seating chart and gamified behavior system (Class Dojo), reducing referrals by 40%; sent weekly progress updates to 85% of families via email and Remind app.",
+      "lesson": "Replace vague words (managed, communicated) with specific strategies, tools, and outcomes that show both behavior management and family engagement."
+    },
+    {
+      "weak": "Differentiated instruction for students with different abilities.",
+      "strong": "Created three-tier reading groups and tiered worksheets for 6th grade English; tracked comprehension via running records and adjusted groupings every 3 weeks based on data.",
+      "lesson": "Show *how* you differentiate and how you use data to validate and iterate—not just that you did it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing job duties instead of student outcomes",
+      "fix": "Replace 'planned and taught lessons' with 'designed formative assessments and adjusted instruction; 82% of students passed unit exam.'"
+    },
+    {
+      "mistake": "No mention of classroom management or student behavior",
+      "fix": "Include a specific strategy or system you used (restorative circles, positive reinforcement, structured routines) and the result it achieved."
+    },
+    {
+      "mistake": "Forgetting to highlight standards alignment or curriculum planning",
+      "fix": "Show that you can map lessons to state standards and design coherent units—mention Common Core, NGSS, or your district's adopted curriculum by name."
+    },
+    {
+      "mistake": "Vague descriptions of parent and family contact",
+      "fix": "Be concrete: 'Held monthly family math nights' or 'Increased family attendance at conferences from 60% to 90% by offering evening and virtual options.'"
+    },
+    {
+      "mistake": "Not addressing inclusivity or support for diverse learners",
+      "fix": "Mention ELL strategies, differentiation for IEP or 504 students, or SEL initiatives—this shows you're trained and willing to serve all learners."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line professional summary that includes your grade/subject, years of experience, and one standout skill (e.g., 'Middle school science teacher with 4 years' experience in project-based learning and data-driven instruction; strong track record of closing achievement gaps.').",
+    "Put your teaching license(s) and endorsement(s) near the top (or in a prominent 'Credentials' section) so hiring staff spot them immediately.",
+    "Organize experience by grade and subject, with 5–7 bullets per role focused on instruction, assessment, classroom management, and family/community partnerships—not admin duties.",
+    "Include a 'Professional Development' or 'Certifications' section highlighting SEL, special ed co-teaching, technology, or other training relevant to the district's priorities."
+  ],
+  "atsKeywords": [
+    "classroom management",
+    "differentiated instruction",
+    "standards-based curriculum",
+    "formative assessment",
+    "data-driven instruction",
+    "social-emotional learning",
+    "parent communication",
+    "inclusive classroom",
+    "standards alignment",
+    "student engagement"
+  ],
+  "salarySignal": "Entry-level middle school teacher salaries in the US typically range from $32,000 to $42,000; experienced teachers with master's degrees or specializations may earn $55,000–$70,000+, though regional variation is significant.",
+  "faq": [
+    {
+      "q": "Should I include student test scores or achievement data on my resume?",
+      "a": "Yes, but frame it carefully. Use phrases like '75% of students met proficiency' or 'improved from 55% to 78% baseline,' and avoid claiming sole credit—emphasize what you did (unit design, interventions) that led to growth. Never share student names or confidential data."
+    },
+    {
+      "q": "How do I describe classroom management on a resume without sounding like I'm just crowd control?",
+      "a": "Use phrases like 'implemented restorative practices,' 'designed incentive systems,' or 'structured collaborative learning routines.' Tie it to outcomes: 'reduced office referrals by 35%' or 'created a positive, equitable classroom culture where 90% of students report feeling safe and respected.'"
+    },
+    {
+      "q": "What if I don't have traditional full-time teaching experience yet?",
+      "a": "Highlight student teaching, long-term substitute work, tutoring, para-educator roles, or any positions where you designed lessons or assessed student work. Use the same bullet structure: action verb + strategy + outcome. Principals value demonstration of ability over title."
+    },
+    {
+      "q": "How important is it to mention specific curriculum or standards?",
+      "a": "Very. Mention your state's standards (Common Core, NGSS, your state science or ELA standards), any adoptedcurriculum (IB, Expeditionary Learning, balanced literacy), and online platforms you use (Google Workspace, Schoology, iReady). This signals you're prepared and aligned with district expectations."
+    },
+    {
+      "q": "Should I include extracurriculars or club sponsorships?",
+      "a": "Yes, in a dedicated 'Leadership & Community' section. Middle school clubs, sports coaching, or mentor roles show you're invested beyond the classroom. Include a brief outcome: 'Advised student council; organized 3 fundraisers that raised $2,500 for field trips.'"
+    }
+  ]
+}

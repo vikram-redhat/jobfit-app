@@ -1,0 +1,124 @@
+{
+  "slug": "intern",
+  "title": "Intern",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:04:35.197Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Intern Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Write a standout intern resume with real examples, key skills, and ATS optimization. Get hired with actionable tips for first jobs.",
+  "h1": "How to Write an Intern Resume That Gets Noticed",
+  "intro": "Your first internship is a chance to prove you can do real work—even without years of experience. A strong resume shows employers you're organized, eager to learn, and ready to contribute from day one. Let's build one that actually lands interviews.",
+  "audience": "Recent graduates and current students applying to their first or second internship, often with limited work history but academic projects and volunteer experience to highlight.",
+  "topSkills": [
+    {
+      "name": "Project Management",
+      "why": "Interns are expected to own small projects end-to-end and keep stakeholders in the loop without constant hand-holding."
+    },
+    {
+      "name": "Communication & Collaboration",
+      "why": "Teams need interns who can ask good questions, write clear emails, and work well in a group—soft skills matter as much as technical ones."
+    },
+    {
+      "name": "Problem-Solving",
+      "why": "Employers want interns who can troubleshoot issues independently, not just execute instructions."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Mistakes in intern work often have downstream consequences; accuracy signals professionalism and maturity."
+    },
+    {
+      "name": "Time Management",
+      "why": "Balancing coursework, internships, and other commitments shows you can prioritize and deliver on deadlines."
+    },
+    {
+      "name": "Technical Skills (Role-Specific)",
+      "why": "Whether it's Excel, Python, Figma, or SQL, hiring managers want proof you've actually used the tools you list."
+    },
+    {
+      "name": "Self-Direction & Initiative",
+      "why": "Interns who ask 'what's next?' instead of waiting for tasks stand out and earn return offers."
+    },
+    {
+      "name": "Learning Agility",
+      "why": "You won't know everything; showing you're quick to pick up new concepts and systems is a huge asset."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped with social media and marketing tasks during my internship.",
+      "strong": "Created and scheduled 12 Instagram posts per month, reaching 2,000+ impressions and increasing followers by 15% over the 3-month internship.",
+      "lesson": "Replace vague actions ('helped with') with specific numbers, platforms, and outcomes that prove impact."
+    },
+    {
+      "weak": "Learned how to use Excel and updated spreadsheets for the finance team.",
+      "strong": "Built automated reconciliation spreadsheets using VLOOKUP and pivot tables, cutting monthly reconciliation time from 6 hours to 2 hours for a team of 3.",
+      "lesson": "Show the tool, the technical approach, and the business result—not just 'learned' or 'used.'"
+    },
+    {
+      "weak": "Participated in client meetings and took notes.",
+      "strong": "Attended 15+ client meetings, synthesized feedback into actionable specs, and presented findings to 5-person product team, informing 2 feature roadmap updates.",
+      "lesson": "Emphasize your ownership of the work that came *after* the meeting, not just your presence there."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only generic responsibilities instead of outcomes.",
+      "fix": "For every bullet, ask: 'What changed because I did this?' Then lead with that change (saved time, made money, improved quality, resolved an issue)."
+    },
+    {
+      "mistake": "Burying relevant coursework or academic projects below work experience.",
+      "fix": "If you're a new grad with no full-time work history, create a 'Projects' or 'Relevant Coursework' section high on your resume to highlight technical skills and shipped work."
+    },
+    {
+      "mistake": "Including unpaid volunteer work without context or impact.",
+      "fix": "Volunteer roles count—but only if you treat them like real jobs. Use metrics, outcomes, and strong action verbs the same way."
+    },
+    {
+      "mistake": "Claiming skills you can't defend in a conversation.",
+      "fix": "Only list technical skills (programming languages, software, frameworks) if you can write or use them meaningfully; interviewers will ask."
+    },
+    {
+      "mistake": "Making the resume longer than one page.",
+      "fix": "Keep it to one page unless you have multiple internships or significant projects to show; hiring managers spend 6 seconds scanning entry-level resumes."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 1-2 line professional summary or headline ('Motivated Business Analyst Intern with 3 months experience in data analysis and process optimization') if you have limited work history; it anchors your resume and helps the ATS match you to the role.",
+    "Place your Education section near the top—GPA (if 3.5+), relevant coursework, and scholarships matter when you're early-career and employers are evaluating potential, not just experience.",
+    "Group internships and academic projects under 'Experience' or 'Experience & Projects'—treat both the same way with metrics and impact bullets; employers care about what you *shipped*, not the label.",
+    "Put your strongest internship or project first; chronological order is nice, but relevance is better. If your most recent role is less impressive than an earlier one, lead with the stronger one."
+  ],
+  "atsKeywords": [
+    "Internship experience",
+    "Project management",
+    "Technical skills",
+    "Data analysis",
+    "Client communication",
+    "Cross-functional collaboration",
+    "Problem-solving",
+    "Time management"
+  ],
+  "salarySignal": "Unpaid internships are common but less frequent; paid US internships typically range from $15–25 per hour depending on location, industry, and company size.",
+  "faq": [
+    {
+      "q": "Should I include an unpaid internship on my resume?",
+      "a": "Yes, if you had real responsibilities and outcomes to show. Treat unpaid and paid internships the same way—focus on the work, not the compensation. Employers care that you shipped something, not whether you got paid."
+    },
+    {
+      "q": "How do I talk about internships if I didn't have a 'big' project?",
+      "a": "Every role has small wins: bugs you fixed, processes you improved, time you saved someone, feedback you gathered. Quantify daily work (emails sent, reports created, meetings attended) and the effect it had on the team."
+    },
+    {
+      "q": "Is it OK to put a GPA on my resume as an intern?",
+      "a": "Yes, but only if it's 3.5 or higher. If it's lower, skip it unless the job posting specifically asks for it. Employers care more about what you've *done* than your class grades."
+    },
+    {
+      "q": "What if I only did admin or clerical work as an intern?",
+      "a": "Admin work still counts. Highlight efficiency gains (organized files that saved X hours), accuracy (zero errors on Y tasks), and support for the team (coordinated events, managed calendars). Show that you were reliable and improved operations."
+    },
+    {
+      "q": "How many internships should I list if I've had multiple?",
+      "a": "List all of them if you have room (one page). Prioritize by relevance to the job you're applying for, not just recency. If you have more than 3, consider dropping the oldest or least relevant one to save space."
+    }
+  ]
+}

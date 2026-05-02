@@ -1,0 +1,130 @@
+{
+  "slug": "delivery-driver",
+  "title": "Delivery Driver",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:58:13.875Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Delivery Driver Resume: Template & Tips for 2026",
+  "metaDescription": "Write a delivery driver resume that lands interviews. See sample bullets, key skills, and ATS keywords hiring managers actually search for.",
+  "h1": "How to Write a Delivery Driver Resume That Gets Results",
+  "intro": "A delivery driver resume needs to prove you're reliable, efficient, and safety-conscious—not just that you can drive. We'll show you how to highlight on-time delivery rates, vehicle maintenance, and customer service wins so dispatch managers and logistics companies take notice.",
+  "audience": "First-time delivery drivers, people transitioning from retail or warehouse roles, and experienced drivers looking to move up to better companies or specialized routes.",
+  "topSkills": [
+    {
+      "name": "Route optimization & time management",
+      "why": "Delivery managers want to see you can complete routes on schedule and handle dynamic changes without missing deadlines."
+    },
+    {
+      "name": "Vehicle maintenance & safety compliance",
+      "why": "Insurance and liability are huge; drivers who proactively maintain vehicles and follow DOT/OSHA rules are liability assets, not risks."
+    },
+    {
+      "name": "Customer service & communication",
+      "why": "You're often the company's face; ability to handle difficult customers, take feedback, and communicate delivery updates directly impacts ratings."
+    },
+    {
+      "name": "GPS & routing software (Waze, Google Maps, dispatch systems)",
+      "why": "Most modern delivery roles require familiarity with navigation tools and dispatch apps; list any you've used."
+    },
+    {
+      "name": "Load securing & cargo handling",
+      "why": "Proper loading prevents damage claims, theft, and accidents—a measurable sign of professionalism."
+    },
+    {
+      "name": "Defensive driving & accident prevention",
+      "why": "Clean driving record and low accident rates are red-hot keywords for logistics companies evaluating liability."
+    },
+    {
+      "name": "Multi-stop delivery & logistics awareness",
+      "why": "Showing you understand volume, priority delivery windows, and handling high-volume days signals operational maturity."
+    },
+    {
+      "name": "Cash handling & payment methods",
+      "why": "If you accept payments, COD, or card transactions on deliveries, that's a specialized skill many roles need."
+    },
+    {
+      "name": "Equipment operation (pallet jacks, dollies, hand trucks)",
+      "why": "Light equipment skills speed up loading and unloading, reduce injuries, and show you're efficient beyond just driving."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Delivered packages to customers on time and kept the vehicle clean.",
+      "strong": "Completed 45–60 deliveries per day with 99% on-time arrival rate; maintained vehicle interior cleanliness and performed daily pre-trip inspections to zero safety violations.",
+      "lesson": "Concrete metrics (delivery count, on-time %), safety mindset, and maintenance discipline beat vague language and show reliability at scale."
+    },
+    {
+      "weak": "Handled customer complaints and problems in a friendly way.",
+      "strong": "Resolved 8–12 customer issues per week (damaged goods, address discrepancies, missed windows) via phone and in-person; maintained 4.7+ star customer rating across 400+ deliveries.",
+      "lesson": "Quantifying complaints handled and customer satisfaction score proves you turn problems into repeat business, not just nod and move on."
+    },
+    {
+      "weak": "Used GPS and followed routes to get to delivery locations.",
+      "strong": "Navigated 15–20 stops per route using Waze, Google Maps, and company dispatch platform; identified and reported 3–5 optimized alternate routes monthly, reducing delivery time by 10–15 minutes per route.",
+      "lesson": "Naming specific tools and showing proactive route improvement positions you as someone who thinks beyond just following directions."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "No mention of safety or driving record",
+      "fix": "Add a line about clean driving record, defensive driving training, or years without incidents—it's a top filter for logistics companies and insurance."
+    },
+    {
+      "mistake": "Listing only company names, not delivery volume or outcomes",
+      "fix": "Include metrics: how many deliveries per day, your on-time %, accident-free streak, or customer rating. Companies want proof of scale and reliability."
+    },
+    {
+      "mistake": "Ignoring software and tools you've used",
+      "fix": "Call out any dispatch systems, GPS apps, scanners, or payment systems by name—ATS parsers and hiring managers filter heavily on these keywords."
+    },
+    {
+      "mistake": "Downplaying customer interaction as 'customer service'",
+      "fix": "Reframe it: 'resolved X complaints,' 'managed signature-required deliveries,' or 'maintained 4.8+ star rating'—show it's a business skill, not a side task."
+    },
+    {
+      "mistake": "Not explaining gaps or short tenures",
+      "fix": "If you job-hopped, briefly explain (e.g., 'moved to full-time driving to increase income' or 'left seasonal role to find year-round stability'). Transparency beats silence."
+    }
+  ],
+  "structureTips": [
+    "Put a short summary or headline at the top that includes your key differentiator: e.g., 'Delivery Driver | 99% On-Time Rate | 5+ Years Route Experience | CDL-A' or 'Last-Mile Delivery Specialist | 50+ Daily Stops | Zero Safety Incidents.'",
+    "Lead your experience section with quantified delivery metrics (# per day, on-time %, vehicle condition score) in the first 1–2 bullets of each role. Dispatchers scan fast.",
+    "Group related skills under a 'Core Competencies' or 'Technical Skills' section: list software, vehicle types, certifications (CDL, forklift, etc.), and equipment you can operate.",
+    "If you have a clean driving record, mention it in a 'Certifications & Licenses' section or as a callout in your summary. It's a huge filter."
+  ],
+  "atsKeywords": [
+    "delivery driver",
+    "on-time delivery",
+    "route optimization",
+    "vehicle maintenance",
+    "GPS navigation",
+    "dispatch software",
+    "safe driving record",
+    "multi-stop delivery",
+    "customer satisfaction",
+    "defensive driving"
+  ],
+  "salarySignal": "Entry-level delivery driver positions in the US typically range from $28,000 to $36,000 annually; experienced drivers with clean records and specialized routes (medical, high-value freight) can earn $40,000–$55,000+.",
+  "faq": [
+    {
+      "q": "Do I need a CDL to be a delivery driver?",
+      "a": "Not always. Most local and last-mile delivery roles (Amazon, FedEx Ground, food delivery) don't require a CDL. You'll need one for heavier trucks (26k+ GVWR) or certain long-haul roles. Check the job posting. If you have one, lead with it."
+    },
+    {
+      "q": "How do I show I'm reliable if I have a short work history?",
+      "a": "Focus on metrics within each role: on-time rate, deliveries completed, zero complaints, equipment care. Even 6 months of strong numbers signal reliability better than vague job titles. Include any safety training or awards, no matter how small."
+    },
+    {
+      "q": "What if I've had a few accidents or tickets?",
+      "a": "Don't lie, but don't lead with it either. On your resume, state 'Clean driving record' only if true. In interviews, be honest and show what you learned. Many companies care more about recent safety than one mistake from years ago—frame it maturely."
+    },
+    {
+      "q": "Should I mention that I'm looking for full-time or part-time work?",
+      "a": "Not on the resume itself. Let your employment dates and job titles speak for themselves (full-time roles show continuous history). Mention availability and scheduling preferences in your cover letter or during the conversation."
+    },
+    {
+      "q": "How do I stand out if I'm entry-level?",
+      "a": "Highlight any related experience: warehouse, customer service, equipment operation, or side gigs. Emphasize reliability (perfect attendance, clean background), any training you've completed, and your willingness to learn software and systems. Numbers matter more than years."
+    }
+  ]
+}

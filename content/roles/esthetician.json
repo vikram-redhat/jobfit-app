@@ -1,0 +1,130 @@
+{
+  "slug": "esthetician",
+  "title": "Esthetician",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:58:10.392Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Esthetician Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a standout esthetician resume with proven skills, certifications, and client results. Get actionable examples and ATS keywords.",
+  "h1": "Esthetician Resume: How to Highlight Your Skincare Expertise",
+  "intro": "Your esthetician resume needs to showcase both technical skincare knowledge and your ability to build loyal client relationships. We'll walk you through the skills, certifications, and accomplishments that make hiring managers notice—whether you're applying to a spa, dermatology clinic, or luxury salon.",
+  "audience": "Recent esthetician school graduates, licensed professionals switching between salons and spas, and career switchers entering the skincare industry.",
+  "topSkills": [
+    {
+      "name": "Facial treatments & extractions",
+      "why": "Demonstrates hands-on technical competency in your core service offering; employers verify you can execute safe, effective treatments."
+    },
+    {
+      "name": "Chemical peels & advanced facials",
+      "why": "Signals specialization in higher-ticket services that drive revenue and client retention at upscale venues."
+    },
+    {
+      "name": "Client consultation & skin analysis",
+      "why": "Shows you understand how to assess skin types, recommend products, and customize treatments—critical for client safety and satisfaction."
+    },
+    {
+      "name": "Product knowledge & recommendations",
+      "why": "Spas and salons rely on estheticians to drive retail sales and educate clients on at-home skincare regimens."
+    },
+    {
+      "name": "Sanitization & infection control",
+      "why": "Non-negotiable safety competency that hiring managers verify early; missing this raises red flags about professionalism."
+    },
+    {
+      "name": "Microdermabrasion & exfoliation",
+      "why": "Specialized technical skill that increases your market value and sets you apart from basic skincare providers."
+    },
+    {
+      "name": "Client retention & upselling",
+      "why": "Spas track client lifetime value; proving you can build repeat business and increase average transaction size is a major hiring signal."
+    },
+    {
+      "name": "Waxing & hair removal services",
+      "why": "Broadens your service menu and makes you more valuable on the floor; shows versatility and ability to handle multiple revenue streams."
+    },
+    {
+      "name": "Licensed esthetician certification",
+      "why": "Legal requirement in most states; hiring managers filter resumes by this first—missing it disqualifies you immediately."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed facials and skincare treatments for clients.",
+      "strong": "Delivered 20–30 customized facial treatments monthly, achieving 85% client retention rate through personalized skin analysis and professional product recommendations.",
+      "lesson": "Quantify your client volume and retention—spas care about repeat business, not just transactions. Mention the customization process to show expertise."
+    },
+    {
+      "weak": "Maintained a clean and safe work environment.",
+      "strong": "Maintained 100% compliance with state sanitization and infection control standards; mentored 3 junior estheticians on proper disinfection protocols.",
+      "lesson": "Go beyond compliance—show you actively uphold safety as a leader. Mentoring or training responsibility adds weight and shows career growth."
+    },
+    {
+      "weak": "Helped clients with skincare advice and sold products.",
+      "strong": "Increased retail product sales by 40% through targeted at-home skincare consultations; grew average client spend from $65 to $95 per visit.",
+      "lesson": "Quantify revenue impact and show how you translated skincare knowledge into higher ticket values. Spas live on this metric."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certification without renewal or continuing education dates",
+      "fix": "Always include your license number, state, and renewal date. Many employers verify this electronically, and an expired or inactive license is an instant disqualifier."
+    },
+    {
+      "mistake": "Treating all treatments equally instead of highlighting specializations",
+      "fix": "If you're skilled in advanced services (chemical peels, microneedling, LED therapy), front-load those. Luxury spas filter for these specialties and pay more for them."
+    },
+    {
+      "mistake": "Omitting client-facing skills and only listing services performed",
+      "fix": "Add soft skills like consultation, communication, and product education. Spas hire for personality and client experience, not just technical ability."
+    },
+    {
+      "mistake": "Ignoring retail or upsell performance",
+      "fix": "If you sold products or packages, quantify it. Spas' profit margins depend heavily on retail; showing you drive sales makes you more hireable."
+    },
+    {
+      "mistake": "Not mentioning experience with specific modalities or equipment",
+      "fix": "List tools and technologies you're trained on (e.g., microdermabrasion machines, LED light therapy, hydra facial systems). Equipment familiarity saves training time and appeals to high-end venues."
+    }
+  ],
+  "structureTips": [
+    "Lead with your licensing and certifications at the top—include license number, state, and renewal date. Employers verify this first, so make it easy.",
+    "Group experience by specialization (e.g., 'Advanced Facial Treatments' and 'Retail & Client Relations') rather than chronological job descriptions. This highlights depth in revenue-driving skills.",
+    "Put client retention metrics and revenue impact directly under each job. Spas track KPIs obsessively—this language resonates immediately.",
+    "Add a 'Specialized Skills' or 'Certifications' section listing equipment, modalities, and any advanced training (e.g., chemical peel certification, microneedling). This helps you pass ATS filters for luxury venues."
+  ],
+  "atsKeywords": [
+    "licensed esthetician",
+    "facial treatments",
+    "chemical peels",
+    "skincare consultation",
+    "client retention",
+    "product recommendations",
+    "infection control",
+    "microdermabrasion",
+    "esthetic license",
+    "waxing services"
+  ],
+  "salarySignal": "Entry-level US esthetician salaries typically range from $24,000–$32,000 annually; experienced estheticians with strong client books and specializations earn $35,000–$55,000+, with tips and commission significantly boosting total compensation.",
+  "faq": [
+    {
+      "q": "Should I include my esthetician license number on my resume?",
+      "a": "Yes. Include your license number, state, and renewal date prominently near your name or in a certifications section. Most employers verify this electronically, and having it visible shows professionalism and transparency."
+    },
+    {
+      "q": "How do I show I'm good at building client relationships on a resume?",
+      "a": "Quantify retention metrics (e.g., '80% of clients returned within 30 days for follow-up treatments') and mention specific practices like personalized consultation notes or loyalty program results. Spas care deeply about client lifetime value."
+    },
+    {
+      "q": "What certifications beyond my esthetician license should I highlight?",
+      "a": "Add any advanced training in high-demand services: chemical peel certification, microneedling, LED light therapy, hydra facial, or makeup artistry. These command premium pricing and make you more valuable at upscale spas."
+    },
+    {
+      "q": "Should I list every skincare treatment I can do, or just the main ones?",
+      "a": "Focus on the 5–7 services that align with the job posting and drive revenue (facials, chemical peels, waxing, extractions). Use a 'Specialized Skills' section for less common offerings so you don't clutter your work descriptions."
+    },
+    {
+      "q": "How important is it to mention retail sales on an esthetician resume?",
+      "a": "Very important. Spas make 30–40% of revenue from retail; if you drove product sales or upsells, quantify it (e.g., 'increased retail revenue 35% through client skincare education'). This makes you stand out to hiring managers."
+    }
+  ]
+}

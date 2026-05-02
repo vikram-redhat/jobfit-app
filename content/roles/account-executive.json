@@ -1,0 +1,130 @@
+{
+  "slug": "account-executive",
+  "title": "Account Executive",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:26.896Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Account Executive Resume: Write a Winning AE Resume in 2025",
+  "metaDescription": "Learn how to write an Account Executive resume that lands interviews. See examples, key skills, and ATS keywords hiring managers search for.",
+  "h1": "Account Executive Resume: Templates, Tips & Examples",
+  "intro": "Landing an Account Executive role means proving you can close deals and build revenue. Your resume needs to show concrete sales wins, relationship-building skills, and the ability to hit quota—not just list job duties. We'll show you how to write an AE resume that catches both human eyes and ATS systems.",
+  "audience": "Sales professionals moving into their first AE role, career switchers from other sales positions, and experienced AEs targeting new companies or higher-quota territories.",
+  "topSkills": [
+    {
+      "name": "Enterprise Sales / B2B Sales",
+      "why": "Most AE roles require closing complex, multi-stakeholder deals; hiring managers want proof you can navigate enterprise buying cycles."
+    },
+    {
+      "name": "Sales Pipeline Management",
+      "why": "AEs live and die by their pipeline; employers need evidence you can prospect, qualify, and move deals through stages consistently."
+    },
+    {
+      "name": "Quota Achievement / Revenue Generation",
+      "why": "This is the core metric for any AE role; landing managers always check whether you've hit or exceeded your targets."
+    },
+    {
+      "name": "CRM Proficiency (Salesforce, HubSpot, Pipedrive)",
+      "why": "Every modern sales org uses a CRM; listing your specific platform fluency signals you can ramp quickly without training."
+    },
+    {
+      "name": "Negotiation & Deal Closure",
+      "why": "Closing is the job; recruiters want to see you can navigate objections, justify pricing, and seal the contract."
+    },
+    {
+      "name": "Relationship Building / Account Management",
+      "why": "Long-term customer retention and expansion revenue depend on strong client relationships; AEs must show this skill."
+    },
+    {
+      "name": "Territory Expansion",
+      "why": "New business development and account expansion drive growth; proving you can grow a territory from scratch matters."
+    },
+    {
+      "name": "Consultative Selling",
+      "why": "Modern AE roles require understanding customer pain points, not just pitch delivery; buyers want consultants, not transactional reps."
+    },
+    {
+      "name": "Forecasting & Reporting",
+      "why": "Senior leadership needs accurate pipeline forecasts; AEs who communicate data clearly earn trust faster."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for managing a large sales territory and closing deals with enterprise clients.",
+      "strong": "Grew territory revenue from $800K to $2.1M in 18 months by building a pipeline of 40+ qualified prospects and closing 12 enterprise contracts with average deal size of $95K.",
+      "lesson": "Weak version is passive and unmeasurable; strong version leads with a specific revenue outcome, names the methods (pipeline building), and quantifies deal count and deal size."
+    },
+    {
+      "weak": "Used Salesforce to track sales activity and manage customer relationships.",
+      "strong": "Maintained 85%+ forecast accuracy in Salesforce by conducting daily pipeline reviews, resulting in zero missed quarterly targets across 3 years.",
+      "lesson": "Weak version shows tool use; strong version proves mastery through a concrete accuracy metric and a business outcome (no missed targets)."
+    },
+    {
+      "weak": "Worked with customers to understand their needs and close sales.",
+      "strong": "Conducted discovery calls with 60+ prospects annually using consultative selling methodology; converted 35% of qualified prospects to signed contracts and achieved 110% of annual quota.",
+      "lesson": "Weak version is generic; strong version adds prospect volume, conversion rate, and quota achievement—all numbers a hiring manager cares about."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing activities instead of outcomes.",
+      "fix": "Replace 'Made sales calls and attended trade shows' with 'Generated 25 qualified leads from trade show outreach; converted 8 into closed deals worth $500K.'"
+    },
+    {
+      "mistake": "Burying or omitting quota/revenue numbers.",
+      "fix": "Lead your AE bullets with revenue targets and achievements; this is the first thing a hiring manager scans for. Example: 'Exceeded annual quota by 22% ($1.4M actual vs. $1.15M target).'"
+    },
+    {
+      "mistake": "Not showing progression in deal size or territory scope.",
+      "fix": "Include evidence of growth: 'Started with assigned territory of $2M potential; expanded to $5M through new account development; closed 15 new enterprise clients in Year 2.'"
+    },
+    {
+      "mistake": "Omitting specific CRM or sales tools.",
+      "fix": "Name the exact platforms you've used (Salesforce, HubSpot, Pipedrive, etc.); ATS systems and hiring managers filter by tool proficiency."
+    },
+    {
+      "mistake": "Ignoring account expansion and retention metrics.",
+      "fix": "If you grew existing accounts, say so: 'Increased customer account size by 40% average through upsell and cross-sell campaigns; maintained 92% renewal rate.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a short, results-focused professional summary that states your quota achievement rate and average deal size (e.g., 'Enterprise Account Executive with consistent 110%+ quota achievement and $500K+ average deal size.').",
+    "Put your sales metrics and quota achievement in the Experience section first, before relationship-building or process skills; hiring managers scan top to bottom and want proof of revenue impact immediately.",
+    "Create a 'Key Sales Metrics' or 'Performance Highlights' section near the top if you're a high performer; use a table or bullet format to show quota %, deals closed, revenue, and territory growth year-over-year.",
+    "If you're switching from a non-sales role, add a brief line under your summary acknowledging the transition and tying your background to AE success (e.g., 'Transitioning to enterprise sales with 5 years in client success; deep product knowledge and strong relationship networks.')."
+  ],
+  "atsKeywords": [
+    "Account Executive",
+    "Enterprise Sales",
+    "Quota Achievement",
+    "Sales Pipeline Management",
+    "Revenue Generation",
+    "Salesforce",
+    "Closing / Deal Closure",
+    "Territory Expansion",
+    "Consultative Selling",
+    "Customer Acquisition"
+  ],
+  "salarySignal": "Entry-level Account Executive salaries in the US typically range from $45K–$60K base plus commission; experienced AEs earning $80K–$150K+ base plus uncapped commission are common in mid-market and enterprise roles.",
+  "faq": [
+    {
+      "q": "What's the difference between an Account Executive and Sales Representative resume?",
+      "a": "AEs typically own larger, more complex deals and have higher quota targets; emphasize enterprise sales experience, deal size, and territory management. Sales Reps often focus on transactional or smaller deals; you'd emphasize volume and faster close cycles. If you're moving from Sales Rep to AE, highlight your highest-value deals and any territory expansion work."
+    },
+    {
+      "q": "Should I include my sales methodology training (like Sandler, Challenger Sale, etc.)?",
+      "a": "Yes, especially if the job description or company is known to use that methodology. Add it to a 'Professional Development' or 'Certifications' section. For example: 'Sandler Sales Methodology Certified' or 'Challenger Sale Workshop (Gartner)' signals that you're trained in modern selling and can adapt quickly."
+    },
+    {
+      "q": "How do I show my quota achievement if I missed targets in some years?",
+      "a": "Focus on your best years and highlight the context or learning. Instead of hiding a miss, try: 'Achieved 85% quota in Year 1 while ramping new territory; exceeded quota by 15% in Year 2 after implementing ABC strategy.' This shows resilience and improvement."
+    },
+    {
+      "q": "What if I've worked in multiple industries (SaaS, healthcare, manufacturing, etc.)?",
+      "a": "List your industry experience and note if you've successfully transferred skills across verticals. Hiring managers often worry about ramp time; showing you've sold in 2+ industries proves your methods are transferable and you can onboard faster in a new sector."
+    },
+    {
+      "q": "Should I include customer testimonials or case studies on my resume?",
+      "a": "No—keep your resume to one page or two max. Instead, use quantifiable outcomes ('grew customer revenue impact by 40%') and be ready to share detailed case studies in interviews. You can reference a portfolio or case study document in your cover letter or LinkedIn."
+    }
+  ]
+}

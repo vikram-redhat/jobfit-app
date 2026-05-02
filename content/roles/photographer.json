@@ -1,0 +1,134 @@
+{
+  "slug": "photographer",
+  "title": "Photographer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:49:15.965Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Photographer Resume: Examples & Tips for 2026",
+  "metaDescription": "Write a photographer resume that lands interviews. See sample bullets, key skills, and ATS keywords hiring managers actually search for.",
+  "h1": "Photographer Resume: How to Showcase Your Portfolio and Land Shoots",
+  "intro": "Your photography resume needs to do more than list gear and studios—it needs to prove you can deliver compelling images on deadline, manage clients, and handle the business side of the work. We'll show you how to translate your portfolio into resume bullets that get you noticed by agencies, brands, and studios.",
+  "audience": "Emerging photographers building their first professional resume, freelancers transitioning to in-house roles, and career-switchers from related visual fields.",
+  "topSkills": [
+    {
+      "name": "Photo editing & post-processing",
+      "why": "Hiring managers expect you to master Lightroom, Capture One, or Adobe Suite—raw technical skill separates pros from hobbyists."
+    },
+    {
+      "name": "Client management & communication",
+      "why": "Most shoots depend on clear briefs, vision alignment, and delivery timelines; studios value photographers who can read a client and deliver on expectations."
+    },
+    {
+      "name": "Lighting & composition",
+      "why": "Studio, portrait, and commercial work all hinge on understanding light direction, contrast, and framing—core technical competency."
+    },
+    {
+      "name": "Portfolio curation & storytelling",
+      "why": "Hiring managers want to see your best work grouped by genre or industry; showing narrative arc proves you understand your own style."
+    },
+    {
+      "name": "Camera operation & technical settings",
+      "why": "Exposure, ISO, shutter speed, and lens selection must be second nature; interviewers often ask about technical decisions on past shoots."
+    },
+    {
+      "name": "Event photography",
+      "why": "Weddings, conferences, and corporate events demand real-time problem-solving and ability to capture unpredictable moments."
+    },
+    {
+      "name": "Retouching & color grading",
+      "why": "Skin tone correction, background cleanup, and color consistency are expected in commercial and fashion work."
+    },
+    {
+      "name": "Production coordination",
+      "why": "Larger shoots require location scouting, equipment prep, model/talent coordination, and shot lists—logistical skills set you apart."
+    },
+    {
+      "name": "Social media & digital marketing",
+      "why": "Freelancers especially need to prove they can market their own work on Instagram, TikTok, or personal websites to stay booked."
+    },
+    {
+      "name": "Equipment maintenance & troubleshooting",
+      "why": "Knowing how to fix a failing flash or manage backup gear on set shows professionalism and reduces studio downtime."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Photographed various events for clients and edited photos in Lightroom.",
+      "strong": "Captured 2,000+ images across 12 weddings and corporate events; delivered edited galleries within 7–10 days, resulting in 94% client referral rate and $18K in repeat bookings.",
+      "lesson": "Numbers prove reliability, scope, and business impact—clients remember photographers who deliver on time and get hired again."
+    },
+    {
+      "weak": "Managed social media accounts and posted photos regularly.",
+      "strong": "Built Instagram presence from 0 to 3.2K engaged followers in 8 months through weekly posts and Reels; increased direct booking inquiries by 60% via content marketing.",
+      "lesson": "Growth metrics and direct business outcomes matter more than activity; show how your visual content drove actual leads."
+    },
+    {
+      "weak": "Worked with models and art directors to create images for campaigns.",
+      "strong": "Collaborated with 3 art directors and 15+ professional models on 5 product and fashion shoots; delivered 180 final images across e-commerce and social campaigns that generated 40K+ impressions.",
+      "lesson": "Naming stakeholders, shoot complexity, and downstream reach (impressions, conversions) prove you work in a team and understand your images' business purpose."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing equipment instead of outcomes.",
+      "fix": "Skip 'Proficient in Canon 5D Mark IV, Nikon Z6' and instead show what you shot with that gear and the result (e.g., 'Captured environmental portraits on-location using Canon 5D and prime lenses; images licensed to 3 publications')."
+    },
+    {
+      "mistake": "Vague descriptions like 'passionate about photography.'",
+      "fix": "Replace passion talk with specifics: cite genres (product, editorial, portrait), project count, turnaround times, or client feedback (e.g., 'Shot 40+ product images per month for e-commerce; achieved 99% first-pass approval rate')."
+    },
+    {
+      "mistake": "Forgetting to mention post-production work.",
+      "fix": "Always note editing, retouching, and color grading as part of your workflow; studios care that you deliver finished, polished files—not just raw captures."
+    },
+    {
+      "mistake": "No portfolio link or website URL.",
+      "fix": "Always include a clickable link to your portfolio (website, Squarespace, Adobe Portfolio, or Behance) at the top—most photography jobs are decided by looking at images, not reading bullets."
+    },
+    {
+      "mistake": "Omitting freelance/self-employment context.",
+      "fix": "For freelancers, clearly state 'Self-employed Photographer' as your title and lead with business metrics (client count, annual revenue, average project value, repeat rate) to show you've run a professional operation."
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio URL or QR code at the very top of your resume—hiring managers expect to click through before or while reading bullets.",
+    "Group your experience by project type or industry (e.g., 'Wedding Photography,' 'Product & E-Commerce,' 'Editorial & Lifestyle') rather than just chronologically; this helps portfolio reviewers find relevant work fast.",
+    "Put your technical skills (camera systems, editing software, lighting setups) in a dedicated Skills section below Experience, not buried in bullets—ATS systems scan for exact tool names here.",
+    "For freelancers, create a 'Notable Clients' or 'Publications' line item to prove credibility; even 3–5 recognizable brand names carry more weight than vague 'client work' language."
+  ],
+  "atsKeywords": [
+    "Lightroom post-processing",
+    "event photography",
+    "portrait photography",
+    "product photography",
+    "photo editing",
+    "Adobe Creative Suite",
+    "client management",
+    "Capture One",
+    "color grading",
+    "studio photography"
+  ],
+  "salarySignal": "Entry-level US photographer salaries typically range from $28K–$40K annually for in-house studio or agency roles; freelance rates vary widely ($50–$500+ per shoot) depending on genre, experience, and market.",
+  "faq": [
+    {
+      "q": "Should I include a physical portfolio or just link to my website?",
+      "a": "Always include a clickable URL or QR code on your resume—that's your primary selling tool. If invited to interview, bring printed samples or a tablet portfolio as backup, but assume hiring managers will visit your site first."
+    },
+    {
+      "q": "How do I show freelance income on my resume?",
+      "a": "List your title as 'Self-Employed Photographer' or 'Freelance Photographer' with dates, and quantify impact: number of clients, average project value, annual bookings, or revenue. Example: 'Managed portfolio of 20+ repeat clients; averaged $4K in monthly bookings.'"
+    },
+    {
+      "q": "What if I don't have a huge portfolio yet?",
+      "a": "Emphasize the projects you do have by genre, client type, and outcomes (e.g., 'Captured 8 editorial shoots for independent magazines; published in 3 titles'). Pair that with evidence of growth: social following, client testimonials, or upcoming campaigns."
+    },
+    {
+      "q": "Do I need to mention specific camera models on my resume?",
+      "a": "Only if the job posting mentions them or if you specialize in a system (e.g., 'Canon shooter' vs. 'Nikon shooter'). Instead, list software (Lightroom, Capture One) and genres (portrait, product, event) which matter more to most studios."
+    },
+    {
+      "q": "How do I quantify 'quality' in photography work?",
+      "a": "Use metrics like client approval rate, repeat bookings, publication features, social engagement, or testimonials. Example: '94% of wedding clients booked for second events' or 'Portfolio images featured in 5 online publications.'"
+    }
+  ]
+}

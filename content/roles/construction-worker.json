@@ -1,0 +1,126 @@
+{
+  "slug": "construction-worker",
+  "title": "Construction Worker",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:00:40.440Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Construction Worker Resume: Skills, Examples & Tips",
+  "metaDescription": "Land your next construction job with a resume that highlights safety certifications, trade skills, and proven project experience. See real examples here.",
+  "h1": "Construction Worker Resume: How to Stand Out on Job Sites",
+  "intro": "A strong construction resume isn't about fancy formatting—it's about proving you can do the work safely and on time. We'll show you how to highlight your certifications, equipment skills, and on-site accomplishments in a way that gets you hired.",
+  "audience": "Trade-focused job seekers transitioning into construction, recent high school grads entering the trades, and experienced construction workers looking to move up or switch companies.",
+  "topSkills": [
+    {
+      "name": "OSHA Certification / Safety Compliance",
+      "why": "Contractors are legally liable for workplace safety; OSHA 10 or 30 certification signals you know the rules and take them seriously."
+    },
+    {
+      "name": "Equipment Operation (Excavator, Forklift, Crane)",
+      "why": "Operating heavy equipment efficiently moves projects forward and shows you're trusted with expensive machinery."
+    },
+    {
+      "name": "Concrete & Masonry",
+      "why": "Fundamental to most construction projects; employers want to know if you can mix, pour, finish, or lay brick properly."
+    },
+    {
+      "name": "Framing & Carpentry",
+      "why": "One of the most common construction skills; demonstrating accuracy and knowledge of building codes matters."
+    },
+    {
+      "name": "Blueprint Reading & Site Layout",
+      "why": "Shows you can interpret plans and work without constant direction, speeding up job execution."
+    },
+    {
+      "name": "Roofing & Weatherproofing",
+      "why": "Specialized skill that commands higher pay and shows you can work at heights safely."
+    },
+    {
+      "name": "Team Coordination & Communication",
+      "why": "Construction is team-based; managers need people who can follow instructions, report hazards, and collaborate."
+    },
+    {
+      "name": "Tool Proficiency (Hand & Power Tools)",
+      "why": "Basic expectation; naming specific tools shows you're job-ready and don't need hand-holding."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped build commercial projects and worked with a crew on various tasks.",
+      "strong": "Framed and finished interior walls on three commercial office builds (50,000+ sq ft total), maintaining 99% tolerance to blueprints and completing sections 5–10 days ahead of schedule.",
+      "lesson": "Add the project type, scope, and a metric (square footage, timeline beat, or precision standard) to show measurable impact."
+    },
+    {
+      "weak": "Operated heavy equipment on job sites.",
+      "strong": "Operated CAT 320 excavator for site prep and foundation work on $2.1M residential complex; zero safety incidents across 200+ hours of operation.",
+      "lesson": "Name the specific equipment, the project value or scope, and a safety metric—employers care about both productivity and no incidents."
+    },
+    {
+      "weak": "Held OSHA 10 certification and followed safety rules.",
+      "strong": "OSHA 10 certified; led daily toolbox talks on hazard identification for 12-person crew; zero lost-time incidents in 18 months on site.",
+      "lesson": "Show you didn't just pass a test—you actively apply safety knowledge and help others, which builds trust with foremen."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certifications without expiry dates or renewal status",
+      "fix": "Include the issue date and expiry date for OSHA, CDL, equipment certifications, and first aid. Expired certs are worse than no certs."
+    },
+    {
+      "mistake": "Being vague about project types and company names",
+      "fix": "Name the general contractor, project type (commercial, residential, heavy civil), and your specific role—this helps ATS match you to similar future jobs."
+    },
+    {
+      "mistake": "Focusing only on tasks instead of outcomes",
+      "fix": "Add a time or quality metric: 'completed X ahead of schedule,' 'zero rework needed,' 'finished within budget,' or 'trained Y new crew members.'"
+    },
+    {
+      "mistake": "Omitting safety record or incident history",
+      "fix": "If you have a clean safety record, say so: 'zero lost-time incidents in 3+ years' or 'OSHA recordable incident-free.' A blank safety record looks unprofessional."
+    },
+    {
+      "mistake": "Not listing equipment certifications separately",
+      "fix": "Create a short 'Certifications & Licenses' section at the top; foremen scan resumes fast and need to spot CDL, OSHA, and equipment tickets immediately."
+    }
+  ],
+  "structureTips": [
+    "Put 'Certifications & Licenses' section at the very top, right after your contact info. Foremen want to see OSHA, equipment tickets, and CDL before reading anything else.",
+    "Group work experience by trade skill (Framing, Concrete, Roofing) if you've done multiple trades—this helps ATS keyword-match and shows versatility.",
+    "List the name of the general contractor or construction company, the project type, and the timeline for each role. Omitting the company name makes ATS and hiring managers suspicious.",
+    "Use a 'Skills' section to list tools, equipment, and methods separately if you have room. Example: 'Concrete finishing, CAT excavator, pneumatic tools, blueprint reading, site layout.'"
+  ],
+  "atsKeywords": [
+    "OSHA 10 certified",
+    "heavy equipment operation",
+    "concrete finishing",
+    "framing and carpentry",
+    "blueprint reading",
+    "general laborer",
+    "commercial construction",
+    "roofing and weatherproofing",
+    "safety compliance",
+    "crew coordination"
+  ],
+  "salarySignal": "Entry-level US construction worker wages typically range from $28,000–$35,000 annually; experienced workers and those with specialized certifications (roofing, crane operation) can earn $45,000–$65,000+ depending on region and union affiliation.",
+  "faq": [
+    {
+      "q": "Do I need OSHA certification to get hired as a construction worker?",
+      "a": "OSHA 10 is not always mandatory, but it's a huge advantage—many contractors require it, and it signals you take safety seriously. If you don't have it, add 'OSHA 10 in progress' to your resume and get certified immediately; it takes 1–2 days."
+    },
+    {
+      "q": "How do I list equipment I can operate if I'm entry-level?",
+      "a": "Be honest: list only equipment you've actually operated on a job site or in a certified training program. Employers will test you, and lying will get you fired. If you haven't operated something yet, say 'eager to train on [equipment]' in a cover letter."
+    },
+    {
+      "q": "Should I put general labor experience on a construction resume?",
+      "a": "Yes, absolutely—but frame it by the type of work (site cleanup, material handling, demolition prep). Employers see general labor as entry-level but legitimate; the trick is to describe what you *did*, not just that you showed up."
+    },
+    {
+      "q": "What if I don't have formal certifications yet?",
+      "a": "List what you *do* have: trade certifications from high school, first aid/CPR, or apprenticeship hours completed. Then add 'Pursuing [certification]' if applicable. Most entry-level positions will hire on the basis of willingness and no incidents."
+    },
+    {
+      "q": "How far back should I list construction experience on my resume?",
+      "a": "Aim for 10 years or your last 5–6 jobs, whichever is shorter. If you've been in construction less than 5 years, list everything. Older experience can be grouped into a summary line if space is tight."
+    }
+  ]
+}

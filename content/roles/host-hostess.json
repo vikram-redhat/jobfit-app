@@ -1,0 +1,130 @@
+{
+  "slug": "host-hostess",
+  "title": "Host / Hostess",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:53:09.562Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Host/Hostess Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a standout host/hostess resume with actionable tips, real bullet examples, and ATS keywords. Land your next hospitality role.",
+  "h1": "Host/Hostess Resume Guide: What Hiring Managers Actually Want",
+  "intro": "Your host/hostess resume is your first impression—and in hospitality, first impressions matter. Whether you're breaking into the industry or moving up to a busier restaurant, we'll show you how to highlight the customer-facing and organizational skills that get you hired.",
+  "audience": "Entry-level job seekers, career switchers from retail or admin roles, and experienced hosts/hostesses looking to move to higher-volume establishments.",
+  "topSkills": [
+    {
+      "name": "Guest Relations & Communication",
+      "why": "Hosts are the face of the restaurant; managers need proof you can greet guests warmly, handle complaints gracefully, and represent the brand."
+    },
+    {
+      "name": "Point of Sale (POS) Systems",
+      "why": "Most modern restaurants use software like Toast, OpenTable, or Square; familiarity with reservation and seating software is table stakes."
+    },
+    {
+      "name": "Reservation Management",
+      "why": "Knowing how to manage waitlists, honor hold times, and balance walk-ins shows operational awareness that keeps the restaurant running smoothly."
+    },
+    {
+      "name": "Multitasking Under Pressure",
+      "why": "Friday nights are chaos; managers want evidence you stay calm, prioritize, and don't get flustered when the door is slammed."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Seating guests correctly, capturing accurate reservation info, and maintaining the host stand reflects professionalism and reduces server friction."
+    },
+    {
+      "name": "Phone Etiquette & Booking",
+      "why": "Hosts handle reservations and inquiries over the phone; clear, courteous communication directly impacts customer retention and covers."
+    },
+    {
+      "name": "Restaurant Procedures & Service Standards",
+      "why": "Knowledge of menu, allergen protocols, and house policies shows you're ready to answer guest questions and uphold the restaurant's reputation."
+    },
+    {
+      "name": "Team Collaboration",
+      "why": "Hosts work closely with servers, bussers, and kitchen staff; managers want to see you're a team player who makes everyone's job easier."
+    },
+    {
+      "name": "Cash Handling & Money Management",
+      "why": "Many hosts collect or verify payments; accuracy and honesty with cash builds trust and prevents costly errors."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Greeted guests and seated them at tables.",
+      "strong": "Greeted 150–200+ guests nightly with genuine warmth, managed waitlist of 20–30 parties during peak hours, and maintained average table turn time of 90 minutes to maximize covers.",
+      "lesson": "Specificity and metrics (numbers of guests, table management, efficiency) prove impact and scale; action verbs like 'managed' and 'maintained' show ownership."
+    },
+    {
+      "weak": "Used the restaurant's POS system and took reservations.",
+      "strong": "Mastered Toast POS system for seating, reservation logging, and payment entry; resolved 95%+ of guest booking issues on-site without manager escalation.",
+      "lesson": "Naming the specific software and quantifying accuracy/resolution rate demonstrates technical competence and problem-solving, not just task completion."
+    },
+    {
+      "weak": "Worked with the team to make guests happy.",
+      "strong": "Coordinated seamlessly with servers and bussers during 150-cover Friday services, flagged dietary restrictions and special requests to kitchen, and received 4.8-star guest feedback on communication.",
+      "lesson": "Specific collaboration examples and measurable feedback (ratings, volume handled) show concrete value to the team, not vague 'teamwork.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'greeting guests' as a bullet point.",
+      "fix": "Combine greeting with impact: how many guests, how you managed the flow, what you did to improve their experience or the restaurant's efficiency."
+    },
+    {
+      "mistake": "No mention of POS systems or reservation software.",
+      "fix": "Name the specific platforms you've used (OpenTable, Toast, Yelp Reservations, etc.) and highlight any advanced features or troubleshooting you handled."
+    },
+    {
+      "mistake": "Ignoring the operational side of the role.",
+      "fix": "Show you understand restaurant rhythms: table turnover, capacity management, wait time communication, and how you support the back-of-house."
+    },
+    {
+      "mistake": "Using passive language like 'responsible for' or 'involved in.'",
+      "fix": "Lead with action verbs: 'managed,' 'coordinated,' 'optimized,' 'resolved,' 'maintained'—language that shows agency and ownership."
+    },
+    {
+      "mistake": "No acknowledgment of multi-venue or upscale experience.",
+      "fix": "If you've worked fine dining, high-volume chains, or events, highlight the added complexity (wine knowledge, dress code, timing precision, reservation depth) to show you can scale."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or objective that speaks directly to hospitality and the type of establishment (e.g., 'Welcoming Host with 3 years of fast-casual and fine-dining experience; expert at managing 100+ reservations weekly and delivering 5-star first impressions').",
+    "Place POS and software skills prominently in a dedicated 'Technical Skills' or 'Key Skills' section near the top—don't bury them in bullet points.",
+    "Use reverse chronological order for job history, but for each role, lead with one or two metrics-driven bullets about guest volume, efficiency, or satisfaction before moving to team/procedural wins.",
+    "Include a brief 'Hospitality Certifications' section if you have Food Handler, ServSafe, or customer service training—even small credentials signal professionalism."
+  ],
+  "atsKeywords": [
+    "Host/Hostess",
+    "Reservation Management",
+    "POS Systems",
+    "Guest Relations",
+    "Customer Service",
+    "Restaurant Operations",
+    "Table Management",
+    "Waitlist Management",
+    "Phone Etiquette",
+    "OpenTable"
+  ],
+  "salarySignal": "Entry-level US host/hostess salaries typically range from $24,000 to $32,000 annually, plus tips and bonuses; hourly rates average $13–$16 before gratuity, with higher-volume and upscale venues paying more.",
+  "faq": [
+    {
+      "q": "Should I include cash handling on a host/hostess resume?",
+      "a": "Yes, if you've done it. Many hosts verify guest payments or handle petty cash. Mention it briefly as evidence of trustworthiness and accuracy—e.g., 'Verified and processed payments for 50–75 covers nightly with 100% accuracy.'"
+    },
+    {
+      "q": "How do I show I can handle a high-volume restaurant?",
+      "a": "Use specific numbers: covers served, guests seated per hour, peak-shift volume, and waitlist size. Include metrics on efficiency (table turn time, average wait managed) to show you thrive under pressure, not just survive it."
+    },
+    {
+      "q": "What if I've never used a fancy POS system?",
+      "a": "Name the systems you *have* used, even simple ones like Square or Yelp Reservations, and highlight your ability to learn quickly. If you're applying to a place with a specific POS, mention in your cover letter that you're eager to master it."
+    },
+    {
+      "q": "Should I mention dealing with difficult guests on my resume?",
+      "a": "Not in a complaint way. Instead, frame it as conflict resolution or problem-solving: 'Resolved guest complaints and seating delays with calm, solution-focused communication, maintaining 90%+ satisfaction scores.'"
+    },
+    {
+      "q": "How important is fine-dining or event experience?",
+      "a": "It's a plus, especially if you're moving to upscale venues—mention it. Fine dining requires knowledge of dress codes, wine basics, and precision timing, which separates you from casual-only hosts and shows you can handle complexity."
+    }
+  ]
+}

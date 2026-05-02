@@ -1,0 +1,130 @@
+{
+  "slug": "social-media-manager",
+  "title": "Social Media Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:40:54.285Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Social Media Manager Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your social media manager job with a resume that highlights metrics, platform expertise, and campaign wins. See real examples and common mistakes to avoid.",
+  "h1": "Social Media Manager Resume: How to Stand Out to Hiring Managers",
+  "intro": "Social media hiring managers care less about generic 'managed social accounts' and way more about the numbers you drove—engagement rates, follower growth, revenue attributed to campaigns. This guide shows you how to write bullets that prove you can actually move the needle on platforms that matter to the business.",
+  "audience": "Recent grads breaking into social media, career switchers from marketing or communications, and mid-level creators looking to land a paid role managing accounts for brands.",
+  "topSkills": [
+    {
+      "name": "Social media strategy & planning",
+      "why": "Hiring managers want to see you can build a plan before posting—not just react daily to what's trending."
+    },
+    {
+      "name": "Content creation & copywriting",
+      "why": "You need to show you can write scroll-stopping captions and create content that fits each platform's unique voice."
+    },
+    {
+      "name": "Analytics & reporting (Meta Insights, TikTok Analytics, etc.)",
+      "why": "Brands measure success by data; if you can't read and act on platform insights, you're a liability."
+    },
+    {
+      "name": "Community management & customer engagement",
+      "why": "Your job includes responding to comments, DMs, and feedback—faster and better than your competition."
+    },
+    {
+      "name": "Paid social advertising (Meta Ads, TikTok Ads, LinkedIn Ads)",
+      "why": "Most companies allocate budget to social ads; if you can manage campaigns profitably, you're instantly more valuable."
+    },
+    {
+      "name": "Brand voice & tone consistency",
+      "why": "Companies need someone who can keep their brand sounding like *themselves* across multiple platforms and posts."
+    },
+    {
+      "name": "Trend awareness & real-time marketing",
+      "why": "Platforms change monthly; you need to show you stay sharp and can capitalize on trending sounds, hashtags, and formats."
+    },
+    {
+      "name": "Cross-platform management tools (Buffer, Hootsuite, Later, etc.)",
+      "why": "Efficiency matters; if you can schedule, batch-create, and analyze across platforms faster, you save the company time and money."
+    },
+    {
+      "name": "Collaboration & stakeholder communication",
+      "why": "You'll work with design, product, PR, and sales teams; show you can brief them, incorporate feedback, and hit deadlines."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed Instagram and TikTok accounts for a fashion brand. Posted regularly and engaged with followers.",
+      "strong": "Grew Instagram from 18K to 92K followers (412% increase) in 8 months by implementing weekly Reels strategy and optimizing posting times. Achieved 6.8% average engagement rate, 2.3x platform benchmark.",
+      "lesson": "Specifics on growth, timeline, and metrics beat vague responsibility claims; compare yourself to benchmarks so readers know if the number is impressive."
+    },
+    {
+      "weak": "Created content and used analytics to improve performance.",
+      "strong": "Analyzed audience demographic and posting data to shift content mix from static posts to video; video posts averaged 12K impressions vs. 2.8K for static, driving 40% increase in monthly reach.",
+      "lesson": "Show the thinking behind your decision, the data you used, and the measurable outcome—hiring managers want to hire problem-solvers, not task-completers."
+    },
+    {
+      "weak": "Managed paid social campaigns for various clients.",
+      "strong": "Managed $45K/month paid social budget across Meta, TikTok, and LinkedIn; optimized audience targeting and creative rotation to reduce cost-per-click by 28% while maintaining a 3.2:1 ROAS.",
+      "lesson": "Budget size, platforms used, and concrete cost/return metrics prove you can be trusted with real money—a huge value-add."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing platform names without showing what you actually did on them",
+      "fix": "Replace 'Managed Instagram, TikTok, LinkedIn, and Twitter' with specific tactics or wins on each—e.g., 'Grew TikTok audience 156% via creator collaboration partnerships' shows actual work."
+    },
+    {
+      "mistake": "Using vanity metrics (follower count) without context",
+      "fix": "Pair follower growth with engagement rate, reach, or revenue impact—'50K new followers' means nothing if engagement dropped; show your audience *quality*, not just size."
+    },
+    {
+      "mistake": "Not mentioning paid social or ad spend",
+      "fix": "Nearly every brand now spends on paid ads; if you've managed budgets or optimized campaigns, lead with it—this is a hard skill that justifies higher pay."
+    },
+    {
+      "mistake": "Skipping community management or customer service wins",
+      "fix": "Add a bullet on response time, customer satisfaction, or turning followers into customers—this is a core part of the job many candidates sleep on."
+    },
+    {
+      "mistake": "Forgetting to list tools and software",
+      "fix": "Mention 2-3 platforms you use daily (Hootsuite, Buffer, Canva, Adobe, etc.) in your skills or under relevant bullets—ATS often scans for these keywords."
+    }
+  ],
+  "structureTips": [
+    "Lead with 'Professional Summary' or 'Key Skills' highlighting your strongest platform (TikTok growth, Reels strategy, paid ads) and a headline metric—hiring managers skim fast and need to see your superpower in the first 10 seconds.",
+    "Group your experience by platform strength, not just chronology—if you crushed it on TikTok but were so-so on LinkedIn, structure bullets to emphasize TikTok wins higher on the page.",
+    "Put analytics & paid social skills above general 'content creation'—tech skills and revenue impact are gatekeepers; proving you can read data and manage budget separates you from hobby creators.",
+    "Include a 'Results' or 'Key Metrics' section if you have 3+ strong quantified wins (follower growth, engagement %, ROAS, etc.)—this trains the hiring manager's eye on what you're about to read in the bullets."
+  ],
+  "atsKeywords": [
+    "social media strategy",
+    "content creation",
+    "Meta Ads Manager",
+    "community management",
+    "engagement rate",
+    "paid social advertising",
+    "social media analytics",
+    "brand voice",
+    "Hootsuite",
+    "real-time marketing"
+  ],
+  "salarySignal": "Entry-level US social media manager salaries typically range from $32K to $42K in 2026; mid-level (2–4 years experience) averages $45K–$60K; salaries are higher in major metros and at larger companies with bigger ad budgets.",
+  "faq": [
+    {
+      "q": "How do I write about social media experience if I've never had an official job?",
+      "a": "Build a portfolio on your own accounts or volunteer for a non-profit / small brand you believe in. Use the same bullet structure: pick a platform, define your goal (grow followers, increase engagement, drive traffic), and measure the result. Even 3–6 months of real data beats zero bullets."
+    },
+    {
+      "q": "Should I include TikTok and Instagram if I only managed Twitter/X or LinkedIn?",
+      "a": "Yes—list all platforms you've touched, but weight your experience by importance to the job you're applying for. If it's a B2B fintech role, LinkedIn experience goes higher. If it's a fashion brand, lead with TikTok and Instagram. Never hide platform experience; just order it strategically."
+    },
+    {
+      "q": "How do I prove impact if my company doesn't track metrics?",
+      "a": "Ask your manager for access to platform insights or analytics reports. If they won't share, estimate conservatively based on what you observed (e.g., 'posts averaged 200+ comments') and note you operated in a low-measurement environment. Better yet, move toward companies that care about measurement."
+    },
+    {
+      "q": "Is it okay to mention follower counts if they're small?",
+      "a": "Only if you can pair it with growth rate or engagement. Saying 'grew TikTok from 2K to 18K followers in 4 months (800% growth)' is strong; just saying '18K followers' is weak. Focus on *momentum and engagement* over raw size."
+    },
+    {
+      "q": "How do I stand out if I managed social for a low-profile brand?",
+      "a": "Emphasize the *constraints* you overcame (small budget, new audience, competitive niche) and the strategies you built from scratch. Hiring managers respect resourcefulness more than working for a famous brand; show your thinking and results, not the brand name."
+    }
+  ]
+}

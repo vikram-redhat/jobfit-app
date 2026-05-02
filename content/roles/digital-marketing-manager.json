@@ -1,0 +1,134 @@
+{
+  "slug": "digital-marketing-manager",
+  "title": "Digital Marketing Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:40:53.893Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Digital Marketing Manager Resume: Skills & Examples",
+  "metaDescription": "Build a winning Digital Marketing Manager resume with proven templates, strong action verbs, and metrics-driven bullets that pass ATS systems.",
+  "h1": "Digital Marketing Manager Resume: Template, Examples & Expert Tips",
+  "intro": "A Digital Marketing Manager resume needs to prove you can drive traffic, boost conversions, and manage campaigns across multiple channels—all backed by real numbers. We'll show you exactly how to structure it, what skills to highlight, and how to rewrite weak bullets into ones that make hiring managers sit up and pay attention.",
+  "audience": "Recent marketing grads, career switchers from sales or communications, and mid-level digital marketers looking to land management roles.",
+  "topSkills": [
+    {
+      "name": "Campaign Management & Strategy",
+      "why": "Hiring managers need to see you can plan, execute, and optimize multi-channel campaigns from concept to ROI measurement."
+    },
+    {
+      "name": "Data Analytics & Reporting",
+      "why": "Digital marketing is data-driven; companies want proof you track KPIs, build dashboards, and translate data into recommendations."
+    },
+    {
+      "name": "SEO & SEM (Google Ads, PPC)",
+      "why": "Search visibility and paid search are core revenue drivers; hands-on experience with bidding, keyword strategy, and audit skills stand out."
+    },
+    {
+      "name": "Social Media Marketing & Community Management",
+      "why": "LinkedIn, Instagram, TikTok, and Facebook strategy is table-stakes; show you can grow followers, drive engagement, and manage brand voice."
+    },
+    {
+      "name": "Email Marketing & Marketing Automation",
+      "why": "Platforms like HubSpot, Mailchimp, and Klaviyo are essential for nurture campaigns; experience with segmentation and automation is critical."
+    },
+    {
+      "name": "Content Strategy & Creation",
+      "why": "Blogs, case studies, videos, and whitepapers drive organic traffic; show you can plan content calendars and lead creative briefs."
+    },
+    {
+      "name": "Marketing Technology (MarTech Stack)",
+      "why": "Google Analytics, Salesforce, Hubspot, Semrush, and Hootsuite proficiency signals you can work with tools teams actually use."
+    },
+    {
+      "name": "Budget Management & ROI Optimization",
+      "why": "Leadership roles demand you prove you allocate budgets wisely, reduce cost-per-acquisition, and maximize return on ad spend."
+    },
+    {
+      "name": "Team Leadership & Project Management",
+      "why": "For manager-level roles, hiring managers look for proof you've hired, mentored, and directed cross-functional teams to deliver results."
+    },
+    {
+      "name": "Conversion Rate Optimization (CRO) & A/B Testing",
+      "why": "Small improvements in landing page performance compound; experience with testing frameworks and iteration shows strategic thinking."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed digital marketing campaigns across multiple channels.",
+      "strong": "Led 12+ integrated digital campaigns (paid search, social, email) generating $2.3M in attributed revenue and reducing cost-per-acquisition by 35% YoY.",
+      "lesson": "Specific channel mix, concrete revenue impact, and a measurable efficiency gain transform a vague statement into proof you move the needle."
+    },
+    {
+      "weak": "Grew social media following and increased engagement.",
+      "strong": "Scaled LinkedIn followers from 15K to 85K in 18 months through weekly thought-leadership content; achieved 12% avg engagement rate (3x industry benchmark) and generated 340+ qualified leads.",
+      "lesson": "Including the starting point, timeline, and specific benchmark or outcome (leads, not just vanity metrics) shows real business impact."
+    },
+    {
+      "weak": "Responsible for Google Analytics and reporting.",
+      "strong": "Designed and maintained monthly performance dashboard in Google Analytics and Data Studio; identified mobile traffic drop (32% decline) and A/B tested checkout flow, recovering $180K in lost annual revenue.",
+      "lesson": "Naming the tools and showing you acted on insights (not just reported them) proves analytical rigor and business acumen."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing channels instead of impact.",
+      "fix": "Don't just say 'Managed Facebook, Instagram, and LinkedIn'—say what you grew and by how much (followers, engagement rate, clicks, or revenue)."
+    },
+    {
+      "mistake": "Ignoring cost metrics.",
+      "fix": "Digital marketing is about efficiency; always pair volume metrics (impressions, clicks) with cost ones (CPC, CAC, ROAS) to show resourcefulness."
+    },
+    {
+      "mistake": "No mention of collaboration or team size.",
+      "fix": "If you managed people or collaborated cross-functionally (design, product, sales), say so—'Led 3-person paid media team' or 'Partnered with Product to optimize landing pages.'"
+    },
+    {
+      "mistake": "Burying MarTech tool proficiency.",
+      "fix": "Name specific platforms (HubSpot, Semrush, Adobe Analytics) early in bullets or in a dedicated skills section so ATS and hiring managers spot them immediately."
+    },
+    {
+      "mistake": "Forgetting to quantify audience or reach.",
+      "fix": "Always include the scale you worked at: 'for 500K+ monthly visitors,' 'to a 50K-person email list,' or 'in a 3-country market' so context is clear."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that touches on your strongest channels or most impressive KPI—e.g., 'Digital Marketing Manager with 5+ years scaling SEO and paid search for B2B SaaS; drove $3M+ revenue impact and 40% YoY growth.'",
+    "Put your most recent or impressive role first; within each role, sort bullets by business impact (revenue, growth, efficiency) before general responsibilities.",
+    "Create a dedicated 'Core Skills' or 'Marketing Tools' section listing exact platforms (Google Analytics, HubSpot, Salesforce, Semrush, Hootsuite) so ATS can match job requirements.",
+    "If you led a team or managed agency relationships, call that out in your experience bullets—manager roles are increasingly hard to fill, so visibility on leadership experience matters."
+  ],
+  "atsKeywords": [
+    "Digital Marketing Manager",
+    "Campaign Management",
+    "Google Ads and SEM",
+    "SEO and content strategy",
+    "Social media marketing",
+    "Email marketing and marketing automation",
+    "Analytics and data reporting",
+    "MarTech and marketing tools",
+    "Budget management and ROI",
+    "A/B testing and conversion optimization"
+  ],
+  "salarySignal": "Entry-level Digital Marketing Manager roles in the US typically start around $45K–$55K; mid-level managers (5+ years) range $65K–$85K; senior managers and directors reach $90K–$130K+, with bonus and equity varying by company size and industry.",
+  "faq": [
+    {
+      "q": "What's the most important metric to put on a Digital Marketing Manager resume?",
+      "a": "Revenue impact is king—either directly (attributed sales) or indirectly (leads, qualified conversions, or cost savings). If you don't have revenue data, growth rate (followers, traffic, email list) and efficiency gains (lower CPC, reduced CAC) are strong second choices. Always pair volume with cost."
+    },
+    {
+      "q": "Should I list every marketing platform I've touched, or just the main ones?",
+      "a": "Prioritize tools that match the job description and that you've actually used hands-on at a professional level. Create a dedicated 'Tools & Platforms' section with 8–12 key ones (Google Analytics, HubSpot, Salesforce, Semrush, etc.) and weave others into role descriptions when relevant. Quality over quantity."
+    },
+    {
+      "q": "How do I show I can manage a team on my resume if I've never had direct reports?",
+      "a": "Highlight cross-functional leadership: 'Directed 2-agency creative team and internal design resource on brand refresh project' or 'Mentored 2 junior marketers on SEO audit methodology.' Also show your ability to influence: 'Aligned sales and marketing on lead-scoring criteria, improving handoff quality by 25%.'"
+    },
+    {
+      "q": "What if most of my experience is in one channel (e.g., only paid search)?",
+      "a": "Own your expertise and show breadth in adjacent skills: 'Paid Search Specialist with deep expertise in SEM; additionally managed campaign analytics, landing page optimization, and budget allocation across $500K+ annual media spend.' Then highlight growth or transferable wins."
+    },
+    {
+      "q": "How many years of experience do I need to call myself a 'Digital Marketing Manager'?",
+      "a": "Most job postings expect 3–5+ years of hands-on digital marketing experience for a true manager role. If you have less, use 'Digital Marketing Coordinator' or 'Specialist' and focus on leadership-adjacent wins (mentoring, cross-team projects). Be honest; employers spot resume inflation quickly."
+    }
+  ]
+}

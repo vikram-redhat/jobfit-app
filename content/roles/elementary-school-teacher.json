@@ -1,0 +1,130 @@
+{
+  "slug": "elementary-school-teacher",
+  "title": "Elementary School Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:01:59.287Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Elementary School Teacher Resume: Tips & Examples",
+  "metaDescription": "Write a winning elementary school teacher resume. Learn what skills hiring managers want, see strong bullet examples, and avoid common mistakes.",
+  "h1": "Elementary School Teacher Resume: Stand Out to Hiring Managers",
+  "intro": "Landing an elementary school teaching role means showing hiring managers you can manage a classroom, engage young learners, and work with parents—all at once. Your resume needs to prove you've done this, not just say you're passionate about kids. We'll show you how to write bullets that get past district HR and into the principal's hands.",
+  "audience": "New education graduates, career switchers entering teaching programs, and teachers moving to new districts or grade levels.",
+  "topSkills": [
+    {
+      "name": "Classroom Management",
+      "why": "Principals want evidence you can keep 20-30 kids focused, safe, and on task—this is the #1 concern in hiring decisions."
+    },
+    {
+      "name": "Differentiated Instruction",
+      "why": "Modern classrooms have mixed ability levels; hiring managers look for teachers who adapt lessons for struggling and advanced learners alike."
+    },
+    {
+      "name": "Standards-Based Curriculum (Common Core, state standards)",
+      "why": "Districts mandate alignment to state and national standards; demonstrating this knowledge signals you understand compliance and assessment."
+    },
+    {
+      "name": "Student Assessment & Data Analysis",
+      "why": "Schools track progress through formative and summative assessments; showing you use data to guide instruction is a strong selling point."
+    },
+    {
+      "name": "Parent Communication",
+      "why": "Teachers spend significant time on emails, conferences, and progress reports; hiring managers need to know you can talk to families professionally."
+    },
+    {
+      "name": "Social-Emotional Learning (SEL)",
+      "why": "Most districts now prioritize SEL alongside academics; experience managing emotions, building relationships, and teaching coping skills is increasingly valued."
+    },
+    {
+      "name": "Literacy & Math Instruction",
+      "why": "The core of elementary teaching; explicit methods like guided reading, phonics, and manipulative-based math instruction should be named."
+    },
+    {
+      "name": "Inclusive Education & Special Needs Support",
+      "why": "Mainstream classrooms include students with IEPs and 504 plans; comfort working with paraprofessionals and adapting for diverse learners matters."
+    },
+    {
+      "name": "Technology Integration",
+      "why": "Post-pandemic, districts expect teachers to blend Google Classroom, interactive whiteboards, and adaptive learning software into daily lessons."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught math and reading to a class of 25 students. Used different teaching methods to help students learn.",
+      "strong": "Implemented guided reading groups and tiered math stations to target 5 struggling readers and 3 advanced learners; tracked progress via running records and formative assessments, raising average reading level by 1.5 grade levels by end of year.",
+      "lesson": "Specificity wins: name the strategy, the data you tracked, and the measurable outcome instead of describing a generic classroom."
+    },
+    {
+      "weak": "Communicated with parents about student progress.",
+      "strong": "Sent bi-weekly progress updates to 25 families and held individual conferences; addressed behavior concerns early through proactive calls, reducing parent complaints by 60% and building trust with 90% family engagement rate at open houses.",
+      "lesson": "Quantify communication impact (frequency, reach, outcomes) to show you manage relationships professionally and improve school culture."
+    },
+    {
+      "weak": "Created a positive classroom environment where students felt safe.",
+      "strong": "Built a restorative classroom culture using SEL routines (morning meetings, emotion check-ins); reduced office referrals from 15 in previous year to 3, and 88% of students reported feeling 'safe and respected' on end-of-year survey.",
+      "lesson": "Name the specific practice (restorative circles, SEL framework) and show behavioral outcomes or student feedback, not just a feeling."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of impact",
+      "fix": "Avoid 'Responsible for teaching science and social studies.' Instead, describe a specific unit you designed, standards you hit, and student learning gains."
+    },
+    {
+      "mistake": "Ignoring grades or age levels",
+      "fix": "Always specify which grades you taught (e.g., '3rd grade' not 'elementary') so hiring managers instantly know if you match their opening."
+    },
+    {
+      "mistake": "Omitting classroom management examples",
+      "fix": "Include at least one bullet about behavior management, routines, or positive discipline strategies—it's often the first filter principals apply."
+    },
+    {
+      "mistake": "Not mentioning assessment literacy",
+      "fix": "Reference specific assessment types you used (running records, MAP, iReady, exit tickets, unit tests) to show you track student progress and adjust instruction."
+    },
+    {
+      "mistake": "Forgetting collaborative or lead roles",
+      "fix": "Highlight committee work, professional development you led, mentor duties, or PLC contributions—teachers who collaborate are valued."
+    }
+  ],
+  "structureTips": [
+    "Lead with your credential status and endorsement area (e.g., 'State-Certified Elementary Teacher, K–5, [State]') at the top so districts instantly know you're legal to hire.",
+    "Place a short 'Core Competencies' section listing classroom management, differentiation, standards alignment, and assessment—these are the keywords districts scan for.",
+    "In your experience section, use grade level and school name as subheaders so hiring managers quickly match you to their opening (e.g., '4th Grade, Lincoln Elementary School, 2022–2024').",
+    "Add a separate line or bullet for relevant professional development (literacy coaching, SEL certification, technology training) if space allows—it signals ongoing growth."
+  ],
+  "atsKeywords": [
+    "classroom management",
+    "differentiated instruction",
+    "standards-based curriculum",
+    "student assessment",
+    "social-emotional learning",
+    "guided reading",
+    "parent communication",
+    "IEP and 504 plan experience",
+    "formative assessment",
+    "inclusive education"
+  ],
+  "salarySignal": "Entry-level elementary school teacher salaries in the US typically range from $32,000 to $40,000 in 2026; experienced teachers with advanced degrees or leadership roles earn $50,000–$70,000+, though public vs. private and region significantly affect pay.",
+  "faq": [
+    {
+      "q": "Should I list every certification or just the main one?",
+      "a": "Lead with your state teaching certification and primary endorsement (e.g., 'Elementary Education, K–5'). Add supplemental credentials (ESL, gifted endorsement, reading specialist) only if the job posting mentions them or if you've actively used them in a recent role."
+    },
+    {
+      "q": "How do I show I'm good at classroom management without sounding like a drill sergeant?",
+      "a": "Focus on proactive systems and relationship-building: mention routines you established (morning meetings, transition cues), behavior tracking tools you used, and outcomes (fewer referrals, higher engagement). Principals want to see you prevent problems, not just punish them."
+    },
+    {
+      "q": "What if I have no full-time teaching experience yet?",
+      "a": "Lead with your student teaching placement or practicum, naming the grade, school, and specific units you taught. Include substitute teaching, tutoring, or paraprofessional roles and quantify impact (e.g., 'worked with 8 struggling 2nd graders on phonics; 7 of 8 met end-of-year benchmark'). Certifications and coursework matter more at this stage."
+    },
+    {
+      "q": "How important is it to mention test scores or standardized assessment data on my resume?",
+      "a": "Very important if you have strong data; include trends or growth percentages (e.g., 'average math proficiency rose from 65% to 82% on state assessment'). If your scores are average or low, focus instead on growth, specific interventions, and subgroup gains to show you're making progress with all learners."
+    },
+    {
+      "q": "Should I include awards or recognition from parents or students?",
+      "a": "Yes, if they're specific and recent. Awards like 'Teacher of the Year,' 'Golden Apple Award,' or published student work samples add credibility. Skip generic praise; instead, note 'Selected by principal and staff for collaborative leadership on literacy committee' or 'Invited to present SEL best practices at district PD day.'"
+    }
+  ]
+}

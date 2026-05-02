@@ -1,0 +1,130 @@
+{
+  "slug": "restaurant-manager",
+  "title": "Restaurant Manager",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:54:23.352Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Restaurant Manager Resume: Template & Examples for 2026",
+  "metaDescription": "Write a standout restaurant manager resume. Learn what skills to highlight, how to quantify results, and what hiring managers actually want to see.",
+  "h1": "Restaurant Manager Resume: What Hiring Managers Actually Want",
+  "intro": "Restaurant managers wear a lot of hats—from hiring and scheduling to food cost control and customer satisfaction. Your resume needs to prove you can juggle all of it while keeping the place running profitably. We'll show you how to translate your chaos-management skills into language that gets you interviews.",
+  "audience": "Career switchers from hospitality backgrounds, assistant managers leveling up, and food-service veterans looking to land their first manager role at a better restaurant or concept.",
+  "topSkills": [
+    {
+      "name": "Staff Scheduling & Labor Management",
+      "why": "Hiring managers care most about whether you can build a team, reduce turnover, and keep labor costs in line—this is a primary profit driver."
+    },
+    {
+      "name": "Food Cost Control & P&L Responsibility",
+      "why": "Restaurant owners live and die by margins; managers who can articulate cost-cutting wins and inventory discipline stand out immediately."
+    },
+    {
+      "name": "Customer Service & Guest Experience",
+      "why": "Direct evidence of handling complaints, building loyalty, or improving ratings shows you protect brand reputation and revenue."
+    },
+    {
+      "name": "POS Systems & Restaurant Software",
+      "why": "Familiarity with Toast, Square, MarginEdge, or similar platforms signals you're operationally organized and data-literate."
+    },
+    {
+      "name": "Training & Staff Development",
+      "why": "Managers who invest in their team's growth reduce turnover and create bench strength for advancement—owners value that long-term thinking."
+    },
+    {
+      "name": "Health & Safety Compliance",
+      "why": "Food safety certifications (ServSafe) and health inspection readiness protect the business and show you run a tight operation."
+    },
+    {
+      "name": "Sales Growth & Revenue Management",
+      "why": "Demonstrating you grew covers, average check, or event revenue proves you're not just a caretaker but a business-builder."
+    },
+    {
+      "name": "Conflict Resolution & Crisis Management",
+      "why": "Real examples of handling staffing crises, customer issues, or operational breakdowns show maturity and leadership under pressure."
+    },
+    {
+      "name": "Vendor Negotiations & Procurement",
+      "why": "Securing better pricing, managing supplier relationships, and reducing waste all hit the bottom line and show strategic thinking."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed a team of servers and kitchen staff and was responsible for scheduling and training.",
+      "strong": "Built and trained a 14-person front-of-house team, reducing turnover by 35% year-over-year through mentorship programs and earned $500–800/week incentive bonuses; maintained 100% ServSafe compliance across all staff.",
+      "lesson": "Specific numbers (team size, turnover %, bonus range) and named programs make your leadership tangible; compliance proves you protect the business."
+    },
+    {
+      "weak": "Helped reduce food waste and costs.",
+      "strong": "Conducted quarterly inventory audits and renegotiated vendor contracts, reducing food cost ratio from 32% to 28% ($12k annual savings) while maintaining menu quality and guest satisfaction scores of 4.7/5.",
+      "lesson": "Quantifying the before/after percentage, dollar impact, and proof of quality (satisfaction score) shows cost discipline without cutting corners."
+    },
+    {
+      "weak": "Handled customer complaints and worked to improve the restaurant's reputation.",
+      "strong": "Resolved 95% of guest complaints on first contact, implemented a daily feedback loop with kitchen and service staff, and boosted Google/Yelp rating from 3.8 to 4.6 stars in 8 months; tracked via monthly reports.",
+      "lesson": "Naming the resolution rate, the system you built, and the measurable outcome (star rating increase over time) proves accountability and strategic thinking."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leading with vague 'management' duties instead of operational wins.",
+      "fix": "Always pair a responsibility (e.g., 'managed payroll') with a result (e.g., 'reduced scheduling conflicts by 40% using [system name]')."
+    },
+    {
+      "mistake": "Burying or omitting P&L and cost-control achievements.",
+      "fix": "Front-and-center one or two bullet points showing food cost, labor efficiency, or revenue growth—that's what owners scan for first."
+    },
+    {
+      "mistake": "Not naming the restaurant concept, size, or volume.",
+      "fix": "Add context like '150-seat casual-dining establishment' or 'fine-dining steakhouse averaging 200 covers/night' so the interviewer understands your scope."
+    },
+    {
+      "mistake": "Forgetting to list software proficiency and compliance certs.",
+      "fix": "Explicitly call out POS systems, scheduling tools, and certifications (ServSafe, Food Handler, etc.) because ATS and hiring managers search for these."
+    },
+    {
+      "mistake": "Treating assistant manager and manager roles the same way.",
+      "fix": "If moving up, emphasize the *jump* in autonomy, budget control, and decision-making—explain why you earned the promotion."
+    }
+  ],
+  "structureTips": [
+    "Lead your professional summary or first bullet point with a profit-and-loss win or operational metric—owners decide in seconds if you're a business partner or just a 'competent operator.'",
+    "Place your POS/software skills and certifications in a dedicated 'Core Competencies' or 'Technical Skills' section above the fold, not buried in job descriptions.",
+    "For each manager role, front-load the restaurant's size/concept and your staff headcount (e.g., 'Led 18-person team at 120-seat independent pizzeria') so hiring managers immediately gauge your experience level.",
+    "If you're a career-switcher, create a 'Relevant Experience' section that pulls out food service, operations, or customer-facing wins from previous roles—don't let your non-restaurant background overshadow your actual strengths."
+  ],
+  "atsKeywords": [
+    "restaurant manager",
+    "food cost control",
+    "POS systems",
+    "staff scheduling",
+    "labor management",
+    "ServSafe certified",
+    "P&L management",
+    "guest experience",
+    "training and development",
+    "health and safety compliance"
+  ],
+  "salarySignal": "Entry-level restaurant manager positions typically range from $35,000–$45,000 annually in the US; experienced managers at full-service or multi-unit establishments often earn $50,000–$70,000+ depending on location, concept, and revenue responsibility.",
+  "faq": [
+    {
+      "q": "What's the difference between a restaurant manager and assistant manager resume?",
+      "a": "An assistant manager resume emphasizes teamwork, learning, and specific operational tasks (scheduling, training, vendor relations). A manager resume leads with P&L ownership, strategic decisions, and measurable business outcomes. If applying for a manager role from an assistant background, highlight the promotions or expanded responsibility you earned, not just the duties you performed."
+    },
+    {
+      "q": "Do I need a specific format or template for restaurant manager resumes?",
+      "a": "Not a special format, but use clean, scannable sections: summary/objective, core competencies, professional experience (with metrics), education, and certifications. ATS systems favor straightforward layouts—avoid fancy graphics, columns, or tables. A one-page resume is ideal if you're under 10 years in the role; two pages is fine if you have multi-unit or director-level experience."
+    },
+    {
+      "q": "How do I show leadership if I've only been an assistant manager?",
+      "a": "Focus on ownership moments: 'Led the inventory audit and trained three new hires on reconciliation,' 'Managed the opening shift team of 8 during manager absence, maintaining sales and quality,' or 'Mentored two servers into supervisor roles.' Use specific examples of initiative, not titles."
+    },
+    {
+      "q": "Should I include my Yelp rating or guest satisfaction score on my resume?",
+      "a": "Yes—if it's strong (4.5+ stars or 90%+ satisfaction) and you can credibly claim credit for it. Add it to the bullet where you describe your restaurant experience, e.g., 'Boosted guest satisfaction from 4.1 to 4.7 stars over 18 months.' Only include it if it's recent and relevant; old or mediocre ratings hurt you."
+    },
+    {
+      "q": "How do I tailor my restaurant manager resume for different concepts (fine dining vs. fast casual)?",
+      "a": "Emphasize the skills that match the concept's priorities. Fine dining: highlight training, consistency, service finesse, and high-ticket revenue. Fast casual: stress efficiency, speed, labor optimization, and volume. QSR (quick service): focus on throughput, food cost, and team turnover solutions. Always mirror the job description's language in your bullets—if they emphasize 'operational excellence,' use that exact phrase in your resume."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "construction-project-manager",
+  "title": "Construction Project Manager",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:00:42.525Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Construction Project Manager Resume Guide & Examples 2026",
+  "metaDescription": "Write a construction PM resume that gets past ATS and lands interviews. Real examples, skills to highlight, and hiring manager tips.",
+  "h1": "Construction Project Manager Resume: How to Land Interviews",
+  "intro": "A solid Construction Project Manager resume needs to prove you can juggle budgets, timelines, and teams without dropping the ball. We'll walk you through exactly what hiring managers and general contractors are looking for—and how to format your wins so they actually stand out.",
+  "audience": "General construction professionals stepping into their first PM role, experienced field supervisors transitioning to project management, and career switchers with relevant leadership or logistics experience.",
+  "topSkills": [
+    {
+      "name": "Scheduling & Timeline Management",
+      "why": "Construction lives and dies by deadlines; PMs must demonstrate the ability to create, track, and adjust project schedules using tools like Primavera P6 or Microsoft Project."
+    },
+    {
+      "name": "Budget Management & Cost Control",
+      "why": "Contractors want to see you can estimate costs, track spending, and keep projects profitable without cutting corners on quality or safety."
+    },
+    {
+      "name": "Subcontractor & Vendor Management",
+      "why": "You'll coordinate dozens of trades and suppliers; hiring managers need proof you can vet, negotiate, and keep relationships professional under pressure."
+    },
+    {
+      "name": "Safety Compliance & OSHA Knowledge",
+      "why": "Construction is heavily regulated; experience with safety protocols, incident reporting, and OSHA standards is non-negotiable and often a dealbreaker if missing."
+    },
+    {
+      "name": "Project Controls & Reporting",
+      "why": "PMs must track labor hours, material usage, and progress metrics; experience with job costing software and weekly status reporting is expected."
+    },
+    {
+      "name": "Building Information Modeling (BIM)",
+      "why": "Larger projects increasingly use BIM software; familiarity with Revit or similar tools shows you're ready for modern project delivery methods."
+    },
+    {
+      "name": "Communication & Stakeholder Management",
+      "why": "You're the point person between architects, clients, crews, and consultants; clear daily logs, meeting notes, and change order documentation matter."
+    },
+    {
+      "name": "Problem-Solving & On-Site Decision Making",
+      "why": "Construction never goes perfectly; hiring managers want to see examples of how you've diagnosed delays, managed conflicts, and kept projects moving."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed construction projects and oversaw subcontractors.",
+      "strong": "Managed 4–6 concurrent commercial projects (avg. $2–5M per project) with 15–20 subcontractors; maintained 98% on-time completion rate and kept spend within 3% of budget through proactive schedule monitoring and weekly cost reconciliation.",
+      "lesson": "Specificity and numbers (project size, scope, team count, and quantified outcomes) transform a vague bullet into proof of impact."
+    },
+    {
+      "weak": "Responsible for safety on construction site.",
+      "strong": "Led safety program across 150+ person-day construction site; achieved zero OSHA recordable incidents over 18-month project period by implementing weekly toolbox talks, monthly safety audits, and three-tiered hazard monitoring protocol.",
+      "lesson": "Frame safety as a measurable system you built and tracked, not just a compliance checkbox—it shows ownership and risk awareness."
+    },
+    {
+      "weak": "Communicated with clients and contractors.",
+      "strong": "Produced weekly progress reports, schedule forecasts, and change order analyses for 8–12 stakeholders (owner, architect, engineer, major subs); reduced document processing time by 40% through standardized templates and automated cost tracking in Procore.",
+      "lesson": "Naming the tool you used and quantifying the efficiency gain shows both technical competency and business acumen."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes",
+      "fix": "Replace 'responsible for scheduling' with specific examples: 'reduced schedule delays from 8% to 2% by implementing 2-week lookahead planning and daily crew huddles.' Numbers and systems beat job descriptions."
+    },
+    {
+      "mistake": "Burying project details in a generic job summary",
+      "fix": "Give each major project its own bullet point or section; include scope (building type, GC, contract value, team size), your role, and one key win. Hiring managers scan for scale and complexity."
+    },
+    {
+      "mistake": "No mention of software tools or systems",
+      "fix": "Explicitly call out Procore, P6, Revit, Excel, Bluebeam, or whatever you've used; many companies filter resumes by software keywords and ATS searches will miss you if tools aren't named."
+    },
+    {
+      "mistake": "Glossing over problem-solving",
+      "fix": "Add one or two bullets about a major obstacle you solved—a schedule conflict, cost overrun, safety issue, or coordination gap—and how you fixed it. That's what PMs actually do."
+    },
+    {
+      "mistake": "Forgetting to quantify team, budget, or project size",
+      "fix": "Always include the dollar value of projects managed, number of workers supervised, and duration. Hiring managers use these to gauge the weight of your experience."
+    }
+  ],
+  "structureTips": [
+    "Lead your resume with a 2-3 line summary that names your years of PM experience, your biggest project size (e.g., '$50M+ mixed-use development'), and one standout outcome (e.g., 'zero safety incidents, on-time delivery'). Recruiters scan the top first.",
+    "Create a dedicated 'Project Experience' or 'Notable Projects' section above or alongside your employment history; list the 3–5 largest or most complex projects with client type, contract value, duration, team size, and your role. This is your proof of scale.",
+    "Group software and technical skills into a clear 'Tools & Systems' line (e.g., 'Procore, Primavera P6, Revit, Bluebeam, Microsoft Project, AutoCAD, HCSS Job Costing'); ATS scanners and hiring managers look for these explicitly.",
+    "Put Safety Certifications (OSHA 30, CSP, CPSI, Safety Director license) and relevant education (construction management degree, PMI-CP, etc.) in a dedicated section or at the top of your credentials; these are often dealbreakers or tie-breakers."
+  ],
+  "atsKeywords": [
+    "Construction Project Manager",
+    "Budget Management",
+    "Schedule Management",
+    "Procore",
+    "Primavera P6",
+    "Subcontractor Management",
+    "OSHA Compliance",
+    "Cost Control",
+    "Project Controls",
+    "BIM"
+  ],
+  "salarySignal": "Entry-level to mid-career Construction Project Manager roles in the US typically range from $55,000 to $90,000 annually; experienced PMs managing larger budgets or overseeing multiple projects often earn $100,000–$150,000+ depending on region, company size, and project complexity.",
+  "faq": [
+    {
+      "q": "What certifications do I need on my Construction Project Manager resume?",
+      "a": "OSHA 30 is almost always expected and shows safety foundational knowledge. PMI-CP (Certified Associate in Project Management) and CPM (Certified Construction Manager) strengthen your candidacy for larger firms. Many states also require a Construction Supervisor license or Project Manager license depending on your role and project types."
+    },
+    {
+      "q": "Should I list my GPA or construction management degree prominently?",
+      "a": "If you have a four-year construction management or civil engineering degree, mention it in the education section. GPA only matters if it's 3.5+; otherwise, skip it. Hiring managers care far more about your on-site wins and certifications than your transcript."
+    },
+    {
+      "q": "How far back should I go with project experience?",
+      "a": "Focus on the last 5–7 years and your 4–5 largest or most complex projects. If you have a 15-year career, consolidate early roles into a summary and keep recent projects detailed. Recruiters want to see growth and current relevance."
+    },
+    {
+      "q": "Do I need to mention specific building types (commercial, residential, heavy civil)?",
+      "a": "Yes—include it. Builders care about your experience in their sector. A commercial PM resume looks different from a heavy civil or residential PM resume. List your project portfolio by type to help ATS matching and show relevant domain knowledge."
+    },
+    {
+      "q": "What if I'm transitioning from general labor or supervision into a PM role?",
+      "a": "Highlight any leadership, crew coordination, or planning experience you've had. Emphasize courses, certifications, or on-the-job PM shadowing. Show that you understand the trade, have relationships on-site, and are making a credible step up—not a random career shift."
+    }
+  ]
+}

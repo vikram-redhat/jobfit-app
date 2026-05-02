@@ -1,0 +1,130 @@
+{
+  "slug": "controller",
+  "title": "Controller",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:44:04.734Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Controller Resume: Skills & Examples | 2026 Guide",
+  "metaDescription": "Craft a winning Controller resume with actionable tips, sample bullets, and ATS keywords. Learn what hiring managers actually want to see.",
+  "h1": "Controller Resume: What You Need to Get Hired",
+  "intro": "A Controller resume needs to prove you can manage financial operations, lead accounting teams, and drive accurate reporting—not just list your duties. We'll show you how to highlight the wins that matter to CFOs and boards, with concrete examples and the keywords that actually get past ATS systems.",
+  "audience": "Finance professionals moving into their first Controller role, experienced accountants ready to step into leadership, and career-switchers with strong accounting or operations backgrounds.",
+  "topSkills": [
+    {
+      "name": "Financial Reporting & GAAP Compliance",
+      "why": "Controllers are responsible for accurate, compliant financial statements and SEC filings; hiring managers need proof you know the rules cold."
+    },
+    {
+      "name": "General Ledger Management & Month-End Close",
+      "why": "Clean closes and accurate GL are the heartbeat of a Controller's job; demonstrating speed and accuracy here signals competence."
+    },
+    {
+      "name": "Budget Development & Variance Analysis",
+      "why": "Controllers drive financial planning and hold teams accountable to targets; this skill ties accounting to business strategy."
+    },
+    {
+      "name": "Team Leadership & Staff Training",
+      "why": "You'll manage accountants, bookkeepers, and junior staff; hiring managers want to see evidence of mentoring and process improvement."
+    },
+    {
+      "name": "Internal Controls & Risk Management",
+      "why": "Boards and auditors expect Controllers to design and enforce controls; this is non-negotiable for the role."
+    },
+    {
+      "name": "ERP Systems (SAP, NetSuite, Oracle)",
+      "why": "Enterprise resource planning systems are standard in mid-to-large companies; fluency here is a major efficiency signal."
+    },
+    {
+      "name": "Audit Coordination & External Auditor Relations",
+      "why": "Controllers are the main liaison for internal and external audits; showing this skill builds trust with boards and finance executives."
+    },
+    {
+      "name": "Cash Flow Management & Working Capital Optimization",
+      "why": "Demonstrating control over cash and capital efficiency shows you think like a CFO, not just a bookkeeper."
+    },
+    {
+      "name": "Accounting Software & Automation",
+      "why": "Excel, Tableau, and process automation reduce errors and free up time; hiring managers love seeing modern efficiency chops."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for month-end close process and financial reporting. Managed accounting staff and ensured compliance with GAAP standards.",
+      "strong": "Led month-end close from 12 days to 6 days by redesigning GL reconciliation workflow; managed team of 4 accountants and maintained 100% audit compliance across all GAAP reporting.",
+      "lesson": "Specific timelines, team size, and measurable outcomes (100% compliance) turn generic duties into proof of impact and leadership."
+    },
+    {
+      "weak": "Oversaw budget process and worked with department heads to track spending.",
+      "strong": "Designed annual budget model used across 8 departments; identified $450K in cost-saving opportunities through variance analysis; reduced budget revisions by 35% with new forecasting template.",
+      "lesson": "Dollar amounts, process improvements, and adoption metrics show strategic contribution beyond transactional work."
+    },
+    {
+      "weak": "Implemented internal controls and worked with external auditors on annual audit.",
+      "strong": "Documented 23 internal controls, reducing audit findings from 11 to 0 within 18 months; coordinated audit fieldwork and resolved 100% of control gaps before sign-off.",
+      "lesson": "Quantifying the problem, the solution, and the outcome demonstrates risk management competence and executive credibility."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing software skills without proving proficiency",
+      "fix": "Instead of just writing 'SAP, NetSuite, Excel,' show what you built: 'Designed automated GL reconciliation in SAP, reducing manual entry by 60%' or 'Created dynamic variance dashboards in Excel/Tableau.'"
+    },
+    {
+      "mistake": "Focusing on effort instead of outcomes",
+      "fix": "Replace 'managed close process' with 'accelerated close to 5 days while reducing errors 40%'—controllers are hired to drive efficiency, not just stay busy."
+    },
+    {
+      "mistake": "Downplaying team leadership",
+      "fix": "Controllers manage people; explicitly highlight team size, hires you've made, staff development, or turnover you've improved. This separates you from senior accountants."
+    },
+    {
+      "mistake": "Skipping audit and compliance details",
+      "fix": "Mention audit coordination, internal control improvements, compliance certifications (CPA, CMA), or SOX/SOC 2 experience—boards care deeply about this."
+    },
+    {
+      "mistake": "Using generic finance language",
+      "fix": "Replace 'ensured accuracy' with 'maintained 100% audit compliance across 15 GL accounts' or 'zero reconciliation variances in monthly close.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with financial reporting and close management accomplishments—these are non-negotiable. Put your strongest month-end or audit wins in the top 2-3 bullets of your Controller experience.",
+    "Separate 'Team Leadership' or 'Accounting Operations' as a distinct skill block if you've managed 3+ people; boards want to see you think like a manager, not just an individual contributor.",
+    "If you're coming from a Senior Accountant or Manager role, explicitly call out the scope of your new responsibilities (larger team, more complex entities, higher transaction volume) to show growth readiness.",
+    "Place ERP system expertise and process automation work mid-resume, not buried—CFOs evaluate digital maturity, and this shows you're modern."
+  ],
+  "atsKeywords": [
+    "month-end close",
+    "financial reporting and GAAP",
+    "general ledger management",
+    "internal controls",
+    "audit coordination",
+    "budget development and variance analysis",
+    "ERP systems",
+    "accounting team leadership",
+    "cash flow management",
+    "SEC compliance"
+  ],
+  "salarySignal": "Entry-level Controller roles in the US typically start $80K–$110K; experienced Controllers in mid-market companies range $120K–$180K. Salary varies significantly by company size, industry, and region.",
+  "faq": [
+    {
+      "q": "What's the difference between a Controller resume and an Accountant resume?",
+      "a": "A Controller resume emphasizes team leadership, process ownership, and strategic financial decisions. You should lead with close acceleration, cost savings, and audit results—not just transaction processing. Accountants focus on compliance and accuracy; Controllers focus on efficiency and governance."
+    },
+    {
+      "q": "Should I list every accounting system I've used?",
+      "a": "No. Include 2–3 major platforms (SAP, NetSuite, Oracle) and any custom tools where you drove measurable value. Generic skills like 'Excel proficiency' are assumed; stand out by describing what you built in them."
+    },
+    {
+      "q": "How do I show leadership if I haven't officially managed people yet?",
+      "a": "Highlight mentoring, cross-functional project leadership, training new team members, and process improvements you spearheaded. Use words like 'led,' 'owned,' and 'drove' to signal ownership, even if you didn't have direct reports."
+    },
+    {
+      "q": "Is CPA or CMA necessary to list on a Controller resume?",
+      "a": "Highly valuable but not always required—it depends on the company size and industry. Always include it if you have it; it signals credibility with boards and auditors. If you're pursuing one, mention it under 'Certifications In Progress.'"
+    },
+    {
+      "q": "How much detail should I include about internal controls?",
+      "a": "Include specifics: how many controls you documented, what risk they mitigated (fraud, misstatement, compliance), and the impact on audit findings or compliance. Boards care about this, and it differentiates you from non-leadership roles."
+    }
+  ]
+}

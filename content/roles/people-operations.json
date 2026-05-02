@@ -1,0 +1,130 @@
+{
+  "slug": "people-operations",
+  "title": "People Operations",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:45:18.259Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "People Operations Resume: Skills, Examples & Tips",
+  "metaDescription": "Write a People Operations resume that gets noticed. Learn key skills, actionable bullet points, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a People Operations Resume That Gets Interviews",
+  "intro": "People Ops roles sit at the intersection of HR, data, and strategy—and your resume needs to show you can handle all three. We'll walk you through the exact skills, metrics, and format that make hiring managers take notice.",
+  "audience": "Career-switchers from HR or admin backgrounds, recent business school grads, and HR coordinators ready to step into a People Operations role.",
+  "topSkills": [
+    {
+      "name": "Employee engagement & culture",
+      "why": "People Ops leaders are expected to design and measure initiatives that keep employees happy and reduce turnover."
+    },
+    {
+      "name": "HRIS systems (Workday, BambooHR, ADP)",
+      "why": "Proficiency with core HR platforms is table-stakes; hiring managers assume you'll manage employee data, payroll integrations, and reporting workflows."
+    },
+    {
+      "name": "Talent acquisition & recruitment operations",
+      "why": "You'll likely own or partner on hiring processes, candidate experience, and recruiter enablement—demonstrate this directly."
+    },
+    {
+      "name": "Employee lifecycle management",
+      "why": "From onboarding through offboarding, People Ops orchestrates the full employee journey; show you've optimized each touchpoint."
+    },
+    {
+      "name": "Data analysis & reporting",
+      "why": "People Ops is increasingly metrics-driven; prove you can pull reports, track KPIs, and present insights to leadership."
+    },
+    {
+      "name": "Compensation & benefits administration",
+      "why": "Managing health plans, equity, and comp reviews is a core function; highlight your hands-on experience here."
+    },
+    {
+      "name": "Compliance & policy",
+      "why": "Understanding employment law, documentation, and risk mitigation matters—especially at scale."
+    },
+    {
+      "name": "Cross-functional collaboration",
+      "why": "People Ops bridges finance, legal, and product; show you can translate between departments and align on priorities."
+    },
+    {
+      "name": "Project management & process improvement",
+      "why": "Streamlining workflows, rolling out new systems, and managing timelines are daily tasks in this role."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped with employee onboarding and made sure new hires had what they needed.",
+      "strong": "Redesigned onboarding program, reducing time-to-productivity from 12 weeks to 6 weeks and increasing first-year retention by 18%.",
+      "lesson": "Replace vague verbs and outcomes with specific timelines and measurable impact—hiring managers want to see what changed under your watch."
+    },
+    {
+      "weak": "Worked with the HRIS team to update employee records and fix data issues.",
+      "strong": "Audited and cleaned HRIS database affecting 450+ employees; implemented monthly data validation protocol that reduced payroll discrepancies by 95%.",
+      "lesson": "Quantify the scope (number of employees, records affected) and the downstream business impact (cost savings, error reduction, process time)."
+    },
+    {
+      "weak": "Supported benefits administration and employee questions about health insurance.",
+      "strong": "Managed open enrollment for 320+ employees across 4 plan tiers; achieved 94% participation rate and reduced enrollment support tickets by 40% through self-service portal design.",
+      "lesson": "Show both the operational scale you've handled and the outcome—whether it's engagement rate, cost savings, or efficiency gains."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leading with soft skills instead of operations impact",
+      "fix": "Yes, you're collaborative—but lead with specific projects you've owned: 'Implemented new applicant tracking system serving 3 offices' beats 'Great communicator.'"
+    },
+    {
+      "mistake": "Listing tasks instead of improvements or launches",
+      "fix": "Don't say 'Managed employee records.' Say 'Migrated payroll data to Workday for 500+ employees with zero errors' or 'Built quarterly engagement survey reducing survey fatigue by 30%.' Show what you changed or improved."
+    },
+    {
+      "mistake": "Forgetting to mention system or tool proficiency by name",
+      "fix": "ATS systems are searching for 'Workday,' 'BambooHR,' 'Greenhouse,' etc. Name the platforms you've used; generic 'HRIS experience' won't match job filters."
+    },
+    {
+      "mistake": "Omitting metrics around speed, cost, or compliance",
+      "fix": "People Ops is measured by time-to-hire, cost-per-hire, retention rates, and onboarding speed. If you improved any of these, put a number on it."
+    },
+    {
+      "mistake": "Downplaying cross-team work or stakeholder management",
+      "fix": "Highlight partnerships: 'Collaborated with finance and legal to roll out new equity program' or 'Partnered with engineering to design tech stack for new hiring portal.' People Ops is a connector role."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most recent or most strategic People Ops role, but bury HR coordinator or administrative-only duties below your operations wins. Hiring managers scan the top first.",
+    "Create a dedicated skills section listing HRIS platforms (Workday, BambooHR, Greenhouse, ADP, Guidepoint, etc.), Google Workspace, Excel/SQL, Tableau or dashboarding tools, and compliance knowledge. Be specific about what you can do—not just that you've used them.",
+    "If you're transitioning from HR or operations, add a brief line under each past role explaining how that work evolved into People Ops scope. Example: 'Recruiting Coordinator → Led recruitment operations redesign.'",
+    "Use the summary or objective to signal your level and philosophy: 'People Operations professional focused on scaling hiring and employee experience for growth-stage startups' is stronger than generic 'Seeking HR role.'"
+  ],
+  "atsKeywords": [
+    "People Operations",
+    "HRIS administration",
+    "Recruitment operations",
+    "Employee engagement",
+    "Talent acquisition",
+    "Onboarding program",
+    "Compensation and benefits",
+    "Data analysis and reporting",
+    "Workday",
+    "BambooHR"
+  ],
+  "salarySignal": "Entry-level People Operations roles (Coordinator/Associate level) typically range from $45K–$60K; mid-level Specialist or Coordinator roles from $60K–$85K; and Manager-level People Ops from $85K–$130K+ in major US metros. Salary varies widely by region, company size, and stage.",
+  "faq": [
+    {
+      "q": "What's the difference between HR and People Operations on a resume?",
+      "a": "HR is broader and includes compliance, legal, and traditional HR functions. People Ops emphasizes the operational, analytical, and scaling side—think systems design, metrics, and process optimization. On your resume, use the People Ops label if you've done process improvement, data analysis, or built tools and workflows; stick with HR if you're mostly handling benefits administration or employee relations one-on-one."
+    },
+    {
+      "q": "Do I need HRIS certification to get hired?",
+      "a": "Not required, but helpful. Workday, BambooHR, and ADP all offer certification paths that add credibility. If you're entry-level, hands-on experience with one platform is more valuable than a certification; if you're mid-level or higher, a cert can help you stand out. List it if you have it, but don't let lack of one hold you back—prioritize real project work instead."
+    },
+    {
+      "q": "Should I include data analysis or SQL skills on a People Operations resume?",
+      "a": "Absolutely. Highlight SQL, Python, Tableau, Looker, or Excel expertise—especially if you've pulled reports, built dashboards, or analyzed trends. People Ops is increasingly data-driven; this skill differentiates you and opens doors to more strategic roles."
+    },
+    {
+      "q": "How do I show experience if I'm coming from a different function?",
+      "a": "Focus on the operational and project management aspects of your previous role. If you were in Admin, highlight how you streamlined processes or coordinated across teams. If you were in Finance, emphasize budget tracking or data analysis. Then explicitly name the People Ops skills you've built (HRIS, recruiting coordination, onboarding design) in a summary statement or skills section to signal intent."
+    },
+    {
+      "q": "What metrics matter most for People Operations bullet points?",
+      "a": "Focus on time savings (time-to-hire, onboarding duration), cost impact (cost-per-hire, turnover reduction), scale (number of employees, hires processed), and quality (retention rate, survey scores, error reduction). If you can tie a project to business outcome (e.g., faster hiring = faster product launch), even better."
+    }
+  ]
+}

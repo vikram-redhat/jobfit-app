@@ -1,0 +1,130 @@
+{
+  "slug": "sales-development-representative",
+  "title": "Sales Development Representative",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:27.558Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Sales Development Representative Resume Guide & Tips",
+  "metaDescription": "Write a winning SDR resume with proven bullet formats, ATS keywords, and real examples that land interviews at top sales teams.",
+  "h1": "Sales Development Representative Resume: Stand Out to Hiring Managers",
+  "intro": "As an SDR, your resume needs to prove you can hunt for leads, qualify prospects, and hit targets—not just list job duties. We'll show you how to reframe your outreach wins into numbers that grab attention and pass ATS systems.",
+  "audience": "Recent grads, career switchers from customer service or retail, and junior sales reps looking to break into SDR roles at tech and SaaS companies.",
+  "topSkills": [
+    {
+      "name": "Outbound prospecting",
+      "why": "SDR roles are built on the ability to identify, contact, and engage cold leads via email, phone, and LinkedIn—this is job one."
+    },
+    {
+      "name": "Lead qualification (BANT/MEDDIC)",
+      "why": "Hiring managers want to see you can ask discovery questions and qualify fit before handing off to AEs."
+    },
+    {
+      "name": "CRM proficiency (Salesforce, HubSpot)",
+      "why": "You'll log every call, email, and interaction—comfort with your stack signals you won't slow down the team."
+    },
+    {
+      "name": "Sales prospecting tools (LinkedIn Sales Navigator, Apollo, ZoomInfo)",
+      "why": "Modern SDRs use automation and data tools to research and target accounts—knowing these platforms is table stakes."
+    },
+    {
+      "name": "Activity metrics and goal tracking",
+      "why": "SDR roles are metrics-driven; showing you monitored your own KPIs (dials, conversations, meetings set) proves discipline."
+    },
+    {
+      "name": "Email copywriting",
+      "why": "You'll craft dozens of cold outreach emails daily—hiring managers want to see you can write tight, personalized pitches."
+    },
+    {
+      "name": "Phone prospecting / cold calling",
+      "why": "Even in a digital world, phone skills separate strong SDRs from weaker ones; mention it if you excel here."
+    },
+    {
+      "name": "Territory planning and account research",
+      "why": "Top SDRs don't just dial randomly—they research accounts, identify decision-makers, and plan strategic outreach."
+    },
+    {
+      "name": "Objection handling",
+      "why": "You'll hear 'no' 100 times a day; showing you can reframe and move past objections is a hiring green flag."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for prospecting and setting up meetings for the sales team.",
+      "strong": "Generated 40–60 qualified meetings per month for AEs by executing daily outbound campaigns across email, phone, and LinkedIn; maintained 8–12% reply rate on cold outreach and 18–22% qualification rate.",
+      "lesson": "Replace vague duties with your actual activity numbers and conversion rates—hiring managers want to see your hit rate, not just your effort."
+    },
+    {
+      "weak": "Used Salesforce to track leads and update the pipeline.",
+      "strong": "Logged 500+ prospect interactions monthly in Salesforce, maintaining 95%+ data hygiene; identified and escalated 12–15 high-fit accounts per week to AE team using BANT framework.",
+      "lesson": "Show volume, quality of data entry, and your decision-making process—not just tool usage—to prove you're a pipeline builder, not just a data entry person."
+    },
+    {
+      "weak": "Attended sales training and improved performance over time.",
+      "strong": "Ranked #2 in outbound meetings set (52 in Q4) out of 8 SDRs after applying customer research and personalized messaging tactics from sales enablement training; boosted personal conversation rate from 6% to 11% in 8 weeks.",
+      "lesson": "Quantify improvement and ranking to show both coachability and results—a 5-percentage-point lift in conversions is far more compelling than 'improved performance.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of results",
+      "fix": "Every bullet should include a number: dials attempted, meetings booked, reply rate, or deal pipeline influenced—not just 'sent emails' or 'made calls.'"
+    },
+    {
+      "mistake": "Burying SDR role under generic customer-facing titles",
+      "fix": "Lead with your sales development or sales support experience; if SDR isn't your official title, lead with 'Sales Prospecting' or 'Business Development' to signal intent to ATS and hiring managers."
+    },
+    {
+      "mistake": "Omitting CRM and sales tool experience",
+      "fix": "Explicitly name Salesforce, HubSpot, Apollo, LinkedIn Sales Navigator, or whatever stack you used—hiring managers scan for these exact keywords."
+    },
+    {
+      "mistake": "Forgetting to show territory or account responsibility",
+      "fix": "If you owned a territory, vertical, or account list, mention it—'Prospected into 200+ mid-market SaaS accounts in EMEA' or 'Owned Logistics vertical with 150+ target accounts' shows strategic thinking."
+    },
+    {
+      "mistake": "Not mentioning deal influence or pipeline value",
+      "fix": "If your meetings led to closed deals, quantify it—'Generated $1.2M in influenced pipeline' or 'Meetings averaged $50K deal size'—this ties SDR activity to revenue."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience with your SDR or sales development role, even if it's recent or part-time—hiring managers scan top-down for job title relevance.",
+    "Put your most impressive metrics (meetings booked, reply rate, ranking) in the first 1–2 bullets of each role to catch attention before ATS filters.",
+    "Group your CRM and sales tool skills in a dedicated 'Sales Tools' or 'Technical Skills' section so ATS picks up exact keyword matches; don't hide them in prose.",
+    "If you're a career switcher from retail, customer service, or support, reframe those roles as 'pre-sales' or 'customer acquisition'—highlight phone skills, objection handling, and lead follow-up, not just transactions."
+  ],
+  "atsKeywords": [
+    "Sales Development Representative",
+    "SDR",
+    "Outbound prospecting",
+    "Lead qualification",
+    "Salesforce",
+    "HubSpot",
+    "LinkedIn Sales Navigator",
+    "Cold calling",
+    "Pipeline generation",
+    "Account-based selling"
+  ],
+  "salarySignal": "Entry-level SDR positions in the US typically range from $40,000 to $55,000 base salary, plus commission or bonus potential of 20–50% of base—total on-target earnings (OTE) often reach $60,000–$85,000 in the first year.",
+  "faq": [
+    {
+      "q": "How do I show outbound prospecting success on my resume if I'm new?",
+      "a": "Focus on activity metrics: dials attempted, emails sent, reply rates, and meetings set—even if small ('3–5 qualified demos per week' counts). If you're in a sales or support role now, track and quantify your outreach over the last 3 months, then add it to your bullets."
+    },
+    {
+      "q": "Should I list every CRM and sales tool I've touched?",
+      "a": "No—list only the ones you actively used or are proficient in. Hiring managers will test you in interviews. If you dabbled in Outreach but lived in Salesforce, lead with Salesforce and mention Outreach as secondary. Quality over breadth."
+    },
+    {
+      "q": "How do I quantify success if my company didn't share pipeline or deal data?",
+      "a": "Use what you can measure: conversations initiated, response rates, meetings booked, or ranking within your peer group. Example: 'Set 35–40 qualified meetings monthly, ranking top 3 of 10 SDRs.' If truly opaque, focus on activity volume and consistency instead."
+    },
+    {
+      "q": "Is it okay to include customer service or retail experience on an SDR resume?",
+      "a": "Absolutely—reframe it as 'customer acquisition' or 'inbound sales support.' Highlight skills like phone communication, objection handling, and ability to work under targets. It signals soft skills and work ethic, even if the industry differs."
+    },
+    {
+      "q": "How much space should I dedicate to SDR experience vs. other roles?",
+      "a": "If you have SDR or direct sales experience, give it 60–70% of your bullet real estate. If you're new to SDR, dedicate 40–50% to prospecting, outreach, or sales-adjacent duties in your current role, then add 3–4 bullets on any relevant internships or projects."
+    }
+  ]
+}

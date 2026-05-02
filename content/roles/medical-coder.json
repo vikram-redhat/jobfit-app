@@ -1,0 +1,136 @@
+{
+  "slug": "medical-coder",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:40:54.856Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Medical Coder Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a medical coder resume that passes ATS and impresses hiring managers. See real examples, top skills, and common mistakes to avoid.",
+  "h1": "Medical Coder Resume Guide: Land Your Next Coding Job",
+  "intro": "Medical coding is detail-oriented work that demands precision, but your resume needs to prove you can handle both the technical and soft skills. We'll show you how to translate your coding experience into bullet points that hiring managers actually want to see—and how to make sure your resume clears the ATS filter.",
+  "audience": "Recent graduates entering health information management, experienced coders applying to new positions, and career switchers from adjacent healthcare admin or documentation roles.",
+  "topSkills": [
+    {
+      "name": "ICD-10 Coding",
+      "why": "ICD-10 is the standard diagnosis and inpatient procedure coding system in the US; any medical coder job will test your proficiency here."
+    },
+    {
+      "name": "CPT Coding (Current Procedural Terminology)",
+      "why": "CPT codes describe services and procedures for billing and reimbursement—employers need proof you can code accurately across specialties."
+    },
+    {
+      "name": "Medical Billing & Revenue Cycle",
+      "why": "Coders who understand how their work feeds into billing and claims reduce denials and improve practice revenue—a direct value proposition."
+    },
+    {
+      "name": "Electronic Health Records (EHR) Systems",
+      "why": "Most modern coding work happens in EHR platforms; naming the specific systems you've used (Epic, Cerner, Medidata) shows you're ready to contribute immediately."
+    },
+    {
+      "name": "Compliance & HIPAA Knowledge",
+      "why": "Healthcare is heavily regulated; demonstrating awareness of privacy laws and coding compliance standards signals you won't create liability."
+    },
+    {
+      "name": "Medical Terminology",
+      "why": "Strong grasp of anatomy, disease processes, and medical language is non-negotiable for accurate code assignment and preventing costly errors."
+    },
+    {
+      "name": "Attention to Detail & Accuracy",
+      "why": "One miscoded procedure can trigger denials or fraud flags; employers want evidence of your quality control mindset and error-catching track record."
+    },
+    {
+      "name": "Documentation Review & Clarification",
+      "why": "Coders often query clinicians for missing or ambiguous information; showing you can communicate with providers and improve documentation is a plus."
+    },
+    {
+      "name": "Coding Auditing & Quality Assurance",
+      "why": "Many positions require or prefer experience in auditing peer work, conducting compliance reviews, or identifying coding trends to improve processes."
+    },
+    {
+      "name": "AAPC or AHIMA Certification (CPC, CCS, RHIT)",
+      "why": "Industry credentials demonstrate commitment and competency; most mid-to-senior roles prefer or require active certification."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Coded medical records for hospital inpatient and outpatient services.",
+      "strong": "Assigned ICD-10, CPT, and HCPCS codes to 40–60 daily inpatient and outpatient records with 97%+ accuracy, reducing claim denials by 15–20% through proactive documentation queries.",
+      "lesson": "Adding volume, accuracy metrics, and business impact (denial reduction) transforms a task description into evidence of your value and competency."
+    },
+    {
+      "weak": "Used Epic EHR system to review and code patient records.",
+      "strong": "Navigated Epic EHR to extract clinical documentation, assigned specialty-specific codes (cardiology, orthopedics, oncology), and maintained 98% compliance with internal audit standards across 1,200+ annual records.",
+      "lesson": "Naming the EHR, specifying specialties, and quantifying compliance performance shows you're not just familiar with the tool—you excel with it in a real environment."
+    },
+    {
+      "weak": "Maintained knowledge of coding regulations and guidelines.",
+      "strong": "Stayed current with quarterly ICD-10 updates and CMS coding guidelines; earned AAPC CPC credential (active); led team training on new CPT codes, reducing coder rework by 10–12% within first month.",
+      "lesson": "Replace passive 'maintained knowledge' with active learning outcomes—certifications, training initiatives, and measurable improvements—that prove you drive change."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'medical coding' as a skill without specifying code types (ICD-10, CPT, HCPCS).",
+      "fix": "Always specify which coding systems and specialties you've coded; employers need to know your depth and breadth, not just that you 'code.'"
+    },
+    {
+      "mistake": "Burying certifications or letting them expire without calling attention to renewal.",
+      "fix": "Lead with active AAPC (CPC, CPMA), AHIMA (CCS, RHIT), or other relevant certifications near the top of your resume or in a dedicated credentials section; include renewal dates if in-date."
+    },
+    {
+      "mistake": "Omitting accuracy/quality metrics or claiming 'zero errors' without evidence.",
+      "fix": "Use realistic accuracy percentages (e.g., 96–99%), audit pass rates, or denial reduction metrics that hiring managers can verify and trust."
+    },
+    {
+      "mistake": "Not mentioning the EHR systems, billing software, or coding platforms you've mastered.",
+      "fix": "List specific tools (Epic, Cerner, Athena, Optum, TriZetto, etc.) in your skills or experience section—these are concrete signals of readiness and reduce onboarding time."
+    },
+    {
+      "mistake": "Focusing on duties instead of impact (e.g., 'handled appeals' rather than 'reduced appeal turnaround time').",
+      "fix": "Reframe every bullet around outcomes: faster processing, fewer denials, higher compliance, improved revenue, or stronger documentation—not just what you did."
+    }
+  ],
+  "structureTips": [
+    "Lead with a targeted summary or professional overview that mentions your coding credentials, top EHR/software platforms, and a key accuracy or revenue metric—set expectations early.",
+    "Place certifications (AAPC CPC, AHIMA CCS, RHIT, etc.) prominently, either in a 'Licenses & Certifications' section near the top or integrated into your professional summary.",
+    "Group coding experience by specialty (inpatient vs. outpatient, specific medical specialties) or by setting (hospital, clinic, ASC) if you've worked across multiple; this helps hiring managers quickly assess your breadth.",
+    "Include a dedicated 'Technical Skills' or 'Tools & Systems' section listing EHR platforms, coding software, billing systems, and any relevant databases—ATS scanners and hiring managers alike look for exact matches."
+  ],
+  "atsKeywords": [
+    "ICD-10 coding",
+    "CPT coding",
+    "medical billing",
+    "revenue cycle",
+    "EHR systems",
+    "HIPAA compliance",
+    "medical terminology",
+    "AAPC certification",
+    "AHIMA certification",
+    "coding auditing",
+    "claim denial reduction",
+    "healthcare documentation"
+  ],
+  "salarySignal": "Entry-level medical coders in the US typically earn $35,000–$45,000 annually; experienced coders with certifications and specialty expertise can reach $50,000–$65,000+, with remote and senior audit roles pushing higher.",
+  "faq": [
+    {
+      "q": "Do I need AAPC or AHIMA certification to get hired as a medical coder?",
+      "a": "Not always for entry-level positions, but most employers prefer or require it within 1–2 years. Holding an active CPC (AAPC), CCS, or RHIT credential significantly improves your marketability and earning potential. If you're not yet certified, list 'AAPC CPC candidate' or 'pursuing AHIMA CCS' on your resume."
+    },
+    {
+      "q": "Should I list my accuracy rate or denial reduction percentage on my resume?",
+      "a": "Yes—absolutely. Include metrics like '97% coding accuracy on internal audits' or 'reduced claim denials by 18% through improved documentation queries.' These prove competency and tangible business impact in a way generic descriptions cannot."
+    },
+    {
+      "q": "What if I've only coded in one specialty (e.g., orthopedics) or one setting (e.g., outpatient clinic)?",
+      "a": "Highlight your depth in that specialty—employers value expertise. Be specific: 'Coded 50+ daily orthopedic procedures, including complex surgical repairs, with 99% accuracy.' You can still position yourself for adjacent roles by mentioning transferable skills like your EHR mastery or documentation review experience."
+    },
+    {
+      "q": "How do I show I'm keeping up with ICD-10 and CPT updates?",
+      "a": "Mention continuing education (CE credits), attendance at coding conferences, or involvement in internal training on new code sets or regulatory changes. If you've led a team workshop or caught and corrected coding trends, include that—it signals proactive learning."
+    },
+    {
+      "q": "Should I include 'medical coder' or 'health information specialist' as my job title if my employer called it something else?",
+      "a": "Use your official job title, but in your summary or professional statement, clarify your role: 'Medical Coder and Documentation Specialist.' ATS systems search for standard titles, so mirroring the language in the job posting helps, but honesty in your actual title maintains credibility."
+    }
+  ]
+}

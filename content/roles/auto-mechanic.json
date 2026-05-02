@@ -1,0 +1,130 @@
+{
+  "slug": "auto-mechanic",
+  "title": "Auto Mechanic",
+  "category": "trades",
+  "generatedAt": "2026-05-02T22:59:24.000Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Auto Mechanic Resume: Tips & Examples",
+  "metaDescription": "Write a standout auto mechanic resume with certified skills, repair metrics, and ATS keywords. Land interviews faster with proven templates.",
+  "h1": "Auto Mechanic Resume: How to Stand Out",
+  "intro": "Your auto mechanic resume needs to show employers you can diagnose problems fast, work safely, and keep customers happy—not just that you know how to turn a wrench. We'll walk you through the skills, certifications, and bullet points that get interviews at dealerships, repair shops, and fleet services.",
+  "audience": "Trade school grads, vocational cert holders, and experienced technicians looking to move to better shops or dealerships.",
+  "topSkills": [
+    {
+      "name": "ASE Certification (A1–A9)",
+      "why": "ASE certs are the gold standard; most shops and dealerships filter candidates by this credential first."
+    },
+    {
+      "name": "Diagnostic Testing & Troubleshooting",
+      "why": "Employers want proof you can pinpoint problems with scanners and hand tools, not guess-and-check repair."
+    },
+    {
+      "name": "Preventive Maintenance",
+      "why": "Showing you can do oil changes, inspections, and routine work fast keeps shops profitable and customers returning."
+    },
+    {
+      "name": "Transmission & Engine Repair",
+      "why": "Major systems work commands higher wages and signals advanced technical skill."
+    },
+    {
+      "name": "Brake Systems & Suspension",
+      "why": "Safety-critical systems show you can handle liability and customer trust."
+    },
+    {
+      "name": "Electrical & HVAC Systems",
+      "why": "Modern vehicles rely on complex electrical; listing this expands your marketability."
+    },
+    {
+      "name": "OBD-II Scanner & Computer Diagnostics",
+      "why": "Shops need techs who can read trouble codes and work with onboard computer systems."
+    },
+    {
+      "name": "Shop Safety & Compliance",
+      "why": "OSHA awareness and hazmat handling show professionalism and reduce liability for employers."
+    },
+    {
+      "name": "Customer Communication",
+      "why": "Mechanics who explain repairs clearly and build trust upsell more work and get better reviews."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed oil changes and tire rotations on customer vehicles.",
+      "strong": "Completed routine maintenance (oil changes, tire rotations, filter replacements) on 15–20 vehicles per week, maintaining 98% first-pass quality and zero comebacks.",
+      "lesson": "Adding volume, quality metrics, and zero-defect track record proves efficiency and reliability."
+    },
+    {
+      "weak": "Diagnosed transmission problems using diagnostic tools.",
+      "strong": "Diagnosed and repaired 40+ transmission issues annually using OBD-II scanning and pressure testing, reducing diagnostic time from 3 hours to 1.5 hours per vehicle.",
+      "lesson": "Specific numbers on cases, tools used, and time saved show impact and technical depth."
+    },
+    {
+      "weak": "Maintained a safe and clean work area.",
+      "strong": "Achieved zero safety violations over 3 years; trained 4 junior technicians on OSHA hazmat protocols and proper tool storage, reducing incident reports by 100%.",
+      "lesson": "Turning compliance into leadership and measurable outcomes makes you stand out to shop managers."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certs without expiration or version numbers",
+      "fix": "Write 'ASE Certification (A1–A9, valid through 2027)' or 'EPA Section 608 Refrigerant Certification' so employers know your certs are current."
+    },
+    {
+      "mistake": "Vague descriptions like 'worked on vehicles' or 'fixed cars'",
+      "fix": "Always name the system (engine, brake, electrical), the diagnosis method (scanner, pressure test), and the outcome (fixed, customer returned, time saved)."
+    },
+    {
+      "mistake": "Ignoring dealership-specific experience or manufacturer training",
+      "fix": "If you've trained on Ford, GM, or Tesla systems, call it out—dealerships heavily prefer technicians with brand-specific knowledge."
+    },
+    {
+      "mistake": "Forgetting to quantify repeat business and customer reviews",
+      "fix": "Include metrics like 'maintained 40+ loyal customer accounts with zero complaints' or 'earned 4.9/5 star internal rating on 200+ repairs'."
+    },
+    {
+      "mistake": "Burying specialized skills (electrical, HVAC, transmission) in a generic summary",
+      "fix": "Create a dedicated 'Technical Skills' or 'Certifications' section near the top so recruiters spot your expertise immediately."
+    }
+  ],
+  "structureTips": [
+    "Lead with certifications and licenses (ASE, EPA, state inspection stamps) in a dedicated section at the top—shops scan for certs first.",
+    "Create a 'Technical Skills' section listing systems you're trained on (engine, transmission, brakes, electrical, HVAC) and diagnostic tools you use.",
+    "Organize work history by shop type (dealership, independent shop, fleet service) to show breadth; highlight the busiest, most complex shops prominently.",
+    "Include a 'Notable Achievements' or 'Awards' section if you have technician-of-the-month plaques, safety records, or formal training completions."
+  ],
+  "atsKeywords": [
+    "ASE Certified Technician",
+    "OBD-II Diagnostic Scanner",
+    "Engine Repair and Overhaul",
+    "Transmission Repair",
+    "Brake System Service",
+    "Electrical System Diagnosis",
+    "Preventive Maintenance",
+    "EPA Section 608 Certification",
+    "OSHA Compliance",
+    "Customer Communication and Upsell"
+  ],
+  "salarySignal": "Entry-level auto mechanics earn $28,000–$38,000 annually in the US; ASE-certified technicians and those at dealerships average $42,000–$65,000, with experienced specialists reaching $70,000+.",
+  "faq": [
+    {
+      "q": "Do I need ASE certification to list myself as an auto mechanic?",
+      "a": "Not legally, but most dealerships and larger shops require it—and it significantly boosts your resume. If you're working toward ASE, write 'ASE Certification (A1–A4 passed; A5–A9 in progress)' to show commitment. Entry-level independent shops may hire without it, but certified techs get better pay and job security."
+    },
+    {
+      "q": "What metrics should I put on an auto mechanic resume?",
+      "a": "Focus on volume (vehicles per week), quality (comebacks, first-pass rates), speed (diagnostic time reduction), customer satisfaction (ratings, retention), and safety (incident-free years, compliance audits passed). Avoid made-up numbers—use real data from your shop records."
+    },
+    {
+      "q": "Should I list the makes and models I've worked on?",
+      "a": "Yes, especially if you're targeting a dealership. Put 'Manufacturer Experience: Ford F-150, GM Silverado, Honda Civic, Tesla Model 3' in a dedicated line. Dealerships hire for specific brand expertise, so matching their inventory helps."
+    },
+    {
+      "q": "How do I describe complex diagnostic work on a resume?",
+      "a": "Use the format: 'System + Tool + Problem + Solution.' Example: 'Diagnosed electrical gremlins on 12+ vehicles using multimeter and wiring schematics, resolving alternator, starter, and charging system faults.' This shows depth without being too technical."
+    },
+    {
+      "q": "What should go in the summary section of an auto mechanic resume?",
+      "a": "Write a 2–3 line summary highlighting your top certification, years of hands-on experience, and a key strength (e.g., 'ASE-certified technician with 6 years diagnosing and repairing heavy-duty diesels; expert in transmission rebuilds and customer retention'). Keep it short and scannable."
+    }
+  ]
+}

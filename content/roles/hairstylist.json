@@ -1,0 +1,129 @@
+{
+  "slug": "hairstylist",
+  "title": "Hairstylist",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:58:11.192Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Hairstylist Resume: Skills & Tips to Land Your Next Job",
+  "metaDescription": "Write a standout hairstylist resume with proven bullets, key skills, and ATS keywords. Free tips for salon professionals seeking new roles.",
+  "h1": "How to Write a Hairstylist Resume That Gets You Hired",
+  "intro": "Your hairstylist resume needs to showcase your technical skills, client relationships, and business sense—not just your ability to cut and color. We'll walk you through the bullets, keywords, and structure that salon managers and owners actually look for.",
+  "audience": "Recent cosmetology school grads, licensed hairstylists looking to switch salons, and career changers entering the beauty industry.",
+  "topSkills": [
+    {
+      "name": "Hair Cutting & Styling",
+      "why": "This is your bread and butter; managers need proof you can execute cuts across multiple techniques and hair types."
+    },
+    {
+      "name": "Color Services",
+      "why": "Hair coloring (balayage, highlights, color correction) is often a high-margin service and a key differentiator for salons."
+    },
+    {
+      "name": "Client Retention & Relationship Building",
+      "why": "Salons survive on repeat clients; demonstrating your ability to build loyalty and book return appointments is critical."
+    },
+    {
+      "name": "Product Knowledge",
+      "why": "Familiarity with professional product lines (Olaplex, Davines, etc.) shows you take your craft seriously and can upsell."
+    },
+    {
+      "name": "Sanitation & Safety Compliance",
+      "why": "License requirements mandate proper sterilization and adherence to health codes; managers screen for this."
+    },
+    {
+      "name": "Social Media & Marketing",
+      "why": "Modern salons expect stylists to showcase work on Instagram and TikTok; it drives bookings and builds the salon's brand."
+    },
+    {
+      "name": "Cosmetology License",
+      "why": "Required by law in all US states; your resume must include your license number and state of licensure."
+    },
+    {
+      "name": "Sales & Retail",
+      "why": "Stylists who recommend and sell products increase salon revenue; managers value this income stream."
+    },
+    {
+      "name": "Chemical Treatments (Perms, Relaxers, Keratin)",
+      "why": "Advanced treatments command premium prices and set you apart as a versatile, skilled technician."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided hair styling services to clients and maintained cleanliness in the salon.",
+      "strong": "Maintained 85%+ client retention rate by building personalized relationships; booked return appointments and sold an average of $40–60 in retail products per client visit.",
+      "lesson": "Specificity and metrics (retention rate, dollar amounts) prove business impact, not just technical competence."
+    },
+    {
+      "weak": "Performed hair coloring services including highlights and balayage.",
+      "strong": "Executed 20–30 color services weekly (highlights, balayage, correction), reducing color correction callbacks by 15% through pre-consultation patch tests and detailed client notes.",
+      "lesson": "Volume + quality metric (fewer callbacks) signals speed, accuracy, and professionalism."
+    },
+    {
+      "weak": "Used social media to promote salon services.",
+      "strong": "Created and posted 3–4 styled looks weekly on Instagram and TikTok, generating 200–400 new client inquiries per quarter and contributing to a 25% boost in new bookings.",
+      "lesson": "Tie marketing activity to business outcomes (new inquiries, bookings) so managers see direct ROI."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Forgetting to list your cosmetology license number and state.",
+      "fix": "Always include your current license number and the state(s) where you're licensed, typically near the top under your name or in a credentials section."
+    },
+    {
+      "mistake": "Treating every service equally instead of highlighting high-value specialties.",
+      "fix": "Lead with your strongest and most profitable services (e.g., balayage, color correction, keratin treatments) and mention volume or client feedback for each."
+    },
+    {
+      "mistake": "Not mentioning product knowledge or retail sales.",
+      "fix": "Explicitly call out experience with specific professional product lines and average retail sales per client to show you understand the business side."
+    },
+    {
+      "mistake": "Ignoring client-facing soft skills and relationship-building.",
+      "fix": "Use phrases like 'built loyal clientele,' 'maintained 80%+ repeat bookings,' and 'received consistent 5-star reviews' to prove you keep clients coming back."
+    },
+    {
+      "mistake": "Omitting social media or online presence.",
+      "fix": "If you post styled looks on Instagram, TikTok, or LinkedIn, mention it by name and cite follower count or engagement metrics so managers know you can market the salon."
+    }
+  ],
+  "structureTips": [
+    "Place your cosmetology license and state certification at the top, right below your contact info—it's a legal requirement and hiring managers scan for it first.",
+    "Lead your experience section with your current or most recent salon role and emphasize retention rate, average client spending, and any specialty services you're known for.",
+    "Create a 'Core Skills' or 'Specialties' section listing techniques (e.g., balayage, color correction, Keratin treatments) and product lines you know; this helps ATS scanners and catches a manager's eye.",
+    "If you have social media presence or a portfolio (Instagram handle, website, or salon work photos), add a 'Online Portfolio' or 'Notable Work' line so managers can see your style and following."
+  ],
+  "atsKeywords": [
+    "Cosmetology license",
+    "Hair cutting and styling",
+    "Color services",
+    "Balayage",
+    "Hair color correction",
+    "Client retention",
+    "Keratin treatment",
+    "Product sales",
+    "Salon management"
+  ],
+  "salarySignal": "Entry-level hairstylists in the US typically earn $24,000–$32,000 annually, while experienced stylists with strong client books and specialty services can earn $35,000–$60,000+; commission structures and tips vary significantly by salon and location.",
+  "faq": [
+    {
+      "q": "Should I include my salon clientele or book size on my resume?",
+      "a": "Yes—if you have a strong following or regular client base, mention it. For example: 'Built and maintained active roster of 60–80 recurring clients' or 'Averaged 25–30 booked appointments weekly.' This signals stability and demand."
+    },
+    {
+      "q": "How do I list my portfolio or Instagram on a hairstylist resume?",
+      "a": "Add a line under your contact info or in a 'Online Portfolio' section with your Instagram handle, website URL, or link to a portfolio site. Keep it clean and current so managers can easily view your work."
+    },
+    {
+      "q": "Do I need to mention specific product brands I've used?",
+      "a": "Yes, if you have hands-on experience with professional lines like Olaplex, Davines, Redken, or Schwarzkopf, name them. Salons often use specific brands, so matching product knowledge is a plus."
+    },
+    {
+      "q": "What if I don't have formal salon experience yet—just cosmetology school?",
+      "a": "Lead with your license and school credential, then highlight practicum hours, models you worked with, and technical skills you've mastered. Mention any volunteer styling or internships. Once you land your first salon job, focus on client retention and sales."
+    },
+    {
+      "q": "How important is the social media/marketing skill for hairstylists?",
+      "a": "It's increasingly important, especially for salons wanting to grow their Instagram presence. If you can show a following or consistent posts of your work, it's a strong differentiator. Even a smaller, engaged following can impress managers."
+    }
+  ]
+}

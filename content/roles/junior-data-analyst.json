@@ -1,0 +1,126 @@
+{
+  "slug": "junior-data-analyst",
+  "title": "Junior Data Analyst",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:05:50.057Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Junior Data Analyst Resume: Skills & Examples",
+  "metaDescription": "Write a winning Junior Data Analyst resume with real examples, key skills, and ATS keywords hiring managers want to see.",
+  "h1": "Junior Data Analyst Resume: Tips, Examples & Templates",
+  "intro": "Landing your first data analyst role means showing you can turn raw data into actionable insights—even if you don't have years of experience yet. This guide breaks down exactly what hiring managers want to see on your resume, from the skills that matter most to the metrics-driven bullets that get interviews.",
+  "audience": "Recent graduates and career switchers making the jump into data analytics, often from bootcamps, internships, or adjacent fields like business or IT.",
+  "topSkills": [
+    {
+      "name": "SQL",
+      "why": "SQL is the foundation of data analysis; nearly every analyst role requires you to query, join, and manipulate databases on day one."
+    },
+    {
+      "name": "Data Visualization (Tableau, Power BI)",
+      "why": "Hiring managers want to see you can turn numbers into dashboards and charts that non-technical stakeholders actually understand."
+    },
+    {
+      "name": "Excel (VLOOKUP, Pivot Tables, Advanced Formulas)",
+      "why": "Excel is still the workhorse of analytics; proficiency signals you can clean, organize, and analyze data independently."
+    },
+    {
+      "name": "Python or R",
+      "why": "Statistical programming languages set you apart from junior analysts and open doors to more advanced, automation-heavy roles."
+    },
+    {
+      "name": "Data Cleaning & Preparation",
+      "why": "Most analysts spend 60–80% of their time preparing messy data; showing you can do this efficiently is a huge hiring signal."
+    },
+    {
+      "name": "Google Analytics",
+      "why": "For tech or e-commerce roles, hands-on GA experience shows you understand user behavior and can track real-world business metrics."
+    },
+    {
+      "name": "Statistical Analysis & A/B Testing",
+      "why": "Demonstrating you grasp hypothesis testing and experimentation design differentiates you and appeals to growth-focused teams."
+    },
+    {
+      "name": "Business Acumen & Problem-Solving",
+      "why": "Analysts who connect data findings to revenue, cost savings, or user retention impact are more valuable than those who just report numbers."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Analyzed customer data and created reports in Excel using various functions to help the marketing team understand trends.",
+      "strong": "Analyzed 50K+ customer transaction records using SQL and Excel pivot tables to identify top revenue segments; insights increased targeted campaign ROI by 22% YoY.",
+      "lesson": "Weak bullets lack numbers and business impact; strong ones lead with the size of data handled, the specific tool, and the measurable outcome."
+    },
+    {
+      "weak": "Built dashboards in Tableau to visualize sales data for stakeholders.",
+      "strong": "Designed 5 Tableau dashboards tracking monthly sales, pipeline velocity, and forecast accuracy; reduced reporting time from 6 hours to 30 minutes weekly and identified $400K in at-risk deals.",
+      "lesson": "Adding the number of dashboards, the time savings, and a tangible business win (at-risk deals) turns a generic task into a concrete achievement."
+    },
+    {
+      "weak": "Cleaned datasets and prepared data for analysis using Python.",
+      "strong": "Cleaned and validated 2M+ rows of raw marketing event data using Python (Pandas); resolved 15 data quality issues that had skewed prior campaign ROI calculations by 8–10%.",
+      "lesson": "Specific tools (Pandas), data volume, and the direct impact of your cleanup work (correcting flawed analyses) make the bullet credible and memorable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context (e.g., 'Proficient in SQL, Python, Tableau').",
+      "fix": "Always pair tools with a specific deliverable or outcome—what did you *do* with SQL, and what was the result?"
+    },
+    {
+      "mistake": "Focusing on responsibilities instead of results (e.g., 'Responsible for creating weekly reports').",
+      "fix": "Reframe to highlight impact: which reports, how did they inform decisions, and what changed because of your work?"
+    },
+    {
+      "mistake": "Not quantifying your work (data volumes, time saved, percentage improvements).",
+      "fix": "Even rough estimates matter—mention row counts, stakeholder counts, percentage changes, or time saved to show scale."
+    },
+    {
+      "mistake": "Omitting soft skills or collaboration.",
+      "fix": "Include one bullet per role showing how you communicated findings to non-technical teams or influenced a business decision with data."
+    },
+    {
+      "mistake": "Leading with coursework or certifications instead of projects with outcomes.",
+      "fix": "Prioritize real deliverables (internship projects, portfolio analyses, competitions) that prove you can ship work that matters."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief 'Technical Skills' section (SQL, Python, Tableau, Excel, etc.) so recruiters and ATS systems spot your toolkit immediately—many screening tools scan this section first.",
+    "Place your strongest, most recent internship or project experience near the top of your work history, even if it's unpaid or part of a bootcamp; hiring managers care about your latest hands-on wins.",
+    "Create a 'Projects' or 'Data Analysis Portfolio' section featuring 2–3 standalone analyses or dashboards with links to GitHub repos or portfolio sites; junior analysts benefit from proving they can deliver end-to-end work.",
+    "If you have limited work experience, expand your education section to include relevant coursework (e.g., 'Statistics for Data Analysis,' 'Introduction to Data Engineering') and certifications (Google Analytics, Tableau Public, SQL bootcamp)—this signals commitment and fills experience gaps."
+  ],
+  "atsKeywords": [
+    "SQL",
+    "Data visualization",
+    "Tableau",
+    "Power BI",
+    "Python",
+    "Excel",
+    "Data cleaning",
+    "Statistical analysis",
+    "Business intelligence",
+    "A/B testing"
+  ],
+  "salarySignal": "Entry-level US salaries for Junior Data Analysts typically range from $50K to $65K in 2026, with variation based on location (metro areas higher) and company size.",
+  "faq": [
+    {
+      "q": "Do I need a degree to get a Junior Data Analyst job?",
+      "a": "No, but you need a portfolio. Many junior analysts come from bootcamps, self-study, or adjacent degrees (business, stats, CS). Build 2–3 public projects on GitHub or Tableau Public that show real analysis skills—those matter more than a diploma."
+    },
+    {
+      "q": "What's the best way to gain experience as a new grad?",
+      "a": "Internships are gold, but if you can't land one, create your own: analyze public datasets, build dashboards, write SQL queries, and document your process. Contribute to open data projects on GitHub or Kaggle competitions to prove you can work with real, messy data."
+    },
+    {
+      "q": "Should I include my university GPA or coursework on my resume?",
+      "a": "Only include GPA if it's above 3.7; otherwise, skip it. Do list relevant coursework (statistics, data management, business analytics) and certifications (Google Analytics, Tableau Public, SQL certifications) to show domain knowledge."
+    },
+    {
+      "q": "How many skills should I list on a Junior Data Analyst resume?",
+      "a": "Focus on 8–12 core skills you can actually demo or talk through. Depth beats breadth—hiring managers prefer one strong Python skill over claiming fluency in 15 languages. Only list tools you've genuinely used in projects."
+    },
+    {
+      "q": "What if I've never worked with real company data?",
+      "a": "Use public datasets (Kaggle, Google Dataset Search, GitHub) and replicate real-world scenarios (customer segmentation, sales forecasting, ad performance). Document your methodology, results, and takeaways as if you were advising a business—that narrative is what interviews dig into."
+    }
+  ]
+}

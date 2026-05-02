@@ -1,0 +1,130 @@
+{
+  "slug": "hr-generalist",
+  "title": "HR Generalist",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:45:18.085Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "HR Generalist Resume: Template & Tips for 2026",
+  "metaDescription": "Land your HR Generalist role with actionable resume tips, strong bullet examples, and ATS keywords that hiring managers actually search for.",
+  "h1": "HR Generalist Resume: How to Stand Out to Hiring Managers",
+  "intro": "An HR Generalist resume needs to show you can juggle recruitment, employee relations, compliance, and payroll—all at once. We'll walk you through the exact bullets, skills, and structure that hiring managers use to spot someone ready to own the full employee lifecycle.",
+  "audience": "Recent HR graduates, career changers from admin or operations roles, and HR coordinators leveling up to generalist positions.",
+  "topSkills": [
+    {
+      "name": "Recruitment & Talent Acquisition",
+      "why": "Hiring managers need to know you can source, screen, and onboard talent efficiently without relying on external recruiters."
+    },
+    {
+      "name": "Employee Relations & Conflict Resolution",
+      "why": "This signals you can handle day-to-day employee issues, mediate disputes, and maintain workplace morale."
+    },
+    {
+      "name": "HRIS & HR Systems (ADP, Workday, BambooHR)",
+      "why": "Most roles require hands-on experience managing employee data, benefits administration, and payroll through software platforms."
+    },
+    {
+      "name": "Compliance & Labor Law Knowledge",
+      "why": "Companies want someone who understands employment law, EEOC regulations, and can keep the organization out of legal trouble."
+    },
+    {
+      "name": "Benefits Administration & Policy Development",
+      "why": "You'll likely manage health insurance enrollment, 401(k) plans, and create/update company policies regularly."
+    },
+    {
+      "name": "Onboarding & Training Program Management",
+      "why": "Structuring a good onboarding process directly impacts retention and reduces time-to-productivity for new hires."
+    },
+    {
+      "name": "Performance Management & Feedback",
+      "why": "Companies need someone who can design performance review systems and coach managers on effective feedback conversations."
+    },
+    {
+      "name": "Data Analysis & HR Metrics (turnover, engagement, cost-per-hire)",
+      "why": "Modern HR roles require you to back up decisions with data—showing ROI on hiring, retention, and culture initiatives."
+    },
+    {
+      "name": "Diversity, Equity & Inclusion (DEI) Initiatives",
+      "why": "Most organizations are actively building DEI programs; showing you've led or contributed to these efforts is a differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for recruiting and hiring new employees for the company.",
+      "strong": "Sourced and hired 40+ employees across 8 departments in 12 months, reducing average time-to-fill from 45 to 28 days and cutting cost-per-hire by 25% through optimized job posting strategy.",
+      "lesson": "Adding specific numbers (headcount, timeframe, improvement %), using action verbs, and showing business impact transforms a generic responsibility into proof you drive results."
+    },
+    {
+      "weak": "Managed benefits and payroll for all employees.",
+      "strong": "Administered benefits for 250+ employees including health insurance, 401(k), and FSA enrollment; resolved 95% of benefits inquiries within 24 hours and achieved 98% payroll accuracy across biweekly cycles.",
+      "lesson": "Quantifying scale (250+ employees) and outcome metrics (98% accuracy, 24-hour resolution) shows you can handle complexity and deliver reliability."
+    },
+    {
+      "weak": "Handled employee relations and resolved workplace conflicts.",
+      "strong": "Investigated and mediated 12+ formal employee complaints, achieving 100% resolution rate without escalation to legal; conducted exit interviews with 30+ departing employees to identify retention gaps and presented findings to leadership.",
+      "lesson": "Showing volume, outcome (100% resolution), and business insight (actionable findings) proves you don't just put out fires—you learn from them."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing HR duties without business context or impact.",
+      "fix": "Every bullet should show *what* you did, *how many* you handled, and *what changed* as a result—even if it's improved speed, reduced cost, or prevented turnover."
+    },
+    {
+      "mistake": "Overloading the resume with compliance jargon without connecting to real work.",
+      "fix": "Drop the HR textbook language; instead, describe a specific compliance win (e.g., 'Audited payroll records and corrected 5 misclassification errors before DOL inspection')."
+    },
+    {
+      "mistake": "Not showing HRIS or system proficiency clearly enough.",
+      "fix": "Create a dedicated 'Technical Skills' or 'Tools' section listing specific platforms you've used (Workday, ADP, BambooHR, Greenhouse, etc.)—ATS scans for these."
+    },
+    {
+      "mistake": "Focusing only on recruitment when generalist roles are much broader.",
+      "fix": "Balance your bullets across recruitment, employee relations, benefits, compliance, and learning & development to reflect the full scope of a generalist role."
+    },
+    {
+      "mistake": "Missing numbers on things that are countable (employees managed, hiring goals, retention improvements).",
+      "fix": "Go back through your work history and quantify everything—headcount, budget, time saved, retention rate, engagement score, or policy rollout reach."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line professional summary that nails the generalist identity: 'HR Generalist with 4+ years driving full-cycle recruitment, employee relations, and compliance for 200+ person orgs' signals scope right away.",
+    "Put HR systems & tools in a prominent 'Technical Skills' section near the top; ATS and hiring managers search for specific platform names (Workday, BambooHR, Greenhouse, Paycor, etc.).",
+    "Order your work experience bullets by impact, not chronology—lead with your biggest hiring win or most complex employee relations case, then move to day-to-day operations.",
+    "If you have HR certifications (PHR, SHRM-CP, or CIPD), place them in a 'Certifications' section immediately after education; these are keyword triggers many companies filter for."
+  ],
+  "atsKeywords": [
+    "HR Generalist",
+    "Talent Acquisition",
+    "Employee Relations",
+    "HRIS Administration",
+    "Compliance & Employment Law",
+    "Benefits Administration",
+    "Performance Management",
+    "Recruitment",
+    "Payroll Processing",
+    "Onboarding & Training"
+  ],
+  "salarySignal": "Entry-level HR Generalist positions in the US typically range from $45,000 to $55,000; mid-level generalists (3–5 years) earn $55,000 to $75,000, with regional and company-size variations.",
+  "faq": [
+    {
+      "q": "What's the difference between an HR Coordinator and an HR Generalist on a resume?",
+      "a": "An HR Coordinator handles specific tasks (payroll, posting jobs, scheduling interviews); an HR Generalist owns full-cycle ownership of multiple HR functions and makes strategic recommendations. On your resume, show decision-making, cross-functional projects, and measurable business impact—not just task completion."
+    },
+    {
+      "q": "Do I need an HR certification to land an HR Generalist job?",
+      "a": "Not always required, but PHR (Professional in Human Resources) or SHRM-CP (Certified Professional) significantly boost your candidacy, especially for mid-level roles. If you don't have one yet, mention in your summary that you're pursuing certification or have completed coursework."
+    },
+    {
+      "q": "How should I show HRIS experience if I've only used one system?",
+      "a": "List the specific platform (e.g., 'ADP Workforce Now') with concrete responsibilities: data entry, reporting, employee self-service support, integrations, or audit work. If you've used multiple systems, list all of them; hiring managers know skills transfer across platforms."
+    },
+    {
+      "q": "Should I include DEI or culture initiatives on my HR Generalist resume?",
+      "a": "Yes—if you've led, contributed to, or supported DEI programs, hiring, or culture work, call it out with metrics: 'Developed and launched mentorship program for underrepresented groups, enrolling 25 employees' or 'Coordinated quarterly town halls reaching 300+ staff.' This shows you think beyond compliance."
+    },
+    {
+      "q": "What metrics matter most for an HR Generalist role?",
+      "a": "Time-to-fill (how fast you hire), cost-per-hire, employee retention rate, onboarding completion time, and benefits enrollment rates are gold. Also quantify scale: headcount managed, policy rollouts, conflict resolutions, and training attendance—these prove scope and impact."
+    }
+  ]
+}

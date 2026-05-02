@@ -1,0 +1,134 @@
+{
+  "slug": "sous-chef",
+  "title": "Sous Chef",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:53:13.405Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Sous Chef Resume: Skills, Templates & Examples",
+  "metaDescription": "Write a standout sous chef resume with proven formulas, metrics, and ATS keywords. See strong vs. weak bullet examples tailored to kitchens.",
+  "h1": "Sous Chef Resume: How to Stand Out to Head Chefs & Kitchen Managers",
+  "intro": "A sous chef resume needs to show you can lead a kitchen line, maintain food standards, and keep the team sharp under pressure. We'll walk you through the skills, bullets, and structure that make head chefs and restaurant GMs actually call you back.",
+  "audience": "Career switchers moving into culinary management, line cooks eyeing their first sous chef role, and culinary school grads looking to fast-track to kitchen leadership.",
+  "topSkills": [
+    {
+      "name": "Kitchen Leadership & Staff Management",
+      "why": "Head chefs need to know you can train, motivate, and manage 5–20+ line cooks, delegating tasks and solving conflicts without escalating."
+    },
+    {
+      "name": "Food Cost Control & Inventory Management",
+      "why": "Restaurants measure sous chefs by their ability to reduce waste, manage food costs, and track inventory—this directly impacts profitability."
+    },
+    {
+      "name": "Cuisine-Specific Expertise (French, Italian, Asian, etc.)",
+      "why": "Naming your specialized cuisine (e.g., French classical, Japanese kaiseki) signals you have deep technique and can mentor others in that style."
+    },
+    {
+      "name": "Line Management & Plating Standards",
+      "why": "You must maintain consistent plating, portion control, and food quality across every service; head chefs rely on your eye and standards."
+    },
+    {
+      "name": "Prep & Production Scheduling",
+      "why": "Sous chefs organize prep schedules, mise en place, and production timelines—hiring managers want proof you've planned for high-volume services."
+    },
+    {
+      "name": "Food Safety & Hygiene Certification (HACCP, ServSafe)",
+      "why": "These certifications are table stakes; listing them signals you follow protocol and can train staff on compliance."
+    },
+    {
+      "name": "Menu Development & Recipe Costing",
+      "why": "Many sous chefs contribute to menu engineering or seasonal specials; showing this expands your value beyond daily operations."
+    },
+    {
+      "name": "POS & Kitchen Management Systems",
+      "why": "Familiarity with Toast, MarginEdge, or similar tech shows you can bridge kitchen and front-of-house data—a growing expectation."
+    },
+    {
+      "name": "Cross-Training & Team Development",
+      "why": "Head chefs want sous chefs who actively build the next generation of cooks, reducing turnover and raising overall kitchen skill."
+    },
+    {
+      "name": "High-Volume Service Execution",
+      "why": "Explicit mention of covers-per-service or peak-hour management proves you've thrived in fast-paced, high-stress environments."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed kitchen staff and made sure food came out on time during service.",
+      "strong": "Led 12-person line team through 200+ covers/night, executing 95%+ on-time plates while maintaining plating standards and reducing food waste by 18% YoY.",
+      "lesson": "Adding team size, service volume, and a specific outcome (waste reduction) transforms vague management into measurable leadership."
+    },
+    {
+      "weak": "Trained new cooks on kitchen procedures and recipes.",
+      "strong": "Structured 4-week onboarding curriculum for 8 new hires per quarter; 85% advanced to independent station work within 90 days, improving kitchen retention by 22%.",
+      "lesson": "Quantifying the training pipeline (frequency, success rate, retention impact) proves you're developing talent, not just babysitting."
+    },
+    {
+      "weak": "Helped reduce food costs.",
+      "strong": "Audited supplier contracts and implemented portion-control protocols, reducing COGS by 6% ($28K annually) while maintaining menu quality and customer satisfaction scores.",
+      "lesson": "Combining percentage savings with dollar value and a guardrail (quality/satisfaction) shows you optimize without cutting corners."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'duties' instead of outcomes",
+      "fix": "Replace 'prepared mise en place' with 'organized and verified mise en place for 12-station line, eliminating 99% of mid-service shortages.'"
+    },
+    {
+      "mistake": "Vague food-cost claims without context",
+      "fix": "Always pair cost savings with timeframe and method: 'reduced waste 12% in 6 months through inventory audits and staff retraining on portioning.'"
+    },
+    {
+      "mistake": "Forgetting to mention specific cuisines or restaurant types",
+      "fix": "Name it: 'French Michelin-style' or 'Japanese kaiseki' or 'Scandinavian fine dining'—not just 'prepared food.'"
+    },
+    {
+      "mistake": "Omitting certifications or soft skills like conflict resolution",
+      "fix": "Explicitly list 'ServSafe Food Handler, HACCP Certified' and add a bullet on how you've handled kitchen conflicts or mentored difficult personalities."
+    },
+    {
+      "mistake": "Underplaying kitchen system or tech skills",
+      "fix": "Mention any POS, inventory, or scheduling software you've used or learned—it signals you're adaptable and reduce head chef's onboarding burden."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Kitchen Leadership' or 'Sous Chef' summary (3–4 lines) that names your cuisine specialty, team size, and service volume—e.g., 'Classically trained sous chef with 5+ years leading high-volume French kitchens, managing 8–15 cooks and 150–250 covers/night.'",
+    "Place certifications (ServSafe, HACCP, knife skills, formal culinary training) in a dedicated section near the top—recruiters scan for these first.",
+    "Group your work history by cuisine type or restaurant size so hiring managers instantly see you can scale (fine dining → casual, or vice versa).",
+    "Add a 'Key Achievements' or 'Results' subsection under your most recent role—highlight 2–3 quantified wins (cost reduction, staff development, menu contribution) before listing day-to-day duties."
+  ],
+  "atsKeywords": [
+    "sous chef leadership",
+    "line kitchen management",
+    "food cost control",
+    "kitchen staff training",
+    "high-volume service",
+    "prep and production scheduling",
+    "ServSafe certified",
+    "HACCP food safety",
+    "menu development",
+    "plating and presentation standards"
+  ],
+  "salarySignal": "Entry-level sous chef positions in the US typically start at $35K–$45K annually; experienced sous chefs in major metros (NYC, SF, LA) and fine-dining settings earn $50K–$70K+ plus benefits, with potential bonuses tied to food cost and staff retention.",
+  "faq": [
+    {
+      "q": "What's the difference between a line cook and a sous chef resume?",
+      "a": "A sous chef resume emphasizes leadership, staff management, cost control, and kitchen operations—not just technical cooking skills. Line cooks focus on speed and technique at a single station; sous chefs focus on scaling the whole team and hitting financial targets."
+    },
+    {
+      "q": "Should I list every menu item I've prepared?",
+      "a": "No. Instead, name your cuisine specialty (French, Japanese, Mediterranean) and highlight 1–2 signature dishes or techniques you're known for. Hiring managers want to know your style and depth, not an exhaustive list."
+    },
+    {
+      "q": "How do I quantify kitchen leadership if I don't have exact numbers?",
+      "a": "Estimate conservatively—'managed 8–10 line cooks,' 'executed 150–200 covers/service,' 'trained 5–6 new hires per quarter.' Add outcomes like 'reduced turnover by 25%' or 'maintained 95%+ on-time plates' to back up your leadership claim."
+    },
+    {
+      "q": "Is a culinary degree required, or can I get hired with certifications?",
+      "a": "A formal culinary degree helps, but it's not required. Strong experience + ServSafe + HACCP + demonstrated kitchen leadership will land interviews. List any courses, apprenticeships, or professional certifications (e.g., ACF certification) prominently if you don't have a degree."
+    },
+    {
+      "q": "How do I show I'm ready for a head chef or executive chef role?",
+      "a": "Highlight menu development contributions, cost-saving initiatives, kitchen renovation or system upgrades you led, and successful recruitment/retention projects. Show you think like an owner, not just an operator."
+    }
+  ]
+}

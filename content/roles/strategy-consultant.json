@@ -1,0 +1,130 @@
+{
+  "slug": "strategy-consultant",
+  "title": "Strategy Consultant",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:46:36.550Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Strategy Consultant Resume Guide: Stand Out in 2025",
+  "metaDescription": "Learn how to write a Strategy Consultant resume that impresses hiring managers. Examples, skills, and ATS keywords included.",
+  "h1": "How to Write a Strategy Consultant Resume That Lands Interviews",
+  "intro": "Strategy Consultant roles are competitive, and your resume needs to prove you can drive business impact from day one. This guide shows you exactly how to frame your experience, highlight the right skills, and get past ATS systems so hiring managers actually see your candidacy.",
+  "audience": "Recent MBA graduates, management consultants pivoting to corporate strategy roles, and business analysts ready to step into strategic planning positions.",
+  "topSkills": [
+    {
+      "name": "Business Strategy & Planning",
+      "why": "Hiring managers want to see you can develop long-term roadmaps and competitive positioning, not just execute tactics."
+    },
+    {
+      "name": "Data Analysis & Insights",
+      "why": "Strategy decisions must be backed by numbers; consultants who lead with data-driven findings stand out."
+    },
+    {
+      "name": "Market Research & Competitive Analysis",
+      "why": "Demonstrating your ability to assess market landscapes and identify white-space opportunities is core to the role."
+    },
+    {
+      "name": "Cross-functional Stakeholder Management",
+      "why": "Strategy consultants must influence teams across sales, product, finance, and ops—this skill signals leadership."
+    },
+    {
+      "name": "Financial Acumen & P&L Understanding",
+      "why": "You need to speak the language of revenue, margins, and ROI to be credible in strategic discussions."
+    },
+    {
+      "name": "Scenario Planning & Modeling",
+      "why": "Showing experience building financial models, forecasts, or 'what-if' analyses demonstrates strategic rigor."
+    },
+    {
+      "name": "Change Management & Implementation",
+      "why": "Ideas matter less than execution; consultants who've led strategy adoption and organizational change are valued."
+    },
+    {
+      "name": "Presentation & Communication Skills",
+      "why": "Strategy work lives in decks and boardroom pitches; your resume should signal ability to simplify complex ideas."
+    },
+    {
+      "name": "Industry-Specific Expertise",
+      "why": "Deep knowledge of your target industry (tech, healthcare, finance, etc.) makes you immediately relevant."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on strategic initiatives and helped leadership team make better decisions.",
+      "strong": "Led market entry strategy for 3 new geographies, resulting in $12M+ revenue pipeline and informing go-to-market roadmap for FY2025.",
+      "lesson": "Specific numbers, clear business outcome, and named deliverable replace vague language and show tangible impact."
+    },
+    {
+      "weak": "Conducted competitive analysis and presented findings to the executive team.",
+      "strong": "Analyzed 15 competitors across pricing, feature set, and customer acquisition; identified $8M whitespace opportunity in mid-market segment, driving product roadmap shift and 40% increase in qualified leads.",
+      "lesson": "Quantified scope (15 competitors), tied analysis to a concrete business result, and showed how recommendations influenced strategy."
+    },
+    {
+      "weak": "Improved operational efficiency through process improvements.",
+      "strong": "Redesigned sales pipeline workflows and implemented CRM governance protocols, reducing deal cycle by 25% and improving forecast accuracy from 70% to 92% quarterly.",
+      "lesson": "Specific process, metrics before and after, and business value (faster deals + better predictability) make the impact undeniable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing activities instead of outcomes",
+      "fix": "Every bullet should answer 'so what?'—always tie your work to a business result (revenue, cost savings, market position, growth rate)."
+    },
+    {
+      "mistake": "Over-relying on consulting jargon",
+      "fix": "Skip buzzwords like 'synergy' and 'leverage'; instead use concrete nouns and active verbs that show what you actually did and what changed."
+    },
+    {
+      "mistake": "Downplaying financial or analytical skills",
+      "fix": "Lead with modeling, forecasting, or budget ownership; strategy roles require quantitative credibility, so make your financial contributions visible early."
+    },
+    {
+      "mistake": "Not showing cross-functional influence",
+      "fix": "Strategy work lives at intersections—highlight how you partnered with product, sales, finance, or ops to align stakeholders and move strategy forward."
+    },
+    {
+      "mistake": "Leaving implementation details out",
+      "fix": "Hiring managers care about ideas AND execution; show how you moved from recommendation to adoption, including rollout scope and adoption metrics."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most strategic roles and biggest business impacts—hiring managers scan the first 3 bullets per role, so put revenue, market, or efficiency wins first.",
+    "Group skills into categories (e.g., 'Strategy & Planning,' 'Analytics & Modeling,' 'Stakeholder Leadership') so ATS and humans both instantly see your strategic capability.",
+    "If you have an MBA or relevant certifications, place them prominently near the top—strategy roles value education and frameworks heavily.",
+    "Use a brief 'Core Competencies' or 'Key Skills' section with 8–12 phrases that mirror job descriptions; strategy hiring managers search for exact terms like 'market entry strategy' and 'financial modeling.'"
+  ],
+  "atsKeywords": [
+    "business strategy",
+    "market entry strategy",
+    "competitive analysis",
+    "financial modeling",
+    "cross-functional leadership",
+    "strategic planning",
+    "go-to-market strategy",
+    "stakeholder management",
+    "scenario planning",
+    "revenue growth"
+  ],
+  "salarySignal": "Entry-level Strategy Consultant roles in the US typically range from $75K–$95K; mid-level positions (3–5 years) span $110K–$160K; director-level strategy roles exceed $180K plus bonus.",
+  "faq": [
+    {
+      "q": "What should I put first on a strategy consultant resume—education or experience?",
+      "a": "If you have relevant experience (2+ years in strategy, product, or consulting), lead with that. If you're a fresh MBA grad or career switcher, you can lead with education or a strong summary. Either way, make sure your experience section shows at least one concrete strategic win in the first 3 bullets."
+    },
+    {
+      "q": "How do I show strategy impact if I haven't worked in a formal strategy role?",
+      "a": "Reframe your experience: product managers can highlight market launches and roadmap decisions, finance analysts can showcase forecasting and cost optimization, and business developers can emphasize partnership strategy and revenue modeling. The key is showing you've influenced decisions, not just executed them."
+    },
+    {
+      "q": "Should I include metrics for every bullet point?",
+      "a": "Yes, aim for at least one quantified outcome per role (revenue impact, timeline improvement, market share, cost savings). If a metric isn't available, describe the strategic importance—e.g., 'shaped company's pivot into enterprise segment' is acceptable if you also note that it became a core revenue driver."
+    },
+    {
+      "q": "What's the best way to talk about consulting experience on a strategy resume?",
+      "a": "Lead with client impact and project outcomes, not hours billed. Example: 'Advised Fortune 500 healthcare company on digital transformation, recommending cloud-first architecture that reduced infrastructure costs by 35% and enabled 18-month product roadmap acceleration.' Frame yourself as a business strategist, not a time-and-materials vendor."
+    },
+    {
+      "q": "How do I stand out if I'm competing against MBAs and I don't have one?",
+      "a": "Emphasize depth of strategic execution and measurable impact over pedigree. Highlight industry expertise, financial acumen (modeling, P&L ownership), and cross-functional influence. If applicable, mention strategic certifications (e.g., product management, data analytics) and lead with your biggest wins to show you've delivered strategy-level results."
+    }
+  ]
+}

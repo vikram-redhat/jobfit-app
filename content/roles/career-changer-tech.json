@@ -1,0 +1,126 @@
+{
+  "slug": "career-changer-tech",
+  "title": "Career Changer to Tech",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:07:09.069Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Career Changer to Tech Resume: Templates & Tips 2024",
+  "metaDescription": "Build a tech resume as a career changer. Learn how to reframe skills, highlight projects, and land your first tech role—with real examples.",
+  "h1": "Career Changer to Tech Resume: How to Reframe Your Experience",
+  "intro": "Switching careers into tech is totally doable—but your resume needs to tell that story clearly. This guide shows you how to translate your previous experience into tech-relevant skills, highlight your learning journey, and convince hiring managers you're serious about the shift.",
+  "audience": "Career changers from non-tech fields (finance, marketing, education, etc.) who've completed bootcamps, certifications, or self-study and are applying to their first tech roles.",
+  "topSkills": [
+    {
+      "name": "Technical Proficiency (Languages, Frameworks, Tools)",
+      "why": "Hiring managers need proof you can actually code or work in your target tech area—this is non-negotiable for career changers."
+    },
+    {
+      "name": "Portfolio Projects & GitHub Links",
+      "why": "Since you lack professional tech experience, real projects are your best proof of capability; they're often reviewed before the interview."
+    },
+    {
+      "name": "Problem-Solving & Debugging",
+      "why": "Career changers must show they can think like engineers; this skill transfers across all tech roles and eases hiring manager concerns."
+    },
+    {
+      "name": "Cross-Functional Communication",
+      "why": "Your non-tech background is actually an asset—emphasize how you bridge business and technical worlds better than someone who's only ever coded."
+    },
+    {
+      "name": "Bootcamp or Self-Directed Learning",
+      "why": "Hiring managers want to see intentional, structured learning; bootcamps or course certificates lend credibility to your pivot."
+    },
+    {
+      "name": "Collaboration & Version Control (Git)",
+      "why": "Most tech roles require team workflows; showing Git fluency and open-source or team project experience signals you're ready to collaborate."
+    },
+    {
+      "name": "Domain Knowledge From Previous Role",
+      "why": "Don't hide your old career—your finance, healthcare, or nonprofit background can set you apart and help you contribute unique perspective."
+    },
+    {
+      "name": "Continuous Learning & Agility",
+      "why": "Tech moves fast; highlighting how you stayed curious and adapted in your old role shows you'll thrive in a fast-paced tech environment."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Completed a coding bootcamp and learned JavaScript and React.",
+      "strong": "Built 3 full-stack web apps using React, Node.js, and MongoDB during intensive 12-week bootcamp; deployed to Heroku and GitHub; earned 95% on capstone project.",
+      "lesson": "Specificity and metrics prove you actually shipped things; vague statements sound like you just attended without retention."
+    },
+    {
+      "weak": "Used my marketing background to help with product discussions.",
+      "strong": "Translated customer feedback from 50+ user interviews into 12 prioritized features for mobile app roadmap; collaborated with 2 engineers to scope feasibility and timelines.",
+      "lesson": "Quantify your cross-functional impact; show you added value *because* you came from a different field, not despite it."
+    },
+    {
+      "weak": "Self-taught Python and completed several online courses.",
+      "strong": "Self-taught Python over 6 months; built data cleaning pipeline that processed 100K+ records for personal finance project; contributed 8 pull requests to open-source Python library; earned 90% on DataCamp SQL certification.",
+      "lesson": "Replace course listings with outcomes—projects, contributions, and verified skills tell hiring managers what you can actually do."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Hiding or downplaying your previous career",
+      "fix": "Lead with your tech learning and projects, but explicitly connect your old role to new skills—e.g., 'Finance analyst turned full-stack dev; used Excel/SQL expertise to accelerate backend data work.'"
+    },
+    {
+      "mistake": "Listing courses or certifications without outcomes",
+      "fix": "Skip 'Completed online course X' and instead describe the project you built or skill you proved—'Built weather app using free API; deployed to GitHub Pages.'"
+    },
+    {
+      "mistake": "Not including links to GitHub, portfolio, or deployed projects",
+      "fix": "Career changers *must* link your work; add a Portfolio or GitHub section with 2–3 polished repos and a brief live demo link for each."
+    },
+    {
+      "mistake": "Keeping generic 'Skills' sections without context",
+      "fix": "For each skill, note *how* you used it—e.g., 'React.js: Built 2-player game for bootcamp capstone; component-based architecture.' This proves depth."
+    },
+    {
+      "mistake": "Treating bootcamp or self-study as a job instead of learning milestones",
+      "fix": "Include a dedicated 'Education' or 'Training' section with the program name, duration, and key technologies—but don't list it as work experience."
+    }
+  ],
+  "structureTips": [
+    "Lead with a short Professional Summary or Objective (2–3 lines) that names your career shift and signals your tech stack—e.g., 'Career changer with 5 years in operations; newly trained full-stack developer skilled in Python, React, and PostgreSQL. Eager to apply problem-solving mindset to my first engineering role.'",
+    "Place Projects or Portfolio as your second section (right after summary, before any past jobs). This puts your tech proof front-and-center where hiring managers expect it.",
+    "Create a dedicated Education or Training section listing your bootcamp, course, or self-study program with dates and core technologies—e.g., 'General Assembly, Software Engineering Bootcamp, Jan–Apr 2024 | JavaScript, React, Node.js, MongoDB.'",
+    "If you have tech-related volunteer or freelance work, call it out as a separate line item or fold it into your Projects section—don't bury it in past job descriptions."
+  ],
+  "atsKeywords": [
+    "career changer",
+    "bootcamp graduate",
+    "self-taught developer",
+    "full-stack developer",
+    "JavaScript React",
+    "Python programming",
+    "GitHub portfolio",
+    "coding certification",
+    "software engineering beginner",
+    "junior developer entry-level"
+  ],
+  "salarySignal": "Entry-level US salaries for career changers into tech roles typically range from $50K to $75K depending on location, company size, and specialization (frontend, backend, data). Remote roles and major metros offer higher bands; bonuses and equity are common at startups.",
+  "faq": [
+    {
+      "q": "Should I put my bootcamp on my resume if I don't have tech work experience yet?",
+      "a": "Absolutely. Add a dedicated Education section and list the bootcamp name, completion date, and core technologies taught. Then prove those skills with projects and links; the bootcamp credential + portfolio combo signals serious commitment."
+    },
+    {
+      "q": "How do I explain a career gap on my resume if I spent 3 months doing a bootcamp?",
+      "a": "Don't call it a gap—reframe it as intentional learning. In the Education section, list the bootcamp with dates; if there's white space in work history, add a line like 'Full-time intensive coding bootcamp' under that date range to show continuous progress."
+    },
+    {
+      "q": "Is GitHub really necessary for a career-changer resume?",
+      "a": "Yes. Hiring managers want proof you can code and collaborate; GitHub shows both. Include a link prominently in your header or Portfolio section, and make sure your 2–3 best repos have clear READMEs, clean code, and a live demo link if applicable."
+    },
+    {
+      "q": "How much should I emphasize my previous non-tech career on my resume?",
+      "a": "Keep it brief but smart: list your old job title and company, then write 2–3 bullets that highlight transferable skills (teamwork, problem-solving, data literacy, customer empathy). Then pivot the summary or projects to show why that background *helps* you as a developer."
+    },
+    {
+      "q": "What if I've only done personal projects and no professional tech experience?",
+      "a": "Lead with Projects section, include 3–4 polished GitHub repos with live links and clear descriptions of your role and tech stack. Mention bootcamp or self-study prominently. Most junior tech roles don't expect professional experience; they want to see you can learn, ship, and collaborate—your projects prove all three."
+    }
+  ]
+}

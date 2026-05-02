@@ -1,0 +1,130 @@
+{
+  "slug": "brand-manager",
+  "title": "Brand Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:26.036Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Brand Manager Resume: Examples & Writing Guide for 2026",
+  "metaDescription": "Build a winning Brand Manager resume with actionable tips, real bullet examples, and ATS keywords that land interviews.",
+  "h1": "How to Write a Brand Manager Resume That Lands Interviews",
+  "intro": "Brand managers are storytellers who drive business growth through strategic positioning and customer connection. A strong resume shows not just what campaigns you've run, but how you moved the needle on brand equity, revenue, and market share.",
+  "audience": "Recent marketing grads, assistant brand managers stepping up, and professionals transitioning from adjacent marketing or sales roles into brand management.",
+  "topSkills": [
+    {
+      "name": "Brand Strategy & Positioning",
+      "why": "Hiring managers want to see you can define a brand's unique market position and communicate it consistently across touchpoints."
+    },
+    {
+      "name": "Campaign Management",
+      "why": "Brand managers orchestrate multi-channel launches; recruiters look for proof you can plan, execute, and track complex campaigns end-to-end."
+    },
+    {
+      "name": "Market Research & Consumer Insights",
+      "why": "Data-driven decisions separate strong brand managers from weak ones; research chops signal you base strategy on real customer needs, not guesses."
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "why": "Brand managers work across product, sales, creative, and digital teams; demonstrating influence without direct authority is critical."
+    },
+    {
+      "name": "Digital Marketing & Social Media",
+      "why": "Modern brand managers need hands-on experience with owned channels, influencer partnerships, and community management to stay competitive."
+    },
+    {
+      "name": "Budget Management & ROI Analysis",
+      "why": "You need to show you can allocate resources smartly and prove marketing spend drove measurable business outcomes (sales lift, engagement growth, etc.)."
+    },
+    {
+      "name": "Brand Identity & Creative Direction",
+      "why": "Hiring teams want to see you've guided visual systems, tone of voice, and creative briefs that reinforce brand positioning."
+    },
+    {
+      "name": "Competitive Analysis",
+      "why": "Brand managers must understand the competitive landscape deeply; demonstrating this skill shows strategic thinking and market awareness."
+    },
+    {
+      "name": "Content Strategy",
+      "why": "Whether owned blogs, email, or video, you need to show you can develop and execute messaging that resonates with target audiences."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed brand campaigns and worked with marketing teams to increase brand awareness.",
+      "strong": "Led 4-month repositioning campaign across 8 channels (social, email, display, influencer partnerships); drove 35% YoY increase in brand consideration and 18% lift in purchase intent among target demographic.",
+      "lesson": "Specific numbers, timeline, channel mix, and business impact (not just 'awareness') make it believable and memorable."
+    },
+    {
+      "weak": "Oversaw social media strategy for the brand and created content.",
+      "strong": "Developed integrated social media strategy for 3 platforms; grew organic reach 120% YoY and increased engagement rate from 1.2% to 3.8% through audience insights and weekly content calendar; collaborated with 6 micro-influencers.",
+      "lesson": "Quantify growth, show you listened to data, and prove collaboration—this tells a complete brand story."
+    },
+    {
+      "weak": "Conducted market research and provided insights to the team.",
+      "strong": "Executed 2 qualitative consumer studies (30 in-depth interviews, 500-person online survey) that informed new brand messaging; insights directly led to 12-point lift in brand favorability among women 25–40.",
+      "lesson": "Name your methods, show rigor, and link research directly to a business outcome—this proves you influence strategy, not just gather data."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing responsibilities instead of achievements.",
+      "fix": "Replace 'managed' and 'oversaw' with action verbs tied to measurable outcomes: 'grew,' 'launched,' 'increased,' 'repositioned'—and always quantify the result."
+    },
+    {
+      "mistake": "Treating brand management as a marketing catch-all.",
+      "fix": "Narrow your focus: show which brands/products you owned, which decisions you drove, and which teams you led or influenced (not 'did marketing')."
+    },
+    {
+      "mistake": "Forgetting to show budget accountability.",
+      "fix": "Call out the P&L size you managed, total campaign spend, and ROI or cost-per-acquisition improvements—brand managers own business results, not just creative."
+    },
+    {
+      "mistake": "No evidence of cross-functional collaboration.",
+      "fix": "Explicitly mention teams you worked with (product, sales, design, agency partners) and a tangible output from that collaboration (e.g., 'partnered with product team to align messaging with Q3 feature launch')."
+    },
+    {
+      "mistake": "Vague descriptions of brand initiatives.",
+      "fix": "Name the campaign, sub-brand, or product you managed; specify the audience segment; and share the channel mix and timeline—concrete details sell strategy."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most recent and largest brand management role; if you're early-career, put your biggest campaign or most strategic initiative first within each position.",
+    "Create a separate 'Key Campaigns' or 'Brand Initiatives' section near the top if you've managed multiple launches or repositionings—this draws recruiter eyes immediately to your core work.",
+    "Put budget and P&L numbers in the experience bullets themselves, not buried in a separate section; hiring managers scan fast and need to see financial responsibility upfront.",
+    "If you lack formal brand manager titles, reframe your marketing or product coordinator experience with brand-building language: 'drove brand awareness,' 'shaped customer perception,' 'managed brand voice'—ATS will pick this up."
+  ],
+  "atsKeywords": [
+    "Brand Manager",
+    "Brand Strategy",
+    "Campaign Management",
+    "Market Research",
+    "Consumer Insights",
+    "Cross-functional Leadership",
+    "Digital Marketing",
+    "Budget Management",
+    "Brand Positioning",
+    "Content Strategy"
+  ],
+  "salarySignal": "Entry-level US Brand Manager salaries typically range from $50K–$65K; mid-level (3–7 years) from $70K–$95K; senior Brand Managers and above from $100K+. Salary varies by region, company size, and industry vertical (tech, CPG, retail, etc.).",
+  "faq": [
+    {
+      "q": "How do I show brand impact if I worked at a small company or startup?",
+      "a": "Focus on relative growth and market share gains, even if absolute numbers are small. Show you moved the needle: 'grew brand Instagram following from 5K to 45K in 18 months' or 'repositioned 3-year-old brand to Gen Z audience, increasing purchase intent 28% in target demo.' Hiring managers understand context."
+    },
+    {
+      "q": "Should I include creative work (ads, social posts) or link to a portfolio?",
+      "a": "Yes—add a portfolio link on your resume and highlight 2–3 campaigns you're proudest of. Call out your role (did you brief the agency, approve, co-create?). Hiring managers want to see both strategy and taste, so make it easy for them to view your best work."
+    },
+    {
+      "q": "How do I translate non-brand marketing work (e.g., performance marketing, product marketing) into brand manager language?",
+      "a": "Emphasize the brand-building elements: audience research, positioning, messaging consistency, long-term equity gains. Use phrases like 'strengthened brand perception,' 'refined target audience strategy,' or 'created cohesive brand narrative'—frame even performance work as brand-building."
+    },
+    {
+      "q": "What metrics matter most for a Brand Manager resume?",
+      "a": "Focus on brand lift metrics (awareness, consideration, favorability, brand health scores), revenue/sales impact, engagement rates, audience growth, and campaign ROI. Avoid vanity metrics like impressions; instead, show what those impressions drove (CTR, conversions, consideration)."
+    },
+    {
+      "q": "Do I need to show experience with specific tools (Hootsuite, Google Analytics, Salesforce)?",
+      "a": "Nice-to-have, not must-have. List them if relevant to your role, but hiring managers care more about strategic skills and results than tools. If you know them, add a brief 'Tools' section or mention them in context of a bullet (e.g., 'tracked campaign performance via Salesforce CRM and HubSpot')."
+    }
+  ]
+}

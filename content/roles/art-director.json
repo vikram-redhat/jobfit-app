@@ -1,0 +1,134 @@
+{
+  "slug": "art-director",
+  "title": "Art Director",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:47:55.225Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Art Director Resume: Tips & Examples for 2025",
+  "metaDescription": "Build a standout Art Director resume with portfolio tips, key skills, and real resume examples that impress creative directors and hiring teams.",
+  "h1": "How to Write an Art Director Resume That Gets Interviews",
+  "intro": "Art Director roles demand visual storytelling chops *and* the ability to back them up on paper. Your resume needs to prove you can lead creative vision, manage teams, and deliver measurable results—not just that you have good taste.",
+  "audience": "Recent design-school grads, mid-level designers stepping into leadership, and creatives shifting from adjacent fields like UX/UI or graphic design.",
+  "topSkills": [
+    {
+      "name": "Visual concept development & art direction",
+      "why": "This is the core of the job—hiring managers need to see you can originate creative ideas and shepherd them from brief to execution."
+    },
+    {
+      "name": "Creative team leadership & mentorship",
+      "why": "Art Directors own studio culture and talent growth; proof of team management and mentorship is a major differentiator."
+    },
+    {
+      "name": "Brand strategy & identity design",
+      "why": "Employers want Art Directors who understand how aesthetics tie to business goals, not just pretty designs."
+    },
+    {
+      "name": "Campaign concept & storytelling",
+      "why": "The ability to conceptualize and execute cohesive campaigns across channels is what separates directors from individual contributors."
+    },
+    {
+      "name": "Adobe Creative Suite & design tools",
+      "why": "Proficiency in Photoshop, Illustrator, InDesign, and After Effects is table stakes for credibility in the craft."
+    },
+    {
+      "name": "Client presentations & stakeholder management",
+      "why": "Art Directors pitch ideas and defend creative decisions; experience presenting to C-level or high-stakes clients is valuable."
+    },
+    {
+      "name": "Digital & motion design direction",
+      "why": "Most modern Art Director roles blend static and motion—demonstrating fluency in both opens more doors."
+    },
+    {
+      "name": "Print & packaging design direction",
+      "why": "Depending on industry, expertise in physical deliverables (print, packaging, environmental) signals versatility and hands-on craft knowledge."
+    },
+    {
+      "name": "Project management & production oversight",
+      "why": "Art Directors often own timelines, budgets, and vendor relationships; demonstrating organizational chops matters."
+    },
+    {
+      "name": "Portfolio curation & art direction for external work",
+      "why": "Showing you can hire photographers, illustrators, and vendors—and direct their work—proves you lead at multiple levels."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Directed creative work for major brands and campaigns.",
+      "strong": "Art directed 12+ integrated campaigns for Fortune 500 CPG clients, leading cross-functional teams of 5–7 designers and photographers; campaigns generated 25–40% lift in engagement metrics and contributed to $2M+ media spend.",
+      "lesson": "Specific client caliber, team size, tangible outcomes, and budget context make this credible; vague 'directed work' means nothing."
+    },
+    {
+      "weak": "Responsible for visual identity and brand guidelines.",
+      "strong": "Developed comprehensive brand identity and 120-page living design system for fintech startup pre-Series B, establishing visual language adopted across web, mobile, and 15+ marketing channels; system reduced design review cycles by 40% and scaled with company from 20 to 150 employees.",
+      "lesson": "Naming the artifact (design system), scale of impact, and business outcome (faster cycles, employee growth) shows strategic thinking, not just aesthetics."
+    },
+    {
+      "weak": "Managed a team of junior designers and provided feedback.",
+      "strong": "Led team of 4 junior designers and 2 freelance contractors, conducting weekly creative critiques, mentoring 2 junior designers into mid-level roles, and establishing design critique process that reduced revision rounds by 35%; directly managed $800K annual vendor/production budget.",
+      "lesson": "Naming outcomes (promotions, process improvements) and owning budget transforms vague 'management' into proof of leadership and business acumen."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leading with software instead of outcomes.",
+      "fix": "Don't bury Adobe expertise in a skills list; weave it into bullets that prove what you *made* with those tools and the impact it had."
+    },
+    {
+      "mistake": "Assuming your portfolio speaks for itself on the resume.",
+      "fix": "Your resume must still narrate the business problem you solved, your role in the concept, and the result—don't rely solely on 'see my portfolio.'"
+    },
+    {
+      "mistake": "Forgetting to quantify creative leadership.",
+      "fix": "Art Director roles require team and budget ownership; spell out team size, headcount managed, vendor relationships, and production budgets you've owned."
+    },
+    {
+      "mistake": "Listing generic design responsibilities instead of creative vision.",
+      "fix": "Emphasize what you *conceptualized and directed*, not just tasks; show you own the big idea, not just pixel-pushing."
+    },
+    {
+      "mistake": "Underselling mentorship and talent development.",
+      "fix": "If you've grown junior designers or shaped studio culture, call it out; many agencies and in-house teams now prioritize this heavily."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that nails your niche (e.g., 'Brand and digital Art Director with 8 years directing campaigns for CPG and tech') so recruiters instantly know your fit.",
+    "Put a 'Selected Work' or 'Notable Campaigns' section near the top, listing 3–5 landmark projects with one-line descriptions and a link to your portfolio; this frontloads proof of your taste and leadership.",
+    "Under each role, front-load creative direction bullets first (concept, strategy, vision), then operational/team leadership, then craft/tool expertise; order by impact and seniority.",
+    "If you have limited direct Art Director experience, use a 'Core Competencies' section to bridge the gap (e.g., 'Creative Concept Development,' 'Team Leadership,' 'Brand Strategy') before work history."
+  ],
+  "atsKeywords": [
+    "Art Director",
+    "Creative Direction",
+    "Brand Identity",
+    "Campaign Concept",
+    "Visual Leadership",
+    "Design System",
+    "Team Leadership",
+    "Adobe Creative Suite",
+    "Brand Strategy",
+    "Motion Design Direction"
+  ],
+  "salarySignal": "Entry-level Art Director roles in the US typically start at $55K–$70K; mid-level roles (5–8 years) range from $75K–$110K; senior/lead Art Directors often earn $110K–$160K+, with higher compensation in major metros like NYC, LA, and SF.",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my resume?",
+      "a": "Yes. Add a clean URL to your portfolio website or direction-specific case studies below your name or contact info. Make sure the link works and your portfolio is up-to-date; many hiring managers click it before they even read your bullets. If space is tight, put it in your header."
+    },
+    {
+      "q": "How do I show creative leadership if I'm coming from an individual-contributor design role?",
+      "a": "Focus on projects where you art directed freelancers, photographers, or external vendors; led brainstorms or concept ideation; or mentored junior designers informally. Frame these as 'directed' or 'led' work, not just 'collaborated on.' If you lack this, emphasize campaigns you *conceptualized* end-to-end."
+    },
+    {
+      "q": "What if I'm switching from UX/UI design to Art Director roles?",
+      "a": "Highlight any brand or visual strategy work, digital campaign direction, or design system leadership you've done. Use the 'Core Competencies' section to bridge the gap (Creative Concept, Brand Direction, Design Leadership) and reframe your bullets to emphasize vision and storytelling over interaction design."
+    },
+    {
+      "q": "Do Art Directors need to list specific award wins or press mentions?",
+      "a": "If you've won Cannes, D&AD, or major industry awards, absolutely list them; they're credibility gold. If you've been featured in Design Observer, Print, or major publications, you can add a small 'Press & Recognition' section. Skip minor or regional awards unless space allows."
+    },
+    {
+      "q": "How much of my resume should be about team management vs. creative execution?",
+      "a": "For senior Art Director roles, aim for 50/50—prove you can both lead creatively and run a team. For mid-level, weight it 60% creative execution, 40% leadership. Always lead with the strategic or conceptual win, then mention the team/execution as proof of scale."
+    }
+  ]
+}

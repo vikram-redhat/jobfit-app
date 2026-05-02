@@ -1,0 +1,126 @@
+{
+  "slug": "junior-developer",
+  "title": "Junior Developer",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:04:37.018Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Junior Developer Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a Junior Developer resume that lands interviews. See skill priorities, strong bullet examples, ATS keywords, and common mistakes to avoid.",
+  "h1": "Junior Developer Resume: Land Your First Dev Job",
+  "intro": "Your first dev role is within reach—but your resume needs to prove you can write real code and ship projects. This guide walks you through the exact format, skills, and bullet points that hiring managers actually care about.",
+  "audience": "Recent bootcamp grads, new CS graduates, and career switchers making their first move into software development.",
+  "topSkills": [
+    {
+      "name": "JavaScript",
+      "why": "The most universally expected language for junior web roles; teams need confidence you can write and debug it."
+    },
+    {
+      "name": "React or Vue.js",
+      "why": "Frontend frameworks are the entry point for most junior web jobs; hiring managers screen for one modern framework first."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Every dev team uses Git; not listing it signals you've never worked in a team environment."
+    },
+    {
+      "name": "REST APIs",
+      "why": "Understanding how to consume and build APIs is table-stakes for junior backend and full-stack roles."
+    },
+    {
+      "name": "SQL or Database Basics",
+      "why": "You don't need to be a DBA, but junior devs are expected to write basic queries and understand schemas."
+    },
+    {
+      "name": "HTML & CSS",
+      "why": "If you're a web dev, you need to demonstrate semantic markup and responsive design skills."
+    },
+    {
+      "name": "Problem-Solving & Debugging",
+      "why": "Hiring managers want evidence you can troubleshoot—not just paste Stack Overflow; show your process."
+    },
+    {
+      "name": "Node.js or Python",
+      "why": "A second language (backend-focused) makes you more hireable for full-stack or backend junior roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a to-do list application using React",
+      "strong": "Built a collaborative to-do list app in React with real-time sync using Firebase; added feature to categorize tasks, reducing user clicks by 40% in user testing.",
+      "lesson": "Specific tech stack, measurable outcome, and real user impact beats vague project description."
+    },
+    {
+      "weak": "Fixed bugs and improved code quality",
+      "strong": "Debugged and resolved 12+ critical bugs in legacy payment module (Node.js); wrote unit tests using Jest that increased code coverage from 45% to 72%.",
+      "lesson": "Numbers, specific language/tools, and concrete before/after metrics show you can contribute to production code."
+    },
+    {
+      "weak": "Worked with a team to create a website",
+      "strong": "Collaborated with 3-person team using Agile; implemented responsive product gallery component (HTML, CSS, JavaScript) that improved mobile conversion by 25% post-launch.",
+      "lesson": "Team size, methodology, your specific role, and business impact demonstrate collaboration and business acumen."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing technologies you've only touched once or read about",
+      "fix": "Only include tools and languages you've actually shipped code with; hiring managers will ask follow-up questions, and gaps kill credibility fast."
+    },
+    {
+      "mistake": "Resume reads like a class assignment list ('completed X course, learned Y language')",
+      "fix": "Lead with projects and contributions with real output; tie learning to what you *built*, not what you studied."
+    },
+    {
+      "mistake": "No GitHub or portfolio link",
+      "fix": "Add your GitHub URL and (if possible) a live portfolio link; code quality matters more than a fancy resume at junior level."
+    },
+    {
+      "mistake": "Weak action verbs like 'Responsible for,' 'Worked on,' or 'Helped with'",
+      "fix": "Use strong, specific verbs: Built, Implemented, Debugged, Optimized, Deployed, Automated, Refactored."
+    },
+    {
+      "mistake": "No mention of how you test or debug code",
+      "fix": "Call out at least one testing approach (unit tests, integration tests) or debugging habit to show you care about quality, not just shipping."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line Professional Summary that names your strongest tech stack and one shipped project; skip generic career objective.",
+    "Put Projects or Featured Work above Education; hiring managers want to see what you've *built* before they see your degree.",
+    "Include a separate Skills section (organized by category: Languages, Frameworks, Tools, Databases) to ensure ATS scanners can parse your tech stack.",
+    "If you have any work or internship experience, lead that section with metrics (bugs fixed, features shipped, performance gains); if not, use passion projects and open-source contributions instead."
+  ],
+  "atsKeywords": [
+    "JavaScript",
+    "React",
+    "REST API",
+    "Git",
+    "Node.js",
+    "SQL",
+    "responsive design",
+    "debugging",
+    "version control",
+    "agile development"
+  ],
+  "salarySignal": "Entry-level Junior Developer salaries in the US typically range from $55,000 to $75,000 in 2026, depending on location, tech stack, and company size.",
+  "faq": [
+    {
+      "q": "Should I put my bootcamp or computer science degree first on my resume?",
+      "a": "Put Projects or Work Experience first if you have shipped code; employers care more about what you've built than where you studied. Education comes after experience, but do include it—especially if it's recent (shows you're current on modern stacks)."
+    },
+    {
+      "q": "Do I need a portfolio website if I have a GitHub profile?",
+      "a": "GitHub is mandatory; a portfolio website is optional but helps if your projects are scattered. At minimum, make sure your GitHub profile is public, well-organized, and has a README that explains your top 3–5 projects in plain English."
+    },
+    {
+      "q": "How many projects should I list on my junior dev resume?",
+      "a": "Quality over quantity: 2–4 polished, complete projects beat 10 half-finished ones. Each project should have working code (GitHub link), a clear description, and at least one measurable outcome or learning."
+    },
+    {
+      "q": "What if I don't have professional experience—only school projects?",
+      "a": "School and capstone projects count; reframe them as 'Featured Projects' or 'Capstone Work' with the same rigor (tech stack, your role, outcome). Also highlight any open-source contributions, coding competitions, or side projects."
+    },
+    {
+      "q": "How do I quantify impact on a project if I was the solo developer?",
+      "a": "Use metrics like code coverage, performance improvements (page load time, API response time), user feedback in testing, or deployment milestones (e.g., 'Launched full-stack e-commerce app to 50+ beta testers'). If no hard numbers exist, describe the problem you solved and the user benefit."
+    }
+  ]
+}

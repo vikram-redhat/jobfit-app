@@ -1,0 +1,130 @@
+{
+  "slug": "fashion-designer",
+  "title": "Fashion Designer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:51:50.723Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Fashion Designer Resume: Tips & Examples for 2025",
+  "metaDescription": "Land your dream fashion design role with a portfolio-backed resume. Learn what skills matter, how to showcase your work, and what hiring managers actually want.",
+  "h1": "How to Write a Fashion Designer Resume That Gets You Hired",
+  "intro": "A fashion designer resume isn't just a list of jobs—it's a visual story about your creative vision and technical chops. Whether you're applying to a luxury house, a sustainable brand, or a startup, we'll show you how to frame your work so designers and hiring managers take notice.",
+  "audience": "Aspiring fashion designers fresh from design school, career switchers with art or textiles backgrounds, and mid-level designers building stronger portfolios.",
+  "topSkills": [
+    {
+      "name": "Garment Construction & Pattern Making",
+      "why": "Hiring managers need proof you can translate design concepts into wearable, structurally sound pieces."
+    },
+    {
+      "name": "Design Software (Adobe Creative Suite, CLO 3D, Spec Design)",
+      "why": "Most fashion houses expect fluency in Illustrator, Photoshop, and increasingly, 3D design tools for virtual sampling."
+    },
+    {
+      "name": "Trend Forecasting & Research",
+      "why": "Designers who ground their work in market research and cultural insights are more valuable to brands competing for relevance."
+    },
+    {
+      "name": "Fabric & Materials Knowledge",
+      "why": "Understanding textile properties, sourcing, and sustainability is now table stakes for contemporary fashion roles."
+    },
+    {
+      "name": "Collection Development",
+      "why": "Ability to conceptualize, sketch, and deliver a cohesive seasonal or capsule collection shows strategic thinking."
+    },
+    {
+      "name": "Collaboration (Merchandising, Production, Sourcing)",
+      "why": "Fashion is team sport; designers who communicate clearly with supply chain, fit, and commercial teams are highly sought."
+    },
+    {
+      "name": "Brand Aesthetic & Visual Identity",
+      "why": "Demonstrating you can internalize and amplify a brand's DNA across silhouette, color, and narrative is a key differentiator."
+    },
+    {
+      "name": "Technical Sketching & Flats",
+      "why": "Clear, accurate spec sheets and technical drawings are essential for production communication with manufacturers."
+    },
+    {
+      "name": "Portfolio & Presentation",
+      "why": "Your resume is a gateway; a polished, branded presentation of your work is often more important than the words."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed clothing for a fashion brand and received positive feedback from team members.",
+      "strong": "Designed and developed 12-piece spring collection in collaboration with merchandising and sourcing teams; collection launched on-time and drove 18% increase in category sales vs. prior year.",
+      "lesson": "Quantified output (piece count, revenue impact), named collaborators, and showed end-to-end ownership—not just 'received feedback.'"
+    },
+    {
+      "weak": "Used Adobe Creative Suite to create designs and technical drawings.",
+      "strong": "Created 200+ technical flats and spec sheets in Adobe Illustrator and Photoshop; reduced fit revision cycles by 35% through detailed spec documentation and cross-functional communication.",
+      "lesson": "Named the tool, gave volume, and tied it to a business outcome (faster fit cycles) rather than just listing the skill."
+    },
+    {
+      "weak": "Researched trends and sketched new design ideas.",
+      "strong": "Conducted quarterly trend research across runway, retail, and social platforms; synthesized insights into mood boards and design recommendations that informed 3 seasonal collections and drove brand alignment across 50+ SKUs.",
+      "lesson": "Showed the structure of your thinking (quarterly cadence, multi-source research) and direct impact on collections and product decisions."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Treating your resume like a diary of tasks.",
+      "fix": "Instead, lead with outcomes: what you designed, how many pieces, what sold, which brands noticed, how you shaped the final collection. Show ambition and results, not busywork."
+    },
+    {
+      "mistake": "Hiding your portfolio or design work behind a weak link or omitting it entirely.",
+      "fix": "Frontload your resume with a clear statement like 'Portfolio: [branded link]' and ensure every role lists 1–2 signature collections or projects with a live URL or QR code."
+    },
+    {
+      "mistake": "Using generic Adobe/Illustrator as your only technical skill, ignoring 3D and emerging tools.",
+      "fix": "Explicitly list CLO 3D, Spec Design, Browzwear, or Figma if you use them—many brands are actively hiring for digital design competency and these tools are now baseline expectations."
+    },
+    {
+      "mistake": "Downplaying collaboration with pattern makers, fit specialists, and sourcing teams.",
+      "fix": "Name these partnerships explicitly and show how cross-functional feedback improved your designs; hiring managers want designers who understand they don't work in a vacuum."
+    },
+    {
+      "mistake": "Not mentioning sustainability, materials science, or ethical sourcing unless the role demands it.",
+      "fix": "Even if the job posting doesn't mention it, briefly note any experience with sustainable textiles, upcycling, or circular design—it signals forward-thinking and is increasingly valuable across the industry."
+    }
+  ],
+  "structureTips": [
+    "Lead with a portfolio link or QR code immediately below your name; your resume is a gateway to your visual work, so make it frictionless for a busy hiring manager to see what you can do.",
+    "Organize experience by collection or project, not just job title; group your roles to highlight cohesive bodies of work (e.g., 'Spring/Summer 2024 Ready-to-Wear Collection' or 'Capsule Collaboration with [Brand]') so readers see the full scope of your vision.",
+    "Put your most impressive, relevant collections and projects in the top 60% of the page; many hiring managers spend <30 seconds on the first read, so lead with your strongest recent work.",
+    "Include a 'Notable Collections' or 'Key Projects' section if you've worked on multiple brands or dropped collections; use this to call out press mentions, sales performance, or brand partnerships that earned external recognition."
+  ],
+  "atsKeywords": [
+    "garment construction",
+    "pattern making",
+    "Adobe Creative Suite",
+    "CLO 3D",
+    "technical flats",
+    "collection development",
+    "trend forecasting",
+    "sustainable design",
+    "fit and grading",
+    "spec sheets"
+  ],
+  "salarySignal": "Entry-level fashion designer salaries in the US typically range from $35,000 to $50,000; mid-level designers at established brands or in major fashion hubs like NYC, LA, or Miami often earn $55,000–$80,000, with senior roles and luxury houses pushing well into six figures.",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my fashion designer resume?",
+      "a": "Absolutely. Place it prominently below your name or in a header section—your visual work is your best sales tool. Make sure it's current, mobile-friendly, and branded. If you don't have a polished portfolio website yet, link to a well-organized Behance, Instagram, or PDF instead."
+    },
+    {
+      "q": "Do I need experience with 3D design software like CLO to get hired as a fashion designer?",
+      "a": "It depends on the company and level. Large, digitally-forward brands (Nike, Adidas, many luxury houses) now expect 3D or are actively hiring for it. If you don't have it, list it as a skill you're developing and learn it fast—it's becoming table stakes for mid-level roles."
+    },
+    {
+      "q": "How do I quantify my fashion design work if I don't have sales data?",
+      "a": "Focus on output (number of pieces designed, collections launched), efficiency (reduced fit cycles, faster prototyping), or recognition (press mentions, awards, social engagement). If you interned or freelanced, note the scope of your contributions and any feedback or collaboration wins."
+    },
+    {
+      "q": "What's more important on a fashion designer resume: technical skills or creative vision?",
+      "a": "Both matter, but lead with creative vision and collections, then show you have the technical chops to execute. Hiring managers want designers who can dream big and also deliver specs, sketches, and production-ready work."
+    },
+    {
+      "q": "How should I handle gaps in my fashion design experience (e.g., freelance work, school projects, personal collections)?",
+      "a": "Don't hide them. Create a 'Design Projects' or 'Independent Work' section to showcase collections you developed outside traditional employment. Name the collection, describe the concept, and link to photos or your portfolio—many strong designers got their start with self-directed projects."
+    }
+  ]
+}

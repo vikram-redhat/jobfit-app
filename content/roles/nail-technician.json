@@ -1,0 +1,130 @@
+{
+  "slug": "nail-technician",
+  "title": "Nail Technician",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:58:11.003Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Nail Technician Resume: Tips & Examples to Land More Interviews",
+  "metaDescription": "Write a standout nail technician resume. Learn what skills matter, see strong bullet examples, and avoid common mistakes that cost you interviews.",
+  "h1": "How to Write a Nail Technician Resume That Gets You Hired",
+  "intro": "Your nail technician resume needs to show salon owners and managers that you're skilled, reliable, and can build a loyal client base. Whether you're starting your first nail salon job or leveling up, we'll show you how to format and write bullets that actually land interviews.",
+  "audience": "Recent nail school graduates, licensed technicians entering the workforce for the first time, and experienced technicians looking to move to better salons or advance into lead or salon management roles.",
+  "topSkills": [
+    {
+      "name": "Nail Art & Design",
+      "why": "Clients choose salons based on technicians' design skills—your ability to execute trending nail art directly drives salon revenue and client retention."
+    },
+    {
+      "name": "Gel & Acrylic Application",
+      "why": "Core technical competency; salons screen for proficiency in both systems, and clients often book based on your specialty."
+    },
+    {
+      "name": "Sanitation & Safety Protocols",
+      "why": "Health inspectors and salon owners prioritize this; licensing depends on it, and it's non-negotiable on any professional resume."
+    },
+    {
+      "name": "Client Relationship Management",
+      "why": "Repeat bookings and referrals drive salon profitability; managers want technicians who retain clients and upsell services."
+    },
+    {
+      "name": "Time Management & Efficiency",
+      "why": "Fast, quality work means higher salon throughput and happier clients; mentioning your speed signals productivity."
+    },
+    {
+      "name": "Product Knowledge",
+      "why": "Recommending and selling retail products (polish, cuticle oils, treatments) is a secondary revenue stream salons expect."
+    },
+    {
+      "name": "Pedicure Specialization",
+      "why": "Many clients book pedicures year-round; expertise here sets you apart and fills the appointment calendar."
+    },
+    {
+      "name": "Social Media & Marketing",
+      "why": "Salon owners increasingly value technicians who promote themselves on Instagram or TikTok—it drives walk-ins and bookings."
+    },
+    {
+      "name": "Customer Service Excellence",
+      "why": "Reviews and word-of-mouth make or break salons; your ability to listen and exceed expectations directly impacts salon reputation."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed nail services including manicures and pedicures for clients.",
+      "strong": "Completed 18–22 manicures and pedicures weekly with 95%+ client satisfaction ratings; built a personal client base of 30+ repeat bookings per month.",
+      "lesson": "Adding numbers (services per week, client base size, satisfaction score) transforms a generic duty into proof of productivity and client loyalty."
+    },
+    {
+      "weak": "Applied gel and acrylic nails using various techniques.",
+      "strong": "Mastered gel extensions, acrylics, and 3D nail art; executed 40+ designs monthly including seasonal trends, resulting in 5-star reviews and referral bookings.",
+      "lesson": "Specificity about techniques, volume, and outcomes (referrals, reviews) shows you're not just technically capable but also client-focused and results-driven."
+    },
+    {
+      "weak": "Maintained salon cleanliness and followed health regulations.",
+      "strong": "Maintained 100% compliance with state sanitation standards and EPA disinfection protocols; passed 2 health inspections with zero violations.",
+      "lesson": "Demonstrating zero violations and compliance percentages reassures owners you reduce liability risk and uphold salon reputation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of impact.",
+      "fix": "Replace 'did manicures' with numbers—how many per week, client retention rate, or average tip—so owners see your business value."
+    },
+    {
+      "mistake": "Omitting your license number or certification details.",
+      "fix": "Include state license number, nail school, graduation date, and any additional certifications (e.g., gel specialist, nail art diploma) near the top."
+    },
+    {
+      "mistake": "No mention of client retention or repeat bookings.",
+      "fix": "Salons live or die by repeat business; highlight your personal client base size and how you encourage return visits."
+    },
+    {
+      "mistake": "Forgetting to highlight upsell or retail product experience.",
+      "fix": "If you've recommended or sold retail products (polishes, treatments, tools), include it—it signals revenue mindset."
+    },
+    {
+      "mistake": "Weak or missing customer service examples.",
+      "fix": "Showcase a time you handled a difficult client gracefully or went above and beyond—salons prioritize attitude and professionalism."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief Professional Summary or Objective that highlights your specialties (e.g., 'Certified Nail Technician with expertise in gel extensions and seasonal nail art; consistent 4.9+ star reviews').",
+    "Put your State License & Certifications section near the top (after contact info) so owners immediately see you're credentialed and compliant.",
+    "In your Work Experience, anchor each bullet with a number: clients served weekly, services performed monthly, or satisfaction/retention percentage.",
+    "Add a Skills section that mirrors salon job postings (gel application, acrylics, pedicure design, social media marketing, product sales) so your resume passes ATS filters."
+  ],
+  "atsKeywords": [
+    "nail technician",
+    "licensed nail technician",
+    "gel manicure",
+    "acrylic nails",
+    "gel extensions",
+    "pedicure",
+    "nail art",
+    "salon",
+    "client retention",
+    "sanitation and safety"
+  ],
+  "salarySignal": "Entry-level nail technicians in the US typically earn $24,000–$32,000 annually, plus tips; experienced technicians with strong client bases often earn $35,000–$50,000+ depending on salon location and service mix.",
+  "faq": [
+    {
+      "q": "Should I put my nail license number on my resume?",
+      "a": "Yes. Include your state license number, certification date, and issuing state near the top (e.g., 'Licensed Nail Technician – State of [State], License #[number]'). Salons verify this immediately, and it signals compliance and credibility."
+    },
+    {
+      "q": "How do I show I'm good at nail art if I don't have a ton of work experience?",
+      "a": "Link to your Instagram or TikTok portfolio in your resume or cover letter; salons hire based on design skills and social proof. Mention nail school projects, competitions, or any specialized training (e.g., 3D art, ombre, stamping)."
+    },
+    {
+      "q": "What if I'm switching from a different job into nail tech?",
+      "a": "Emphasize your nail school graduation, license, and any transferable skills (customer service, attention to detail, time management). Start with a strong summary that owns the career change ('Career-changer with fresh nail certification and passion for client-focused beauty services')."
+    },
+    {
+      "q": "How important is it to mention client base size or repeat bookings?",
+      "a": "Very important. Salon owners care most about revenue and retention. If you built a personal client base or had high repeat rates, that's gold—lead with it in your bullets."
+    },
+    {
+      "q": "Should I include social media marketing experience on my nail tech resume?",
+      "a": "Absolutely. If you've posted nail designs on Instagram, TikTok, or built a following, mention it. Modern salons value technicians who drive their own bookings and promote the business online."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "illustrator",
+  "title": "Illustrator",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:49:11.547Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Illustrator Resume: Skills, Examples & ATS Tips",
+  "metaDescription": "Build an illustrator resume that lands interviews. See examples, key skills, and how to showcase your portfolio on one page.",
+  "h1": "How to Write an Illustrator Resume That Gets Noticed",
+  "intro": "Your illustrator resume needs to do two things: prove you can draw, and prove you can ship work on deadline. We'll show you how to translate your portfolio and client wins into a resume that gets past hiring managers and into the hands of art directors.",
+  "audience": "Self-taught and art school grads applying to agencies, in-house creative teams, and freelance platforms, plus career switchers from graphic design or animation.",
+  "topSkills": [
+    {
+      "name": "Digital illustration (Procreate, Photoshop, Clip Studio Paint)",
+      "why": "Most modern illustration roles expect fluency in at least one professional digital tool; hiring managers want to know you won't need training."
+    },
+    {
+      "name": "Character design",
+      "why": "Whether for games, animation, or publishing, character design is one of the most sought-after specialties and signals versatility."
+    },
+    {
+      "name": "Concept art",
+      "why": "Studios and agencies value illustrators who can explore multiple visual directions and iterate quickly."
+    },
+    {
+      "name": "Portfolio curation & presentation",
+      "why": "The ability to select and arrange work to tell a cohesive visual story shows professionalism and self-awareness."
+    },
+    {
+      "name": "Adobe Creative Suite (Illustrator, InDesign)",
+      "why": "Even illustrators working in digital paint often need to export, adapt, and integrate files into multi-app workflows."
+    },
+    {
+      "name": "Storytelling & narrative illustration",
+      "why": "Clients and publishers want illustrators who understand how visuals convey emotion and story, not just technique."
+    },
+    {
+      "name": "Client communication & revisions",
+      "why": "The ability to take feedback, iterate, and deliver on brief is what separates hobbyists from professionals in clients' eyes."
+    },
+    {
+      "name": "Fast turnaround & time management",
+      "why": "Agencies and publishers operate on tight deadlines; proving you can deliver polished work under pressure is a huge differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created illustrations for various clients and projects.",
+      "strong": "Delivered 40+ character designs and environment concepts for indie game studio over 6 months, enabling art team to move into production 2 weeks ahead of schedule.",
+      "lesson": "Specific numbers (40+), deliverables, and business impact (schedule savings) replace vague language and prove you understand client deadlines."
+    },
+    {
+      "weak": "Skilled in Photoshop and digital painting. Worked on book illustrations.",
+      "strong": "Illustrated 12-chapter children's book series (50+ full-page spreads) in Procreate; design incorporated 3+ rounds of publisher feedback; launched to 4K+ pre-orders.",
+      "lesson": "Naming the specific tool, scope of work, and a measurable outcome (pre-orders) shows both skill and business sense."
+    },
+    {
+      "weak": "Did freelance illustration work and had repeat clients.",
+      "strong": "Built roster of 8 repeat editorial and packaging clients; maintained 95% on-time delivery rate and increased average project value 40% year-over-year through specialty expertise in pet character design.",
+      "lesson": "Client retention, reliability metrics, and niche expertise signal you're not just talented but also dependable and business-savvy."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing software skills without context",
+      "fix": "Say *what* you made in that tool ('20+ UI icons in Illustrator for SaaS product') instead of just naming it. Hiring managers care about output, not just toolbox."
+    },
+    {
+      "mistake": "Leaving portfolio URL or ArtStation link off the resume",
+      "fix": "Your resume is a gateway; always include a link to your online portfolio or ArtStation in the header. Hiring managers will click it immediately."
+    },
+    {
+      "mistake": "Treating education and client work as equal weight",
+      "fix": "If you have paid illustration gigs or shipped work, put those before formal education or bootcamp credentials. Client projects are proof of real-world impact."
+    },
+    {
+      "mistake": "Hiding freelance/contract work under vague headings",
+      "fix": "Own your freelance history; label it clearly ('Freelance Illustrator, 2021–present') so there's no confusion about your professional timeline."
+    },
+    {
+      "mistake": "Using generic descriptions of style instead of results",
+      "fix": "Avoid 'Known for vibrant, expressive style.' Instead say: 'Illustrated 6 editorial spreads for *The New Yorker*, each receiving 10K+ social shares' — results over aesthetics."
+    }
+  ],
+  "structureTips": [
+    "Lead with a Portfolio/Web link in the header (not at the bottom). Hiring managers will check it before reading anything else.",
+    "Put paid client work and shipped projects above education. If you're freelance or self-taught, a 'Selected Projects' or 'Client Work' section replaces a traditional job history.",
+    "Group skills by tool and outcome, not just tool: 'Digital Illustration (Procreate, Clip Studio Paint)' and 'Character & Concept Design' tell a clearer story than listing 10 software names.",
+    "If you have strong published/exhibited work, add a one-line 'Publications & Recognition' section above or below the main experience. Social proof goes a long way in creative fields."
+  ],
+  "atsKeywords": [
+    "digital illustration",
+    "character design",
+    "concept art",
+    "Adobe Illustrator",
+    "Procreate",
+    "character development",
+    "illustration portfolio",
+    "visual design",
+    "client revisions",
+    "editorial illustration"
+  ],
+  "salarySignal": "Entry-level illustrators in the US typically earn $35K–$50K; mid-level freelancers and in-house illustrators often see $50K–$75K; senior or specialized (children's, tech, publishing) roles can exceed $80K, with freelance rates varying widely by project and reputation.",
+  "faq": [
+    {
+      "q": "Should I include my entire portfolio on my resume or just link to it?",
+      "a": "Always link—your resume isn't the place for images. Put your ArtStation or portfolio URL prominently in the header, then use bullet points to highlight your best 3–5 shipped projects. Hiring managers will click the link to see the full visual story."
+    },
+    {
+      "q": "Do I need to list every software I know, or just the main ones?",
+      "a": "List only the tools relevant to the job and the ones you're confident in. A 10-software laundry list signals you're not specialized. Focus on Procreate, Photoshop, Illustrator, and any niche tools that set you apart (e.g., Clip Studio Paint for comic work)."
+    },
+    {
+      "q": "How do I explain gaps if I'm mostly freelance or self-taught?",
+      "a": "Own your timeline. List 'Freelance Illustrator' with date range as a job title, then describe 3–5 client projects or personal work shipped in that period. Self-taught is fine; shipped work proves skill."
+    },
+    {
+      "q": "What if my best work is under NDA or can't be shown publicly?",
+      "a": "Describe it in a bullet point with what you can share: 'Designed 30+ character concepts for AAA game studio (portfolio available under NDA).' Then show 5–7 public pieces in your online portfolio to fill the gap."
+    },
+    {
+      "q": "Should I include social media followers or engagement metrics?",
+      "a": "Only if they're substantial and relevant. '15K Instagram followers, avg. 8% engagement on illustration posts' signals reach and community trust, but don't force it if numbers are modest. Focus on client wins and shipped work instead."
+    }
+  ]
+}

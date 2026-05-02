@@ -1,0 +1,130 @@
+{
+  "slug": "event-coordinator",
+  "title": "Event Coordinator",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:56:56.451Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Event Coordinator Resume: Skills, Bullets & ATS Tips",
+  "metaDescription": "Build a winning Event Coordinator resume with concrete examples, key skills, and ATS-friendly formatting to land interviews.",
+  "h1": "Event Coordinator Resume: What Hiring Managers Actually Want to See",
+  "intro": "Event Coordinators juggle logistics, budgets, vendors, and timelines—and your resume needs to prove you can handle all of it. We'll show you how to highlight the organizational wins and client satisfaction that get you past initial screening and into the interview chair.",
+  "audience": "Recent grads entering event planning, hospitality professionals moving into coordination roles, and career switchers with project management or customer service experience.",
+  "topSkills": [
+    {
+      "name": "Event Planning & Logistics",
+      "why": "This is the core of the job—hiring managers need to see you can manage timelines, vendor coordination, and on-site execution from start to finish."
+    },
+    {
+      "name": "Budget Management & Cost Control",
+      "why": "Events live or die by budget. Employers want evidence you can negotiate, track expenses, and deliver under budget or on target."
+    },
+    {
+      "name": "Vendor & Supplier Negotiation",
+      "why": "Sourcing caterers, AV teams, florists, and venues requires relationship-building and deal-closing skills that directly impact the bottom line."
+    },
+    {
+      "name": "Project Management",
+      "why": "Event Coordinators need systems to track deadlines, deliverables, and stakeholder requests—ideally shown through tools like Asana, Monday.com, or Trello."
+    },
+    {
+      "name": "Client Communication & Relationship Management",
+      "why": "Managing expectations, handling last-minute changes, and keeping clients informed are non-negotiable soft skills that prevent meltdowns."
+    },
+    {
+      "name": "Attention to Detail & Quality Assurance",
+      "why": "One typo on a program or a missed detail can derail an event. Employers look for evidence of thorough checklists and QA processes."
+    },
+    {
+      "name": "Crisis Management & Problem-Solving",
+      "why": "Events never go perfectly—hiring managers want to see examples of how you've pivoted, adapted, or salvaged situations under pressure."
+    },
+    {
+      "name": "Event Management Software",
+      "why": "Familiarity with platforms like Eventbrite, Splash, Cvent, or Certain is a strong differentiator in a competitive field."
+    },
+    {
+      "name": "Social Media & Marketing Promotion",
+      "why": "Modern event coordinators drive ticket sales and awareness through social channels; experience with Instagram, email marketing, or paid ads adds value."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Coordinated multiple events and managed vendor relationships.",
+      "strong": "Orchestrated 15+ corporate events annually (50–300 attendees each), negotiated contracts with 8+ vendors, and maintained a 98% on-time vendor delivery rate.",
+      "lesson": "Adding specific numbers (events, attendees, vendors) and a measurable outcome (delivery rate) transforms a vague responsibility into proof of impact."
+    },
+    {
+      "weak": "Handled event budgets and kept costs down.",
+      "strong": "Managed event budgets ranging from $5K–$75K, achieved 12–18% cost savings through competitive vendor bidding, and maintained zero budget overruns across 20+ events.",
+      "lesson": "Showing the budget range and quantifying savings demonstrates financial acumen and disciplined spend management—critical for event roles."
+    },
+    {
+      "weak": "Worked with clients to plan events and respond to changes.",
+      "strong": "Maintained 95% client satisfaction rating by proactively updating 50+ stakeholders on timelines, executing 30+ last-minute change requests, and resolving venue/catering conflicts within 48 hours.",
+      "lesson": "Client satisfaction scores, stakeholder counts, and turnaround times give concrete proof of your communication and problem-solving skills."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Treating every event the same size or impact.",
+      "fix": "Differentiate by event type (corporate galas, product launches, conferences) and scale (25 people vs. 500+) so hiring managers understand the complexity you've handled."
+    },
+    {
+      "mistake": "Focusing only on the fun, social side of events.",
+      "fix": "Lead with logistics, budget management, and problem-solving—those are what hiring managers care about. Save the 'loved working with people' energy for the interview."
+    },
+    {
+      "mistake": "Listing tools and software without context.",
+      "fix": "Instead of 'Proficient in Eventbrite,' say 'Used Eventbrite to manage ticketing and registration for 8 events, achieving 85% early-bird ticket sales.' Show impact, not just familiarity."
+    },
+    {
+      "mistake": "Omitting metrics or hard numbers.",
+      "fix": "Always quantify: attendee count, budget, vendor count, timeline, satisfaction scores, or cost savings. Event work is measurable—prove it."
+    },
+    {
+      "mistake": "Not mentioning crisis management or adaptability.",
+      "fix": "Include at least one bullet about handling a challenge (weather delay, vendor cancellation, unexpected guest surge) and how you pivoted—this shows resilience that hiring managers love."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief Professional Summary or Objective that names 2–3 event types you specialize in (e.g., 'Corporate Events & Conferences' or 'Weddings & Social Galas') and your strongest outcome (budget savings, satisfaction rate, or scale).",
+    "In your Experience section, group bullets by outcomes: Client Satisfaction & Communication first, then Budget & Vendor Management, then Logistics & Execution. This mirrors how hiring managers evaluate the role.",
+    "If you're junior or transitioning, create a short 'Event Planning Skills' section highlighting software proficiencies (Asana, Eventbrite, Cvent), certifications (MPI, ISES), or relevant coursework—this helps ATS and fast-scanning recruiters.",
+    "Include any metrics on client retention, repeat business, or referrals—Event Coordinators who keep clients coming back are worth their weight in gold."
+  ],
+  "atsKeywords": [
+    "event coordinator",
+    "event planning",
+    "vendor management",
+    "budget management",
+    "project management",
+    "client relationship management",
+    "event logistics",
+    "crisis management",
+    "Eventbrite",
+    "Cvent"
+  ],
+  "salarySignal": "Entry-level Event Coordinator salaries in the US typically range from $28K–$38K, with mid-level coordinators earning $40K–$55K and experienced managers reaching $60K+, depending on location, company size, and event volume.",
+  "faq": [
+    {
+      "q": "What should I highlight if I'm new to event coordinating?",
+      "a": "Focus on transferable skills from hospitality, customer service, or project management roles. Then add a 'Relevant Skills' or 'Event Planning Certifications' section to show formal training (even online courses count). Finally, include any volunteer event experience, student organization planning, or freelance coordination you've done—employers understand entry-level backgrounds."
+    },
+    {
+      "q": "How do I show event coordination experience if I've only planned small, internal events?",
+      "a": "Scale doesn't matter as much as demonstrating the full event lifecycle. Describe the planning, vendor coordination, budget, attendance, and outcomes—even a 40-person team lunch that you organized from scratch shows the fundamentals. Use percentages and ratios (e.g., 'managed 5-vendor coordination for company retreat') to signal broader capability."
+    },
+    {
+      "q": "Should I include specific event names or client names on my resume?",
+      "a": "Yes, if you have permission—event industry is relationship-based and brand recognition helps (e.g., 'Coordinated TechCrunch Disrupt NYC 2023 for 2,000+ attendees'). If you signed an NDA or want to be cautious, use event type and scale instead (e.g., 'Managed Fortune 500 annual gala for 400 C-suite executives')."
+    },
+    {
+      "q": "What's the best way to list event management software on my resume?",
+      "a": "Add an 'Event Management & Tools' section with software proficiencies, or weave them into experience bullets with context (e.g., 'Streamlined attendee check-in using Eventbrite, reducing wait times by 40%'). Focus on tools your target employers use—check job postings for clues—and prioritize Eventbrite, Cvent, Splash, and Asana as industry standards."
+    },
+    {
+      "q": "How do I quantify success in event coordination if metrics aren't always obvious?",
+      "a": "Track what you can: attendee count, budget size, vendor count, timeline (weeks of planning), client satisfaction scores, cost savings, ticket sales, post-event survey ratings, or repeat business. Even attendance rate growth (e.g., '12% YoY increase') or Net Promoter Score signal quality. If hard metrics aren't available, use qualitative proof like 'client renewed annual contract' or 'zero vendor complaints.'"
+    }
+  ]
+}

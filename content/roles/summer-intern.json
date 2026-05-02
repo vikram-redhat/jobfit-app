@@ -1,0 +1,124 @@
+{
+  "slug": "summer-intern",
+  "title": "Summer Intern",
+  "category": "newgrad",
+  "generatedAt": "2026-05-02T23:04:37.910Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Summer Intern Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a standout summer intern resume with our guide. Learn what skills to highlight, how to structure your experience, and avoid common mistakes.",
+  "h1": "Summer Intern Resume: Stand Out to Hiring Managers",
+  "intro": "Landing a summer internship is your ticket to real-world experience, networking, and often a return offer. Your resume needs to show that you're eager, coachable, and ready to contribute—even if this is your first professional gig. We'll walk you through exactly what hiring managers are looking for.",
+  "audience": "Recent high school and college students, early underclassmen, and first-time job seekers applying to internship programs across tech, business, marketing, and other industries.",
+  "topSkills": [
+    {
+      "name": "Teamwork & Collaboration",
+      "why": "Interns join existing teams; managers need confidence you'll ask for help, take feedback, and work well with others."
+    },
+    {
+      "name": "Communication (Written & Verbal)",
+      "why": "As an intern, you'll document progress, present findings, and update stakeholders—clear communication sets you apart from candidates who stay silent."
+    },
+    {
+      "name": "Project Management & Organization",
+      "why": "Internship tasks come fast and overlap; showing you can track deadlines, prioritize, and deliver on time matters more than raw experience."
+    },
+    {
+      "name": "Quick Learning & Adaptability",
+      "why": "Interns are expected to ramp up fast in new tools and workflows; highlight moments where you learned something unfamiliar on the job."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Even entry-level work has quality standards; typos and missed requirements signal you're not ready for a professional environment."
+    },
+    {
+      "name": "Initiative & Proactivity",
+      "why": "Managers love interns who spot problems and propose solutions instead of waiting to be told what to do."
+    },
+    {
+      "name": "Relevant Technical Skills (Role-Specific)",
+      "why": "For tech/data/finance roles, list the actual tools you know (Python, Excel, SQL, Figma, etc.) so your resume passes automated screening."
+    },
+    {
+      "name": "Customer or User Focus",
+      "why": "Many internships involve supporting clients or end-users; showing you care about their experience makes you more valuable than someone coding in isolation."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Assisted with marketing campaigns and helped the team with various social media tasks.",
+      "strong": "Collaborated with marketing team to plan and schedule 15+ Instagram posts per week, achieving a 22% increase in engagement over the 8-week internship.",
+      "lesson": "Specificity + metric (even if estimated) beats vague 'helped with.' A number shows you tracked impact, not just showed up."
+    },
+    {
+      "weak": "Learned how to use the company's CRM system and database.",
+      "strong": "Trained on Salesforce CRM; identified and corrected 150+ duplicate contact records, enabling the sales team to focus on qualified leads.",
+      "lesson": "Replace 'learned' with a concrete output (you fixed a real problem). Hiring managers care what you *did* with your new skill, not just that you learned it."
+    },
+    {
+      "weak": "Worked on a project to improve the website.",
+      "strong": "Audited website accessibility issues using WAVE and created documentation for 8 high-priority fixes, enabling 3-week compliance roadmap.",
+      "lesson": "Name the tool, the output (documentation), and the downstream impact (helped roadmap). This shows you didn't just fiddle—you created value others built on."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Writing a resume like you're applying to college (focus on grades, clubs, awards).",
+      "fix": "Shift focus to *work output*: what you built, fixed, shipped, or improved—even if it's small. Employers care far less about your GPA than what you delivered."
+    },
+    {
+      "mistake": "Listing duties instead of accomplishments ('Responsible for X' or 'Duties included Y').",
+      "fix": "Rewrite every bullet as a past-tense action verb + outcome. 'Responsible for data entry' becomes 'Processed and validated 500+ records, reducing downstream errors by 15%.'"
+    },
+    {
+      "mistake": "Padding with filler if you have limited experience.",
+      "fix": "Keep it honest. Two strong, detailed bullets beat five vague ones. If you're early in your career, lean on academic projects, volunteer work, or school org leadership instead."
+    },
+    {
+      "mistake": "Forgetting to tailor for the role.",
+      "fix": "Copy exact skills/keywords from the job description and mirror them in your resume. An AI tool screens resumes first; if the posting says 'Excel' and your resume says 'spreadsheet skills,' you might not advance."
+    },
+    {
+      "mistake": "Using a generic objective like 'Seeking a summer internship to gain experience.'",
+      "fix": "Skip the objective unless the posting explicitly asks for one. Instead, let your skills and bullets speak. If you use a summary, make it specific: 'Rising sophomore with Python and data visualization experience, seeking analytics internship to apply SQL skills.'"
+    }
+  ],
+  "structureTips": [
+    "Start with Contact Info + a short (1-2 line) professional summary or skip it entirely, then jump into Experience. Interns often have limited work history, so don't waste space on filler.",
+    "Put your strongest, most relevant experience first—even if it's a volunteer role or class project. Hiring managers scan top-to-bottom and may not read past the second job.",
+    "If you have no work experience, lead with a 'Skills' or 'Technical Skills' section (listing tools, languages, software) so the ATS can find keywords. Follow with 'Projects' or 'Academic Experience' that shows you've done *something* relevant.",
+    "Keep your entire resume to one page. Hiring managers spend 6–10 seconds on an entry-level resume; a cramped 2-pager signals you don't understand brevity."
+  ],
+  "atsKeywords": [
+    "summer internship",
+    "project management",
+    "cross-functional collaboration",
+    "technical skills",
+    "data analysis",
+    "customer engagement",
+    "quick learner",
+    "attention to detail"
+  ],
+  "salarySignal": "Internships are typically unpaid or paid $15–$25/hour (or $30k–$45k annualized for full-time summer roles), depending on region, industry, and company size; top tech companies often pay $25–$35/hour.",
+  "faq": [
+    {
+      "q": "Do I need work experience to write a good internship resume?",
+      "a": "No. If this is your first gig, focus on school projects, class work, volunteer roles, leadership in clubs, or personal projects that show you can learn and deliver results. Hiring managers expect interns to have limited experience—they're evaluating coachability and energy, not a 10-year track record."
+    },
+    {
+      "q": "How do I describe what I did if the internship was mostly learning?",
+      "a": "Shift from 'I was trained in X' to 'I applied X to accomplish Y.' For example, instead of 'Learned SQL,' write 'Wrote 5 SQL queries to analyze customer cohorts, reducing report generation time by 2 hours per week.' Even if you're describing a learning project, anchor it to an outcome."
+    },
+    {
+      "q": "Should I include my GPA on my internship resume?",
+      "a": "Only if it's 3.7 or higher, the job posting explicitly asks for it, or you're applying to a very traditional/corporate industry. Most tech and startup interns can safely leave it off; hiring managers care more about what you can do than your transcript."
+    },
+    {
+      "q": "What if I have multiple internships or job experiences?",
+      "a": "List them in reverse chronological order (most recent first). Use 2–4 bullets per role, prioritizing accomplishments that match the job description. If a past role isn't relevant, you can condense it to 1–2 bullets or omit it entirely."
+    },
+    {
+      "q": "How do I make my resume pass ATS (Applicant Tracking System) screening?",
+      "a": "Use the exact keywords and job titles from the posting. If they say 'Python' and 'AWS,' don't write 'programming languages' and 'cloud services.' Save and upload as a .docx or .pdf (check the posting). Avoid fancy fonts, graphics, and tables—stick to plain text formatting."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "email-marketing-manager",
+  "title": "Email Marketing Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:41:26.756Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Email Marketing Manager Resume: Template & Tips",
+  "metaDescription": "Land your next email marketing role. See sample bullets, key skills, and ATS keywords to boost your Email Marketing Manager resume.",
+  "h1": "Email Marketing Manager Resume Guide",
+  "intro": "Your email marketing resume needs to prove you can grow subscriber lists, craft campaigns that convert, and measure what actually matters. We'll show you how to turn your wins into resume bullets that hiring managers actually read.",
+  "audience": "Early-career marketers, campaign coordinators stepping up, and professionals pivoting from adjacent marketing roles into email-focused positions.",
+  "topSkills": [
+    {
+      "name": "Email Campaign Management",
+      "why": "This is the core of the role—hiring managers need to see you've built and executed campaigns end-to-end."
+    },
+    {
+      "name": "Segmentation & Audience Analysis",
+      "why": "Effective email depends on sending the right message to the right people; showing this skill signals strategic thinking."
+    },
+    {
+      "name": "A/B Testing & Optimization",
+      "why": "Email marketers live by data; managers want proof you test subject lines, send times, and content to improve performance."
+    },
+    {
+      "name": "Email Service Providers (Mailchimp, HubSpot, Klaviyo)",
+      "why": "Fluency with major platforms is non-negotiable; candidates who name specific tools stand out in ATS scans."
+    },
+    {
+      "name": "Performance Metrics & Analytics",
+      "why": "Open rates, click-through rates, conversions—you must speak this language and show you track progress."
+    },
+    {
+      "name": "HTML & CSS (Basic)",
+      "why": "You don't need to be a developer, but basic email template editing makes you more self-sufficient and valuable."
+    },
+    {
+      "name": "Marketing Automation",
+      "why": "Automating workflows, drip campaigns, and triggered sends is a growing expectation in modern email roles."
+    },
+    {
+      "name": "Copywriting & Creative Direction",
+      "why": "Email success hinges on compelling subject lines and body copy; show you can write or collaborate with creative teams."
+    },
+    {
+      "name": "CRM Integration",
+      "why": "Email doesn't live in a silo; connecting email data to CRM platforms (Salesforce, HubSpot) proves strategic alignment."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed email campaigns and worked with the creative team to improve engagement.",
+      "strong": "Executed 40+ monthly email campaigns with average open rate of 28%, improved from 22% through subject line A/B testing; segmented subscriber base into 12 behavioral cohorts, increasing CTR by 18%.",
+      "lesson": "Specific metrics (campaign volume, open rate lift, segment count) and the action that drove them (A/B testing, segmentation strategy) transform a vague bullet into proof of impact."
+    },
+    {
+      "weak": "Implemented marketing automation to save time on repetitive tasks.",
+      "strong": "Built and deployed 8 automated email workflows in HubSpot (welcome series, cart abandonment, re-engagement), reducing manual send time by 10 hours/month and generating $47K in incremental revenue in 6 months.",
+      "lesson": "Naming the platform, quantifying time saved, and linking automation to revenue shows you understand both the operational and business value of your work."
+    },
+    {
+      "weak": "Improved email list quality by removing inactive subscribers.",
+      "strong": "Conducted quarterly email list hygiene audits, removed 12% inactive subscribers, and lowered bounce rate from 3.2% to 1.8%, improving deliverability score from 88% to 96% within 2 quarters.",
+      "lesson": "Concrete percentages and timeline show due diligence; connecting list quality to deliverability metrics proves you understand the downstream business impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing email platforms without demonstrating proficiency",
+      "fix": "Instead of just listing 'Mailchimp, Klaviyo, HubSpot,' show what you built or achieved in each (e.g., 'Managed 150K+ subscriber list in Klaviyo; designed 20+ custom flows using conditional logic')."
+    },
+    {
+      "mistake": "Focusing on volume (number of campaigns sent) over quality (results)",
+      "fix": "Replace 'sent 200+ campaigns/year' with 'maintained 32% average open rate across 200+ campaigns, 8 points above industry benchmark' to show you drive results, not just send mail."
+    },
+    {
+      "mistake": "Forgetting to mention revenue or business impact",
+      "fix": "Email has a direct tie to revenue; quantify conversions, AOV lift, customer acquisition cost, or pipeline contribution whenever possible."
+    },
+    {
+      "mistake": "Omitting data or analytics experience",
+      "fix": "Show you can read a report: mention analysis of segment performance, testing results, customer journey mapping, or dashboard creation—not just awareness of metrics."
+    },
+    {
+      "mistake": "Overstating technical skills you don't actually have",
+      "fix": "Be honest about HTML/CSS ability; if you only edit templates, say 'template customization and basic HTML editing,' not 'full HTML development.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with your email marketing or campaign management experience, not administrative duties. Put your most recent or impressive email role at the top and quantify the subscriber size and campaign frequency you've handled.",
+    "Group email platform expertise (Mailchimp, HubSpot, Klaviyo, etc.) in a dedicated 'Tools & Platforms' section or weave specific platforms into job bullets so ATS scanners and human reviewers both catch them.",
+    "Place A/B testing, segmentation, and analytics accomplishments prominently—these are non-negotiable hiring signals. If you improved open rates, CTR, or ROI, make sure it's above the fold.",
+    "Include a 'Campaigns & Projects' section if you have high-profile campaign wins (e.g., a rebranded welcome series that lifted conversions by 25%, a seasonal campaign that drove $XXK in revenue). This gives hiring managers a concrete sense of what you ship."
+  ],
+  "atsKeywords": [
+    "email marketing campaign management",
+    "email segmentation and audience analysis",
+    "A/B testing and optimization",
+    "email service provider",
+    "marketing automation",
+    "open rate click-through rate",
+    "HTML email template",
+    "email list management",
+    "drip campaign workflow",
+    "email deliverability"
+  ],
+  "salarySignal": "Entry-level Email Marketing Manager roles in the US typically start around $45K–$55K; mid-level (3–5 years experience) range from $55K–$75K, with six figures possible in senior or strategic roles at larger companies or agencies.",
+  "faq": [
+    {
+      "q": "What metrics should I include on my Email Marketing Manager resume?",
+      "a": "Lead with open rates, click-through rates (CTR), conversion rates, revenue attributed to email, and subscriber growth. Also include list size, campaign volume, segmentation depth, and A/B test uplift percentages. Hiring managers want to see you're data-driven and can prove impact."
+    },
+    {
+      "q": "How do I show Email Service Provider expertise if I've only used one platform?",
+      "a": "Go deep with what you've done in that one tool—mention specific features like automation workflows, advanced segmentation, dynamic content, or reporting dashboards you've built. If you've migrated between platforms or trained others, highlight that too. Deep knowledge of one platform beats shallow familiarity with many."
+    },
+    {
+      "q": "Should I include email copywriting samples or links on my resume?",
+      "a": "No—keep your resume to 1 page and link to a portfolio or case study in your cover letter or LinkedIn. If you want to highlight copy wins, quantify them: 'Rewrote subject lines for Q3 campaign, improving open rate by 12%' instead of pasting copy directly."
+    },
+    {
+      "q": "How do I explain a gap in email marketing experience if I'm transitioning from another marketing role?",
+      "a": "Show transferable wins: email exposure, segmentation logic, analytics fluency, or A/B testing mindset you've applied in other channels (social, content, paid). Then highlight any email side projects, volunteer campaigns, or certifications (Google Analytics, HubSpot Academy) that prove you're serious about the transition."
+    },
+    {
+      "q": "Is it better to list email platforms under 'Skills' or weave them into job bullets?",
+      "a": "Do both. Create a compact 'Tools & Platforms' section so ATS scanners pick up the keywords, then use job bullets to show what you *did* in those tools (e.g., 'Built 15+ automated workflows in HubSpot'). This combination catches both machine and human eyes."
+    }
+  ]
+}

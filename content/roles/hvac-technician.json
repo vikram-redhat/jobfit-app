@@ -1,0 +1,129 @@
+{
+  "slug": "hvac-technician",
+  "title": "HVAC Technician",
+  "category": "trades",
+  "generatedAt": "2026-05-02T22:59:23.664Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "HVAC Technician Resume: Skills, Examples & Tips",
+  "metaDescription": "Build a winning HVAC technician resume. See strong bullet examples, key skills, ATS keywords, and mistakes to avoid. Get hired faster.",
+  "h1": "HVAC Technician Resume: How to Stand Out",
+  "intro": "Your HVAC resume needs to prove you can diagnose systems, work safely, and keep customers happy—all under pressure. We'll show you how to write bullets that land interviews, highlight certifications that matter, and avoid the generic mistakes most techs make.",
+  "audience": "Trade professionals entering HVAC, career switchers from related mechanical fields, and experienced techs looking to level up their resume.",
+  "topSkills": [
+    {
+      "name": "EPA Certification (Section 608)",
+      "why": "Required by law to handle refrigerant; hiring managers filter resumes by this credential first."
+    },
+    {
+      "name": "HVAC System Diagnosis & Troubleshooting",
+      "why": "Core ability to identify and fix heating, cooling, and ventilation issues—what you'll do every day on the job."
+    },
+    {
+      "name": "Installation & Replacement",
+      "why": "Shows you can handle full system setups, not just repairs, increasing your value for larger projects."
+    },
+    {
+      "name": "Refrigerant Handling",
+      "why": "Critical safety and legal skill; demonstrates environmental responsibility and regulatory compliance."
+    },
+    {
+      "name": "Preventive Maintenance",
+      "why": "Reduces customer callbacks and builds trust; many employers prioritize techs who keep systems running smoothly."
+    },
+    {
+      "name": "Commercial & Residential Systems",
+      "why": "Broadens your marketability; shows you can pivot between small home units and large building systems."
+    },
+    {
+      "name": "HVAC Equipment & Tools (gauges, multimeters, etc.)",
+      "why": "Proves hands-on competence; mention specific brands or tools you're trained on."
+    },
+    {
+      "name": "Customer Service & Communication",
+      "why": "Techs often work alone at customer sites; ability to explain issues and build rapport matters as much as technical skill."
+    },
+    {
+      "name": "Blueprint & System Reading",
+      "why": "Shows you can plan installations and repairs accurately without constant supervision."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed HVAC repairs and maintenance on residential units.",
+      "strong": "Diagnosed and repaired 15–20 residential HVAC systems per week, achieving 95% first-visit resolution rate and reducing customer callbacks by 40%.",
+      "lesson": "Numbers (15–20 per week, 95% resolution, 40% reduction) replace vague language and prove impact—hiring managers know this means reliable, efficient work."
+    },
+    {
+      "weak": "Installed air conditioning systems and handled refrigerant correctly.",
+      "strong": "Completed full AC system installations for 30+ residential and light commercial properties; maintained EPA Section 608 compliance with zero violations; trained 3 junior techs on proper refrigerant recovery procedures.",
+      "lesson": "Specificity (30+ properties, zero violations, trained 3 techs) shows scope, safety mindset, and leadership—not just a checkbox task."
+    },
+    {
+      "weak": "Maintained customer satisfaction on service calls.",
+      "strong": "Averaged 4.8/5 customer satisfaction rating across 200+ annual service calls; identified and upsold preventive maintenance plans that increased customer lifetime value by 25% per household.",
+      "lesson": "Quantified satisfaction (4.8/5, 200+ calls) plus business impact (25% lifetime value increase) shows you're a revenue driver, not just a technician."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certifications without issue dates or expiration.",
+      "fix": "Always include when you earned each certification (EPA 608, NATE, manufacturer-specific training) and renewal dates if applicable; employers need current credentials."
+    },
+    {
+      "mistake": "Using generic verbs like 'worked on' or 'helped with' systems.",
+      "fix": "Use specific action verbs: 'diagnosed,' 'troubleshot,' 'installed,' 'replaced,' 'recovered,' 'calibrated'—these match how hiring managers talk about the work."
+    },
+    {
+      "mistake": "Failing to mention equipment brands or specialties you've used.",
+      "fix": "Name the systems you're trained on (Carrier, Trane, Lennox, etc.) and any specialties (heat pumps, ductless mini-splits, commercial rooftop units); helps ATS matching and shows depth."
+    },
+    {
+      "mistake": "Ignoring safety and compliance metrics.",
+      "fix": "Call out zero safety violations, OSHA compliance, or hazmat certifications; safety culture is non-negotiable in trades and signals reliability."
+    },
+    {
+      "mistake": "Not showing customer service wins or soft skills.",
+      "fix": "Include metrics on satisfaction ratings, repeat business, or upsells; HVAC techs work solo and own the customer relationship—prove you excel at both."
+    }
+  ],
+  "structureTips": [
+    "Lead with certifications (EPA 608, NATE, etc.) and licenses at the top—they're non-negotiable screening criteria; place them above or right after your header.",
+    "Group work experience by company and emphasize the scope and variety of systems you've touched (residential, commercial, equipment types, installation vs. service); hiring managers want to see you're not limited to one narrow specialty.",
+    "Put preventive maintenance and customer satisfaction wins in bullets, not buried at the end; they differentiate you from techs who only fix emergencies.",
+    "If you're early-career, emphasize apprenticeships, trade school programs, and OJT hours clearly; hiring managers want to see structured training, not just informal experience."
+  ],
+  "atsKeywords": [
+    "EPA Section 608 Certification",
+    "HVAC system installation",
+    "refrigerant handling",
+    "preventive maintenance",
+    "residential and commercial HVAC",
+    "troubleshooting and diagnostics",
+    "NATE certification",
+    "customer service",
+    "equipment repair and replacement"
+  ],
+  "salarySignal": "Entry-level US HVAC technician salaries typically range from $35,000–$45,000 annually; experienced techs and those with strong certifications or their own route often earn $50,000–$75,000+, with regional demand and specialization significantly impacting pay.",
+  "faq": [
+    {
+      "q": "Do I need EPA 608 certification to list myself as an HVAC technician?",
+      "a": "Legally, yes—EPA 608 is required to touch refrigerant in the US, and almost every HVAC job expects it. If you don't have it yet, get it before applying broadly; mention it as 'in progress' only if you have a clear completion date."
+    },
+    {
+      "q": "Should I list specific HVAC brands or equipment I've worked on?",
+      "a": "Absolutely. Employers often need techs trained on their house brands (Carrier, Trane, Lennox, etc.). Naming them helps ATS matching and shows you're not starting from scratch on their preferred systems."
+    },
+    {
+      "q": "How do I quantify my HVAC work if I don't track metrics like call volume?",
+      "a": "Focus on time in role, number of projects completed, systems types handled, certifications earned, customer satisfaction feedback, and safety record (e.g., 'zero safety incidents in 3 years, 4.7 average customer rating'). Even rough estimates beat vague language."
+    },
+    {
+      "q": "What's the difference between listing 'HVAC technician' vs. 'HVAC service technician' vs. 'HVAC installer'?",
+      "a": "Be specific to what you actually do. If you install only, say that. If you service and repair, say that. If you do both, list both or use a title like 'HVAC technician (service & installation).' This helps ATS and sets clear expectations."
+    },
+    {
+      "q": "How much should I emphasize customer service on an HVAC resume?",
+      "a": "A lot—HVAC techs work alone at customer homes and own the relationship. Include satisfaction ratings, repeat customer percentages, and upsell metrics. These soft skills are as valuable as technical ones to hiring managers."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "ai-engineer",
+  "title": "AI Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:40:53.520Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "AI Engineer Resume: Skills, Examples & ATS Tips",
+  "metaDescription": "Land your AI engineer role with a resume that highlights machine learning, deep learning, and deployment skills. Get real examples and ATS keywords.",
+  "h1": "AI Engineer Resume: How to Stand Out to Hiring Managers",
+  "intro": "AI engineer roles are competitive, but a well-crafted resume that connects your ML skills to real business impact can get you past both ATS systems and hiring managers. We'll show you exactly what to emphasize, how to structure it, and the keywords that actually matter.",
+  "audience": "Recent computer science graduates, machine learning practitioners, and software engineers transitioning into AI roles who want to break into the field or move up to senior positions.",
+  "topSkills": [
+    {
+      "name": "Machine Learning (ML) frameworks",
+      "why": "Hiring managers want proof you can build and train models—TensorFlow, PyTorch, and scikit-learn are the gold standard."
+    },
+    {
+      "name": "Deep Learning & Neural Networks",
+      "why": "Most AI engineering roles involve neural nets, transformers, or CNNs—this skill signals you understand advanced architectures."
+    },
+    {
+      "name": "Python",
+      "why": "Python is the lingua franca of AI development; almost every AI engineer job lists it as required."
+    },
+    {
+      "name": "Model deployment & MLOps",
+      "why": "Companies care about getting models into production—Docker, Kubernetes, AWS SageMaker, and model serving are increasingly critical."
+    },
+    {
+      "name": "Data preprocessing & feature engineering",
+      "why": "Dirty data is the biggest bottleneck in ML projects; showing you can clean and transform data is a huge plus."
+    },
+    {
+      "name": "Prompt engineering & LLMs",
+      "why": "With the explosion of GPT and foundation models, LLM fine-tuning and prompt optimization are hot skills in 2024–2026."
+    },
+    {
+      "name": "SQL & data pipeline handling",
+      "why": "You'll need to query and manage data sources; companies want engineers who can wrangle data from databases and build pipelines."
+    },
+    {
+      "name": "Computer Vision or NLP specialization",
+      "why": "If you have depth in a specific domain (image classification, text generation, etc.), call it out—it opens doors to specialized roles."
+    },
+    {
+      "name": "A/B testing & experiment design",
+      "why": "AI engineers often validate models in production; understanding statistical significance and experiment frameworks is valuable."
+    },
+    {
+      "name": "Cloud platforms (AWS, GCP, Azure)",
+      "why": "Most companies run AI workloads on cloud; familiarity with managed ML services and infrastructure is a big differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a machine learning model using TensorFlow to classify customer sentiment.",
+      "strong": "Developed a sentiment classification model using TensorFlow/Keras achieving 92% accuracy, deployed on AWS SageMaker, and reduced manual review time by 40% for 50K+ daily customer messages.",
+      "lesson": "Adding the framework, metric (accuracy %), deployment platform, and business outcome (time saved) transforms a vague accomplishment into proof of end-to-end impact."
+    },
+    {
+      "weak": "Worked on data preprocessing and feature engineering for a recommendation system.",
+      "strong": "Engineered 15+ features from raw user behavioral logs via SQL and pandas, reducing model training time by 35% and improving recommendation click-through rate from 2.1% to 3.8%.",
+      "lesson": "Quantifying the number of features, the technical tools, and the measurable business lift (CTR improvement) shows you understand the connection between data quality and results."
+    },
+    {
+      "weak": "Collaborated with team members to fine-tune a large language model for chatbot use case.",
+      "strong": "Fine-tuned a 7B-parameter open-source LLM on 10K domain-specific prompts using LoRA, reduced inference latency by 25%, and improved BLEU score from 0.68 to 0.81 on internal benchmarks.",
+      "lesson": "Specifying the model size, tuning technique, scale of training data, latency improvement, and evaluation metric demonstrates technical depth and measurable quality gains."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing ML skills without context or proof",
+      "fix": "Always pair a framework or method with a concrete project outcome—don't just say 'experienced in PyTorch,' say 'shipped 3 PyTorch-based models to production with >90% uptime.'"
+    },
+    {
+      "mistake": "Focusing only on model accuracy, ignoring deployment and scale",
+      "fix": "Hiring managers care about getting models into production and keeping them running; mention deployment, monitoring, or scaling challenges you solved alongside model metrics."
+    },
+    {
+      "mistake": "Burying LLM or Gen AI work because it feels 'trendy'",
+      "fix": "LLM experience (fine-tuning, RAG, prompt optimization, etc.) is highly valued right now—make it visible if you have it, and be specific about the method and measurable results."
+    },
+    {
+      "mistake": "Omitting infrastructure and data pipeline skills",
+      "fix": "Data pipeline ownership, data validation, and basic DevOps (Docker, CI/CD) are increasingly expected; include these if you've done them, as they show you ship production-ready code."
+    },
+    {
+      "mistake": "Not differentiating between coursework and real projects",
+      "fix": "Clearly label personal projects, open-source contributions, or academic work; hiring managers assume coursework is mandatory, so real-world shipped projects are far more valuable."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that anchors your AI specialty—e.g., 'ML Engineer specializing in computer vision and model deployment on AWS; shipped 2 production CV models reducing operational costs by 30%.' This immediately signals depth.",
+    "Put your most recent and most impressive AI projects or work experience at the top of your experience section, even if they're not your longest role—recency and impact beat chronology.",
+    "Create a dedicated 'Technical Skills' section organized by category (Languages, ML Frameworks, Cloud/DevOps, Specializations), not just a flat list—this helps both ATS scanning and human readers find what they're looking for.",
+    "If you have published papers, open-source contributions, or Kaggle competitions, give them their own mini-section above education; these are proof of expertise and set you apart from the crowd."
+  ],
+  "atsKeywords": [
+    "machine learning",
+    "deep learning",
+    "TensorFlow",
+    "PyTorch",
+    "model deployment",
+    "MLOps",
+    "prompt engineering",
+    "large language models",
+    "computer vision",
+    "natural language processing",
+    "feature engineering",
+    "AWS SageMaker",
+    "data pipeline",
+    "neural networks"
+  ],
+  "salarySignal": "Entry-level AI engineers in the US typically earn $120K–$150K; mid-level roles (3–5 years) range from $160K–$220K; senior/staff roles exceed $250K. Salaries vary widely by location (Bay Area and NYC pay 20–40% premiums) and company stage (startups vs. FAANG).",
+  "faq": [
+    {
+      "q": "What should I include if I only have academic or Kaggle ML experience?",
+      "a": "Treat academic projects and Kaggle competitions as 'real' work—list them with a clear title (e.g., 'Computer Vision Capstone' or 'Kaggle Top 5% Ranking'), the problem you solved, your approach, and your metric (accuracy, F1, rank). Then mention one shipped or deployed outcome if possible (e.g., 'model integrated into team's inference pipeline')."
+    },
+    {
+      "q": "How do I highlight LLM or prompt engineering work on my resume?",
+      "a": "Create bullet points that specify the model (GPT-4, Llama, etc.), the technique (fine-tuning, RAG, prompt optimization), the scale of data or effort, and the measurable outcome (latency, cost, quality metric, user satisfaction). Example: 'Fine-tuned GPT-3.5 on 5K customer service conversations, reducing response time by 50% and improving resolution rate from 78% to 85%.'"
+    },
+    {
+      "q": "Should I include GitHub links or a portfolio on my resume?",
+      "a": "Yes—add a GitHub or portfolio link in your header if you have public, clean, well-documented projects. Hiring managers often click these links to verify your coding style and depth. Make sure repos are commented, have a README, and show real ML work (not just toy examples)."
+    },
+    {
+      "q": "How do I show impact if my work is proprietary or confidential?",
+      "a": "Use anonymized metrics and problem statements. Instead of naming the company or dataset, say 'Optimized recommendation model for e-commerce platform serving 10M+ users, improving revenue by 12%.' Focus on the scale, method, and outcome rather than sensitive details."
+    },
+    {
+      "q": "What's more important: research papers or shipped projects?",
+      "a": "Shipped projects win in industry; research papers are a bonus. If you have both, lead with shipped work and mention papers below. If you only have papers, frame them with deployed outcomes or open-source code so hiring managers see practical impact beyond academia."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "executive-assistant",
+  "title": "Executive Assistant",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:47:54.331Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Executive Assistant Resume: Template & Writing Guide",
+  "metaDescription": "Land your EA role with a resume that highlights scheduling, communication, and leadership support skills. See real examples & mistakes to avoid.",
+  "h1": "How to Write an Executive Assistant Resume That Gets Interviews",
+  "intro": "Executive Assistant roles demand a resume that proves you can juggle competing priorities, manage complex calendars, and keep C-suite leaders organized. We'll walk you through what hiring managers actually want to see—and how to showcase your organizational superpowers without overstating them.",
+  "audience": "Recent business school grads, administrative professionals moving up to EA roles, and career switchers from operations or HR backgrounds.",
+  "topSkills": [
+    {
+      "name": "Calendar & Meeting Management",
+      "why": "EAs live by their calendars; hiring managers need proof you can coordinate across time zones, manage competing priorities, and keep executives on schedule."
+    },
+    {
+      "name": "Executive Communication",
+      "why": "You're the gatekeeper of senior leadership's time and reputation—employers want to see you can draft emails, prepare briefs, and represent executives professionally."
+    },
+    {
+      "name": "Office Management & Administration",
+      "why": "From vendor relationships to expense reconciliation, EAs handle the operational backbone; this signals you can own processes end-to-end."
+    },
+    {
+      "name": "Microsoft Office / Google Workspace",
+      "why": "Proficiency in Outlook, Excel, Sheets, and Docs is table-stakes; most EA job postings list it explicitly."
+    },
+    {
+      "name": "Project Coordination & Execution",
+      "why": "EAs often own cross-functional projects and initiatives; showing you can move things from kickoff to completion is a big differentiator."
+    },
+    {
+      "name": "Stakeholder Relationship Management",
+      "why": "You'll interact with board members, vendors, and teams at all levels—employers want to see emotional intelligence and diplomacy."
+    },
+    {
+      "name": "Document Preparation & Presentation Support",
+      "why": "Creating board decks, investor presentations, and executive summaries is core EA work; specific examples carry weight."
+    },
+    {
+      "name": "Travel & Expense Management",
+      "why": "Organizing multi-city executive travel and managing budgets shows logistical capability and attention to detail."
+    },
+    {
+      "name": "Confidentiality & Discretion",
+      "why": "EAs handle sensitive information daily; hiring managers look for language that signals you understand the trust and discretion the role demands."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed calendars for senior executives and coordinated meetings.",
+      "strong": "Scheduled 200+ monthly meetings across 4 time zones for C-suite team, reducing booking conflicts by 95% through Outlook rules and automated agenda sharing.",
+      "lesson": "Adding specificity (number of meetings, time zones, measurable outcome) transforms a vague duty into proof of impact."
+    },
+    {
+      "weak": "Prepared documents and materials for board meetings.",
+      "strong": "Compiled quarterly board books for 12-member board, coordinating 40+ page decks with legal, finance, and operations teams on strict 2-week timeline; zero errors or delays across 8 cycles.",
+      "lesson": "Naming the stakeholders, document complexity, and your hit rate (zero errors) shows you own cross-functional execution."
+    },
+    {
+      "weak": "Handled travel arrangements and office duties.",
+      "strong": "Managed end-to-end travel logistics for 6 executives (50+ trips/year), negotiated corporate hotel/airline contracts saving 18% annually, and maintained $2.1M expense budget with 100% audit accuracy.",
+      "lesson": "Quantifying trips, cost savings, and accuracy paints a picture of both scale and reliability—exactly what hiring managers want in an EA."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes.",
+      "fix": "Replace 'answered phones and scheduled meetings' with 'reduced VP's meeting prep time by 6 hours/week through automated calendar block system and pre-call briefing templates.'"
+    },
+    {
+      "mistake": "Burying executive support behind administrative duties.",
+      "fix": "Lead with high-impact projects (board meeting coordination, executive initiatives) before routine office management; show you're a strategic partner, not just an organizer."
+    },
+    {
+      "mistake": "Vague references to 'supporting leadership.'",
+      "fix": "Name the titles or departments you supported (e.g., 'Chief Revenue Officer and VP of Sales team') and the specific ways you unblocked them."
+    },
+    {
+      "mistake": "Forgetting to mention soft skills and industry knowledge.",
+      "fix": "Weave in language about stakeholder diplomacy, board exposure, industry trends you've learned, or confidential projects that shaped your judgment."
+    },
+    {
+      "mistake": "Omitting tools and systems proficiency.",
+      "fix": "Explicitly list platforms you've mastered: Outlook, Salesforce, Slack, Asana, Workiva, or any specialized EA software; many ATS systems screen for these."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief summary (3–4 lines) that positions you as a strategic operator, not just a scheduler. Example: 'Results-driven EA with 5+ years managing C-suite operations, board relations, and cross-functional projects. Proven track record streamlining executive workflows and maintaining confidentiality in fast-paced environments.'",
+    "Place your most impressive achievement bullet first in each role. If you coordinated a major board transition or saved the company money, lead with it—that's what hiring managers scan for in the first 10 seconds.",
+    "Group bullets thematically within each role (calendar & communication first, then projects, then operations) so the reader follows your scope logically.",
+    "Reserve a dedicated 'Tools & Systems' or 'Technical Proficiencies' line near the bottom of your experience section; list specific software, ERPs, and office platforms you've used at a professional level."
+  ],
+  "atsKeywords": [
+    "Executive Assistant",
+    "calendar management",
+    "executive support",
+    "office management",
+    "stakeholder communication",
+    "project coordination",
+    "Microsoft Outlook",
+    "board meeting coordination",
+    "expense management",
+    "administrative operations"
+  ],
+  "salarySignal": "Entry-level EA roles in the US typically start around $45K–$55K; mid-level (3–7 years) ranges from $55K–$75K; senior or specialized EAs supporting C-suite can earn $75K–$110K+, depending on company size, geography, and industry.",
+  "faq": [
+    {
+      "q": "How do I make my EA resume stand out if I'm coming from a different admin role?",
+      "a": "Highlight any projects where you moved beyond daily admin—launching a new process, supporting a major company initiative, or mentoring junior staff. Use numbers (meetings coordinated, budgets owned, teams supported) to show scope and impact. Name the seniority level of leaders you've supported; 'Assistant to the CFO' reads differently than 'office coordinator.'"
+    },
+    {
+      "q": "Should I list software skills on an EA resume?",
+      "a": "Absolutely. Create a 'Technical Skills' or 'Tools & Systems' section listing Outlook, Excel, Google Workspace, Slack, Salesforce, or any EA-specific software you've used. Many EA job postings are filtered by ATS for specific tools, so being explicit helps you pass the initial screen."
+    },
+    {
+      "q": "How much detail should I include about confidential work?",
+      "a": "You can highlight the complexity and scope without breaching confidentiality. For example: 'Managed sensitive board-level communications and investor correspondence' or 'Coordinated confidential executive transitions and restructuring initiatives.' This shows you understand discretion while proving you've handled high-stakes work."
+    },
+    {
+      "q": "What's the best way to describe routine tasks so they don't make me sound junior?",
+      "a": "Reframe routine tasks through the lens of efficiency or impact. Instead of 'scheduled meetings,' say 'optimized executive calendar utilization to reduce conflicts by 90%.' Instead of 'ordered supplies,' say 'managed $50K+ annual office budget and vendor relationships.' The work is the same, but the framing shows strategic thinking."
+    },
+    {
+      "q": "Do I need to tailor my EA resume for different industries?",
+      "a": "Yes. In tech, emphasize cross-functional project coordination and rapid scaling; in finance, highlight compliance, confidentiality, and complex stakeholder management; in healthcare, stress HIPAA awareness and sensitive information handling. Mirror the language and priorities from the job description while keeping your core achievements consistent."
+    }
+  ]
+}

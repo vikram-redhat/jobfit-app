@@ -1,0 +1,130 @@
+{
+  "slug": "technical-writer",
+  "title": "Technical Writer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:33.280Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Technical Writer Resume: Examples & Writing Guide",
+  "metaDescription": "Write a technical writer resume that lands interviews. See strong examples, key skills, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a Technical Writer Resume That Gets Noticed",
+  "intro": "Technical writing sits at the intersection of clarity and storytelling—and your resume needs to prove you can do both. This guide walks you through the skills, structure, and language that make hiring managers actually read your resume cover-to-cover.",
+  "audience": "Recent grads with writing portfolios, career switchers from journalism or marketing, and experienced technical writers looking to land roles at better-known companies or higher salaries.",
+  "topSkills": [
+    {
+      "name": "API documentation",
+      "why": "SaaS and software companies need writers who can translate complex APIs into beginner-friendly guides; it's a high-demand, well-paying niche."
+    },
+    {
+      "name": "User manual creation",
+      "why": "Demonstrates ability to structure, organize, and simplify information for non-technical audiences—a core job function."
+    },
+    {
+      "name": "Markdown & Git",
+      "why": "Shows you can work in developer-friendly environments and collaborate with engineers on version-controlled documentation."
+    },
+    {
+      "name": "Single-sourcing & content management",
+      "why": "Hiring managers want writers who understand how to reuse and repurpose content across channels and products."
+    },
+    {
+      "name": "Information architecture",
+      "why": "Proves you can organize large, complex documentation sets logically so users find what they need fast."
+    },
+    {
+      "name": "DITA & structured authoring",
+      "why": "Technical writing certification and enterprise roles often require DITA XML or similar markup languages."
+    },
+    {
+      "name": "UX writing & microcopy",
+      "why": "More tech companies are blending technical writing with UX, so button labels and error messages matter on your resume."
+    },
+    {
+      "name": "Adobe FrameMaker or MadCap Flare",
+      "why": "Industry-standard tools for complex, multi-format documentation; listing them signals you can hit the ground running."
+    },
+    {
+      "name": "SEO & technical content marketing",
+      "why": "Many tech companies want writers who can write for both humans and search engines—especially for blog and help-center content."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Wrote documentation for software products and worked with developers to improve content clarity.",
+      "strong": "Reduced support ticket volume by 25% by rewriting API documentation; partnered with 3 engineering teams to create 40+ interactive code examples and troubleshooting guides.",
+      "lesson": "Added specific metrics, showed collaboration, and named the tangible output—hiring managers care about impact, not just tasks."
+    },
+    {
+      "weak": "Created user manuals and help guides for multiple software platforms.",
+      "strong": "Authored and maintained 15+ user guides and release notes in Markdown across 5 product lines using Git; implemented single-sourcing system that reduced content update time by 40%.",
+      "lesson": "Named tools, showed scale, and quantified efficiency gains—this tells a manager you know modern workflows and can scale documentation."
+    },
+    {
+      "weak": "Worked with the product team to document new features and keep documentation up to date.",
+      "strong": "Established documentation standards and created templates for 50+ feature releases; conducted quarterly audits that identified and resolved 120+ outdated help articles, improving user satisfaction scores by 15%.",
+      "lesson": "Shifted focus from task to ownership—showed initiative, scale, and business impact rather than just 'keeping up.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Treating your portfolio like a secret",
+      "fix": "Always include a link to your portfolio or documentation samples—hiring managers want to see your actual work, not just descriptions. Use a short URL or GitHub link if space is tight."
+    },
+    {
+      "mistake": "Listing generic writing skills without tech context",
+      "fix": "Instead of 'strong writing and communication skills,' lead with specific technical formats: 'API documentation,' 'release notes,' 'troubleshooting guides,' or 'knowledge base articles.'"
+    },
+    {
+      "mistake": "Forgetting to mention tools",
+      "fix": "List documentation platforms and markup languages (Markdown, DITA, XML, Confluence, Jira, etc.)—many companies filter resumes by tool keywords, and it shows you can work in their tech stack."
+    },
+    {
+      "mistake": "No mention of collaboration with engineers or product teams",
+      "fix": "Technical writing is deeply collaborative. Add at least one bullet that shows you worked directly with developers, designers, or product managers to shape documentation."
+    },
+    {
+      "mistake": "Ignoring SEO or content strategy impact",
+      "fix": "If you've improved searchability, reduced support volume, or tracked documentation metrics, call that out—it shows you understand business outcomes beyond 'good writing.'"
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most recent technical writing role, not adjacent marketing or editorial jobs. If you're switching careers, use a skills summary or brief career narrative to connect the dots.",
+    "Put tools and languages (Markdown, DITA, Flare, Confluence, etc.) in a dedicated 'Technical Skills' or 'Tools' section near the top—ATS systems scan for these, and hiring managers want instant confirmation you know their stack.",
+    "If you have a portfolio, call it out prominently: add a 'Portfolio' or 'Writing Samples' link right below your name or in the header, or embed it in your resume as a short URL.",
+    "Group experience by documentation type (e.g., 'API & Developer Docs,' 'End-User Guides,' 'Release Notes') rather than just chronology—this helps hiring managers see you have depth in areas they need."
+  ],
+  "atsKeywords": [
+    "technical documentation",
+    "API documentation",
+    "user manual",
+    "Markdown",
+    "Git",
+    "DITA",
+    "MadCap Flare",
+    "Adobe FrameMaker",
+    "Confluence",
+    "information architecture"
+  ],
+  "salarySignal": "Entry-level technical writer salaries in the US typically range from $50,000–$65,000; mid-level ($65,000–$85,000) and senior roles ($85,000–$120,000+) scale with specialization in API docs, DITA, and team leadership.",
+  "faq": [
+    {
+      "q": "Do I need a portfolio as a technical writer? What should it include?",
+      "a": "Yes—hiring managers almost always want to see your actual writing. Include 3–5 samples: an API guide, a user manual or help article, and a release note or blog post. If you can't share client work, create samples by documenting a personal project or open-source tool."
+    },
+    {
+      "q": "Should I include writing samples from journalism or marketing on my technical writer resume?",
+      "a": "Only if they're strong and directly relevant. Marketing copy and thought leadership articles are less valuable than tutorials, guides, or structured documentation. If all your clips are non-technical, include them but emphasize clarity and audience-focused writing in your bullets."
+    },
+    {
+      "q": "Is a technical writing certification (like ISTC or the Society for Technical Communication) necessary?",
+      "a": "Not required, but it helps if you're coming from outside tech or switching careers. A certificate signals intent and baseline knowledge. For experienced writers with a strong portfolio, it's nice-to-have, not must-have."
+    },
+    {
+      "q": "How do I quantify impact as a technical writer if I don't track metrics?",
+      "a": "Start asking for metrics now—support ticket volume, documentation views, user satisfaction surveys, feature adoption after launch, or onboarding time. If you don't have hard numbers, estimate conservatively (e.g., 'reduced average page load by ~30%' based on tool changes you implemented)."
+    },
+    {
+      "q": "What's the difference between technical writing and UX writing on a resume?",
+      "a": "Technical writing focuses on long-form documentation, guides, and APIs; UX writing is microcopy for buttons, forms, and error messages. If you've done both, list them separately under skills and include examples of each in your portfolio to show versatility."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "technical-recruiter",
+  "title": "Technical Recruiter",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:45:18.743Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Technical Recruiter Resume: Best Examples & Tips",
+  "metaDescription": "Write a technical recruiter resume that lands interviews. See templates, top skills, ATS keywords, and real before/after bullet examples.",
+  "h1": "How to Write a Technical Recruiter Resume That Gets Interviews",
+  "intro": "Technical recruiting is competitive, and your resume needs to prove you can source talent, close offers, and deliver results. This guide walks you through the exact skills, bullet formats, and keywords hiring managers look for when vetting recruiter candidates.",
+  "audience": "Recent grads entering tech recruiting, career switchers from HR or sales, and experienced recruiters updating their resumes for new opportunities.",
+  "topSkills": [
+    {
+      "name": "Full-Cycle Recruitment",
+      "why": "Hiring managers want proof you can manage the entire funnel from job posting through offer acceptance, not just screening resumes."
+    },
+    {
+      "name": "Sourcing & Boolean Search",
+      "why": "Passive sourcing on LinkedIn and GitHub is core to finding engineering talent; specificity here signals you can work independently to fill hard-to-fill roles."
+    },
+    {
+      "name": "ATS & Recruitment Tools",
+      "why": "Hands-on experience with Greenhouse, Workable, or Lever shows you can navigate modern hiring workflows without friction."
+    },
+    {
+      "name": "Technical Communication",
+      "why": "You need to speak software engineer language (APIs, CI/CD, databases) to build credibility and ask informed interview questions."
+    },
+    {
+      "name": "Candidate Pipeline Management",
+      "why": "Building and nurturing long-term talent networks is how top recruiters hit stretch goals and fill roles faster."
+    },
+    {
+      "name": "Offer Negotiation & Closures",
+      "why": "Conversion rates matter; hiring teams measure you on offer acceptance, not just interviews scheduled."
+    },
+    {
+      "name": "Stakeholder Communication",
+      "why": "You're the bridge between engineering managers, HR, and leadership—clear updates and transparency are non-negotiable."
+    },
+    {
+      "name": "Metrics-Driven Reporting",
+      "why": "Recruiters live by KPIs: time-to-hire, cost-per-hire, offer acceptance rate; show you track and improve these."
+    },
+    {
+      "name": "Job Descriptions & Role Scoping",
+      "why": "Writing clear, accurate job descriptions upfront reduces candidate confusion and improves application quality."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Sourced and screened candidates for engineering roles.",
+      "strong": "Built and maintained active pipeline of 150+ software engineers, sourced 60% of hires through LinkedIn and GitHub; reduced time-to-hire from 45 to 28 days.",
+      "lesson": "Specific numbers (150+, 60%, 45→28 days) replace vague language and prove impact on measurable recruitment KPIs."
+    },
+    {
+      "weak": "Used Greenhouse to manage job applications and interviews.",
+      "strong": "Managed full-cycle recruitment in Greenhouse for 4 concurrent backend/frontend roles; coordinated 120+ interviews, achieved 92% offer acceptance rate by refining candidate communication templates.",
+      "lesson": "Naming the tool + role context + outcome (92% acceptance) shows systems mastery and direct contribution to hiring velocity."
+    },
+    {
+      "weak": "Worked with engineering teams to fill open positions.",
+      "strong": "Partnered with 3 engineering managers to translate technical requirements into job descriptions; delivered 12 hires (including 8 external sourced) in Q4 2024, exceeding headcount target by 40%.",
+      "lesson": "Quantifying hires delivered, sourcing split, and business impact (headcount %) turns collaboration into measurable outcomes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing job duties instead of recruiter outcomes.",
+      "fix": "Replace 'Reviewed resumes' with 'Screened 500+ applications, advanced top 5% to technical interviews,' tying your effort to hiring results."
+    },
+    {
+      "mistake": "Ignoring technical jargon or role requirements.",
+      "fix": "Learn what the roles you're recruiting *for* actually do (e.g., 'API integration testing,' 'event-driven architecture'); mirror this language on your resume so you signal you understand the team's needs."
+    },
+    {
+      "mistake": "Burying offer acceptance rate or time-to-hire metrics.",
+      "fix": "Lead with recruiter KPIs in your bullet points; these are the primary levers hiring managers use to evaluate recruiter performance."
+    },
+    {
+      "mistake": "Not showing evidence of independent sourcing.",
+      "fix": "Highlight specific sourcing channels (LinkedIn recruiter, GitHub, Blind, referral programs) and the % of external sourced hires you personally delivered."
+    },
+    {
+      "mistake": "Treating all roles equally without specialization.",
+      "fix": "If you specialize in backend, frontend, data, or full-stack hiring, call it out early; specialized recruiters command higher rates and success metrics."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with a 'Technical Recruiting Specialties' or 'Key Recruiting Metrics' summary line that names your focus area (e.g., 'Full-cycle backend/infrastructure recruiter') and your best outcome (time-to-hire, offer rate, or hire volume).",
+    "Group your most impressive recruiting wins (highest offer acceptance rate, fastest hire, hardest role filled) as your first 2–3 bullets under each job; this mimics the structure hiring managers use to evaluate candidates.",
+    "If you're early-career or switching into recruiting, lead with one or two transferable metrics (e.g., 'Coordinated 50+ candidate interviews' or 'Built sourcing outreach templates used across 4-person team') to prove you understand the role's core work.",
+    "Include a brief 'Technical Tools & Platforms' section (e.g., 'Greenhouse, LinkedIn Recruiter, Slack, Spreadsheet/data analysis') to signal you're operationally fluent and won't slow down day one."
+  ],
+  "atsKeywords": [
+    "Full-Cycle Recruitment",
+    "LinkedIn Sourcing",
+    "Candidate Pipeline",
+    "Technical Recruiting",
+    "Time-to-Hire",
+    "Offer Acceptance Rate",
+    "Boolean Search",
+    "Greenhouse",
+    "Engineering Recruitment",
+    "Stakeholder Communication"
+  ],
+  "salarySignal": "Entry-level US technical recruiter salaries typically range from $50,000 to $65,000 base; mid-level recruiters average $65,000–$85,000; senior or specialized recruiters (including commission/bonus) reach $85,000–$120,000+. Commission-based and company-size factors significantly affect total comp.",
+  "faq": [
+    {
+      "q": "How do I show recruiting impact on my resume if I'm new to the role?",
+      "a": "Focus on measurable activities: number of candidates sourced, interviews coordinated, or hiring pipeline size. If you lack recruiting titles, pull metrics from internships, HR roles, or volunteer work (e.g., 'Sourced 25+ candidates for nonprofit board; 3 hired'). Quality over storytelling—numbers always beat narrative."
+    },
+    {
+      "q": "Should I list the specific job titles (Backend Engineer, Product Manager) I recruit for?",
+      "a": "Yes. Naming the specific roles signals expertise and helps ATS match your resume to recruiting-focused job posts. E.g., 'Specialized in Backend Engineer (Golang/Rust) and DevOps hiring' is better than 'recruited for technical roles.' Hiring managers scanning your resume will immediately know if you've worked in their domain."
+    },
+    {
+      "q": "What ATS keywords should I include for a technical recruiter resume?",
+      "a": "Prioritize: 'Full-Cycle Recruitment,' 'Technical Recruiting,' 'LinkedIn Sourcing,' 'Candidate Pipeline,' 'Time-to-Hire,' 'Offer Acceptance Rate,' 'Greenhouse,' 'Boolean Search,' and the names of specific roles you recruit for (e.g., 'Backend Engineer Recruitment'). Mirror exact job description phrases to pass initial screening."
+    },
+    {
+      "q": "How do I quantify 'good' recruiter performance on my resume?",
+      "a": "Use industry benchmarks: time-to-hire (target: <30 days), offer acceptance rate (target: >90%), cost-per-hire reduction, or hire volume. If you don't know your exact metrics, estimate conservatively (e.g., 'reduced time-to-hire by 20–30%'). Hiring managers recognize realistic numbers and will probe specifics in an interview."
+    },
+    {
+      "q": "Should I include failed recruiting projects or metrics where I missed targets?",
+      "a": "No. Your resume is your highlight reel. Focus on wins and improvements. If a hiring manager asks about challenges, frame them in an interview as learning moments (e.g., 'We streamlined role scoping to reduce time-to-hire')—don't lead with misses on a one-page document."
+    }
+  ]
+}

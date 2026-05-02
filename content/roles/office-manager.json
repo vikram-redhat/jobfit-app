@@ -1,0 +1,126 @@
+{
+  "slug": "office-manager",
+  "title": "Office Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:47:53.158Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Office Manager Resume: 5 Ways to Stand Out",
+  "metaDescription": "Build a winning Office Manager resume with real examples, key skills, and proven formatting tips that get past ATS and impress hiring managers.",
+  "h1": "How to Write an Office Manager Resume That Actually Gets Noticed",
+  "intro": "Office managers are the glue holding companies together—scheduling, budgeting, vendor relations, the whole deal. Your resume needs to prove you can juggle it all without dropping the ball. We'll show you exactly which skills, keywords, and accomplishments hiring managers are hunting for.",
+  "audience": "Recent college grads stepping into their first office role, career switchers from customer service or admin backgrounds, and current office professionals looking to move up or sideways.",
+  "topSkills": [
+    {
+      "name": "Administrative Management",
+      "why": "Hiring managers want to see you've directly managed day-to-day office operations, not just assisted someone else."
+    },
+    {
+      "name": "Budget Management & Cost Control",
+      "why": "Office managers own the P&L on supplies, facilities, and operational spend—showing savings demonstrates financial acumen."
+    },
+    {
+      "name": "Vendor & Contractor Negotiation",
+      "why": "Negotiating better rates with landlords, cleaners, IT vendors, and service providers directly impacts the bottom line."
+    },
+    {
+      "name": "Scheduling & Calendar Management",
+      "why": "Coordinating multiple executives' calendars, meeting rooms, and events is non-negotiable; mention tools like Outlook or Google Workspace."
+    },
+    {
+      "name": "Microsoft Office & Google Workspace",
+      "why": "Companies expect fluency in word processing, spreadsheets, and shared workspace tools from day one."
+    },
+    {
+      "name": "Compliance & HR Coordination",
+      "why": "Offices need someone who understands payroll, benefits, insurance, and regulatory requirements at a basic level."
+    },
+    {
+      "name": "Event Planning & Coordination",
+      "why": "Company meetings, off-sites, and client events fall under your umbrella—show you can execute without drama."
+    },
+    {
+      "name": "Communication & Stakeholder Management",
+      "why": "You interface with executives, staff, clients, and vendors daily—your resume should signal diplomatic, clear communication."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed office supplies and ordered items as needed.",
+      "strong": "Implemented tiered inventory system for office supplies, reducing reorder cycles by 40% and cutting annual procurement costs by $8,500 while maintaining 99% stock availability.",
+      "lesson": "Numbers transform vague duties into measurable wins—quantify savings, efficiency gains, and impact on operations."
+    },
+    {
+      "weak": "Scheduled meetings and managed the boss's calendar.",
+      "strong": "Coordinated schedules for C-suite team of 4 executives across 3 time zones, managing 200+ meetings monthly and reducing double-bookings to <1% through proactive calendar audits.",
+      "lesson": "Show scale (number of people, frequency, complexity) and a quality metric (error rate) to elevate a basic task."
+    },
+    {
+      "weak": "Worked with vendors and contractors on office maintenance.",
+      "strong": "Negotiated contracts with 12 service providers (HVAC, cleaning, IT, security), reducing annual facility costs by 18% ($35K) while improving service response times from 48 to 24 hours.",
+      "lesson": "Lead with the outcome (cost savings, efficiency) and name the scope (number of vendors, types) to show business impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only admin tasks without business outcomes.",
+      "fix": "Tie every responsibility to a result: costs saved, processes improved, time reclaimed, or compliance achieved."
+    },
+    {
+      "mistake": "Using vague titles like 'Support Staff' or 'Office Assistant' when your role was actually office manager.",
+      "fix": "Use the correct title 'Office Manager' in your current/most recent position to match how hiring managers search and think about the role."
+    },
+    {
+      "mistake": "Leaving software skills off the resume or burying them.",
+      "fix": "Create a dedicated 'Core Competencies' or 'Technical Skills' section listing Outlook, Excel, Google Workspace, QuickBooks, Asana, or whatever tools you actually use."
+    },
+    {
+      "mistake": "Not mentioning HR or compliance work even though you touch it.",
+      "fix": "Add one bullet on payroll coordination, benefits administration, employee onboarding, or compliance audits—these are high-value touches."
+    },
+    {
+      "mistake": "Forgetting to highlight soft skills like vendor negotiation or crisis response.",
+      "fix": "Lead with a project or story: e.g., 'Managed unexpected office relocation in 6 weeks with zero downtime by coordinating 3 contractors and 35 staff members.'"
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with a 2–3 line professional summary or objective that names the Office Manager role and one signature strength (e.g., 'Detail-oriented Office Manager with 5 years driving operational efficiency and vendor cost reduction').",
+    "Put your strongest, most recent office manager role at the top of your experience; if you were an assistant or coordinator before, clearly show the progression so hiring managers see growth.",
+    "Create a separate 'Core Competencies' section above your experience that mirrors your target job description—include tools (Excel, Outlook, QuickBooks), soft skills (negotiation, communication), and operational keywords.",
+    "Group bullet points by category within each role (e.g., 'Operations & Facilities,' 'Budget & Vendor Management,' 'Staff Coordination') to help ATS and readers quickly scan for relevant wins."
+  ],
+  "atsKeywords": [
+    "Office Manager",
+    "Administrative Management",
+    "Vendor Negotiation",
+    "Budget Management",
+    "Microsoft Office",
+    "Google Workspace",
+    "Calendar Management",
+    "Compliance",
+    "Event Coordination",
+    "Cost Control"
+  ],
+  "salarySignal": "Entry-level US Office Manager salaries typically range from $35K to $45K; mid-level (3–7 years) averages $45K–$60K; senior/operations manager roles reach $60K–$75K+, depending on region, company size, and industry.",
+  "faq": [
+    {
+      "q": "What should I put in my Office Manager resume if I've never held that exact title?",
+      "a": "Use your most relevant prior role (e.g., 'Executive Assistant,' 'Office Coordinator,' 'Operations Assistant') and ensure your bullet points address office management scope: budgeting, vendor relations, compliance, scheduling. Then explicitly call out 'Office Manager' in your professional summary or job title to signal to ATS and humans that you're pivoting into the role."
+    },
+    {
+      "q": "How do I show I'm good at cost-cutting if I don't have exact numbers?",
+      "a": "Use honest ranges or proxy metrics: 'Reduced office supply spending through competitive bidding and inventory optimization' or 'Renegotiated service contracts, achieving estimated annual savings of 15–20%.' If you truly don't know the dollar amount, quantify the action ('negotiated rates with 8 vendors') or time saved ('cut procurement cycle time by 3 weeks')."
+    },
+    {
+      "q": "Should I include soft skills like 'organized' or 'detail-oriented' on my Office Manager resume?",
+      "a": "Avoid generic adjectives in bullet points. Instead, embed those qualities in concrete accomplishments: 'Maintained 99.5% accuracy on expense reports processed monthly' or 'Created standardized onboarding checklist reducing new-hire setup time by 30%' proves you're detail-oriented without saying it."
+    },
+    {
+      "q": "What technical skills are non-negotiable for an Office Manager resume in 2026?",
+      "a": "Microsoft Office (Word, Excel, Outlook) and Google Workspace (Docs, Sheets, Calendar) are baseline. QuickBooks, Asana, Monday.com, or other project/financial tools are huge pluses. Mention whatever you actually use—ATS will catch mismatches, and interviews will test your knowledge."
+    },
+    {
+      "q": "How long should my Office Manager resume be, and what should I leave out?",
+      "a": "Stick to one page if you have 1–5 years of experience; two pages max if you have 7+ years or multiple advanced roles. Remove outdated software, unrelated fast-food or retail jobs (unless recent), and high-school achievements. Keep only the last 10–15 years of work history."
+    }
+  ]
+}

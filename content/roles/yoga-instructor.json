@@ -1,0 +1,132 @@
+{
+  "slug": "yoga-instructor",
+  "title": "Yoga Instructor",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:56:57.020Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Yoga Instructor Resume: Skills, Bullets & Examples",
+  "metaDescription": "Land your yoga teaching role with a strong resume. See sample bullets, key skills, and ATS keywords that yoga studios and gyms look for.",
+  "h1": "How to Write a Yoga Instructor Resume That Gets You Hired",
+  "intro": "Your yoga instructor resume needs to show studios and gyms that you're certified, experienced, and can build a loyal student base. We'll walk you through the exact skills, metrics, and language that hiring managers look for—so you can go from applicant to hired.",
+  "audience": "Aspiring and practicing yoga instructors ranging from newly certified professionals to career switchers with prior teaching experience who want to land roles at studios, gyms, or corporate wellness programs.",
+  "topSkills": [
+    {
+      "name": "Yoga Certifications (RYT-200, RYT-500, YTT)",
+      "why": "Studios and gyms require proof of formal training; certification level often determines class offerings and pay tier."
+    },
+    {
+      "name": "Class Instruction & Sequencing",
+      "why": "The core job is delivering safe, engaging classes; hiring managers want to see experience with different styles and class lengths."
+    },
+    {
+      "name": "Student Retention & Community Building",
+      "why": "Gyms and studios measure success by repeat attendance and word-of-mouth referrals; instructors who build loyal cohorts are valued."
+    },
+    {
+      "name": "Client Safety & Injury Prevention",
+      "why": "Demonstrating knowledge of proper alignment, modifications, and contraindications protects both students and the business from liability."
+    },
+    {
+      "name": "Multiple Yoga Styles (Hatha, Vinyasa, Yin, Hot Yoga, etc.)",
+      "why": "Versatility makes you more hireable; studios want instructors who can cover different class schedules and student preferences."
+    },
+    {
+      "name": "Group Fitness Management",
+      "why": "Handling class bookings, attendance tracking, and managing a studio's schedule smoothly is a behind-the-scenes skill that counts."
+    },
+    {
+      "name": "Mindfulness & Meditation Facilitation",
+      "why": "Many studios now offer wellness programs beyond asana; demonstrating mindfulness skills opens doors to corporate and wellness contracts."
+    },
+    {
+      "name": "Social Media & Student Engagement",
+      "why": "Studios rely on instructors to promote classes and grow followings; any marketing or community growth you've driven is a competitive edge."
+    },
+    {
+      "name": "Beginner-Friendly & Adaptive Yoga",
+      "why": "Showing ability to teach inclusive, accessible classes makes you attractive for diverse student populations and inclusivity-focused studios."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught yoga classes at a local studio.",
+      "strong": "Led 8–12 weekly yoga classes (Vinyasa, Hatha, Yin) to an average of 15–22 students, maintaining 75%+ average attendance month-over-month through personalized alignment cues and community building.",
+      "lesson": "Specificity, frequency, class style, and attendance metrics show impact; generics like 'taught' don't tell studios how reliable or well-liked you are."
+    },
+    {
+      "weak": "Helped students with yoga poses and flexibility.",
+      "strong": "Developed individualized modifications and prop use for 40+ students across beginner, intermediate, and advanced levels; reduced reported shoulder and lower-back strain by offering real-time alignment adjustments and injury prevention workshops.",
+      "lesson": "Naming injury prevention and showing you understand client safety dramatically improves credibility; metrics on student outcomes matter more than vague pose help."
+    },
+    {
+      "weak": "Promoted classes on social media.",
+      "strong": "Grew studio Instagram following from 800 to 2,400+ followers in 6 months by posting weekly class highlights, student testimonials, and wellness tips; drove 30–40% of new student sign-ups through organic social engagement.",
+      "lesson": "Quantified growth and attribution (how many new students came from your efforts) prove marketing impact; vague 'promotion' does nothing for a resume."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only one yoga style or no style breakdown.",
+      "fix": "Always specify which styles you teach (Hatha, Vinyasa, Power, Yin, Hot, Restorative, etc.) so studios know immediately if you fit their program."
+    },
+    {
+      "mistake": "Not mentioning your certification level or issuing organization (Yoga Alliance, etc.).",
+      "fix": "Always include your RYT level (200, 500+), issuing organization, and renewal status; studios verify this before hiring and it determines pay and class assignments."
+    },
+    {
+      "mistake": "Hiding student numbers or class attendance.",
+      "fix": "Lead with your average class size and attendance rate; studios use these metrics to evaluate your draw and potential revenue impact."
+    },
+    {
+      "mistake": "Focusing only on teaching, not retention or community.",
+      "fix": "Highlight student loyalty metrics—repeat attendance, retention rate, referral-based growth, or testimonials—because studios judge instructors by long-term student relationships, not one-off classes."
+    },
+    {
+      "mistake": "Ignoring corporate wellness or specialized teaching.",
+      "fix": "If you've taught at workplaces, senior centers, rehab clinics, or for specific populations, call it out—it shows versatility and opens doors beyond studio gigs."
+    }
+  ],
+  "structureTips": [
+    "Lead with your certifications and yoga style specialties at the top of your summary or experience section; studios filter on RYT level first, so make it impossible to miss.",
+    "Put your strongest teaching roles and student impact metrics in the experience section—use bullet points that pair class frequency/size with measurable outcomes like retention or referral rate.",
+    "Include a dedicated 'Specializations' or 'Yoga Styles & Credentials' section that lists every style you teach, any trauma-informed or adaptive training, and your RYT level; this makes you easier to match to studio needs.",
+    "If you have a personal brand, social media presence, or a waiting list for classes, mention it subtly in your professional summary or create a brief 'Community & Growth' line item—studios love instructors who draw their own students."
+  ],
+  "atsKeywords": [
+    "RYT-200",
+    "Yoga Alliance Certified",
+    "Vinyasa Yoga",
+    "Hatha Yoga",
+    "Yin Yoga",
+    "Hot Yoga",
+    "Class instruction",
+    "Student retention",
+    "Yoga teaching experience",
+    "Mindfulness and meditation",
+    "Group fitness instruction",
+    "Alignment and modifications"
+  ],
+  "salarySignal": "Entry-level yoga instructors in the US typically earn $25,000–$35,000 annually or $25–$50 per class; experienced instructors at studios or with private clients often earn $40,000–$65,000+. Corporate wellness and specialized niches can pay higher.",
+  "faq": [
+    {
+      "q": "What yoga certification do I need to put on my resume?",
+      "a": "You need at least an RYT-200 (Registered Yoga Teacher) from a Yoga Alliance-accredited program. Most studios require this baseline; if you have RYT-500 or additional specialized certifications (trauma-informed, prenatal, etc.), list those too—they boost your hire rate and often pay more."
+    },
+    {
+      "q": "Should I include the number of students in my classes on my yoga resume?",
+      "a": "Yes, absolutely. List your average class size (e.g., 'taught classes of 15–25 students') because it shows demand for your teaching. Studios use this to predict revenue and student loyalty, so it's a key metric."
+    },
+    {
+      "q": "How do I show student retention if I'm new to yoga teaching?",
+      "a": "If you're newly certified, focus on positive feedback, testimonials, or any students who've re-booked with you. Once you have teaching history, track your month-over-month attendance and highlight stable or growing numbers—studios care deeply about this."
+    },
+    {
+      "q": "What if I teach online or private yoga clients—does that count on my resume?",
+      "a": "Yes, private clients and online teaching absolutely count. List them with student counts, platforms used (e.g., Zoom, YogaGlo), and outcomes like retention rate or referral-based growth to show versatility and business savvy."
+    },
+    {
+      "q": "Should I mention the yoga styles I teach if the job posting doesn't ask?",
+      "a": "Yes, always list every style you're certified to teach—Hatha, Vinyasa, Yin, etc. Studios use this to match you to their schedule needs, and it shows range. Many studios use ATS systems that scan for specific style keywords, so don't leave money on the table."
+    }
+  ]
+}

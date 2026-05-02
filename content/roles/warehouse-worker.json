@@ -1,0 +1,126 @@
+{
+  "slug": "warehouse-worker",
+  "title": "Warehouse Worker",
+  "category": "trades",
+  "generatedAt": "2026-05-02T23:01:55.657Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Warehouse Worker Resume: Template & Tips for 2026",
+  "metaDescription": "Build a warehouse worker resume that gets hired. See sample bullets, key skills, ATS keywords, and mistakes to avoid.",
+  "h1": "How to Write a Warehouse Worker Resume That Gets You Hired",
+  "intro": "Warehouse work is hands-on, fast-paced, and increasingly data-driven—and your resume needs to reflect that. We'll show you how to turn your picking, packing, and logistics experience into a resume that catches a hiring manager's eye in seconds.",
+  "audience": "People with warehouse, distribution center, or general labor experience looking to land their next role, including entry-level workers and those returning to the workforce.",
+  "topSkills": [
+    {
+      "name": "Inventory Management",
+      "why": "Warehouse managers need to know you can track stock levels, conduct counts, and use FIFO/LIFO methods without costly mistakes."
+    },
+    {
+      "name": "Forklift & Equipment Operation",
+      "why": "Certified forklift operation is often a non-negotiable requirement that signals safety awareness and skill."
+    },
+    {
+      "name": "Order Fulfillment",
+      "why": "Picking, packing, and shipping are your core job; showing speed and accuracy here matters most."
+    },
+    {
+      "name": "WMS/Warehouse Management Systems",
+      "why": "Modern warehouses run on software; mentioning SAP, Manhattan, or similar platforms shows you can work with tech."
+    },
+    {
+      "name": "Safety Compliance & OSHA",
+      "why": "Warehouses are regulated; any mention of safety protocols, certifications, or incident-free records stands out."
+    },
+    {
+      "name": "Logistics Coordination",
+      "why": "Demonstrating you understand shipping, routing, and receiving timelines shows you think beyond just moving boxes."
+    },
+    {
+      "name": "Pallet Jack & Lift Operation",
+      "why": "A practical, everyday skill that shows you can handle basic material handling safely and efficiently."
+    },
+    {
+      "name": "Quality Assurance & Inspection",
+      "why": "Catching errors before they ship protects the company's reputation and bottom line."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Picked and packed orders for customers",
+      "strong": "Picked and packed 150–200+ orders daily with 99.2% accuracy, reducing return errors by 20% over 6 months",
+      "lesson": "Adding specific volume, accuracy rate, and a measurable impact transforms a generic task into a standout achievement."
+    },
+    {
+      "weak": "Used forklift to move boxes",
+      "strong": "Operated forklift (certified) to relocate pallets across warehouse, maintaining zero safety incidents over 18 months and improving load-out speed by 15%",
+      "lesson": "Highlighting certification, safety record, and an efficiency gain shows you're reliable, trained, and results-focused."
+    },
+    {
+      "weak": "Helped with inventory counts",
+      "strong": "Conducted monthly physical inventory audits on 5,000+ SKUs using RF scanner technology, resolving 98% of discrepancies within 48 hours and improving inventory accuracy from 94% to 97%",
+      "lesson": "Showing volume, tool usage, and reconciliation speed proves competence and attention to detail that managers need."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of measurable outcomes",
+      "fix": "Replace 'responsible for loading trucks' with a metric: 'loaded 45–60 trucks per shift, maintaining on-time departure rate of 98%.'"
+    },
+    {
+      "mistake": "Not mentioning equipment certifications or safety records",
+      "fix": "Add a dedicated line: 'Forklift Certified (OSHA); Zero lost-time incidents in 24 months of operation.'"
+    },
+    {
+      "mistake": "Omitting software/WMS systems you've used",
+      "fix": "Name the exact platform: 'Proficient in Manhattan WMS, SAP, and RF scanner systems' so you pass ATS and show tech comfort."
+    },
+    {
+      "mistake": "Downplaying teamwork or leadership growth",
+      "fix": "If you've helped train newer staff or led a shift, say so: 'Trained 8 new hires on pick-pack procedures and safety protocols.'"
+    },
+    {
+      "mistake": "Using vague dates or job titles",
+      "fix": "Be specific: 'Warehouse Associate (Order Fulfillment)' not just 'Warehouse Worker,' and include month/year for each role."
+    }
+  ],
+  "structureTips": [
+    "Lead with a short professional summary that combines your years of warehouse experience with a key skill or certification (e.g., 'Forklift-certified warehouse associate with 4 years of pick-pack and inventory experience in fast-paced, high-volume environments').",
+    "Put your certifications (OSHA Forklift, First Aid, HAZMAT) and safety record in a dedicated 'Certifications & Safety' or 'Core Competencies' section so hiring managers spot them immediately.",
+    "List WMS/software systems prominently near the top of your experience section so ATS scanners and hiring managers see your technical chops right away.",
+    "Order your jobs by relevance, not chronology; if your last role was part-time but your previous one was full-time warehouse management, lead with the relevant one."
+  ],
+  "atsKeywords": [
+    "Warehouse Associate",
+    "Order Fulfillment",
+    "Inventory Management",
+    "Forklift Certified",
+    "WMS",
+    "Safety Compliance",
+    "OSHA",
+    "Pick and Pack",
+    "Material Handling",
+    "Logistics"
+  ],
+  "salarySignal": "Entry-level warehouse worker salaries typically range from $28,000 to $35,000 annually in the US; supervisory roles and specialized certifications can push this to $38,000–$50,000+.",
+  "faq": [
+    {
+      "q": "What certifications should I put on a warehouse worker resume?",
+      "a": "OSHA Forklift, HAZMAT, First Aid/CPR, and any WMS training are all valuable. If you have them, put them in a dedicated section near the top so they're impossible to miss. Even if you're not certified yet, consider getting OSHA Forklift—it's one of the fastest wins and most requested credentials."
+    },
+    {
+      "q": "How do I write warehouse bullets if I've worked the same job for years?",
+      "a": "Focus on improvements, volume, and tools you've mastered. Highlight promotions, process improvements you helped implement, or metrics you improved over time. If you trained others, led a shift, or reduced errors, that's gold—use it."
+    },
+    {
+      "q": "Should I mention WMS software on my resume?",
+      "a": "Absolutely. Most large warehouses use WMS platforms; naming the ones you've used (SAP, Manhattan, JDA, etc.) shows you're tech-comfortable and helps you pass ATS. Even if you've only used one, list it."
+    },
+    {
+      "q": "Do I need to list every warehouse I've worked in?",
+      "a": "No. Include your last 5–10 years of warehouse roles; if you have older roles, you can group them under 'Previous Warehouse Experience' with dates and titles. Focus on depth and impact for your most recent roles."
+    },
+    {
+      "q": "What metrics matter most on a warehouse worker resume?",
+      "a": "Volume (boxes packed, SKUs counted), accuracy rates (order accuracy %, inventory discrepancy resolution %), safety records (months/years without incidents), and speed improvements (load time reduced by X%). If you have numbers, use them."
+    }
+  ]
+}

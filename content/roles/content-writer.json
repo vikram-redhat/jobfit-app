@@ -1,0 +1,130 @@
+{
+  "slug": "content-writer",
+  "title": "Content Writer",
+  "category": "creative",
+  "generatedAt": "2026-05-02T22:50:33.168Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Content Writer Resume: Examples & Writing Tips 2026",
+  "metaDescription": "Write a Content Writer resume that lands interviews. See sample bullets, top skills, and ATS keywords hiring managers actually search for.",
+  "h1": "How to Write a Content Writer Resume That Gets Noticed",
+  "intro": "A strong Content Writer resume showcases your ability to research, write, and optimize copy across multiple formats and platforms. Whether you're pitching blog posts, email campaigns, or web pages, your resume needs to prove you can turn a brief into compelling, on-brand content that drives results.",
+  "audience": "Recent grads with a portfolio, freelance writers moving in-house, and career switchers from journalism, marketing, or communications pivoting to dedicated content roles.",
+  "topSkills": [
+    {
+      "name": "Content Strategy & Planning",
+      "why": "Hiring managers want writers who can move beyond individual pieces and plan content calendars, audience segments, and distribution timing."
+    },
+    {
+      "name": "SEO & Keyword Optimization",
+      "why": "Most content roles now include basic SEO responsibilities; showing you understand search intent and keyword placement makes you immediately more valuable."
+    },
+    {
+      "name": "Brand Voice & Tone",
+      "why": "Content writers must adapt their writing to reflect each brand's personality; demonstrating consistency across client or company voice is a key differentiator."
+    },
+    {
+      "name": "Research & Data Synthesis",
+      "why": "Hiring managers need writers who can distill complex topics, pull credible sources, and turn them into readable, authoritative content."
+    },
+    {
+      "name": "Copy Editing & Proofreading",
+      "why": "Publishers and marketing teams expect zero-defect content; flagging strong grammar and fact-checking skills signals professionalism."
+    },
+    {
+      "name": "CMS & Publishing Tools",
+      "why": "Proficiency with WordPress, Medium, HubSpot, or other platforms shows you can move from draft to live without IT support."
+    },
+    {
+      "name": "Analytics & Performance Metrics",
+      "why": "Modern content teams measure engagement, click-through rates, and conversions; writers who can read and act on data are hired faster."
+    },
+    {
+      "name": "Storytelling & Long-form Writing",
+      "why": "The ability to create engaging narratives across essays, case studies, and features distinguishes strong content writers from generic copywriters."
+    },
+    {
+      "name": "Social Media Copywriting",
+      "why": "Many content roles now include platform-specific writing (LinkedIn, Twitter, Instagram); showing cross-channel skill expands your job pool."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Wrote blog posts and social media content for the company website and managed the content calendar.",
+      "strong": "Produced 8-12 SEO-optimized blog posts monthly reaching 50K+ monthly readers; managed 3-month rolling content calendar across 4 platforms, achieving 35% avg. engagement lift on LinkedIn posts.",
+      "lesson": "Numbers (post count, readership, engagement %) and platform specificity make abstract writing work tangible and measurable."
+    },
+    {
+      "weak": "Edited and proofread copy to maintain brand consistency and improve readability.",
+      "strong": "Developed brand style guide (tone, terminology, formatting) applied across 15+ team members; reduced editorial revisions by 40% through clear guidelines and peer feedback templates.",
+      "lesson": "Shifting from a task (proofreading) to a system (style guide, process improvement) shows leadership and scalable impact."
+    },
+    {
+      "weak": "Created email marketing campaigns and newsletters for customer communication.",
+      "strong": "Wrote and A/B tested copy for 24 email campaigns reaching 50K subscribers; tested subject lines and CTA wording, lifting open rate from 18% to 24% and click-through rate by 15%.",
+      "lesson": "Naming the metric (open rate, CTR) and the before/after result proves your writing directly influenced business outcomes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing writing as a side task instead of the main job",
+      "fix": "If content is part of a broader marketing or admin role, create a standalone 'Content' bullet that isolates your writing output and impact from other duties."
+    },
+    {
+      "mistake": "No portfolio link or writing samples",
+      "fix": "Always include a line like 'Portfolio: [link to Medium, blog, or Google Drive]' or 'Published in: TechCrunch, HubSpot, The Muse.' Hiring managers expect to read your actual work."
+    },
+    {
+      "mistake": "Vague word counts instead of strategic metrics",
+      "fix": "Don't just say '500+ articles written.' Instead, say '500+ articles averaging 2K words, driving 300K annual organic traffic' or 'reaching 100K+ combined social impressions.'"
+    },
+    {
+      "mistake": "Ignoring analytics and audience data",
+      "fix": "Always pair content output with at least one metric: traffic, engagement, time-on-page, shares, conversions, or reader growth. Shows your work had measurable impact."
+    },
+    {
+      "mistake": "Treating all writing the same",
+      "fix": "Break out blog posts, case studies, email copy, social posts, and product docs as separate bullets if you've done diverse formats. It shows range and deep expertise."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Featured Work' or 'Portfolio' link at the top—hiring managers want to click through to your actual writing before reading anything else.",
+    "Place content-specific skills (SEO, CMS, analytics tools, brand voice) in a dedicated Skills section rather than burying them in bullets; ATS will scan for these keywords.",
+    "Organize Experience bullets by content type or platform first (e.g., 'Blog & Long-form Content,' 'Social & Short-form,' 'Email & Campaigns') rather than chronologically if you've worn multiple hats.",
+    "Include a brief 'Published In' or 'Notable Outlets' line if you've contributed to external publications (Medium, industry blogs, trade journals); it signals authority and reach beyond your employer."
+  ],
+  "atsKeywords": [
+    "content strategy",
+    "SEO optimization",
+    "blog writing",
+    "email copywriting",
+    "social media content",
+    "editorial calendar",
+    "brand voice",
+    "CMS",
+    "analytics",
+    "long-form content"
+  ],
+  "salarySignal": "Entry-level US Content Writer salaries typically range from $38K to $50K; mid-level (3–5 years) often sit between $50K–$70K, with senior and specialist roles (technical writing, copywriting) commanding $70K–$95K+ depending on industry and location.",
+  "faq": [
+    {
+      "q": "Should I include my blog or Medium profile on my resume?",
+      "a": "Absolutely. Add a one-line link like 'Personal Blog: [URL] (10K+ monthly readers)' or 'Medium Profile: @yourname (20+ published essays).' If it's active and well-written, it's a huge asset. If it's dormant or low-quality, skip it."
+    },
+    {
+      "q": "How do I quantify my writing impact if my company doesn't track analytics?",
+      "a": "Ask your manager or look at Google Analytics, social platform insights, or email marketing dashboards yourself. If data truly isn't available, use what you know: 'Authored 5 case studies for the sales team, distributed to 500+ leads monthly' or 'Managed a 50-piece annual content calendar reaching 2 brands' target audiences.'"
+    },
+    {
+      "q": "Is it okay to include personal writing projects or volunteer content?",
+      "a": "Yes, if they're polished and recent. A line like 'Freelance Contributor, XYZ Publication (2024–present, 15+ published articles)' or 'Volunteer Copywriter, Nonprofit ABC (2023–2024)' shows initiative and proves you're serious about the craft, especially if you're early-career."
+    },
+    {
+      "q": "What should I do if I've only written internal documents or sales collateral?",
+      "a": "Reframe it by impact: 'Created 12 sales enablement guides adopted by 20+ reps, improving pitch consistency and reducing onboarding time by 3 weeks.' Or quantify usage: 'Produced internal wiki documentation accessed 5K+ times monthly by 50+ team members.' Internal ≠ unimportant if you emphasize reach and results."
+    },
+    {
+      "q": "Should I mention tools like Grammarly, Hemingway, or Notion on my resume?",
+      "a": "Only if they're genuinely central to your workflow or required for the job. Instead, focus on platforms (WordPress, HubSpot, Slack) and analytics tools (GA, Semrush) that show you can publish and measure. Save tool trivia for the interview or cover letter."
+    }
+  ]
+}

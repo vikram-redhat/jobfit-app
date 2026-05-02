@@ -1,0 +1,130 @@
+{
+  "slug": "server",
+  "title": "Server",
+  "category": "service",
+  "generatedAt": "2026-05-02T22:53:05.222Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Server Resume Examples & Tips | Land Your Job in 2025",
+  "metaDescription": "Craft a standout server resume with actionable examples, ATS keywords, and industry-specific tips to get hired faster.",
+  "h1": "How to Write a Server Resume That Gets You Hired",
+  "intro": "A great server resume highlights your ability to deliver exceptional customer service while managing a fast-paced environment. We'll walk you through the specific skills, metrics, and formatting that restaurant and bar managers actually look for—so you stand out in a crowded applicant pool.",
+  "audience": "High school and college students, recent hospitality grads, and career switchers moving into food service or restaurant roles.",
+  "topSkills": [
+    {
+      "name": "Customer Service Excellence",
+      "why": "Hiring managers want servers who can turn interactions into repeat customers and positive reviews."
+    },
+    {
+      "name": "Point of Sale (POS) Systems",
+      "why": "Modern restaurants rely on systems like Toast, Square, or TouchBistro—proficiency is table stakes."
+    },
+    {
+      "name": "Food & Beverage Knowledge",
+      "why": "Knowing menu items, wine pairings, and ingredients helps you upsell and handle dietary restrictions confidently."
+    },
+    {
+      "name": "Multitasking & Time Management",
+      "why": "Servers juggle multiple tables, orders, and special requests simultaneously during rushes."
+    },
+    {
+      "name": "Team Collaboration",
+      "why": "Coordinating with hosts, bartenders, and kitchen staff keeps service flowing smoothly."
+    },
+    {
+      "name": "Cash Handling & Payment Processing",
+      "why": "Managers trust servers who process checks accurately and secure transactions."
+    },
+    {
+      "name": "Conflict Resolution",
+      "why": "You'll need to calmly handle complaints, dietary restrictions, or service mishaps without escalating tension."
+    },
+    {
+      "name": "Sales & Upselling",
+      "why": "Suggesting appetizers, premium drinks, and desserts directly impacts the restaurant's bottom line."
+    },
+    {
+      "name": "Attention to Detail",
+      "why": "Getting orders right, remembering table preferences, and catching mistakes prevents rework and complaints."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked as a server and provided good customer service to guests.",
+      "strong": "Served 20–25 covers per shift while maintaining 95%+ order accuracy and achieving $18–22 average check through strategic upselling of wine and appetizers.",
+      "lesson": "Adding table counts, accuracy metrics, and revenue impact transforms a generic duty into a quantified achievement that shows business value."
+    },
+    {
+      "weak": "Trained other staff members and helped them learn the job.",
+      "strong": "Mentored 8 new servers on POS systems, menu knowledge, and service protocols, reducing training time by 40% and improving first-week performance scores.",
+      "lesson": "Specifying the number trained, tools covered, and measurable improvement shows leadership and concrete impact beyond just 'helping out.'"
+    },
+    {
+      "weak": "Handled customer complaints and made sure they were happy.",
+      "strong": "Resolved 15+ guest complaints per month by listening actively, offering solutions (comped items, remakes), and converting 80% of dissatisfied customers into return visitors.",
+      "lesson": "Quantifying complaint volume and your resolution rate (and actual business outcome like repeat visits) demonstrates emotional intelligence and retention value."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'responsible for serving tables' without showing impact",
+      "fix": "Always pair duties with a result: table count, upsell percentage, customer satisfaction score, or retention metric."
+    },
+    {
+      "mistake": "Omitting POS system experience",
+      "fix": "Name the specific systems you've used (Toast, Square, OpenTable, TouchBistro, Micros) because managers filter resumes for these keywords."
+    },
+    {
+      "mistake": "Burying awards, employee-of-the-month, or 'tip' data",
+      "fix": "Lead with recognition and financial outcomes; servers with high tips and positive reviews demonstrate proven customer-facing ability."
+    },
+    {
+      "mistake": "Not showing food/beverage knowledge or certifications",
+      "fix": "Include sommelier basics, allergen training, TIPS alcohol certification, or menu specializations (e.g., farm-to-table, international cuisine) to stand out."
+    },
+    {
+      "mistake": "Failing to highlight team collaboration",
+      "fix": "Show how you worked with specific departments (kitchen, bar, hosts) and resolved conflicts; managers need to know you're easy to work with."
+    }
+  ],
+  "structureTips": [
+    "Lead with a short professional summary that emphasizes customer satisfaction ratings, average check growth, or customer retention metrics—not a generic objective.",
+    "Put your most recent restaurant/hospitality role at the top and expand it with 3–4 bullet points showing upsells, table counts, POS proficiency, and recognition.",
+    "Create a short 'Core Competencies' or 'Skills' section that includes POS systems by name, food & beverage knowledge, and soft skills like conflict resolution.",
+    "If you've earned recognition (Employee of the Month, top tips, customer review highlights), add a small 'Recognition' or 'Achievements' section above or below your work history."
+  ],
+  "atsKeywords": [
+    "Point of Sale systems",
+    "Customer service",
+    "Food and beverage service",
+    "Table management",
+    "Cash handling",
+    "Upselling",
+    "POS",
+    "Restaurant service",
+    "Guest relations",
+    "Team collaboration"
+  ],
+  "salarySignal": "Entry-level server positions in the US typically pay $15–17/hour base wage plus tips, with total earnings ranging from $25,000–$45,000 annually depending on venue type, location, and shift quality.",
+  "faq": [
+    {
+      "q": "Should I include my tips or average tip percentage on my resume?",
+      "a": "Only if it's exceptionally strong (e.g., '18–22% average tip rate') and you can back it up. Hiring managers trust it as proof of guest satisfaction. If your average is median or lower, leave it out."
+    },
+    {
+      "q": "What POS systems should I highlight?",
+      "a": "Name every system you've actually used: Toast, Square, OpenTable, Micros, TouchBistro, etc. Hiring managers search resumes for these keywords. Generic 'POS experience' won't stand out."
+    },
+    {
+      "q": "Do I need food handler or TIPS certification to list on my resume?",
+      "a": "Yes—if you have it. TIPS (Training for Intervention Procedures) alcohol certification and food handler licenses are often required or preferred. List them in a 'Certifications' section with expiration dates."
+    },
+    {
+      "q": "How do I quantify customer satisfaction as a server?",
+      "a": "Use metrics like customer review scores, repeat customer rate, complaint resolution rate, or formal feedback if your restaurant collects it. Even 'maintained 4.8+ star rating across 100+ guest reviews' is powerful."
+    },
+    {
+      "q": "Should I mention specific menu items or signature dishes I know well?",
+      "a": "Yes, especially if the restaurant has a notable specialty (e.g., 'mastered wine pairings for a farm-to-table menu' or 'expert in craft cocktail recommendations'). It shows depth and selling ability."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "preschool-teacher",
+  "title": "Preschool Teacher",
+  "category": "education",
+  "generatedAt": "2026-05-02T23:03:14.321Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Preschool Teacher Resume: Tips & Examples",
+  "metaDescription": "Build a standout preschool teacher resume. Learn what skills hiring directors want, see sample bullets, and avoid common mistakes.",
+  "h1": "How to Write a Preschool Teacher Resume That Gets Interviews",
+  "intro": "Preschool directors are looking for teachers who can manage energy, build trust with families, and create safe, joyful learning environments. Your resume needs to show you've done exactly that—with real examples, not just intentions.",
+  "audience": "Early-career educators, career switchers from childcare or nanny roles, and recent grads in early childhood education applying to preschools, daycare centers, and Head Start programs.",
+  "topSkills": [
+    {
+      "name": "Classroom management & behavior guidance",
+      "why": "Directors need to see you can handle groups of young kids calmly, set boundaries, and redirect without punitive approaches."
+    },
+    {
+      "name": "Curriculum planning & lesson design",
+      "why": "Preschools expect you to create age-appropriate learning activities aligned with standards like Creative Curriculum or Montessori methods."
+    },
+    {
+      "name": "Child development knowledge",
+      "why": "Understanding developmental milestones (language, social-emotional, gross/fine motor) shows you can scaffold learning and identify delays early."
+    },
+    {
+      "name": "Parent communication & family engagement",
+      "why": "Hiring managers want evidence you build relationships with families through updates, conferences, and two-way communication."
+    },
+    {
+      "name": "Safety & health protocols",
+      "why": "First aid, CPR, hygiene routines, and injury prevention aren't optional—they're baseline expectations for any childcare role."
+    },
+    {
+      "name": "Early literacy & math foundations",
+      "why": "Preschools increasingly focus on pre-K readiness, so showing you support phonological awareness, counting, and letter recognition is valuable."
+    },
+    {
+      "name": "Social-emotional learning (SEL)",
+      "why": "Modern preschools emphasize emotional regulation, empathy, and conflict resolution—evidence of this skill stands out."
+    },
+    {
+      "name": "Inclusive & differentiated instruction",
+      "why": "Classrooms are diverse; showing you adapt for different learning styles and support students with IEPs or language differences is a plus."
+    },
+    {
+      "name": "Observation & documentation",
+      "why": "Programs value teachers who track progress through photos, notes, and anecdotal records—it shows you're intentional and reflective."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Taught preschool class and helped children learn new skills throughout the year.",
+      "strong": "Designed and delivered 40+ weekly lessons using Creative Curriculum to build letter recognition and phonological awareness in 15 three-year-olds, with 85% of class meeting pre-K readiness benchmarks by year-end.",
+      "lesson": "Swap vague verbs for specifics: name the curriculum, the class size, the measurable outcome, and the benchmark or standard you were targeting."
+    },
+    {
+      "weak": "Managed parent communication and updated families on classroom activities.",
+      "strong": "Held bi-weekly parent conferences and sent weekly photo/learning narratives via digital platform, resulting in 100% parent engagement and three parent-teacher partnership projects (cooking, gardening, guest reading).",
+      "lesson": "Quantify communication touchpoints and show what communication *led to*—participation, involvement, strengthened partnerships—not just that you did it."
+    },
+    {
+      "weak": "Supervised children and kept them safe and healthy during the school day.",
+      "strong": "Maintained state-mandated health/safety logs, implemented daily hygiene routines, and led emergency drills quarterly; achieved zero safety incidents and 100% immunization documentation compliance across 18-student classroom.",
+      "lesson": "Health & safety is expected, so prove you exceed baseline with compliance rates, incident prevention, and proactive systems—not just that you \"kept kids safe.\""
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes",
+      "fix": "Don't write \"responsible for attendance and behavior tracking.\" Write \"tracked attendance and implemented behavior tracking system that reduced late arrivals by 20% and increased positive reinforcement opportunities.\""
+    },
+    {
+      "mistake": "Ignoring curriculum or learning frameworks",
+      "fix": "Preschools use specific curricula (Creative Curriculum, High Scope, Montessori, etc.). Name the ones you know and have used—it shows you're intentional, not generic."
+    },
+    {
+      "mistake": "Downplaying parent engagement and family communication",
+      "fix": "Parent partnership is *core* to preschool success. Dedicate space to showing how you communicated progress, involved families in learning, and built trust—not as an afterthought."
+    },
+    {
+      "mistake": "Not mentioning special needs or inclusive practices",
+      "fix": "Modern preschools are inclusive. Even if you haven't worked with IEPs, mention how you differentiated lessons, supported English language learners, or adapted activities for different abilities."
+    },
+    {
+      "mistake": "Forgetting certifications and soft skills",
+      "fix": "List First Aid, CPR, state ECE credentials, and any training (trauma-informed, Conscious Discipline, Montessori observation hours). Also highlight patience, creativity, and flexibility—they matter as much as skills."
+    }
+  ],
+  "structureTips": [
+    "Lead with your certification(s)—First Aid, CPR, state early childhood license, or bachelor's in Early Childhood Education—right at the top under your name. Directors filter on these first.",
+    "Put your strongest teaching position first, with 3–5 impact-focused bullets per role. Prioritize outcomes: readiness benchmarks, parent engagement rates, or safety/compliance wins.",
+    "Dedicate a small 'Core Competencies' or 'Teaching Skills' section to name-check frameworks you know (Creative Curriculum, literacy instruction, SEL) so your resume passes ATS and shows breadth.",
+    "If you have volunteer, practicum, or assistant experience, include it—preschools value demonstrated passion for early childhood, even if it's not paid; just label it clearly (e.g., 'Preschool Teaching Practicum')."
+  ],
+  "atsKeywords": [
+    "preschool teacher",
+    "early childhood education",
+    "classroom management",
+    "curriculum planning",
+    "child development",
+    "parent communication",
+    "CPR certified",
+    "Creative Curriculum",
+    "social-emotional learning",
+    "inclusive instruction"
+  ],
+  "salarySignal": "Entry-level preschool teacher salaries typically range from $22,000 to $32,000 annually in the US, varying by state, program type (private vs. public), and whether it's full-time or part-time.",
+  "faq": [
+    {
+      "q": "Do I need a degree to be a preschool teacher?",
+      "a": "Requirements vary by state and employer. Many private preschools hire with a high school diploma and preschool training (CDA), while public pre-K and Head Start increasingly require an associate's or bachelor's degree in Early Childhood Education. Check your state's licensing rules and target programs' job postings. A degree or CDA will make your resume stronger and open more doors."
+    },
+    {
+      "q": "What should I put on my resume if I have no formal preschool teaching experience?",
+      "a": "Highlight any childcare, nanny, tutoring, or assistant experience you have—label it clearly (e.g., 'Preschool Assistant' or 'Childcare Provider'). Include coursework or certifications (CDA, CPR, First Aid, ECE classes), volunteer teaching or practicum hours, and soft skills like patience and creativity. Many preschools value passion and foundational competencies over years of experience."
+    },
+    {
+      "q": "How do I show impact if I haven't measured student outcomes formally?",
+      "a": "Use observable, concrete language: 'Supported 12 three-year-olds in recognizing 15+ letters and sounds by May,' 'Implemented daily conflict-resolution circles that reduced peer disputes,' or 'Created individualized learning plans for three students with speech delays, coordinating with speech therapist.' Even without formal assessment data, you can describe what you *saw* kids do and learn."
+    },
+    {
+      "q": "Should I mention the pandemic and remote or hybrid teaching?",
+      "a": "Yes, if relevant. Frame it positively: 'Transitioned classroom to hybrid learning, designing distance activities that kept families engaged and maintained developmental progress during closure.' It shows adaptability and resilience—qualities preschools value."
+    },
+    {
+      "q": "How important is the parent communication section of my resume?",
+      "a": "Very important. Preschools see parents as partners, not obstacles. Show you communicated regularly (newsletters, conferences, digital updates), involved families in learning, and built strong relationships. This is often as valued as direct teaching outcomes."
+    }
+  ]
+}

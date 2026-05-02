@@ -1,0 +1,130 @@
+{
+  "slug": "project-manager",
+  "title": "Project Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:46:37.978Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Project Manager Resume: Template, Skills & Examples",
+  "metaDescription": "Build a winning Project Manager resume with actionable tips, real examples, and ATS keywords. Stand out to hiring managers.",
+  "h1": "How to Write a Project Manager Resume That Gets Hired",
+  "intro": "A strong Project Manager resume needs to prove you can juggle timelines, budgets, and teams without dropping the ball. We'll show you exactly what to highlight, which metrics matter most, and common mistakes that tank your candidacy.",
+  "audience": "Recent business school grads, career switchers from operations or consulting roles, and PMs looking to move to companies with bigger scope.",
+  "topSkills": [
+    {
+      "name": "Project Planning & Scheduling",
+      "why": "Hiring managers need confidence you can map out timelines, set milestones, and keep projects on track from kickoff to closure."
+    },
+    {
+      "name": "Stakeholder Management",
+      "why": "PMs talk to executives, clients, and teams daily—your ability to align competing interests directly impacts project success."
+    },
+    {
+      "name": "Risk Management",
+      "why": "Spotting problems early and building contingency plans separates strong PMs from average ones and saves companies real money."
+    },
+    {
+      "name": "Budget & Resource Allocation",
+      "why": "Demonstrating you've managed P&L, contractor spend, or team capacity shows you understand the business impact of PM decisions."
+    },
+    {
+      "name": "Agile/Scrum & Waterfall",
+      "why": "Different industries use different frameworks—fluency in both (or whichever fits your target role) is table stakes."
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "why": "PMs rarely have direct authority over engineers, designers, or marketers; showing influence without power is critical."
+    },
+    {
+      "name": "Project Management Tools",
+      "why": "Jira, Asana, Monday.com, MS Project—listing specific tools you've shipped with signals you'll ramp fast and reduce training time."
+    },
+    {
+      "name": "Scope Management & Change Control",
+      "why": "Hiring managers want to see you protect projects from scope creep and document decisions—that's how budgets stay realistic."
+    },
+    {
+      "name": "Stakeholder Communication & Reporting",
+      "why": "Clear status updates, executive summaries, and transparent risk disclosure build trust and prevent surprises at launch."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed multiple projects and worked with teams to deliver results on time.",
+      "strong": "Owned delivery of 4 cross-functional initiatives (engineering, product, design) on a Q-quarterly cadence; 95% on-time delivery and 12% under budget through proactive resource planning and weekly risk reviews.",
+      "lesson": "Specific numbers (4 projects, 95%, 12% under budget) and process details (weekly risk reviews) prove impact—not just effort."
+    },
+    {
+      "weak": "Improved communication between teams and stakeholders.",
+      "strong": "Implemented weekly exec briefing deck and automated dashboard (Jira integration); reduced escalation emails by 60% and cut time-to-decision by 3 days per sprint.",
+      "lesson": "Quantify the outcome of your process improvement; show how it unblocked the team or saved time."
+    },
+    {
+      "weak": "Led a team through a software implementation project.",
+      "strong": "Led full lifecycle implementation of enterprise SaaS platform across 3 business units (18-month timeline, $2.1M budget); delivered 6 weeks early, trained 450+ users, and achieved 87% adoption within Q1.",
+      "lesson": "Include scope (budget, users, timeline, departments), delivery status, and business-outcome metric (adoption)—not just what you did."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing PM responsibilities instead of PM wins",
+      "fix": "Don't write 'responsible for project delivery.' Instead, show what you delivered—scope, timeline, budget, quality metric—and how it moved the business forward."
+    },
+    {
+      "mistake": "Burying methodology or tool expertise",
+      "fix": "Call out your framework and tools upfront (Agile, Scrum, Waterfall, Jira, Asana) in a skills section or bullets so ATS scanners and hiring managers spot them instantly."
+    },
+    {
+      "mistake": "Forgetting to mention budget ownership",
+      "fix": "If you've managed P&L, contractor costs, or resource spend, lead with dollar amounts—it signals business acumen and sets you apart from ops coordinators."
+    },
+    {
+      "mistake": "No evidence of stakeholder or client management",
+      "fix": "Include a bullet on how you managed up (exec alignment), down (team communication), or out (client satisfaction scores, NPS, retention)—PMs live in relationships."
+    },
+    {
+      "mistake": "Underselling crisis or change management",
+      "fix": "If you've navigated scope creep, staffing changes, or missed dependencies, frame it as 'pivoted to...' or 'mitigated risk by...'—it shows resilience and problem-solving."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2-3 line professional summary that anchors your core PM strength (e.g., 'Cross-functional PM with 4+ years shipping SaaS products on Agile. Expertise in resource planning, stakeholder alignment, and risk mitigation. Track record: 12+ delivered projects, $8M+ in managed budgets.').",
+    "Put your Project Management section (tools, frameworks, certifications like PMP, CAPM, SAFe) in the Skills section or as a subsection under Experience—don't bury it.",
+    "Group your bullets by impact category (Delivery, Budget, Stakeholder, Process Improvement) within each job; don't just list them chronologically.",
+    "If you're junior or switching careers, front-load quantifiable wins (on-time %, budgets managed, team size led) even if they're from different companies—hiring managers scan for numbers first."
+  ],
+  "atsKeywords": [
+    "Project Management",
+    "Agile/Scrum",
+    "Waterfall",
+    "Stakeholder Management",
+    "Budget Management",
+    "Risk Management",
+    "Jira",
+    "Cross-functional Leadership",
+    "Project Planning",
+    "Resource Allocation"
+  ],
+  "salarySignal": "Entry-level Project Manager roles in the US typically range from $55K–$75K; mid-level (5+ years) roles range from $85K–$120K; senior/Principal PMs range from $120K–$180K+, with tech/finance paying at the higher end.",
+  "faq": [
+    {
+      "q": "Should I list PMP certification on my Project Manager resume?",
+      "a": "Yes, if you have it—PMP (Project Management Professional) is highly valued by large enterprises and hiring managers often filter for it. If you're pursuing it, add '(in progress)' next to it. If you don't have PMP but have CAPM, SAFe, or internal certifications, list those too; they signal rigor and investment in the craft."
+    },
+    {
+      "q": "What if I haven't managed a big budget—should I still include budget bullets?",
+      "a": "Absolutely. Even if you've optimized a $500K vendor contract or managed a team's time allocation against a capacity budget, that's worth highlighting. Use the numbers you have; hiring managers reward budget awareness and resource thinking at any scale."
+    },
+    {
+      "q": "How many projects should I list on my resume?",
+      "a": "Focus on 4–6 of your strongest, most recent, or most complex projects across your work experience. Quality beats quantity—hiring managers want to see scope (timeline, budget, team size, outcome) and business impact, not a laundry list."
+    },
+    {
+      "q": "Is it better to say Agile or Scrum on my resume?",
+      "a": "Use both if you've worked in both frameworks. If you're primarily Scrum, say 'Scrum Master' or 'Scrum-trained PM.' Agile is the umbrella; Scrum is the specific methodology. Listing both signals flexibility and deeper knowledge. Match the job description—if they say 'Agile-first,' emphasize Agile; if they specify Scrum, lead with that."
+    },
+    {
+      "q": "How do I show impact if my project failed or got cancelled?",
+      "a": "Reframe it as mitigation and learning: 'Led pivot of [project] after Q2 assessment; reduced sunk costs by $300K and reallocated team to higher-priority initiative, which shipped 8 weeks ahead of schedule.' Show the decision-making and the salvage, not the failure."
+    }
+  ]
+}
