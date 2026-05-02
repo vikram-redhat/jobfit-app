@@ -3,7 +3,6 @@
 
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
-import ResumeGradeResult from '@/components/results/ResumeGradeResult';
 
 export const metadata = {
   title: 'AI Resume Grader — Free Honest Resume Review',
@@ -70,7 +69,7 @@ export default function ResumeGraderPage() {
           ctaLabel="Grade my resume →"
           loadingLabel="Reading your resume…"
           resultPathPrefix="/tools/resume-grader/r"
-          renderResult={(r) => <ResumeGradeResult result={r} />}
+          tool="resume-grader"
         />
       </ToolPageLayout>
     </>

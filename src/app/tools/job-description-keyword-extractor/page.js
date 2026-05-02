@@ -3,7 +3,6 @@
 
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
-import KeywordsResult from '@/components/results/KeywordsResult';
 
 export const metadata = {
   title: 'Job Description Keyword Extractor — Free AI Tool',
@@ -70,7 +69,7 @@ export default function KeywordExtractorPage() {
           ctaLabel="Extract keywords →"
           loadingLabel="Reading the job description…"
           resultPathPrefix="/tools/job-description-keyword-extractor/r"
-          renderResult={(r) => <KeywordsResult result={r} />}
+          tool="keywords"
         />
       </ToolPageLayout>
     </>

@@ -60,6 +60,7 @@ Run SQL files in this order against your Supabase project (SQL Editor):
 2. `supabase-stripe-migration.sql` — adds Stripe billing fields to profiles
 3. `supabase-applied-date-migration.sql` — adds applied_date to jobs
 4. `supabase-deleted-accounts-migration.sql` — deleted_accounts table (prevents free tier abuse on re-signup)
+5. `supabase-tool-results-migration.sql` — tool_results table for free SEO tools ✅ applied
 
 Demo data (optional):
 - `supabase-demo-accounts.sql`
@@ -97,14 +98,35 @@ src/app/
   api/admin/users/route.js       # Admin: user list
   api/admin/settings/route.js    # Admin: read/write app_settings
   api/admin/coupons/route.js     # Admin: create/list/deactivate Stripe coupons
+  api/tools/keywords/route.js    # Anonymous: JD keyword extraction (rate-limited, no auth)
+  api/tools/grade-resume/route.js # Anonymous: resume grader (rate-limited, no auth)
+
+  tools/page.js                  # Free tools index (SEO landing, server-rendered)
+  tools/job-description-keyword-extractor/page.js  # Keyword extractor tool page
+  tools/job-description-keyword-extractor/r/[id]/page.js  # Shareable result permalink
+  tools/resume-grader/page.js    # Resume grader tool page
+  tools/resume-grader/r/[id]/page.js  # Shareable result permalink
+
+  robots.js                      # /robots.txt — allows AI crawlers (GPTBot, ClaudeBot, etc.)
+  sitemap.js                     # /sitemap.xml
+  llms.txt/route.js              # /llms.txt — AI crawler summary (llmstxt.org standard)
+  llms-full.txt/route.js         # /llms-full.txt — full AI crawler reference
 
 src/components/Nav.js            # Shared navigation bar
+src/components/ToolPageLayout.js # Shared layout for free tool pages
+src/components/ToolForm.js       # Client island: form + result renderer for free tools
+src/components/JsonLd.js         # JSON-LD structured data (Organization, SoftwareApplication, FAQ)
+src/components/results/
+  KeywordsResult.js              # Renders keyword extraction results
+  ResumeGradeResult.js           # Renders resume grade results
 src/lib/
   supabase-browser.js            # Client-side Supabase client
   supabase-server.js             # Server-side Supabase client (uses auth cookies)
   supabase-admin.js              # Admin Supabase client (service role, for webhooks)
   stripe.js                      # Stripe client singleton
-src/middleware.js                # Auth guard — redirects unauthenticated users
+  rate-limit.js                  # In-memory IP rate limiter for anonymous tool endpoints
+  ai-guard.js                    # Input sanitization + prompt-injection defense
+src/middleware.js                # Auth guard — /tools/* and /api/tools/* are public
 ```
 
 ---
@@ -188,8 +210,23 @@ All AI calls use `claude-haiku-4-5-20251001` (cheapest, fastest). Every prompt i
 
 ---
 
+## SEO / GEO
+
+Full SEO and Generative Engine Optimization setup:
+
+- **Metadata:** `layout.js` exports a full Next.js `metadata` object — title template, description, OG tags, Twitter card, robots directives, `og.png` social image
+- **robots.txt** (`robots.js`): blocks auth-gated routes, explicitly allows 14 AI crawlers by name (GPTBot, ClaudeBot, PerplexityBot, etc.)
+- **sitemap.xml** (`sitemap.js`): all public routes with priorities
+- **llms.txt / llms-full.txt**: the emerging standard for AI search engines. Short version is a TL;DR; full version includes competitor comparison, FAQs, use cases — all written for accurate citation by ChatGPT/Perplexity/Claude/Gemini
+- **JSON-LD** (`JsonLd.js`): `Organization`, `SoftwareApplication` (with Free + Pro `Offer` nodes), and `FAQPage` structured data on the landing page. Tool pages each have their own `FAQPage` block
+- **Free tools** (`/tools`): two anonymous, no-signup tools (keyword extractor, resume grader) that generate shareable result permalinks at `/tools/[tool]/r/[id]` — server-rendered, individually indexed. Each result page has unique `<title>/<description>` generated from the actual AI output. Acts as top-of-funnel organic/AI search traffic with CTAs back to the main app
+- **Anonymous tool endpoints** (`/api/tools/*`): rate-limited at 10 req/IP/hour, prompt-injection sanitized, degrade gracefully if DB insert fails
+
+---
+
 ## Known Notes
 
 - PDF download is implemented as a print-ready HTML file (not a true server-side PDF). The user opens it in the browser and uses Ctrl+P / Print to save as PDF.
 - Google OAuth requires the callback URL `https://jobfit.today/auth/callback` to be configured in both Supabase (Authentication > URL Configuration) and Google Cloud Console.
 - The demo GIF (`/public/demo.gif`) is shown on mobile only (hidden on desktop via Tailwind `lg:hidden`).
+- `ToolForm` is a Client Component that imports result components directly — do not pass `renderResult` as a function prop from Server Component pages (Next.js App Router does not allow function props across the server/client boundary).

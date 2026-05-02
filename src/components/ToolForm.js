@@ -6,6 +6,13 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import KeywordsResult from '@/components/results/KeywordsResult';
+import ResumeGradeResult from '@/components/results/ResumeGradeResult';
+
+const RESULT_COMPONENTS = {
+  'keywords': KeywordsResult,
+  'resume-grader': ResumeGradeResult,
+};
 
 export default function ToolForm({
   endpoint,        // e.g. '/api/tools/keywords'
@@ -14,7 +21,7 @@ export default function ToolForm({
   ctaLabel,        // e.g. 'Extract keywords →'
   loadingLabel,    // e.g. 'Reading the job description…'
   resultPathPrefix, // e.g. '/tools/job-description-keyword-extractor/r'
-  renderResult,    // function(result) -> JSX
+  tool,            // e.g. 'keywords' or 'resume-grader' — maps to a result component
 }) {
   const [text, setText] = useState('');
   const [loading, setLoading] = useState(false);
@@ -81,7 +88,7 @@ export default function ToolForm({
 
       {result && (
         <div className="space-y-6">
-          {renderResult(result)}
+          {(() => { const R = RESULT_COMPONENTS[tool]; return R ? <R result={result} /> : null; })()}
 
           {/* Share + signup row, equally weighted */}
           <div className="grid sm:grid-cols-2 gap-4">
