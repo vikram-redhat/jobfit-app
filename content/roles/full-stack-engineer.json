@@ -1,0 +1,134 @@
+{
+  "slug": "full-stack-engineer",
+  "title": "Full-Stack Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T21:49:47.449Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Full-Stack Engineer Resume Guide: Examples & Tips",
+  "metaDescription": "Land your full-stack engineer role. Learn which skills to highlight, how to write strong bullets, and what hiring managers actually want to see.",
+  "h1": "Full-Stack Engineer Resume: How to Stand Out",
+  "intro": "Full-stack engineers wear a lot of hats—frontend, backend, databases, DevOps—so your resume needs to prove you can juggle it all. We'll show you exactly how to package your skills so hiring managers see you as the versatile builder they're looking for.",
+  "audience": "Recent bootcamp grads, junior developers transitioning from frontend or backend specialization, and career switchers building their first tech role.",
+  "topSkills": [
+    {
+      "name": "JavaScript/TypeScript (Frontend & Backend)",
+      "why": "Nearly every full-stack job assumes comfort with JS across the stack—React, Node.js, and async patterns are table stakes."
+    },
+    {
+      "name": "React (or Vue/Angular)",
+      "why": "Frontend frameworks are the default expectation; React dominance makes it the safest resume keyword, but any modern framework counts."
+    },
+    {
+      "name": "Node.js & Express",
+      "why": "Backend experience proves you can build APIs, handle databases, and scale beyond frontend—critical for 'full-stack' credibility."
+    },
+    {
+      "name": "REST APIs & HTTP",
+      "why": "Hiring managers want to see you understand the bridge between frontend and backend; API design is a core full-stack responsibility."
+    },
+    {
+      "name": "SQL & Relational Databases (PostgreSQL/MySQL)",
+      "why": "Data persistence is non-negotiable; SQL fluency signals you can architect backend logic and optimize queries."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Collaboration is implicit in full-stack roles; Git proficiency shows you can ship code in a team without breaking prod."
+    },
+    {
+      "name": "Docker & Containerization",
+      "why": "DevOps basics like Docker help you stand out; it signals you understand deployment and can work across environments."
+    },
+    {
+      "name": "Cloud Platforms (AWS/GCP/Azure)",
+      "why": "Modern full-stack work happens in the cloud; familiarity with hosting, databases, and serverless options is increasingly expected."
+    },
+    {
+      "name": "Testing & CI/CD",
+      "why": "Writing tests (Jest, Mocha) and understanding deployment pipelines shows maturity and reduces QA burden on the team."
+    },
+    {
+      "name": "Problem-Solving & System Design Thinking",
+      "why": "Full-stack engineers own features end-to-end; showing you think about architecture, scalability, and user impact is a major differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a web application using React and Node.js with a database.",
+      "strong": "Architected and deployed a real-time collaborative task management app using React, Express, PostgreSQL, and Redis; reduced page load time by 40% through lazy loading and query optimization, supporting 5K+ concurrent users.",
+      "lesson": "Strong version quantifies impact, names specific tech choices, and shows end-to-end ownership—not just 'built something,' but proved you can optimize and scale."
+    },
+    {
+      "weak": "Worked on frontend and backend features for the main product.",
+      "strong": "Shipped 12+ full-stack features across a SaaS platform; migrated legacy REST endpoints to GraphQL, cutting API payload size by 35%, and implemented automated test coverage (Jest/Enzyme) that reduced regression bugs by 50%.",
+      "lesson": "Metrics and specificity matter—'12+ features' and measurable outcomes (payload reduction, bug reduction) make the contribution credible and memorable."
+    },
+    {
+      "weak": "Learned Docker and deployed code to AWS.",
+      "strong": "Containerized microservices using Docker and orchestrated deployment to AWS ECS, reducing environment setup time from 2 hours to 10 minutes and enabling 5 engineers to ship independently.",
+      "lesson": "Quantify the real-world impact of DevOps work—faster setup, fewer production incidents, and team velocity gains are what hiring managers care about."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only frontend or only backend skills",
+      "fix": "Explicitly mention both layers—showcase a project where you owned the UI *and* the API; call out the database schema or deployment you handled."
+    },
+    {
+      "mistake": "Vague tech stacks like 'Web technologies' or 'Modern frameworks'",
+      "fix": "Be specific: name React, Express, PostgreSQL, etc. ATS systems and recruiters search for exact tech names, not descriptors."
+    },
+    {
+      "mistake": "No mention of how your work shipped or scaled",
+      "fix": "Add context: how many users? How did you measure success? Did it reduce load time, cost, or bugs? Full-stack is about impact across the whole system."
+    },
+    {
+      "mistake": "Ignoring DevOps and infrastructure",
+      "fix": "Even junior full-stack roles expect some exposure to deployment, databases, or monitoring; call out Docker, CI/CD pipelines, or cloud experience even if minimal."
+    },
+    {
+      "mistake": "Writing generic 'responsible for' bullets instead of 'owned' or 'architected'",
+      "fix": "Use owner language—'architected,' 'designed,' 'shipped,' 'optimized'—to show you made decisions, not just executed tasks."
+    }
+  ],
+  "structureTips": [
+    "Lead with a skills section that mirrors the job description—list frontend, backend, databases, and DevOps as separate subsections or a clear comma-separated list so ATS and eyes both parse it immediately.",
+    "In your experience section, group bullets by project or feature, not by which layer you touched; this forces you to think end-to-end and shows full-stack thinking.",
+    "Highlight one or two 'full-stack highlights'—a shipped product, a migrated system, or a performance win that required frontend, backend, and database work—early in your bullet list for each role.",
+    "If you have a portfolio or GitHub projects, link 1–2 repos that showcase full-stack work (clean code, good README, real deployment) above or in the Projects section; hiring managers will peek."
+  ],
+  "atsKeywords": [
+    "full-stack engineer",
+    "full-stack developer",
+    "React",
+    "Node.js",
+    "JavaScript",
+    "REST API",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Git"
+  ],
+  "salarySignal": "Entry-level full-stack engineer salaries in the US typically range from $70K to $90K in 2026; mid-level (3–5 years) ranges from $100K to $140K, with significant variation by location, company stage, and negotiation.",
+  "faq": [
+    {
+      "q": "Should I list React and Vue if I know both?",
+      "a": "Yes, but lead with the one you're strongest in or most recent. Listing multiple frontend frameworks signals flexibility, but don't pad the list with frameworks you barely touched—hiring managers often ask follow-ups in interviews."
+    },
+    {
+      "q": "How much DevOps experience do I need to claim 'full-stack'?",
+      "a": "You don't need to be a DevOps expert, but mention Docker, at least one cloud platform (AWS, GCP, Heroku), and CI/CD pipelines if you've used them. If you've only deployed to Vercel or Netlify, that still counts—call it out as 'automated deployment.'"
+    },
+    {
+      "q": "What if I'm stronger on backend than frontend (or vice versa)?",
+      "a": "Own your strength but don't claim full-stack unless you genuinely ship on both sides. A 'Backend-Focused Full-Stack Engineer' or listing your depth first is honest and still attractive—many full-stack roles are flexible on the balance."
+    },
+    {
+      "q": "Do I need to mention every database I've touched?",
+      "a": "No. List the 2–3 you know best (e.g., PostgreSQL, MongoDB). If you learned SQL but built most projects with ORM, mention the ORM by name but call out that you write raw queries too—depth matters more than breadth."
+    },
+    {
+      "q": "How do I show full-stack impact if my company specializes in one layer?",
+      "a": "Highlight cross-team projects (e.g., 'worked with frontend team to optimize API responses'), side projects, or spike work where you owned multiple layers. Portfolio projects are especially valuable here—ship something end-to-end on the side to prove it."
+    }
+  ]
+}

@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "content:generate": "node scripts/generate-role-content.js",
+    "content:status": "node scripts/generate-role-content.js --status",
+    "content:regenerate": "node scripts/generate-role-content.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",

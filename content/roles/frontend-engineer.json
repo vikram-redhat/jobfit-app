@@ -1,0 +1,134 @@
+{
+  "slug": "frontend-engineer",
+  "title": "Frontend Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T21:49:49.633Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Frontend Engineer Resume: Tips & Examples for 2025",
+  "metaDescription": "Land your next frontend role with a resume that highlights technical skills, shipped projects, and measurable impact. See real examples and common mistakes to avoid.",
+  "h1": "Frontend Engineer Resume: Stand Out With Code & Results",
+  "intro": "Your frontend resume needs to prove you can build fast, accessible, user-facing features—not just list technologies you've touched. We'll show you how to showcase shipped projects, performance wins, and the technical depth that gets you past both ATS filters and senior engineer reviews.",
+  "audience": "Recent computer science grads, bootcamp graduates, career switchers from design or QA, and mid-level engineers looking to level up their resume for senior roles.",
+  "topSkills": [
+    {
+      "name": "React / Vue / Angular",
+      "why": "Most frontend job postings require expertise in at least one major framework; hiring managers want to see production experience, not just tutorials."
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "why": "Core language skill that's non-negotiable; interviewers will assume you're fluent and test on async, closures, and DOM manipulation."
+    },
+    {
+      "name": "CSS & Responsive Design",
+      "why": "Frontend is half visual; demonstrating mobile-first thinking, flexbox/grid mastery, and cross-browser knowledge separates real engineers from button-clickers."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Teams ship code collaboratively; showing you've managed branches, PRs, and merge conflicts proves you can work in a real codebase."
+    },
+    {
+      "name": "REST APIs / GraphQL",
+      "why": "Most frontend work involves fetching and managing data; understanding how to query APIs and handle responses is table-stakes."
+    },
+    {
+      "name": "Testing (Jest, React Testing Library, Cypress)",
+      "why": "Senior engineers expect you to write tests; shipping untested code is a red flag that suggests junior-level thinking."
+    },
+    {
+      "name": "Performance Optimization",
+      "why": "Hiring managers care about real-world impact; showing you've reduced bundle size, improved Lighthouse scores, or cut load time proves business acumen."
+    },
+    {
+      "name": "TypeScript",
+      "why": "Increasingly standard in professional codebases; candidates with TS experience signal they can catch bugs early and work in mature teams."
+    },
+    {
+      "name": "UI/UX & Accessibility (a11y)",
+      "why": "Modern frontend engineers ship for real users; knowing WCAG, semantic HTML, and screen reader testing shows you care about quality."
+    },
+    {
+      "name": "Build Tools (Webpack, Vite, Babel)",
+      "why": "You don't need to be a DevOps expert, but understanding how code gets bundled and optimized separates mid-level from junior engineers."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a React component library for the design system.",
+      "strong": "Architected and deployed a reusable React component library (50+ components) that reduced frontend development time by 30% and improved design consistency across 12+ product teams.",
+      "lesson": "Quantify impact with specific numbers (components, teams, time saved) and use strong action verbs like 'architected' instead of passive 'built'."
+    },
+    {
+      "weak": "Improved website performance.",
+      "strong": "Optimized bundle size from 850KB to 320KB via code-splitting and lazy loading; improved Lighthouse performance score from 62 to 94 and reduced Time to Interactive by 2.8 seconds.",
+      "lesson": "Always include before/after metrics and user-facing outcomes (Lighthouse, load time) so hiring managers see measurable business value, not just effort."
+    },
+    {
+      "weak": "Worked on the checkout flow using React and Redux.",
+      "strong": "Redesigned checkout form flow in React with Redux state management, reducing form abandonment by 12% (50K+ users/month) and increasing conversion rate from 3.2% to 3.8%.",
+      "lesson": "Connect your technical choices to product outcomes; show how your code affected real user behavior and revenue rather than just listing tech stack."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing technologies without showing what you built with them.",
+      "fix": "Always pair a skill (React, TypeScript, Figma) with a concrete project or achievement—e.g., 'Led redesign of mobile app in React and TypeScript, improving accessibility score to 95%' instead of just listing 'React, TypeScript' under skills."
+    },
+    {
+      "mistake": "No mention of performance, testing, or accessibility.",
+      "fix": "Add at least one bullet per role about testing coverage (unit, integration, E2E), performance wins (bundle size, Core Web Vitals, Lighthouse), or a11y improvements to signal you ship production-grade code."
+    },
+    {
+      "mistake": "Using vague phrases like 'responsible for' or 'helped with' instead of owning outcomes.",
+      "fix": "Lead with active verbs (designed, implemented, optimized, debugged) and take credit for results; 'Led a redesign...' and 'Debugged and fixed...' are much stronger than 'Was responsible for...'"
+    },
+    {
+      "mistake": "Leaving out GitHub or portfolio links.",
+      "fix": "Include a link to your GitHub profile or live portfolio site so hiring managers can see your actual code, contributions, and projects in seconds."
+    },
+    {
+      "mistake": "No mention of cross-functional collaboration or soft skills.",
+      "fix": "Frontend engineers work with designers, product, and backend teams; add bullets about how you unblocked teams, communicated technical trade-offs, or translated design to pixel-perfect implementations."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 1–2 line professional summary that signals your level (junior/mid/senior) and your strongest domain (e.g., 'React specialist focused on performance and accessibility' for mid-level, or 'Staff-level frontend architect' if you're senior).",
+    "Put your strongest projects first in your experience section; rank by impact (revenue, scale, visibility) not chronology—hiring managers spend 6 seconds scanning, so nail the first bullet of each role.",
+    "Separate a 'Tech Skills' section into categories (Languages, Frameworks, Tools, Soft Skills) rather than one long list; this makes it ATS-friendly and easier to skim.",
+    "For each role, aim for 4–5 bullets and ensure at least one speaks to performance, testing, or collaboration—avoid all technical bullets that ignore real-world impact."
+  ],
+  "atsKeywords": [
+    "React.js",
+    "JavaScript ES6",
+    "responsive design",
+    "REST API",
+    "component-based architecture",
+    "unit testing",
+    "performance optimization",
+    "TypeScript",
+    "web accessibility",
+    "Git version control"
+  ],
+  "salarySignal": "Entry-level frontend engineer salaries in the US typically range from $70K to $100K in 2025; mid-level ($110K–$160K) and senior ($160K–$220K+) depending on location, company size, and tech stack specialization.",
+  "faq": [
+    {
+      "q": "Should I list every JavaScript library and npm package I've used?",
+      "a": "No. List only the tools that represent meaningful, production-level experience. Hiring managers care more about your mastery of one framework (React) than a long list of libraries you touched once. Focus on the frameworks, testing libraries, and build tools that show up in senior-level job postings in your target market."
+    },
+    {
+      "q": "How do I show performance optimization on my resume if it's hard to measure?",
+      "a": "Use proxy metrics: Lighthouse scores, bundle size reduction (in KB or %), Time to Interactive improvements, or load time in milliseconds. If you don't have exact numbers, mention the audit tool you used (Lighthouse, WebPageTest) and describe the optimization (lazy loading, code-splitting, image optimization) so technical reviewers understand the technique."
+    },
+    {
+      "q": "What if I don't have GitHub contributions to show?",
+      "a": "Build a small project—a React app, a UI component library, or a coding challenge solution—and push it to GitHub. Quality matters more than quantity; one solid project with good commit history and a thoughtful README is far better than abandoned repos. Alternatively, link to deployed work (portfolio site, live demo) that proves you can ship."
+    },
+    {
+      "q": "How much should I emphasize design or UX skills on a frontend resume?",
+      "a": "Mention it if you have real experience (e.g., 'collaborated with design team to build responsive Figma-to-code component library'), but keep it secondary unless you're going for a specialized UX-focused frontend role. Hiring managers expect frontend engineers to ship pixel-perfect designs, not lead design strategy."
+    },
+    {
+      "q": "Should I list my bootcamp or self-taught background differently than a CS degree?",
+      "a": "No—put education at the bottom and let your projects and shipped work speak. A bootcamp grad with a strong portfolio and real-world experience will outcompete a CS grad with no projects. If relevant, mention specific intensive programs (e.g., 'App Academy, 12-week full-stack immersive') to signal rigor."
+    }
+  ]
+}

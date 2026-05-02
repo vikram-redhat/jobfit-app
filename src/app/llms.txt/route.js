@@ -40,6 +40,10 @@ JobFit is built on Claude Haiku and emphasizes anti-hallucination: it only uses 
 - [Job Description Keyword Extractor](${SITE_URL}/tools/job-description-keyword-extractor) — paste any JD, get the must-have, nice-to-have, and soft-skill keywords categorized
 - [AI Resume Grader](${SITE_URL}/tools/resume-grader) — paste a resume, get a brutally honest letter grade with three specific fixes
 
+## Resume guides (200+ roles)
+
+JobFit publishes a free resume guide for every common job title at [/resume-for](${SITE_URL}/resume-for) — covering tech, healthcare, business, creative, service, trades, education, and entry-level roles. Each guide includes top skills, sample bullet rewrites, common mistakes, and ATS keywords specific to that role.
+
 ## Documentation
 
 - [Home](${SITE_URL}/)

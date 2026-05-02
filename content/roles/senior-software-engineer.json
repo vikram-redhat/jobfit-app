@@ -1,0 +1,130 @@
+{
+  "slug": "senior-software-engineer",
+  "title": "Senior Software Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T21:49:47.319Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Senior Software Engineer Resume: Tips & Examples",
+  "metaDescription": "Write a standout Senior Software Engineer resume with real metrics, leadership examples, and ATS keywords that land interviews at FAANG and startups.",
+  "h1": "How to Write a Senior Software Engineer Resume That Gets Interviews",
+  "intro": "Senior engineer roles are competitive—hiring managers want to see architecture decisions, team impact, and shipped products, not just a list of languages you know. We'll show you how to translate your experience into a resume that gets past both robots and humans.",
+  "audience": "Mid-career engineers looking to move into senior roles, tech leads transitioning to pure IC positions, and engineers switching industries who want to emphasize seniority.",
+  "topSkills": [
+    {
+      "name": "System Design & Architecture",
+      "why": "Senior engineers are expected to own architectural decisions and design scalable systems, not just implement features."
+    },
+    {
+      "name": "Technical Leadership & Mentorship",
+      "why": "Hiring managers want to know you've leveled up junior engineers or led technical initiatives, even if you're not a manager."
+    },
+    {
+      "name": "Production-Grade Code Quality",
+      "why": "At this level, 'writing code' is table stakes; proving you reduce bugs, improve observability, and enforce best practices is what stands out."
+    },
+    {
+      "name": "Cross-Functional Collaboration",
+      "why": "Senior engineers partner with product, design, and ops; showing you've influenced roadmaps or resolved ambiguous requirements proves maturity."
+    },
+    {
+      "name": "Performance Optimization & Scalability",
+      "why": "Senior roles often involve handling scale; concrete wins on latency, throughput, or cost optimization speak louder than any title."
+    },
+    {
+      "name": "Core Language Proficiency (Java, Python, Go, C++, TypeScript)",
+      "why": "Hiring teams filter by language first; list your deepest language at the top, with years of production experience."
+    },
+    {
+      "name": "Cloud Platforms (AWS, GCP, Azure)",
+      "why": "Most senior roles involve cloud-native architecture; specific service names (Lambda, Kubernetes, BigQuery) matter for ATS and credibility."
+    },
+    {
+      "name": "Debugging & Incident Response",
+      "why": "Senior engineers are first responders; your ability to triage and resolve production fires is a key differentiator."
+    },
+    {
+      "name": "API Design & Database Optimization",
+      "why": "Core technical depth expected at senior level; examples of designing resilient APIs or optimizing queries prove mastery."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on backend systems and improved performance.",
+      "strong": "Redesigned core payment processing service from monolithic to microservices, reducing P99 latency by 65% and enabling 10x throughput increase; mentored 2 junior engineers through implementation.",
+      "lesson": "The strong version quantifies the business impact (latency, throughput), shows architectural thinking, and proves leadership—not just coding."
+    },
+    {
+      "weak": "Fixed bugs and maintained code quality standards.",
+      "strong": "Established automated testing framework and code review checklist that reduced production incidents by 40% over 6 months; enforced standards across 8-person team.",
+      "lesson": "Metrics, scale (team size), and process ownership elevate this from reactive bug-fixing to proactive quality leadership."
+    },
+    {
+      "weak": "Used Python and AWS to build a data pipeline.",
+      "strong": "Built real-time ETL pipeline in Python/Airflow on AWS (Lambda, RDS, S3) processing 50M+ events daily; reduced data staleness from 24h to 15m and cut infrastructure costs by $80K annually.",
+      "lesson": "Specificity (tool names, scale, frequency) and business outcomes (cost savings, speed) make this credible and memorable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every language and framework you've ever touched",
+      "fix": "Lead with your 2–3 deepest languages and pick frameworks you've shipped with at scale; mention others only if they're directly relevant to the role."
+    },
+    {
+      "mistake": "Emphasizing years of experience over impact",
+      "fix": "Flip it: start with what you shipped or improved, then mention tenure only if it's 5+ years in one domain (e.g., 'built distributed systems for 7 years')."
+    },
+    {
+      "mistake": "Hiding promotions or leveling bumps",
+      "fix": "Call out promotions explicitly ('Promoted to Senior Engineer') and include the decision drivers (e.g., led migration, mentored team) so hiring managers see you've already been validated."
+    },
+    {
+      "mistake": "Forgetting to mention on-call, incident response, or operational burden",
+      "fix": "Add 1–2 bullets about reliability work: pages handled, MTTR improvements, or postmortems you led—this is what keeps systems alive."
+    },
+    {
+      "mistake": "Writing vague descriptions of 'collaboration' or 'communication'",
+      "fix": "Show collaboration through outcomes: 'negotiated API contract with mobile team' or 'aligned on schema with data platform' beats 'worked cross-functionally.'"
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your current or most senior role, and for each company, put 4–6 bullets ranked by business impact (revenue, scale, reliability, cost) before novelty.",
+    "Group skills by category (Languages, Platforms, Databases, Tools) and list the top 2–3 languages first; recruiters skim in seconds, so your strongest skills must be visible immediately.",
+    "Include a 1–2 line professional summary only if you're switching domains or have a clear narrative (e.g., 'Backend engineer → infrastructure leader'); otherwise, let bullets do the work.",
+    "If you've led projects without a manager title, create a 'Technical Leadership' subsection or weave it into bullet language ('led team of 4 through refactor,' 'mentored junior engineer X into senior role')."
+  ],
+  "atsKeywords": [
+    "Senior Software Engineer",
+    "system design and architecture",
+    "microservices",
+    "distributed systems",
+    "technical leadership",
+    "code review",
+    "production incident response",
+    "API design",
+    "cloud infrastructure",
+    "performance optimization"
+  ],
+  "salarySignal": "Senior Software Engineer roles in the US typically range from $180K–$300K+ annually (base + bonus + equity), with top-of-market tech companies and high-cost-of-living areas commanding the higher end.",
+  "faq": [
+    {
+      "q": "How long should a senior engineer resume be?",
+      "a": "Aim for 1.5–2 pages max. At senior level, quality and specificity matter more than length; cut low-impact roles and consolidate junior experience into 1 bullet per company if needed."
+    },
+    {
+      "q": "Should I include non-technical projects or side projects?",
+      "a": "Only if they're recent and directly relevant (e.g., a well-architected open-source library or tool you maintain). Skip hobby projects unless they showcase a skill gap you're filling."
+    },
+    {
+      "q": "What if I've been at the same company for 8 years?",
+      "a": "Break it into roles or major project phases (e.g., 'Senior Backend Engineer, 2021–present' vs. 'Backend Engineer, 2017–2021'). Highlight promotions and scope growth to show upward trajectory."
+    },
+    {
+      "q": "How do I prove 'senior-level thinking' if I haven't managed people?",
+      "a": "Show it through architecture ownership, mentorship, on-call leadership, and cross-functional influence: 'designed and shipped new service architecture' or 'reduced oncall burden by 30% through automation' speaks volumes."
+    },
+    {
+      "q": "Should I list certification (AWS, Kubernetes, etc.)?",
+      "a": "Only if fresh and relevant to the role; most hiring managers trust shipped projects over certifications. A recent AWS Solutions Architect cert might help if you're cloud-light; older ones tend to clutter."
+    }
+  ]
+}

@@ -42,9 +42,10 @@ export async function middleware(request) {
     '/og.png',
   ];
   // Prefix-matched public paths — anything under these is anonymous-accessible.
-  // /tools/* hosts the free SEO tools and their indexable result permalinks;
-  // /api/tools/* hosts their JSON endpoints.
-  const publicPrefixes = ['/tools', '/api/tools'];
+  // /tools/*       — free SEO tools and their indexable result permalinks
+  // /api/tools/*   — JSON endpoints for the tools
+  // /resume-for/*  — programmatic per-role resume guides (200+ pages)
+  const publicPrefixes = ['/tools', '/api/tools', '/resume-for'];
 
   const path = request.nextUrl.pathname;
   const isPublic =

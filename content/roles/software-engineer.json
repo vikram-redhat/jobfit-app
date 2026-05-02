@@ -1,0 +1,126 @@
+{
+  "slug": "software-engineer",
+  "title": "Software Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T21:49:48.714Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Software Engineer Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your next dev role with a software engineer resume that showcases real projects and measurable impact. See sample bullets and ATS strategies.",
+  "h1": "How to Write a Software Engineer Resume That Gets Interviews",
+  "intro": "Your software engineer resume needs to prove you can ship code, not just write it. Hiring managers want to see the real impact of your work—faster systems, shipped features, bugs crushed—alongside the languages and frameworks you actually know. We'll show you how to translate your projects into bullets that pass ATS scanners and impress technical hiring teams.",
+  "audience": "Recent computer science grads, junior engineers jumping between roles, and career switchers from adjacent tech fields applying to entry-level or mid-level software engineer positions.",
+  "topSkills": [
+    {
+      "name": "Programming languages (Python, Java, JavaScript, C++, Go)",
+      "why": "ATS systems and recruiters filter for specific language competency; listing the ones you ship with is table stakes."
+    },
+    {
+      "name": "Full-stack or backend web development",
+      "why": "Most software engineer openings involve building APIs, services, or web applications; demonstrating end-to-end capability sets you apart."
+    },
+    {
+      "name": "Version control (Git, GitHub, GitLab)",
+      "why": "Every modern engineering team uses version control; employers expect this as a baseline skill."
+    },
+    {
+      "name": "Databases (SQL, PostgreSQL, MongoDB, Redis)",
+      "why": "Data persistence and querying are core to nearly every production system; specific DB experience is highly valued."
+    },
+    {
+      "name": "Testing and code quality (unit tests, integration tests, CI/CD)",
+      "why": "Hiring managers want engineers who write testable code and ship reliably; this separates juniors from professionals."
+    },
+    {
+      "name": "System design and architecture",
+      "why": "As you progress, the ability to think about scalability, performance, and maintainability becomes critical for mid-level and senior roles."
+    },
+    {
+      "name": "Cloud platforms (AWS, Google Cloud, Azure)",
+      "why": "Most companies deploy to cloud; hands-on experience with deployment, serverless, or containerization is a strong differentiator."
+    },
+    {
+      "name": "Problem-solving and debugging",
+      "why": "Hiring managers assess this through both resume bullets and interviews; showing how you've tackled hard technical problems builds credibility."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on backend systems and fixed bugs in the codebase.",
+      "strong": "Optimized payment processing pipeline, reducing transaction latency by 40% and cutting cloud costs by $15K/month through batch processing and caching strategies.",
+      "lesson": "Specific metrics (latency %, dollar savings) and technical detail (batch processing, caching) prove impact beyond generic 'bug fixes.'"
+    },
+    {
+      "weak": "Built a web application using React and Node.js for a team project.",
+      "strong": "Designed and shipped full-stack task management app (React, Node.js, PostgreSQL) with 5K+ active users; improved UI load time by 35% via code splitting and lazy loading.",
+      "lesson": "Quantifying users, features shipped, and measurable improvements shows you've shipped real work—not just toy projects."
+    },
+    {
+      "weak": "Implemented unit tests and improved code quality.",
+      "strong": "Raised test coverage from 45% to 78% by writing 200+ unit and integration tests; reduced production bugs by 60% quarter-over-quarter.",
+      "lesson": "Starting and ending numbers plus a business outcome (fewer bugs in production) turn abstract 'quality' into concrete impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing technologies without context or outcome",
+      "fix": "Always pair a tech skill with a project and a result. Instead of 'Node.js, React, MongoDB,' say 'Built REST API with Node.js and MongoDB for user auth, serving 2M requests/day with 99.9% uptime.'"
+    },
+    {
+      "mistake": "Treating internships and side projects as less important",
+      "fix": "If you shipped code, fixed a real bug, or handled a real user base—even in an internship—lean into the impact. Junior roles care less about company prestige and more about what you actually built."
+    },
+    {
+      "mistake": "Vague language like 'collaborated' or 'worked on'",
+      "fix": "Use active verbs tied to your specific contribution: 'architected,' 'implemented,' 'refactored,' 'deployed,' 'debugged.' Recruiters want to know *you* did the thing."
+    },
+    {
+      "mistake": "Omitting metrics or numbers",
+      "fix": "Engineering is measurable: speed (milliseconds, requests/sec), scale (users, requests/day), cost, bug reduction, or test coverage. Always include a number if you can."
+    },
+    {
+      "mistake": "Forgetting to tailor skills and projects to the job description",
+      "fix": "If the role emphasizes AWS and Docker, highlight those in your resume. ATS scanners and human readers both filter for role-specific keywords; a generic resume wastes both your time and theirs."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line professional summary or 'Technical Profile' that names your strongest languages, frameworks, and specialties. Hiring managers scan the top third of your resume; make sure they see your core skills immediately.",
+    "Put a 'Skills' section below your summary, organized by category (Languages, Frameworks, Databases, Tools, Cloud). ATS systems and recruiters scan this to match job requirements; specificity wins over breadth.",
+    "In your experience section, lead each role with your most impactful project or achievement first. Aim for 4–6 bullets per job; quality beats quantity. Finish with smaller wins or supporting work if there's room.",
+    "For education, include your degree, university, and graduation date; add relevant coursework, GPA (if 3.5+), or honors only if space permits. A strong portfolio or GitHub link often matters more than GPA for engineers."
+  ],
+  "atsKeywords": [
+    "software engineer",
+    "full-stack developer",
+    "backend engineer",
+    "API development",
+    "CI/CD pipeline",
+    "unit testing",
+    "system design",
+    "cloud deployment",
+    "code review",
+    "debugging and optimization"
+  ],
+  "salarySignal": "Entry-level software engineer salaries in the US typically range from $80K to $130K in 2026; mid-level engineers can expect $130K–$200K. Compensation varies widely by region (SF, NYC, Seattle command higher salaries), company stage, and tech stack.",
+  "faq": [
+    {
+      "q": "Should I include my GitHub or portfolio link on my software engineer resume?",
+      "a": "Yes. Add a link to your GitHub, personal portfolio, or deployed projects under your contact info or at the top of your resume. Hiring managers often check this before or after your first conversation. Make sure your repos are well-organized, have clear READMEs, and show real work—not just tutorials."
+    },
+    {
+      "q": "How do I highlight projects if I don't have a fancy job title yet?",
+      "a": "List internships, hackathons, capstone projects, and open-source contributions in an 'Experience' or 'Projects' section. The bar is the same: show what you built, the tech you used, and the outcome. 'Led development of X' or 'Shipped feature Y' works even for unpaid or academic work."
+    },
+    {
+      "q": "What if I'm switching careers from a non-tech background?",
+      "a": "Lead with a clear summary: 'Software Engineer with X years transitioning from [prior field]. Proficient in [languages, frameworks]. Built [project or shipped feature].' Put your strongest technical projects or bootcamp capstone near the top, and reframe prior work to highlight problem-solving and collaboration skills that transfer."
+    },
+    {
+      "q": "How much detail should I go into on technical implementation?",
+      "a": "Use 1–2 sentences per bullet to explain the problem, the tech you chose, and the outcome. Avoid jargon overload; assume a hiring manager may not specialize in your exact stack. If you used a particular pattern or architecture, mention it only if it's relevant to the job or demonstrates senior thinking."
+    },
+    {
+      "q": "Should I list every language and framework I've ever touched?",
+      "a": "No. Include only technologies you've shipped with or can confidently discuss in an interview. Hiring managers and ATS systems alike favor depth over breadth. If a tool is tangential, put it in a secondary category or omit it; focus your limited resume space on your strongest 4–6 languages and key frameworks."
+    }
+  ]
+}

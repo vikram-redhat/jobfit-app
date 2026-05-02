@@ -1,0 +1,130 @@
+{
+  "slug": "backend-engineer",
+  "title": "Backend Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T21:49:48.016Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Backend Engineer Resume: Tips, Skills & Examples",
+  "metaDescription": "Craft a backend engineer resume that lands interviews. Learn what skills matter, how to format for ATS, and see real bullet point examples.",
+  "h1": "Backend Engineer Resume: Write One That Gets Noticed",
+  "intro": "Your backend engineer resume needs to prove you can write scalable code, architect systems, and ship features reliably—not just list technologies. We'll show you how to highlight the projects and results that make hiring managers read past the first 10 seconds.",
+  "audience": "Recent computer science grads, junior devs moving from frontend/full-stack roles, and bootcamp graduates applying to entry-level and mid-level backend positions.",
+  "topSkills": [
+    {
+      "name": "API Design & REST/GraphQL",
+      "why": "Backend engineers live and breathe APIs; demonstrating clean design patterns and experience with REST or GraphQL shows you understand system contracts."
+    },
+    {
+      "name": "Database Design & SQL",
+      "why": "Hiring managers want proof you can model data, optimize queries, and handle relational (or NoSQL) databases without creating bottlenecks."
+    },
+    {
+      "name": "Scalability & Performance Optimization",
+      "why": "Backend systems fail under load; evidence that you've profiled code, reduced latency, or handled traffic spikes separates you from candidates who only write code that works locally."
+    },
+    {
+      "name": "Cloud Platforms (AWS, GCP, Azure)",
+      "why": "Modern backends run on cloud infrastructure; certification or hands-on experience with services like EC2, Lambda, or Cloud Run is often required or strongly preferred."
+    },
+    {
+      "name": "Version Control & CI/CD",
+      "why": "Git proficiency and familiarity with deployment pipelines (GitHub Actions, Jenkins, GitLab CI) show you work in real teams and understand continuous delivery."
+    },
+    {
+      "name": "System Design & Architecture",
+      "why": "Backend roles demand architectural thinking; showing you've designed microservices, load balancers, caching layers, or event-driven systems proves maturity."
+    },
+    {
+      "name": "Testing & Code Quality",
+      "why": "Unit tests, integration tests, and coverage metrics are non-negotiable; mentioning test-driven development or bug reduction demonstrates professional discipline."
+    },
+    {
+      "name": "Monitoring, Logging & Debugging",
+      "why": "Production systems break; experience with tools like Datadog, CloudWatch, ELK stack, or New Relic shows you can diagnose and fix issues fast."
+    },
+    {
+      "name": "Programming Languages (Python, Java, Go, Node.js)",
+      "why": "List the languages you've shipped production code in; depth in one or two languages matters more than surface-level knowledge of many."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built backend APIs using Node.js and worked on database optimization",
+      "strong": "Designed and shipped 3 RESTful APIs handling 50K+ daily requests; optimized N+1 query patterns, reducing average response time from 800ms to 120ms and cutting database CPU usage by 40%",
+      "lesson": "Adding specifics—API count, traffic volume, before/after metrics, and the actual optimization technique—transforms a vague claim into proof of impact."
+    },
+    {
+      "weak": "Responsible for maintaining microservices and fixing bugs in production",
+      "strong": "Maintained 8 microservices on AWS ECS; implemented structured logging with CloudWatch and X-Ray, reducing mean time to resolution (MTTR) for critical incidents from 45 min to 12 min; deployed hot fixes via CI/CD pipeline within SLA 99% of the time",
+      "lesson": "Specificity on system count, tools used, and measurable business outcomes (MTTR, SLA compliance) shows real accountability and operational maturity."
+    },
+    {
+      "weak": "Improved code quality and added tests",
+      "strong": "Increased test coverage from 42% to 78% by writing 200+ unit and integration tests; reduced post-deployment bugs by 35% and prevented 2 P1 incidents through test-driven development practices",
+      "lesson": "Quantifying coverage gains, test count, and actual bug reduction gives hiring managers confidence in your testing discipline and the real-world ROI of your work."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing technologies without context",
+      "fix": "Instead of 'experienced with Python, Java, and PostgreSQL,' say 'shipped production microservices in Python (3 years), built real-time analytics engine in Java, and optimized PostgreSQL queries reducing latency 50%.'"
+    },
+    {
+      "mistake": "Vague references to 'scalability' or 'performance'",
+      "fix": "Always pair performance claims with metrics: 'scaled backend from 10K to 500K concurrent users by implementing Redis caching and database read replicas' is far stronger than 'improved system scalability.'"
+    },
+    {
+      "mistake": "Ignoring deployment and operations",
+      "fix": "Backend engineers own production; mention experience with Docker, Kubernetes, CI/CD pipelines, or infrastructure-as-code—not just the code itself."
+    },
+    {
+      "mistake": "Forgetting to highlight collaboration on system design",
+      "fix": "Backend roles are rarely solo; call out your role in architectural decisions, design reviews, or working with frontend/DevOps teams to clarify interfaces and requirements."
+    },
+    {
+      "mistake": "Treating all projects equally",
+      "fix": "Lead with projects that had the most scale, impact, or technical complexity; a high-traffic API matters more than a CRUD service you built in a bootcamp."
+    }
+  ],
+  "structureTips": [
+    "Put a 'Technical Skills' section near the top, but organize it by category (Languages, Databases, Cloud, Tools) rather than one giant alphabet soup—hiring managers scan for specific stacks.",
+    "Order work experience bullets by business impact first, then technical depth; 'reduced API latency by 60%' lands before 'rewrote service in Golang.'",
+    "If you lack professional experience, create a 'Projects' section above or below work experience highlighting production-like systems (e.g., a deployed web service, open-source contributions with real usage, or a capstone with measurable metrics).",
+    "Use ATS-friendly section headers (Experience, Skills, Education, Projects) and avoid fancy columns or graphics that break parsing; a clean, single-column layout passes filters and reads well on mobile."
+  ],
+  "atsKeywords": [
+    "API design",
+    "REST",
+    "microservices",
+    "SQL",
+    "database optimization",
+    "cloud infrastructure",
+    "CI/CD",
+    "system architecture",
+    "performance tuning",
+    "distributed systems"
+  ],
+  "salarySignal": "Entry-level backend engineer salaries in the US typically range from $80K to $120K in 2026; mid-level (3–5 years) roles span $130K–$180K, with senior positions reaching $200K+, heavily influenced by location, company stage, and tech stack.",
+  "faq": [
+    {
+      "q": "How do I show I can handle production systems on a junior resume?",
+      "a": "Lead with any deployed projects—side projects, open-source with real users, or bootcamp capstones with actual uptime and user metrics. If you lack professional experience, describe how you monitored uptime, handled errors gracefully, or debugged live issues. Hiring managers understand that entry-level candidates haven't managed production at scale yet; they want to see you've *thought* about reliability."
+    },
+    {
+      "q": "Should I list every programming language I know?",
+      "a": "No. Focus on languages in which you've shipped production code or can speak fluently in a technical interview. If you list 10 languages and only know 2 well, you'll bomb the screening call. Depth in Python and Java beats breadth across Python, Java, Go, Rust, Kotlin, and Scala."
+    },
+    {
+      "q": "What's the difference between a strong backend engineer resume and a full-stack resume?",
+      "a": "Backend resumes emphasize system design, APIs, databases, and scalability; minimize UI/frontend work. Full-stack resumes balance both. If you're applying to pure backend roles, lead with infrastructure, data modeling, and service-to-service communication—not React or CSS."
+    },
+    {
+      "q": "How do I highlight contributions to a large, existing codebase?",
+      "a": "Instead of 'worked on the payment service,' say 'reduced payment processing latency by 25% by refactoring retry logic and caching PCI-compliant data, handling 10K+ transactions/day.' Quantify the scope, your specific change, and the impact—even in a large system, your fingerprints should be visible."
+    },
+    {
+      "q": "Do I need cloud certifications to get hired as a backend engineer?",
+      "a": "Not required, but helpful. AWS Solutions Architect Associate or GCP Professional Data Engineer can differentiate you, especially for early-career candidates. However, concrete projects and real hands-on experience matter far more; certification without shipped cloud work won't move the needle."
+    }
+  ]
+}

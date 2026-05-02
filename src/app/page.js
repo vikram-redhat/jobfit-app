@@ -81,8 +81,12 @@ export default function LoginPage() {
 
       {/* Nav */}
       <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-        <span className="text-xl font-bold tracking-tight">JobFit</span>
-        <nav className="flex items-center gap-4 text-sm text-gray-500">
+        <span className="text-xl font-bold tracking-tight">
+          JobFit<span className="text-blue-600">.today</span>
+        </span>
+        <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
+          <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
+          <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
           <Link href="/contact" className="hover:text-gray-800 transition-colors">Contact</Link>
         </nav>
       </header>
@@ -95,8 +99,18 @@ export default function LoginPage() {
           <h1 className="text-4xl lg:text-5xl font-bold tracking-tight leading-tight mb-4">
             Stop sending the<br className="hidden sm:block" /> same resume everywhere.
           </h1>
-          <p className="text-lg text-gray-500 mb-10 leading-relaxed">
+          <p className="text-lg text-gray-500 mb-3 leading-relaxed">
             Paste any job description. Get a fit score, a tailored resume,<br className="hidden md:block" /> and a cover letter — in under 30 seconds.
+          </p>
+          <p className="text-sm text-gray-400 mb-10">
+            Or try a free tool — no signup:{' '}
+            <Link href="/tools/job-description-keyword-extractor" className="text-blue-600 hover:underline">
+              keyword extractor
+            </Link>
+            {' · '}
+            <Link href="/tools/resume-grader" className="text-blue-600 hover:underline">
+              resume grader
+            </Link>
           </p>
 
           <div className="space-y-6">
@@ -117,6 +131,31 @@ export default function LoginPage() {
               alt="JobFit in action — fit score, tailored resume, and cover letter"
               className="w-full -mt-[85px]"
             />
+          </div>
+
+          {/* Free tools strip — for visitors not ready to sign up. Desktop + tablet only;
+              mobile has its own sticky CTA bar below. */}
+          <div className="hidden sm:grid grid-cols-2 gap-3 mt-10">
+            <Link
+              href="/tools/job-description-keyword-extractor"
+              className="group p-4 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-sm transition-all"
+            >
+              <p className="text-xs font-mono text-blue-600 uppercase tracking-wider mb-1">Free tool</p>
+              <p className="text-sm font-semibold mb-0.5 group-hover:text-blue-700 transition-colors">
+                Keyword extractor →
+              </p>
+              <p className="text-xs text-gray-500">Pull the must-haves from any JD.</p>
+            </Link>
+            <Link
+              href="/tools/resume-grader"
+              className="group p-4 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-sm transition-all"
+            >
+              <p className="text-xs font-mono text-blue-600 uppercase tracking-wider mb-1">Free tool</p>
+              <p className="text-sm font-semibold mb-0.5 group-hover:text-blue-700 transition-colors">
+                Resume grader →
+              </p>
+              <p className="text-xs text-gray-500">Brutally honest letter grade.</p>
+            </Link>
           </div>
 
           <p className="text-xs text-gray-400 font-mono mt-6">
@@ -221,21 +260,29 @@ export default function LoginPage() {
         </div>
       </main>
 
-      {/* Sticky mobile CTA */}
-      <div className="lg:hidden fixed bottom-0 left-0 right-0 p-4 bg-white border-t border-gray-100 shadow-lg">
+      {/* Sticky mobile CTA — primary: signup; secondary: free tools off-ramp.
+          Two buttons in a 2:1 ratio so signup stays the dominant action. */}
+      <div className="lg:hidden fixed bottom-0 left-0 right-0 p-3 bg-white border-t border-gray-100 shadow-lg flex gap-2">
         <a
           href="#auth-form"
           onClick={(e) => { e.preventDefault(); document.getElementById('auth-form').scrollIntoView({ behavior: 'smooth' }); }}
-          className="block w-full py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold text-center hover:bg-blue-700 transition-colors"
+          className="flex-[2] py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold text-center hover:bg-blue-700 transition-colors"
         >
           Get started free →
         </a>
+        <Link
+          href="/tools"
+          className="flex-1 py-3 bg-white border border-gray-200 text-gray-700 rounded-xl text-sm font-semibold text-center hover:bg-gray-50 transition-colors"
+        >
+          Free tools
+        </Link>
       </div>
 
       {/* Footer */}
       <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100 flex items-center justify-between">
         <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
         <div className="flex items-center gap-4 text-xs text-gray-400">
+          <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
           <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
           <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
           <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
