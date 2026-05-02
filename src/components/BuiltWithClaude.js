@@ -1,11 +1,12 @@
 // src/components/BuiltWithClaude.js
 // Single source of truth for the JobFit attribution tagline.
-// Rendered in the footer of every shared-layout page.
+// Renders inline next to the footer copyright. Inherits font/color from
+// its parent so it reads as part of the same muted credits group.
 // One file = one wording. Change it here, change it everywhere.
 
-export default function BuiltWithClaude({ className = '' }) {
+export default function BuiltWithClaude() {
   return (
-    <span className={`text-xs text-gray-400 font-mono ${className}`}>
+    <>
       Built with{' '}
       <a
         href="https://www.anthropic.com/claude"
@@ -16,6 +17,6 @@ export default function BuiltWithClaude({ className = '' }) {
         Claude
       </a>
       . Guided by humans.
-    </span>
+    </>
   );
 }

@@ -88,14 +88,16 @@ export default function LoginPage() {
         <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
           <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
           <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          <Link href="/contact" className="hover:text-gray-800 transition-colors">Contact</Link>
+          {/* Contact link is in the footer too — hide on the smallest screens
+              so the header doesn't crowd the JobFit.today wordmark on 320px. */}
+          <Link href="/contact" className="hidden sm:inline hover:text-gray-800 transition-colors">Contact</Link>
         </nav>
       </header>
 
       {/* Hero */}
       <main className="flex-1 flex flex-col lg:flex-row">
         {/* Left — value prop */}
-        <div className="order-2 lg:order-1 flex-1 flex flex-col justify-center px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
+        <div className="order-2 lg:order-1 flex-1 flex flex-col justify-center px-6 sm:px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
           <p className="text-xs font-mono text-blue-600 uppercase tracking-widest mb-4">Free to try · No credit card needed</p>
           <h1 className="text-4xl lg:text-5xl font-bold tracking-tight leading-tight mb-4">
             Stop sending the<br className="hidden sm:block" /> same resume everywhere.
@@ -280,18 +282,15 @@ export default function LoginPage() {
       </div>
 
       {/* Footer */}
-      <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100">
-        <div className="flex flex-wrap items-center justify-between gap-3">
-          <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
-          <div className="flex items-center gap-4 text-xs text-gray-400">
-            <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
-            <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
-            <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
-            <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
-          </div>
-        </div>
-        <div className="mt-3 text-center sm:text-left">
-          <BuiltWithClaude />
+      <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100 flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
+        <span className="text-xs text-gray-400 font-mono">
+          © {new Date().getFullYear()} JobFit · <BuiltWithClaude />
+        </span>
+        <div className="flex items-center gap-4 text-xs text-gray-400">
+          <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
+          <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
+          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+          <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
         </div>
       </footer>
     </div>

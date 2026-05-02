@@ -103,17 +103,14 @@ export default function ResumeForIndexPage() {
         </div>
       </main>
 
-      <footer className="px-6 py-6 border-t border-gray-100 max-w-4xl mx-auto w-full">
-        <div className="flex flex-wrap items-center justify-between gap-3">
-          <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
-          <div className="flex items-center gap-4 text-xs text-gray-400">
-            <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
-            <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
-            <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
-          </div>
-        </div>
-        <div className="mt-3 text-center sm:text-left">
-          <BuiltWithClaude />
+      <footer className="px-6 py-6 border-t border-gray-100 max-w-4xl mx-auto w-full flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
+        <span className="text-xs text-gray-400 font-mono">
+          © {new Date().getFullYear()} JobFit · <BuiltWithClaude />
+        </span>
+        <div className="flex items-center gap-4 text-xs text-gray-400">
+          <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
+          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+          <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
         </div>
       </footer>
     </div>
