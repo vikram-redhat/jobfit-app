@@ -278,6 +278,15 @@ function Dashboard() {
               className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors">
               + Analyse a Job
             </button>
+            {/* Secondary action — for users staring at an empty dashboard who
+                aren't sure what to paste yet. Browsing role-specific guides is
+                a useful detour that often brings them back here ready to act. */}
+            <p className="text-xs text-gray-400 mt-6">
+              Not sure what to paste?{' '}
+              <Link href="/resume-for" className="text-blue-600 hover:underline">
+                Browse 200+ resume guides →
+              </Link>
+            </p>
           </div>
         )}
 

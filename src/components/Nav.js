@@ -46,6 +46,9 @@ export default function Nav() {
         <Link href="/dashboard" className="hidden sm:block text-sm text-gray-500 hover:text-gray-800 transition-colors">
           Dashboard
         </Link>
+        <Link href="/resume-for" className="hidden md:block text-sm text-gray-500 hover:text-gray-800 transition-colors">
+          Resume guides
+        </Link>
         <Link href="/profile" className="flex items-center gap-1.5 text-sm text-gray-600 hover:text-gray-900 transition-colors">
           {avatar && <span className="text-base leading-none">{avatar}</span>}
           {displayName && <span className="hidden sm:inline font-medium">{displayName}</span>}
