@@ -5,6 +5,7 @@
 
 import Link from 'next/link';
 import { getRolesIndex, getBuildableRoles } from '@/lib/role-content';
+import SiteHeader from '@/components/SiteHeader';
 import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://jobfit.today';
@@ -35,15 +36,7 @@ export default function ResumeForIndexPage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-white text-gray-900">
-      <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-        <Link href="/" className="text-xl font-bold tracking-tight">
-          JobFit<span className="text-blue-600">.today</span>
-        </Link>
-        <nav className="flex items-center gap-4 text-sm text-gray-500">
-          <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          <Link href="/" className="hover:text-gray-800 transition-colors">Sign in</Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <main className="flex-1 px-6 py-12 lg:py-16 max-w-4xl mx-auto w-full">
         <p className="text-xs font-mono text-blue-600 uppercase tracking-widest mb-3">

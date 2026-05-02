@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Link from 'next/link';
+import SiteHeader from '@/components/SiteHeader';
 import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export default function ContactPage() {
@@ -20,21 +21,6 @@ export default function ContactPage() {
     setStatus(res.ok ? 'sent' : 'error');
   };
 
-  // Shared nav so visitors landing on /contact from search can discover
-  // the rest of the site. Matches the layout used by /resume-for and /tools.
-  const Header = () => (
-    <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-      <Link href="/" className="text-xl font-bold tracking-tight">
-        JobFit<span className="text-blue-600">.today</span>
-      </Link>
-      <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
-        <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
-        <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-        <Link href="/" className="hover:text-gray-800 transition-colors">Sign in</Link>
-      </nav>
-    </header>
-  );
-
   const Footer = () => (
     <footer className="px-6 py-6 border-t border-gray-100 max-w-3xl mx-auto w-full flex flex-wrap items-center justify-between gap-x-4 gap-y-2">
       <span className="text-xs text-gray-400 font-mono">
@@ -51,7 +37,7 @@ export default function ContactPage() {
   if (status === 'sent') {
     return (
       <div className="min-h-screen flex flex-col bg-white text-gray-900">
-        <Header />
+        <SiteHeader />
         <main className="flex-1 flex items-center justify-center px-4">
           <div className="w-full max-w-sm text-center">
             <div className="text-3xl mb-4">✓</div>
@@ -67,7 +53,7 @@ export default function ContactPage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-white text-gray-900">
-      <Header />
+      <SiteHeader />
       <main className="flex-1 flex items-start justify-center px-4 py-12">
         <div className="w-full max-w-sm">
           <div className="mb-8">

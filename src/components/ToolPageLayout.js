@@ -3,6 +3,7 @@
 // breadcrumb, and footer. Pass children to render the form + result body.
 
 import Link from 'next/link';
+import SiteHeader from '@/components/SiteHeader';
 import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export default function ToolPageLayout({
@@ -14,17 +15,7 @@ export default function ToolPageLayout({
 }) {
   return (
     <div className="min-h-screen flex flex-col bg-white text-gray-900">
-      {/* Nav */}
-      <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-        <Link href="/" className="text-xl font-bold tracking-tight">
-          JobFit<span className="text-blue-600">.today</span>
-        </Link>
-        <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
-          <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
-          <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          <Link href="/" className="hover:text-gray-800 transition-colors">Sign in</Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       {/* Hero */}
       <main className="flex-1 px-6 py-12 lg:py-16 max-w-3xl mx-auto w-full">

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import SiteHeader from '@/components/SiteHeader';
 import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export const metadata = {
@@ -12,17 +13,7 @@ export default function PrivacyPage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-white text-gray-900">
-      {/* Standard nav so visitors landing here from search can discover the rest of the site. */}
-      <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-        <Link href="/" className="text-xl font-bold tracking-tight">
-          JobFit<span className="text-blue-600">.today</span>
-        </Link>
-        <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
-          <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
-          <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          <Link href="/contact" className="hover:text-gray-800 transition-colors">Contact</Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <main className="flex-1 px-4 py-12">
         <div className="max-w-2xl mx-auto">

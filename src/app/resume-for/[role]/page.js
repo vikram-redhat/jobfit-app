@@ -10,6 +10,7 @@ import {
   getRolesIndex,
   getRelatedRoles,
 } from '@/lib/role-content';
+import SiteHeader from '@/components/SiteHeader';
 import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export const dynamicParams = false; // 404 for any slug not in generateStaticParams
@@ -95,16 +96,7 @@ export default function RoleResumePage({ params }) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       )}
 
-      <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
-        <Link href="/" className="text-xl font-bold tracking-tight">
-          JobFit<span className="text-blue-600">.today</span>
-        </Link>
-        <nav className="flex items-center gap-4 text-sm text-gray-500">
-          <Link href="/resume-for" className="hover:text-gray-800 transition-colors">Resume guides</Link>
-          <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
-          <Link href="/" className="hover:text-gray-800 transition-colors">Sign in</Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <main className="flex-1 px-6 py-12 lg:py-16 max-w-3xl mx-auto w-full">
         <nav className="text-xs font-mono text-gray-400 mb-6">
