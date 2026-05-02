@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import Link from 'next/link';
+import { OrganizationJsonLd, SoftwareApplicationJsonLd, FaqJsonLd } from '@/components/JsonLd';
 
 const features = [
   {
@@ -73,6 +74,11 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      {/* Structured data — picked up by Google, Bing, ChatGPT, Perplexity, Claude, Gemini */}
+      <OrganizationJsonLd />
+      <SoftwareApplicationJsonLd />
+      <FaqJsonLd />
+
       {/* Nav */}
       <header className="px-6 py-4 flex items-center justify-between border-b border-gray-100">
         <span className="text-xl font-bold tracking-tight">JobFit</span>

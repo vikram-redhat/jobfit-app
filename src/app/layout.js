@@ -2,14 +2,79 @@ import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 
+const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://jobfit.today';
+
 export const metadata = {
-  title: 'JobFit — AI Job Application Tool',
-  description: 'Paste a job description. Get a tailored resume and cover letter in seconds.',
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: 'JobFit — Tailor Your Resume to Any Job in 30 Seconds | AI Cover Letter & Fit Score',
+    template: '%s | JobFit',
+  },
+  description:
+    'Paste any job description and get an instant fit score, an AI-tailored resume, and a cover letter — built for new grads and career switchers. Free to try, $9.99/quarter for unlimited.',
+  applicationName: 'JobFit',
+  keywords: [
+    'AI resume builder',
+    'tailor resume to job description',
+    'AI cover letter generator',
+    'resume fit score',
+    'job application tool',
+    'ATS resume',
+    'resume tailoring AI',
+    'cover letter AI',
+    'job description analyzer',
+    'free resume tool',
+  ],
+  authors: [{ name: 'JobFit' }],
+  creator: 'JobFit',
+  publisher: 'JobFit',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    siteName: 'JobFit',
+    title: 'JobFit — Tailor Your Resume to Any Job in 30 Seconds',
+    description:
+      'Paste a job description. Get a fit score, tailored resume, and cover letter in under 30 seconds. Free to try.',
+    url: SITE_URL,
+    locale: 'en_US',
+    images: [
+      {
+        url: '/og.png',
+        width: 1200,
+        height: 630,
+        alt: 'JobFit — AI-tailored resume and cover letter in 30 seconds',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'JobFit — Tailor Your Resume to Any Job in 30 Seconds',
+    description:
+      'Paste a JD. Get a fit score, tailored resume, and cover letter in under 30 seconds. Free to try.',
+    images: ['/og.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  category: 'productivity',
+  // Add Search Console / Bing verification strings here once you have them.
+  // verification: { google: 'xxxx', other: { 'msvalidate.01': 'xxxx' } },
 };
 
 export const viewport = {
   width: 'device-width',
   initialScale: 1,
+  themeColor: '#2563eb',
 };
 
 export default function RootLayout({ children }) {

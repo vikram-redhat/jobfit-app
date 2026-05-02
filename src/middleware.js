@@ -23,8 +23,24 @@ export async function middleware(request) {
 
   const { data: { user } } = await supabase.auth.getUser();
 
-  // Redirect unauthenticated users to login (except public pages)
-  const publicPaths = ['/', '/auth/callback', '/privacy', '/contact', '/api/contact', '/api/stripe/webhook', '/forgot-password', '/reset-password'];
+  // Redirect unauthenticated users to login (except public pages).
+  // SEO/GEO files (robots.txt, sitemap.xml, llms.txt, llms-full.txt) MUST be
+  // public — search engines and AI crawlers fetch them anonymously.
+  const publicPaths = [
+    '/',
+    '/auth/callback',
+    '/privacy',
+    '/contact',
+    '/api/contact',
+    '/api/stripe/webhook',
+    '/forgot-password',
+    '/reset-password',
+    '/robots.txt',
+    '/sitemap.xml',
+    '/llms.txt',
+    '/llms-full.txt',
+    '/og.png',
+  ];
   const isPublic = publicPaths.some(p => request.nextUrl.pathname === p);
 
   if (!user && !isPublic) {
