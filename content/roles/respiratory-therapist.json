@@ -1,0 +1,130 @@
+{
+  "slug": "respiratory-therapist",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:31.704Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Respiratory Therapist Resume: Templates & Tips",
+  "metaDescription": "Land your RT job with a winning resume. See sample bullets, key skills, and what hiring managers actually want from respiratory therapist applicants.",
+  "h1": "Respiratory Therapist Resume: How to Stand Out to Hiring Managers",
+  "intro": "Your respiratory therapist resume needs to prove you can manage airways, troubleshoot equipment, and stay calm under pressure—all while hitting compliance requirements. We'll show you how to translate your clinical skills into language that gets you past screening and into interviews.",
+  "audience": "Recent respiratory therapy graduates, newly credentialed RTs seeking their first clinical role, and experienced RTs looking to move between healthcare settings.",
+  "topSkills": [
+    {
+      "name": "Mechanical Ventilation Management",
+      "why": "Hiring managers prioritize RTs who can confidently manage and troubleshoot ventilators across different patient acuity levels."
+    },
+    {
+      "name": "ACLS/BLS Certification",
+      "why": "This credential is non-negotiable for most hospital and clinical positions; always list current certification dates prominently."
+    },
+    {
+      "name": "Airway Management & Intubation",
+      "why": "Demonstrating hands-on experience with endotracheal tubes and difficult airway protocols directly impacts patient safety and clinical credibility."
+    },
+    {
+      "name": "ABG (Arterial Blood Gas) Interpretation",
+      "why": "Employers want to see you can analyze blood gases independently and communicate findings to the care team."
+    },
+    {
+      "name": "Patient Assessment & Monitoring",
+      "why": "RTs must quickly evaluate lung sounds, oxygen saturation, and respiratory status; employers value this clinical judgment skill."
+    },
+    {
+      "name": "EHR/EMR Systems (e.g., Epic, Cerner)",
+      "why": "Most hospitals run on specific platforms; listing familiarity speeds up onboarding and reduces hiring risk."
+    },
+    {
+      "name": "Pulmonary Function Testing (PFT)",
+      "why": "Many outpatient clinics and diagnostic centers require PFT experience; it sets you apart for specialized roles."
+    },
+    {
+      "name": "Infection Control & Sterile Technique",
+      "why": "Compliance with CDC and facility protocols is critical; employers need to know you follow aseptic practices consistently."
+    },
+    {
+      "name": "Communication & Teamwork",
+      "why": "Respiratory therapy is highly collaborative; showing you work well with nurses, doctors, and other staff is a major differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed ventilators for ICU patients and monitored their vital signs.",
+      "strong": "Managed mechanical ventilation for 8–12 critically ill ICU patients daily; performed daily rounds, titrated settings based on ABG results, and communicated changes to attending physicians, achieving 95%+ ventilator compliance with unit protocols.",
+      "lesson": "Adding patient load, specific clinical actions (ABG titration), and a measurable outcome (95%+ compliance) transforms a vague duty into proof of competence and initiative."
+    },
+    {
+      "weak": "Performed airway procedures and helped with patient care.",
+      "strong": "Assisted in 40+ intubations over 6 months; successfully placed endotracheal tubes on stable, post-operative patients and maintained sterile technique during tube care, with zero ventilator-associated pneumonia (VAP) incidents in assigned patients.",
+      "lesson": "Replacing 'helped' with a specific number, naming the outcome (zero VAP), and detailing the aseptic standard shows mastery and patient impact."
+    },
+    {
+      "weak": "Trained new respiratory therapists on equipment.",
+      "strong": "Mentored 5 new graduate RTs on ventilator modes, ABG interpretation, and unit protocols; documented competency sign-offs for all trainees; received 'Excellent' feedback from preceptor evaluations.",
+      "lesson": "Quantifying trainees, naming the skills taught, and citing specific feedback demonstrates leadership and teaching ability—highly valued for advancement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing NBRC/CRTT certification without renewal dates or exam scores.",
+      "fix": "Always include the exact credential (RRT or CRTT), expiration date, and relevant board scores if you scored above 80%—it reassures hiring managers you're current and qualified."
+    },
+    {
+      "mistake": "Burying clinical hours or experience in a generic 'Duties' section.",
+      "fix": "Lead with a summary or 'Core Competencies' section that front-loads mechanical ventilation, airway management, and ABG experience—this is what screeners look for first."
+    },
+    {
+      "mistake": "Using passive voice like 'ventilators were managed' instead of 'managed ventilators.'",
+      "fix": "Use strong action verbs (managed, performed, titrated, assessed, interpreted) to show ownership and direct clinical responsibility."
+    },
+    {
+      "mistake": "Omitting equipment-specific experience (e.g., 'worked with respiratory devices').",
+      "fix": "Name the actual ventilator models (Siemens Servo, Maquet, Dräger), nebulizer systems, and diagnostic equipment you've used—many ATS systems search for these exact terms."
+    },
+    {
+      "mistake": "Not highlighting continuing education or specialized certifications.",
+      "fix": "Call out neonatal/peds RT training, sleep study technician credentials, or specialty certifications separately; they directly qualify you for higher-acuity or specialty roles."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (3–4 lines) that anchors your highest certifications (RRT, CRTT, ACLS, BLS) and strongest clinical focus (ICU, med-surg, peds, neonatal).",
+    "Create a 'Core Clinical Skills' or 'Competencies' section immediately after your summary, listing mechanical ventilation, airway management, ABG interpretation, and patient monitoring—this catches both human eyes and ATS filters.",
+    "Order your work experience by acuity or complexity, not chronology; lead with your most advanced or relevant role (e.g., ICU before med-surg) so hiring managers see your peak experience first.",
+    "Use a separate line or subsection for certifications, licenses, and renewal dates—format clearly so ATS can parse them, and include expiration dates to prove you're current."
+  ],
+  "atsKeywords": [
+    "Mechanical Ventilation",
+    "Airway Management",
+    "Endotracheal Intubation",
+    "ABG Interpretation",
+    "ACLS Certification",
+    "BLS Certification",
+    "RRT Certified",
+    "Pulmonary Function Testing",
+    "Epic EHR",
+    "Infection Control"
+  ],
+  "salarySignal": "Entry-level US respiratory therapist salaries typically range from $52,000 to $62,000 annually; experienced RTs in urban hospitals or specialty roles (neonatal, critical care) often earn $65,000–$80,000+, with variation by region and facility type.",
+  "faq": [
+    {
+      "q": "Should I put my NBRC exam score on my resume?",
+      "a": "Only if you scored 80% or higher; it's a positive differentiator. If your score is borderline or below 80%, omit the percentage but always list your credential (RRT or CRTT) and renewal date."
+    },
+    {
+      "q": "How do I highlight ICU experience if I'm a new graduate applying for my first job?",
+      "a": "Use your clinical rotations and practicum hours. List the specific units you rotated through (ICU, ER, neonatal), the number of weeks, and key skills you performed (e.g., '240 hours in medical ICU; managed 6–8 ventilated patients daily under supervision'). Hiring managers respect structured training."
+    },
+    {
+      "q": "What if I've worked in multiple settings—acute care, home health, and outpatient clinic?",
+      "a": "List each role separately with distinct bullets for each setting, since the skills differ (e.g., ventilator weaning in acute care vs. equipment troubleshooting in home health vs. PFT administration in clinic). This shows versatility and depth."
+    },
+    {
+      "q": "Should I mention equipment brands (Siemens, Dräger, Maquet)?",
+      "a": "Yes, absolutely. Many job postings and ATS systems search for specific ventilator models and manufacturers. List them in your experience bullets or a brief 'Equipment Proficiency' section so you're findable for facility-specific openings."
+    },
+    {
+      "q": "How do I stand out if I'm transitioning from med-surg to ICU?",
+      "a": "Emphasize any high-acuity or critical-care rotations, ICU certifications (e.g., critical care specialty), mentorship of less experienced RTs, and specific outcomes like reducing ventilator weaning times. Show that you've sought complexity and handled it well."
+    }
+  ]
+}

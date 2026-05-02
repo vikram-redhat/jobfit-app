@@ -1,0 +1,134 @@
+{
+  "slug": "system-administrator",
+  "title": "System Administrator",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:30:23.345Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "System Administrator Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your next sysadmin role with a resume that highlights infrastructure, security, and automation skills. See real examples and what hiring managers want.",
+  "h1": "System Administrator Resume Guide: Skills, Examples & ATS Tips",
+  "intro": "System administrators keep the infrastructure running—and hiring managers want to see proof you can handle uptime, security patches, and disaster recovery. This guide shows you how to translate your hands-on experience into a resume that gets past both ATS systems and human eyes.",
+  "audience": "Early-career sysadmins, IT support specialists moving into infrastructure roles, and career switchers with technical certifications like CompTIA or Linux looking to land their first dedicated admin position.",
+  "topSkills": [
+    {
+      "name": "Windows Server & Active Directory",
+      "why": "Most enterprise environments still run on Windows Server; demonstrating AD management, group policy, and user provisioning is table stakes."
+    },
+    {
+      "name": "Linux Administration",
+      "why": "Critical for cloud, DevOps-adjacent, and open-source environments; familiarity with Ubuntu, CentOS, or RHEL is increasingly expected."
+    },
+    {
+      "name": "Cloud Infrastructure (AWS, Azure, GCP)",
+      "why": "Hybrid and cloud-first deployments dominate; admins need to manage EC2 instances, VPCs, virtual networks, and storage."
+    },
+    {
+      "name": "Virtualization (VMware, Hyper-V)",
+      "why": "Most data centers and mid-market companies use virtualization; experience with hypervisors and VM management is highly valued."
+    },
+    {
+      "name": "Network Administration",
+      "why": "Routers, switches, DNS, DHCP, and VLANs are core responsibilities; networking fundamentals show you understand infrastructure holistically."
+    },
+    {
+      "name": "Security & Access Control",
+      "why": "Patching, firewalls, SSL certificates, encryption, and user permission audits are non-negotiable in a security-conscious world."
+    },
+    {
+      "name": "Monitoring & Logging (Nagios, Prometheus, ELK Stack)",
+      "why": "Proactive monitoring and alerting reduce downtime; familiarity with observability tools signals operational maturity."
+    },
+    {
+      "name": "Scripting & Automation (PowerShell, Bash, Python)",
+      "why": "Repetitive tasks should be automated; scripting skills separate proactive admins from reactive ticket-closers."
+    },
+    {
+      "name": "Backup & Disaster Recovery",
+      "why": "Business continuity is mission-critical; admins who document and test RTO/RPO requirements are invaluable."
+    },
+    {
+      "name": "Ticketing & ITSM (Jira, ServiceNow, Zendesk)",
+      "why": "You'll use these tools daily; showing familiarity with request tracking and SLA management proves you work at scale."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed Windows Server infrastructure and maintained network stability.",
+      "strong": "Administered 80+ Windows Server instances across three data centers; reduced unplanned downtime by 35% through proactive patching and monitoring via Nagios.",
+      "lesson": "Added specific scale (80+ servers, 3 DCs), quantified impact (35% downtime reduction), and named the tools you used—all signals of hands-on credibility."
+    },
+    {
+      "weak": "Implemented security measures and updated access controls as needed.",
+      "strong": "Audited and migrated 500+ user accounts to Active Directory; enforced least-privilege permissions and reduced security audit findings by 60% within 6 months.",
+      "lesson": "Replaced vague 'as needed' with concrete numbers (500+ accounts, 60% improvement) and a timeline, showing scope and measurable outcome."
+    },
+    {
+      "weak": "Set up cloud services and managed cloud resources.",
+      "strong": "Architected and deployed hybrid cloud infrastructure on AWS (EC2, RDS, S3); automated infrastructure provisioning using Terraform, reducing server deployment time from 4 hours to 15 minutes.",
+      "lesson": "Specified the platform (AWS), the services (EC2, RDS, S3), the tool (Terraform), and the before/after metric—proving you drove efficiency gains."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing vague 'IT Support' or 'General Maintenance' without specifics.",
+      "fix": "Always name the system, tool, or platform (e.g., 'Managed Hyper-V cluster' or 'Patched 120 Windows Server nodes'), and tie it to a business outcome like uptime, cost, or security."
+    },
+    {
+      "mistake": "No mention of automation or scripting, even if you've done it.",
+      "fix": "Highlight every script or automation you've built—whether it's a PowerShell script for bulk user creation or a Bash cron job for log rotation—to show you save time and reduce human error."
+    },
+    {
+      "mistake": "Overlooking certifications (CompTIA, Microsoft, Linux).",
+      "fix": "Create a dedicated 'Certifications' section and list the full name and year earned (e.g., 'CompTIA Security+ (2023)', 'AZ-900 Azure Fundamentals (2024)'); recruiters often filter by cert."
+    },
+    {
+      "mistake": "No disaster recovery or business continuity accomplishments.",
+      "fix": "If you've tested backups, built a DR plan, or maintained SLAs, say so with metrics: 'Designed and tested RTO/RPO plan achieving 4-hour RTO and 1-hour RPO; zero data loss in three years.'"
+    },
+    {
+      "mistake": "Ignoring soft skills like documentation, communication, or on-call experience.",
+      "fix": "Admins are on-call and mentors; mention incident response, documentation standards you established, and junior staff you've trained to show leadership."
+    }
+  ],
+  "structureTips": [
+    "Lead with a professional summary or headline that anchors one flagship platform (e.g., 'Windows Server & Azure Infrastructure Admin with 4 years scaling hybrid cloud environments') to immediately signal fit.",
+    "Place 'Certifications' in the top third if you have relevant credentials (Microsoft, CompTIA, Linux, AWS)—they're quick ATS keywords and often requirements for screening.",
+    "Group technical skills into categories (e.g., 'Operating Systems: Windows Server 2019/2022, CentOS 7/8, Ubuntu 20.04 LTS'; 'Cloud: AWS, Azure'; 'Tools: Terraform, Ansible, PowerShell'); this helps ATS parsing and readability.",
+    "List your most complex or high-impact project first in each role—e.g., 'Migrated 500+ users to cloud-hosted Active Directory' before routine maintenance duties, so recruiters see scale and skill instantly."
+  ],
+  "atsKeywords": [
+    "Windows Server administration",
+    "Active Directory management",
+    "Linux administration",
+    "AWS infrastructure",
+    "Azure cloud",
+    "VMware virtualization",
+    "PowerShell scripting",
+    "network administration",
+    "disaster recovery",
+    "system monitoring and logging"
+  ],
+  "salarySignal": "Entry-level sysadmin roles in the US typically range from $50,000–$65,000; mid-level positions (3–5 years) range from $70,000–$95,000; senior/lead roles reach $100,000+. Remote and cloud-heavy roles often command premiums in high-cost-of-living areas.",
+  "faq": [
+    {
+      "q": "What certifications should I list on my sysadmin resume?",
+      "a": "Prioritize Microsoft (MCSA, MCSE), CompTIA (A+, Security+, CySA+), Linux (LPIC, Red Hat), or cloud certs (AWS Solutions Architect, AZ-900). List them in a dedicated 'Certifications' section with the full name and year earned. Recruiters and ATS systems scan for these specifically."
+    },
+    {
+      "q": "How do I show I'm strong in automation if I haven't scripted much?",
+      "a": "Start small—any repeated task you've automated counts. Write a bullet about it, even if it's a simple PowerShell loop or Bash script. Then highlight your willingness to learn by mentioning online courses (Coursera, Linux Academy) or personal projects on GitHub if you have them."
+    },
+    {
+      "q": "Should I list every tool I've used, even if I'm not an expert?",
+      "a": "No—focus on depth over breadth. Highlight tools you've used in production or for meaningful projects (e.g., 'managed Nagios monitoring across 50+ servers'). For lesser tools, group them generically (e.g., 'Familiar with ServiceNow, Jira, and Zendesk ticketing systems') to avoid raising questions."
+    },
+    {
+      "q": "How do I explain gaps in my uptime or security record?",
+      "a": "Don't shy away; instead, reframe proactively. E.g., 'Inherited unstable infrastructure; implemented new monitoring and patching standards, reducing unplanned downtime by 45%' shows problem-solving and improvement, not failure."
+    },
+    {
+      "q": "What metrics matter most to sysadmin hiring managers?",
+      "a": "Uptime percentage (99.9%, 99.99%), number of systems managed, deployment or patching time reduction, ticket resolution time, user count, and cost savings (cloud optimization, licensing). Pair every major accomplishment with a number."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "surgical-technologist",
+  "title": "Surgical Technologist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:35:53.790Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Surgical Technologist Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a surgical technologist resume that stands out. See real bullet examples, ATS keywords, and proven tips to land OR interviews.",
+  "h1": "How to Write a Surgical Technologist Resume That Gets Interviews",
+  "intro": "Your surgical technologist resume needs to prove you can keep the OR running smoothly under pressure—and hiring managers want evidence, not just job titles. We'll show you how to turn your hands-on experience into a resume that passes ATS filters and catches the eye of surgical directors and staffing coordinators.",
+  "audience": "Recent graduates with your AORN or state certification, experienced OR techs looking to switch facilities or specialize, and career switchers from nursing or medical assisting backgrounds.",
+  "topSkills": [
+    {
+      "name": "Surgical instrumentation & sponge counts",
+      "why": "Hiring managers need proof you can manage sterile field integrity and prevent retained foreign objects—a critical patient safety responsibility."
+    },
+    {
+      "name": "Sterilization & infection control",
+      "why": "Knowledge of autoclave operation, instrument sterilization protocols, and CDC/OSHA guidelines is non-negotiable for OR credibility."
+    },
+    {
+      "name": "Scrub role proficiency",
+      "why": "Demonstrating competence as the sterile field assistant is your core value; specify surgical specialties where you excel."
+    },
+    {
+      "name": "Circulating & patient prep",
+      "why": "Many roles require both scrub and circulator duties; showing flexibility across OR positions makes you more hireable."
+    },
+    {
+      "name": "EHR/surgical scheduling software",
+      "why": "Familiarity with facility-specific systems (Meditech, Cerner, ORbiz) reduces onboarding time and shows you're tech-ready."
+    },
+    {
+      "name": "Emergency response & trauma protocols",
+      "why": "Proving you can adapt quickly to urgent cases, code situations, and unpredictable OR demands reassures surgical teams."
+    },
+    {
+      "name": "Specialty surgical experience",
+      "why": "Highlighting exposure to cardiac, orthopedic, neurosurgery, or trauma cases shows depth and readiness for specialized roles."
+    },
+    {
+      "name": "AORN certification (CST/CNOR)",
+      "why": "Board certification is often preferred or required; it signals commitment and validates your technical knowledge."
+    },
+    {
+      "name": "Teamwork & communication under pressure",
+      "why": "Surgical teams depend on clear, calm communication; demonstrating this soft skill separates strong candidates."
+    },
+    {
+      "name": "First surgical assist (FSA) certification",
+      "why": "Some facilities value or require FSA; if you have it, lead with it as a credential that expands your scope."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Assisted in surgical procedures and helped manage instruments during cases.",
+      "strong": "Scrubbed on 40–60 cases/month across general surgery, orthopedic, and laparoscopic specialties; maintained 100% sponge and instrument counts with zero retained foreign object incidents over 18-month tenure.",
+      "lesson": "Added specific case volume, named surgical specialties, and quantified a critical safety metric (retention incidents) to demonstrate reliability and competence."
+    },
+    {
+      "weak": "Performed sterilization duties and cleaned surgical instruments.",
+      "strong": "Processed 80+ instrument sets daily using autoclave and high-level disinfection; validated sterilization parameters per facility protocol and maintained 99.2% first-pass QA approval rate.",
+      "lesson": "Converted a vague task into a volume-based achievement with quality outcome, showing both efficiency and attention to safety compliance."
+    },
+    {
+      "weak": "Worked as a circulator and helped with patient care in the OR.",
+      "strong": "Circulated for cardiac surgery cases, including pre-op patient verification, intra-op positioning, specimen labeling, and post-op hand-off; reduced case setup time by 10–15% through improved supply staging.",
+      "lesson": "Specified the surgical specialty, listed the full scope of circulating responsibilities, and added a process improvement metric to stand out from generic descriptions."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of demonstrating OR impact.",
+      "fix": "Replace 'responsible for instruments' with quantified outcomes like 'managed 150+ instruments across 8 case types with zero processing errors' or 'reduced turnover time by 12 minutes through optimized instrument staging.'"
+    },
+    {
+      "mistake": "Burying or omitting your certifications and credentials.",
+      "fix": "Lead with or prominently feature your CST, CNOR, FSA, or state tech license near the top of your resume or in a dedicated credentials section—ATS and hiring managers scan for these first."
+    },
+    {
+      "mistake": "Being vague about surgical specialties.",
+      "fix": "Always name the types of surgeries you've scrubbed: orthopedic, cardiac, neurosurgery, trauma, GI, vascular, etc. Specificity reassures hiring managers you can handle their facility's case mix."
+    },
+    {
+      "mistake": "Ignoring soft skills and teamwork in a high-pressure role.",
+      "fix": "Include a brief accomplishment about crisis response, communication in code situations, or mentoring newer techs—OR directors value cultural fit and composure as much as technical skill."
+    },
+    {
+      "mistake": "Not mentioning hands-on sterilization or prep experience.",
+      "fix": "If you have autoclave, instrument processing, or first surgical assist experience, call it out explicitly; many facilities need multi-role flexibility, and this increases your market value."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary that ties your certification, key surgical specialties, and years of OR experience together—hiring managers spend 6 seconds scanning, so make it count.",
+    "Place your licensure and certifications (CST, CNOR, FSA, CPR) in a dedicated section near the top, before or immediately after your summary—ATS and hiring coordinators filter on these first.",
+    "Group OR experience by facility and role (scrub, circulator, processor), and use bullet points to showcase specific case volume, specialties handled, and measurable safety or efficiency wins.",
+    "Include a skills section that mirrors job posting language: 'Surgical instrumentation,' 'Sterilization & infection control,' 'Patient positioning,' 'EHR software (Meditech/Cerner)' so ATS can match your profile."
+  ],
+  "atsKeywords": [
+    "Certified Surgical Technologist (CST)",
+    "CNOR certification",
+    "Scrub technician",
+    "Surgical instrumentation",
+    "Sterile field management",
+    "Sponge and needle counts",
+    "First surgical assist (FSA)",
+    "Instrument sterilization",
+    "OR circulator",
+    "Trauma surgery",
+    "Orthopedic surgery",
+    "Cardiac surgery",
+    "Patient positioning",
+    "Infection control protocols",
+    "Emergency response"
+  ],
+  "salarySignal": "Entry-level US surgical technologists typically earn $30,000–$38,000 annually; experienced techs with certifications and specialty skills range $38,000–$55,000+, depending on region, facility type, and shift differential.",
+  "faq": [
+    {
+      "q": "Should I list my certification status as CST-eligible or wait until I pass the exam?",
+      "a": "List what you have now: 'Surgical Technologist (CST candidate—exam scheduled March 2026)' or 'Certified Surgical Technologist (CST).' If you're exam-eligible but haven't yet sat, note the timing transparently so hiring managers know you're committed and nearly credentialed."
+    },
+    {
+      "q": "How do I quantify my OR experience if I haven't tracked exact numbers?",
+      "a": "Estimate conservatively: 'Averaged 40–50 cases/month over 2 years' or 'Maintained 100% accuracy on sponge/needle counts across 500+ cases.' Hiring managers respect realistic ranges; they're checking for order of magnitude, not exact audited totals."
+    },
+    {
+      "q": "Is it better to list specialties or emphasize versatility?",
+      "a": "Do both: mention your strongest 2–3 specialties (cardiac, ortho, neuro) early, then note in your summary or skills that you're comfortable across general, laparoscopic, and trauma cases. Facilities want someone they can cross-train but also someone with recognized depth."
+    },
+    {
+      "q": "What if I've only ever worked as a circulator, not a scrub tech?",
+      "a": "Lead with 'OR Circulator & Patient Care Specialist' and emphasize your role in case setup, patient safety, and specimen handling. Note any cross-training or interest in scrub-focused positions; many facilities will train willing candidates with OR experience."
+    },
+    {
+      "q": "How much weight should I give to sterilization & instrument processing experience?",
+      "a": "Heavy—especially if you're applying to surgery centers, hospitals with tight turnaround times, or roles that require multi-tasking. Highlight processing volume, quality metrics, and any improvements you've made; it's a marketable, often undervalued skill."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "qa-engineer",
+  "title": "QA Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:30.489Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "QA Engineer Resume: Tips, Skills & Examples 2026",
+  "metaDescription": "Write a QA Engineer resume that passes ATS and impresses hiring managers. See examples, required skills, and common mistakes to avoid.",
+  "h1": "QA Engineer Resume: How to Stand Out",
+  "intro": "QA is one of the fastest-growing tech roles, and hiring managers care less about your formal testing credentials and more about what you actually found and fixed. We'll show you how to turn test results and bug reports into resume bullets that get you interviews.",
+  "audience": "Recent computer science grads, career switchers from support or manual QA roles, and early-career engineers looking to land their first or second QA position.",
+  "topSkills": [
+    {
+      "name": "Test Automation & Frameworks",
+      "why": "Hiring managers screen hard for automation skills—Selenium, Cypress, TestNG, or similar. Manual QA alone won't get callbacks anymore."
+    },
+    {
+      "name": "Bug Tracking & Reporting",
+      "why": "Clarity in reporting (Jira, Azure DevOps) directly impacts dev productivity. Recruiters want to see you log detailed, reproducible bugs."
+    },
+    {
+      "name": "API Testing",
+      "why": "Postman, REST Assured, or similar tools are now table-stakes. Most modern apps need backend testing, not just UI."
+    },
+    {
+      "name": "SQL & Database Testing",
+      "why": "Data integrity checks and query validation separate strong QAs from basic testers. Even junior roles increasingly ask for SQL literacy."
+    },
+    {
+      "name": "CI/CD Pipeline Integration",
+      "why": "Understanding Jenkins, GitLab CI, or GitHub Actions shows you fit into modern engineering culture and can run tests at scale."
+    },
+    {
+      "name": "Test Case Design & Strategy",
+      "why": "Writing comprehensive, reproducible test plans shows strategic thinking—not just 'I clicked around and found bugs.'"
+    },
+    {
+      "name": "Performance & Load Testing",
+      "why": "JMeter, LoadRunner, or similar tools let you catch bottlenecks before they hit production. It's a premium skill for mid-level roles."
+    },
+    {
+      "name": "Agile & Scrum Methodologies",
+      "why": "Most QA roles sit in sprint-based teams. Demonstrating comfort with sprint planning and stand-ups matters to hiring managers."
+    },
+    {
+      "name": "Cross-Browser & Mobile Testing",
+      "why": "Real-world apps run everywhere. Evidence that you tested on Safari, Firefox, Chrome, and mobile platforms is a quick differentiator."
+    },
+    {
+      "name": "Defect Analysis & Root Cause Investigation",
+      "why": "QAs who ask 'why did this break?' and trace issues across layers (frontend, backend, database) get promoted faster."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responsible for testing web applications and reporting bugs.",
+      "strong": "Designed and executed 50+ automated test cases using Selenium + TestNG, catching a critical payment processing bug before production that would have cost $15K+ in lost transactions.",
+      "lesson": "Moved from passive tasks to active impact: added specifics (tool names, test count), named a concrete business outcome, and used a quantified metric."
+    },
+    {
+      "weak": "Performed manual testing and found issues.",
+      "strong": "Led QA strategy for mobile app redesign, built 120 test cases across iOS/Android using XCTest and Espresso, and reduced critical production bugs by 65% in Q3.",
+      "lesson": "Showed scope (leadership + multi-platform), cited a measurable outcome (65% reduction), and named specific tools. Generic 'found issues' became strategic impact."
+    },
+    {
+      "weak": "Tested APIs and fixed test scripts.",
+      "strong": "Automated 30+ API endpoints using Postman + Newman in CI/CD pipeline (Jenkins), validating response codes and database state; caught 8 data integrity issues in pre-prod that dev team had missed.",
+      "lesson": "Packed in tools, pipeline integration, and a specific example (8 issues) that shows you think beyond surface-level testing. 'Fixed scripts' became 'caught costly errors.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Only listing manual testing experience",
+      "fix": "Even if your current role is manual, show you've touched automation—a side project, a Selenium script, or a Python test harness. Hiring managers won't interview you without it."
+    },
+    {
+      "mistake": "Vague bug-finding claims ('Found and reported numerous bugs')",
+      "fix": "Always pair bug counts with context: 'Reported 45 bugs; 92% verified as valid and fixed in current sprint.' Shows your triage was accurate, not just noisy."
+    },
+    {
+      "mistake": "Forgetting to mention tools by name",
+      "fix": "Don't just say 'I tested.' Name the frameworks, tools, and languages you used (Selenium, Cypress, Jira, SQL, pytest, etc.). ATS scanners and hiring managers look for these keywords."
+    },
+    {
+      "mistake": "No evidence of cross-functional collaboration",
+      "fix": "Add bullets that show you worked *with* devs and product: 'Collaborated with backend team to design API test suite' or 'Partnered with product on edge-case scenarios.' QA is a bridge role."
+    },
+    {
+      "mistake": "Ignoring performance or load testing experience",
+      "fix": "If you've used JMeter, LoadRunner, or even a simple load test, call it out. It signals you think beyond happy-path clicks and appeals to teams building scalable systems."
+    }
+  ],
+  "structureTips": [
+    "Lead with a Skills section that highlights 4–6 tools and languages (Selenium, TestNG, Jira, SQL, API testing, etc.). Hiring managers scan the top 20% of your resume; make sure your toolkit is visible.",
+    "Put automation and CI/CD experience above manual testing, even if you spent more time on manual work. The market values automation, so reorder to match hiring priorities.",
+    "In your Experience section, prioritize bullets that show impact over effort. 'Caught X bugs that prevented Y outage' beats 'Performed regression testing every sprint.' Quality over volume.",
+    "If you're early-career, add a Projects section highlighting a test automation project, a GitHub repo with Selenium scripts, or a mini load test. This signals you've studied your craft beyond your job."
+  ],
+  "atsKeywords": [
+    "test automation",
+    "Selenium",
+    "API testing",
+    "Postman",
+    "test case design",
+    "Jira",
+    "SQL",
+    "CI/CD pipeline",
+    "load testing",
+    "JMeter"
+  ],
+  "salarySignal": "Entry-level QA Engineer salaries in the US typically range from $55K to $75K; mid-level QAs with automation expertise earn $75K–$110K; senior QAs and SDET roles reach $110K–$150K+. Salary varies widely by region, company size, and tech stack complexity.",
+  "faq": [
+    {
+      "q": "Do I need a QA certification to get hired as a QA Engineer?",
+      "a": "No. ISTQB or CSTE certifications can help, but hiring managers care more about your test automation skills and real project examples. Focus on building a portfolio with Selenium, Cypress, or API testing—that's your best investment."
+    },
+    {
+      "q": "Should I include manual testing on my resume if I want to transition to automation?",
+      "a": "Yes, but reframe it. Don't dwell on manual testing; instead, highlight the bugs you found that *required* automation to prevent, and mention any automation work you've done (even side projects or learning). Show you're already thinking like an automation engineer."
+    },
+    {
+      "q": "How do I quantify the impact of my QA work if I didn't directly prevent a big incident?",
+      "a": "Use metrics like: test coverage percentage improved, test execution time reduced, defect escape rate, critical bugs caught before production, or sprint velocity gained by automating manual tests. If nothing else, cite velocity: 'Reduced regression testing from 3 days to 4 hours via automation.'"
+    },
+    {
+      "q": "What's the difference between a QA Engineer and an SDET, and does it matter for my resume?",
+      "a": "A QA Engineer usually blends manual and automated testing; an SDET (Software Development Engineer in Test) is a developer-focused role writing complex test frameworks. If you're early-career, emphasize QA Engineer. As you gain coding skills and tackle infrastructure, you can transition to SDET—call it out in your resume."
+    },
+    {
+      "q": "How much weight should I give to tools I've only learned in a bootcamp vs. on the job?",
+      "a": "Both count, but be honest about depth. If you've used Selenium in production for 6 months, lead with that. If you've only done a bootcamp project, mention it but emphasize you're proficient and eager to deepen skills on the job. Hiring managers respect learners who are clear about their level."
+    }
+  ]
+}

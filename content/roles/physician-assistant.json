@@ -1,0 +1,136 @@
+{
+  "slug": "physician-assistant",
+  "title": "Physician Assistant",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:31:42.945Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Physician Assistant Resume: Skills, Examples & Templates",
+  "metaDescription": "Build a winning Physician Assistant resume with proven examples, key skills, and hiring manager tips. Get hired faster with our expert guide.",
+  "h1": "Physician Assistant Resume: What Hiring Managers Actually Want to See",
+  "intro": "Your Physician Assistant resume needs to prove you can diagnose, treat, and manage patient care independently—and do it fast. This guide shows you exactly how to highlight clinical competence, patient outcomes, and collaboration skills that hiring managers and practice leaders are looking for.",
+  "audience": "Recent PA school graduates, newly licensed PAs entering their first role, and experienced PAs transitioning between specialties or healthcare settings.",
+  "topSkills": [
+    {
+      "name": "Patient Diagnosis & Treatment Planning",
+      "why": "Hiring managers need clear evidence you can independently assess patients and develop evidence-based treatment plans in your specialty."
+    },
+    {
+      "name": "Electronic Health Records (EHR) Systems",
+      "why": "Every healthcare facility runs on EHR; proficiency with Epic, Cerner, or vendor-specific systems is table stakes for day-one productivity."
+    },
+    {
+      "name": "Physician Collaboration & Communication",
+      "why": "PAs work under physician supervision; demonstrating strong communication and collaborative decision-making is critical to practice culture fit."
+    },
+    {
+      "name": "Clinical Documentation",
+      "why": "Accurate, timely note-writing and documentation ensures compliance, patient safety, and billing accuracy—core to practice operations."
+    },
+    {
+      "name": "Patient Outcomes Management",
+      "why": "Hiring managers want to see you track and improve metrics like patient satisfaction, readmission rates, or treatment efficacy."
+    },
+    {
+      "name": "Preventive Medicine & Health Education",
+      "why": "PAs increasingly drive preventive care and patient education; showing this expands your value beyond reactive treatment."
+    },
+    {
+      "name": "Specialty-Specific Clinical Skills",
+      "why": "Whether emergency medicine, orthopedics, or cardiology, you need to name the actual procedures and exams you've performed independently."
+    },
+    {
+      "name": "Team Leadership & Mentoring",
+      "why": "Experienced PAs often supervise NPs, medical assistants, or residents; demonstrate this if applicable to command higher pay and responsibility."
+    },
+    {
+      "name": "Compliance & Patient Safety",
+      "why": "Healthcare is heavily regulated; highlighting your attention to HIPAA, Joint Commission standards, and incident prevention shows professionalism."
+    },
+    {
+      "name": "Patient Volume & Scheduling Efficiency",
+      "why": "Practices are revenue-driven; showing you can manage 20+ patients per day or improve clinic throughput proves you're operationally savvy."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked in emergency department managing patient care and collaborating with physicians.",
+      "strong": "Independently evaluated and treated 25–30 ED patients daily; reduced average door-to-disposition time by 15 minutes through streamlined triage protocols and physician collaboration.",
+      "lesson": "Specifics on volume, outcome metrics, and independent scope of practice transform a vague duty into a competitive achievement."
+    },
+    {
+      "weak": "Documented patient encounters using Epic EHR system.",
+      "strong": "Achieved 98% clinical documentation accuracy in Epic; reduced chart deficiency rate from 12% to 3% by implementing standardized note templates and staff training.",
+      "lesson": "Adding measurable compliance and improvement data shows you solve real operational problems, not just do the minimum."
+    },
+    {
+      "weak": "Provided patient education on chronic disease management.",
+      "strong": "Developed and delivered quarterly diabetes and hypertension education workshops to 40+ patients; improved medication adherence by 22% and reduced 30-day hospital readmissions by 18% in cohort.",
+      "lesson": "Concrete patient count, educational format, and clinical outcome prove your education initiatives drive measurable health improvements."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of autonomous clinical decisions.",
+      "fix": "Replace 'Assisted with patient evaluations' with 'Independently diagnosed and initiated treatment for acute and chronic conditions; reviewed plans with attending for complex cases.' Show your actual decision-making scope."
+    },
+    {
+      "mistake": "Omitting specialty-specific procedures you've performed.",
+      "fix": "Name the actual procedures you've done hands-on: joint injections, laceration repairs, chest tube placements, etc. Hiring managers in that specialty need proof of technical competence."
+    },
+    {
+      "mistake": "Ignoring patient outcomes and practice metrics.",
+      "fix": "Quantify your impact: patient satisfaction scores, readmission rates, productivity metrics, length of stay reductions. Practices hire PAs who improve operations and financial performance."
+    },
+    {
+      "mistake": "Burying board certification and licensure in Education section.",
+      "fix": "List your PA-C credential and state licenses prominently near your name or at the top of Professional Summary; hiring managers scan for licensure status immediately."
+    },
+    {
+      "mistake": "Being vague about EHR systems you know.",
+      "fix": "Explicitly name every EHR you've used (Epic, Cerner, Athena, etc.). Practices prioritize candidates who can hit the ground running without extensive training."
+    }
+  ],
+  "structureTips": [
+    "Lead with a Professional Summary that states your PA-C license, years of clinical experience, specialty focus, and one signature clinical strength (e.g., 'Board-certified PA-C with 5 years of emergency medicine experience; expertise in trauma resuscitation and high-volume patient management').",
+    "Place Licensure & Certifications immediately after your name and contact info—PA-C, DEA, state medical license, and ACLS/BLS dates. Hiring managers verify these first.",
+    "Organize Clinical Experience by specialty and then by role; use role titles that reflect scope (e.g., 'Physician Assistant – Orthopedic Surgery' not 'Clinical Staff'). Lead with patient volume, scope of practice, and one key outcome per role.",
+    "Create a separate 'Clinical Skills' or 'Procedures' section that lists procedures you've performed independently, ordered by frequency or complexity. This is skimmable and directly answers 'Can this PA do the job?' for hiring managers."
+  ],
+  "atsKeywords": [
+    "Physician Assistant",
+    "PA-C",
+    "Board-certified PA",
+    "Patient diagnosis and treatment",
+    "Electronic Health Records",
+    "Epic EHR",
+    "Clinical documentation",
+    "Patient outcomes",
+    "Preventive care",
+    "ACLS",
+    "BLS certification",
+    "Physician collaboration"
+  ],
+  "salarySignal": "Entry-level PA salaries typically range from $110,000 to $130,000 in 2026; experienced PAs in high-demand specialties (orthopedics, emergency medicine, cardiology) can earn $140,000–$170,000+. Compensation varies significantly by region, practice type, and specialty.",
+  "faq": [
+    {
+      "q": "Should I include my PA school training and clinical rotations on my resume?",
+      "a": "Only if you're a new grad. Once you have 1+ year of clinical experience, move rotations to a brief 'Clinical Training' subsection in Education. Hiring managers care far more about your paid, real-world experience and patient outcomes."
+    },
+    {
+      "q": "How do I highlight my scope of practice if I work under a supervising physician?",
+      "a": "Use language like 'independently evaluated and diagnosed' or 'managed independently with physician oversight for complex cases.' This honestly reflects the PA role while showing autonomous clinical decision-making."
+    },
+    {
+      "q": "What if I'm switching specialties—how do I make that relevant?",
+      "a": "Lead with transferable clinical competencies (patient assessment, EHR proficiency, team collaboration) and highlight any volunteer work, courses, or shadowing you've done in the new specialty. Be explicit: 'Transitioning to orthopedic surgery with foundation in acute care and hands-on patient management.'"
+    },
+    {
+      "q": "Should I list my patient volume or caseload numbers?",
+      "a": "Yes, if you know them. Include metrics like 'managed 25–30 patients daily in outpatient clinic' or 'evaluated 20+ ED patients per shift.' This proves efficiency and helps hiring managers understand your experience level."
+    },
+    {
+      "q": "How important is listing continuing education and conferences on my PA resume?",
+      "a": "Include only high-impact certifications or subspecialty training (e.g., 'Advanced Trauma Life Support,' 'Orthopedic Physician Assistant Certification'). One-off conferences or generic CME don't add weight; focus on clinical skills and outcomes instead."
+    }
+  ]
+}

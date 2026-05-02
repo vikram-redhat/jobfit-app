@@ -1,0 +1,134 @@
+{
+  "slug": "physical-therapist",
+  "title": "Physical Therapist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:11.228Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Physical Therapist Resume: Tips, Examples & Skills",
+  "metaDescription": "Build a stronger PT resume with real bullet examples, must-have skills, and ATS keywords that get you hired. Specific advice for entry-level and experienced therapists.",
+  "h1": "Physical Therapist Resume: How to Stand Out to Hiring Managers",
+  "intro": "Your physical therapist resume needs to do more than list certifications—it should show you can reduce patient pain, manage caseloads, and work within healthcare systems. We'll walk you through the skills, bullets, and structure that actually get PT positions filled.",
+  "audience": "Recent PT graduates applying for first clinical positions, licensed therapists moving between clinics or healthcare settings, and career-switchers with relevant clinical or rehab experience.",
+  "topSkills": [
+    {
+      "name": "Patient evaluation & assessment",
+      "why": "Hiring managers want PTs who can conduct thorough initial evaluations, document findings, and establish realistic treatment goals—it's the foundation of clinical practice."
+    },
+    {
+      "name": "Manual therapy techniques (soft tissue mobilization, joint manipulation)",
+      "why": "Demonstrates hands-on clinical expertise; orthopedic clinics and hospitals prioritize PTs with proven manual therapy skills."
+    },
+    {
+      "name": "Exercise prescription & therapeutic exercise",
+      "why": "Core to PT practice; employers need therapists who can design and progress individualized exercise programs across patient populations."
+    },
+    {
+      "name": "Electronic Health Records (EHR) proficiency",
+      "why": "Most modern clinics use EHR systems (Epic, Athena, etc.); familiarity speeds onboarding and reduces training burden."
+    },
+    {
+      "name": "Insurance verification & documentation",
+      "why": "Clinic revenue depends on correct coding and timely documentation; PTs who handle this independently are highly valued."
+    },
+    {
+      "name": "Patient education & compliance coaching",
+      "why": "Strong patient outcomes require buy-in; therapists who educate and motivate patients show measurable success."
+    },
+    {
+      "name": "Orthopedic & sports medicine rehabilitation",
+      "why": "One of the largest PT job markets; demonstrating competency with common orthopedic conditions (ACL, rotator cuff, etc.) makes you marketable."
+    },
+    {
+      "name": "Documentation for billing & reimbursement",
+      "why": "Clinics need PTs who understand medical necessity language and can defend treatment in notes; poor documentation kills clinic profitability."
+    },
+    {
+      "name": "Patient communication & empathy",
+      "why": "Patient satisfaction scores and retention are tracked; therapists known for clear, compassionate communication stand out."
+    },
+    {
+      "name": "Clinical outcome measurement (APTA outcome tools, patient-reported outcomes)",
+      "why": "Healthcare increasingly demands evidence of efficacy; using validated outcome measures demonstrates accountability and research-minded practice."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Treated patients with various orthopedic and neurological conditions using manual therapy and exercise.",
+      "strong": "Managed full orthopedic and post-surgical caseload (15–20 daily patients); reduced average pain scores by 4–5 points (VAS scale) over 4-week episode of care through progressive manual therapy and home exercise programming.",
+      "lesson": "Specific numbers (caseload, pain reduction, timeframe) and named assessment tools (VAS) make the impact concrete and clinically credible."
+    },
+    {
+      "weak": "Documented patient sessions and communicated with physicians about patient progress.",
+      "strong": "Completed timely, medically necessary documentation for 95%+ of sessions; collaborated with 8+ referring physicians via progress notes to justify ongoing treatment and secure pre-authorization extensions, maintaining $X,XXX monthly clinic revenue from my patient roster.",
+      "lesson": "Linking documentation to revenue and emphasizing physician collaboration shows you understand the business side and can retain referral sources."
+    },
+    {
+      "weak": "Educated patients on proper exercise form and injury prevention.",
+      "strong": "Delivered home exercise program instructions to 40+ patients per month with 80%+ adherence rate; tracked compliance via follow-up calls and adjusted programs weekly, correlating with 30% faster return-to-work timelines in my cohort.",
+      "lesson": "Quantifying patient volume, adherence, and outcome linkage shows you drive results, not just deliver services."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing credentials without clinical context",
+      "fix": "Don't just write 'Licensed Physical Therapist, State Board Certification.' Show what you *do* with that license: 'Licensed PT in [State]; Board-Certified Orthopedic Specialist; trained in [specific manual techniques or frameworks].' Hiring managers want proof you use your credentials daily."
+    },
+    {
+      "mistake": "Vague patient outcome language",
+      "fix": "Avoid 'improved patient outcomes' or 'helped patients recover.' Use standardized measures (Oswestry Disability Index, PSFS, ROM in degrees) or functional goals ('returned to unmodified running' or 'independent stair negotiation'). Healthcare hiring managers expect evidence-based language."
+    },
+    {
+      "mistake": "Ignoring the business/clinic side",
+      "fix": "Clinic owners and managers care about efficiency, retention, and referral relationships. Show you understand: patient compliance rates, referral source relationships, caseload management, or insurance navigation. A PT who boosts clinic KPIs gets promoted faster."
+    },
+    {
+      "mistake": "Forgetting to tailor specialties by setting",
+      "fix": "An outpatient orthopedic clinic values different skills than a hospital acute care or home health role. Customize your bullets to match the job posting: if it's sports medicine, emphasize return-to-sport protocols; if it's acute care, highlight fast mobility assessments and discharge planning."
+    },
+    {
+      "mistake": "Burying continuing education or certifications",
+      "fix": "Recent certifications (Dry Needling, Graston, McKenzie, Kinesiology Tape) or advanced training (LSVT Big for Parkinson's, etc.) deserve their own line near the top of your experience or in a dedicated skills section—they justify higher pay and specialty caseloads."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that names your specialties and patient volumes: 'Licensed PT with 3+ years orthopedic rehabilitation experience; manage 18–22 daily patients across pre/post-surgical and sports medicine populations. Board-Certified Specialist in Orthopedics.' This gives hiring managers a fast snapshot.",
+    "Organize your experience by *setting and population* rather than generic titles. Use subheadings like 'Outpatient Orthopedic Clinic (2022–Present)' or 'Sports Medicine & Return-to-Sport Focus,' then list your highest-impact bullets first (caseload, compliance rates, physician referrals).",
+    "Create a dedicated 'Clinical Skills & Certifications' section that mirrors job posting keywords: list manual techniques (soft tissue mobilization, joint mobilization), special populations (post-surgical ACL, geriatric, pediatric), assessment tools (APTA outcome measures, Functional Movement Screen), and any advanced certifications. This feeds ATS scanners and shows specialized expertise.",
+    "If you're entry-level or switching settings, front-load clinical rotations, internships, or volunteer PT work under a 'Clinical Experience' or 'Practicum' heading before listing any non-PT jobs. Hiring managers want to see direct patient care immediately, not buried under other roles."
+  ],
+  "atsKeywords": [
+    "Licensed Physical Therapist",
+    "Patient evaluation and assessment",
+    "Manual therapy",
+    "Exercise prescription",
+    "Electronic Health Records",
+    "Orthopedic rehabilitation",
+    "Clinical outcome measurement",
+    "Insurance documentation",
+    "Treatment planning",
+    "Patient compliance"
+  ],
+  "salarySignal": "Entry-level US physical therapists typically earn $58,000–$72,000 annually; experienced PTs in high-demand markets (urban, specialized) often earn $75,000–$95,000+. Salary varies widely by region, setting (outpatient clinic vs. hospital), and specialization.",
+  "faq": [
+    {
+      "q": "What should I put in my PT resume summary?",
+      "a": "Write 2–3 lines that name your years of experience, clinical specialties (e.g., orthopedic, sports medicine, neuro), and patient volume or outcomes. Example: 'Licensed PT with 4 years outpatient orthopedic experience; manage 20+ daily patients with focus on post-surgical rehab and return-to-sport protocols.' Skip generic 'detail-oriented' language—show your niche and scale."
+    },
+    {
+      "q": "How do I stand out if I'm a new grad PT with limited experience?",
+      "a": "Lead with your best rotations (clinical internships) as their own section, emphasizing patient volume and specific diagnoses you treated. Highlight certifications, volunteer PT work, or research projects related to the job posting. Call out soft skills like patient education or compliance tracking—things you perfected even in limited time. Clinics often hire new grads for personality and coachability, so show you're organized and eager to learn their systems."
+    },
+    {
+      "q": "Should I list specific EHR systems I've used (Epic, Athena, etc.)?",
+      "a": "Yes, absolutely. If the job posts an EHR, mention it directly in your skills section or experience. If you've used others (Epic, Athena, WebPT, Benchmark), list them—most PTs pick up new systems quickly, and it signals you won't slow down onboarding. If you're EHR-unfamiliar, note it honestly but emphasize your clinical and documentation strengths."
+    },
+    {
+      "q": "What outcome measures should I cite in my resume bullets?",
+      "a": "Use APTA-endorsed tools like Oswestry Disability Index (ODI), Lower Extremity Functional Scale (LEFS), Pain Scale (VAS or numeric), Patient-Specific Functional Scale (PSFS), or functional gains (e.g., 'returned to running,' 'independent stair descent'). Avoid made-up percentages; cite data you actually tracked in your patient records. If you didn't formally measure outcomes, describe functional wins: 'reduced pain from 8/10 to 3/10 over 6 weeks.'"
+    },
+    {
+      "q": "How do I emphasize business skills (insurance, billing, compliance) without sounding non-clinical?",
+      "a": "Frame it as part of your clinical job: 'Completed timely, medically necessary documentation achieving 98% first-pass approval rate and reducing claim denials by 15%.' Or: 'Verified insurance pre-authorization for 95%+ of new patients, expediting care initiation and improving clinic cash flow.' This shows you're a team player who understands clinic operations—exactly what managers hiring PTs want."
+    }
+  ]
+}

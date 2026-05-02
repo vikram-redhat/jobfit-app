@@ -1,0 +1,126 @@
+{
+  "slug": "blockchain-developer",
+  "title": "Blockchain Developer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:30:20.933Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Blockchain Developer Resume: Skills & Examples",
+  "metaDescription": "Write a standout blockchain developer resume with ATS-friendly keywords, real examples, and proven tips to land interviews.",
+  "h1": "How to Write a Blockchain Developer Resume That Gets Interviews",
+  "intro": "Blockchain development sits at the intersection of cryptography, distributed systems, and product thinking—and your resume needs to prove you understand all three. We'll walk you through the technical skills, metrics, and bullet structures that make hiring managers at Web3 companies actually read your whole profile.",
+  "audience": "Recent computer science grads, backend developers transitioning to Web3, and career switchers with strong fundamentals in distributed systems or cryptography.",
+  "topSkills": [
+    {
+      "name": "Solidity",
+      "why": "The dominant smart contract language for Ethereum and EVM-compatible chains; almost every blockchain developer job posting lists it."
+    },
+    {
+      "name": "Smart Contract Development",
+      "why": "Hiring managers want proof you can write, audit, and deploy contracts—not just theory knowledge."
+    },
+    {
+      "name": "Ethereum / EVM",
+      "why": "Ethereum dominates blockchain hiring; demonstrating EVM proficiency signals deep ecosystem knowledge."
+    },
+    {
+      "name": "Web3.js or Ethers.js",
+      "why": "Frontend-to-blockchain integration libraries that let you build functional dApps; essential for full-stack blockchain roles."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Every team uses Git; blockchain projects are open-source heavy, so repos matter."
+    },
+    {
+      "name": "Testing & Security Auditing",
+      "why": "Blockchain code handles real money; experience with Hardhat, Truffle, or formal verification tools is a huge differentiator."
+    },
+    {
+      "name": "REST APIs & Backend Integration",
+      "why": "dApps don't live in isolation—connecting contracts to traditional systems is a daily responsibility."
+    },
+    {
+      "name": "Rust / Go",
+      "why": "Modern blockchains (Solana, Cosmos) use these languages; knowing alternatives to Solidity broadens your appeal."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed smart contracts and deployed them to the blockchain.",
+      "strong": "Designed and deployed 12+ ERC-20 token contracts on Ethereum mainnet, reducing gas costs by 15-25% through optimization patterns; verified on Etherscan and audited by external team.",
+      "lesson": "Specificity matters: name the contract type, the chain, the optimization wins, and proof of security review. Numbers make it real."
+    },
+    {
+      "weak": "Built a Web3 application using Web3.js and React.",
+      "strong": "Architected and shipped a staking dApp (React + Ethers.js) with 500+ active wallets; implemented real-time contract state monitoring, reducing frontend-contract sync lag from 8s to 2s.",
+      "lesson": "Lead with the outcome (users, product launch), then the tech and the metric. Hiring managers care about what shipped."
+    },
+    {
+      "weak": "Learned about blockchain security and tested contracts.",
+      "strong": "Conducted security audits on 6 smart contracts using Hardhat and Foundry; identified and documented 18 vulnerabilities (2 critical, 8 high), with 100% remediation rate before mainnet deployment.",
+      "lesson": "Show the full workflow: tools used, scope, severity breakdown, and resolution. Security experience separates junior devs from strong candidates."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing blockchain 'education' without shipped code.",
+      "fix": "Include only projects you've deployed or contracts live on a testnet. Link to GitHub repos or Etherscan addresses so hiring managers can verify your work."
+    },
+    {
+      "mistake": "Over-emphasizing cryptocurrency trading or speculation knowledge.",
+      "fix": "Focus on technical architecture, contract logic, and protocol design instead. Hiring managers want engineers, not traders."
+    },
+    {
+      "mistake": "Vague references to 'DeFi' or 'NFT' without explaining what you built.",
+      "fix": "Be specific: 'built an AMM' beats 'DeFi experience.' Hiring managers need to understand the exact problem you solved."
+    },
+    {
+      "mistake": "Forgetting to mention gas optimization or cost reduction.",
+      "fix": "Blockchain devs live on gas metrics. Always quantify efficiency gains (gas saved, tx cost reduction, throughput improvement)."
+    },
+    {
+      "mistake": "No mention of testnet or mainnet experience.",
+      "fix": "Specify which chains you've deployed to (Ethereum, Polygon, Arbitrum, etc.) and whether contracts are live or test-only. Mainnet deployment is a credibility signal."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience with your most complex or shipped blockchain project—not your oldest job. Hiring managers scan the first 3 bullets.",
+    "Group blockchain-specific skills (Solidity, Web3.js, contract auditing) above general backend skills (Node.js, databases). Web3 companies want to see depth first.",
+    "Include a 'Projects' or 'Open Source' section with links to GitHub repos or Etherscan deployments. Blockchain hiring is heavily code-first; a working contract beats a resume line.",
+    "Put testnet or mainnet deployments front-and-center in project descriptions. 'Live on Ethereum mainnet' or 'Deployed to Sepolia testnet' immediately signals execution."
+  ],
+  "atsKeywords": [
+    "Solidity",
+    "Smart contract development",
+    "Ethereum",
+    "EVM",
+    "Web3.js",
+    "Ethers.js",
+    "Hardhat",
+    "Smart contract audit",
+    "DeFi",
+    "Blockchain development"
+  ],
+  "salarySignal": "Entry-level blockchain developer salaries in the US typically range from $90K to $130K in 2026, with senior roles reaching $150K–$250K+; compensation often includes token grants and varies significantly by location and company stage.",
+  "faq": [
+    {
+      "q": "Should I list cryptocurrency certifications or online courses on my blockchain developer resume?",
+      "a": "Only if they're recognized (e.g., Ethereum Foundation, Hardhat Academy) and you built projects as part of them. Generic 'blockchain courses' without shipped code don't move the needle. Prioritize real projects and open-source contributions instead."
+    },
+    {
+      "q": "How do I prove I can write secure smart contracts if I'm new to blockchain?",
+      "a": "Build 2–3 small contracts (ERC-20 token, simple DEX, staking mechanism), deploy them to a testnet, get them peer-reviewed or formally audited if possible, and link to the code. Even tiny projects with security considerations are proof of ability."
+    },
+    {
+      "q": "Is it better to specialize in one blockchain (Ethereum) or show experience across multiple chains?",
+      "a": "Specialize in Ethereum or EVM-first if you're early in your career—it's the largest job market. Once you're comfortable, add 1–2 other chains (Solana, Cosmos) to show adaptability. Depth beats breadth at junior levels."
+    },
+    {
+      "q": "What metrics matter most for blockchain developer bullets?",
+      "a": "Gas savings (%, gwei reduction), contract deployment size (bytecode), transaction throughput (TPS), security audit results (vulns found/fixed), and user adoption (wallet count, transaction volume). Anything quantifiable beats 'improved performance.'"
+    },
+    {
+      "q": "Should I include my personal crypto holdings or trading strategy on my resume?",
+      "a": "No. It's irrelevant and can bias hiring managers. Stick to technical contributions, shipped products, and security work. Your GitHub and Etherscan profiles speak louder than speculation."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "social-worker",
+  "title": "Social Worker",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:35:58.548Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Social Worker Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Build a stronger social worker resume with real examples, key skills, and hiring manager insights. Get hired faster with actionable tips.",
+  "h1": "Social Worker Resume: How to Land Your Next Job",
+  "intro": "Social work roles reward specificity—hiring managers want to see measurable client outcomes and the real populations you've served. This guide walks you through resume language that stands out, whether you're a new grad with your MSW or a seasoned case manager.",
+  "audience": "Recent MSW graduates, case managers moving to specialized settings, and social workers transitioning between healthcare, mental health, or child welfare agencies.",
+  "topSkills": [
+    {
+      "name": "Case Management",
+      "why": "The core function of most social work roles; hiring managers expect you to show caseload size, client retention, or service coordination outcomes."
+    },
+    {
+      "name": "Mental Health Assessment & Intervention",
+      "why": "Especially critical for clinical social workers and those in behavioral health; demonstrates ability to recognize and respond to mental health crises."
+    },
+    {
+      "name": "Motivational Interviewing",
+      "why": "A specific evidence-based technique; naming it signals you can drive client behavior change rather than just document contact."
+    },
+    {
+      "name": "Trauma-Informed Care",
+      "why": "Nearly all healthcare and child welfare settings expect this framework; shows you understand how past trauma shapes current behavior."
+    },
+    {
+      "name": "Documentation & Electronic Health Records (EHR)",
+      "why": "Regulatory compliance and billing depend on accurate, timely notes; proficiency in Epic, Meditech, or agency-specific systems is a real differentiator."
+    },
+    {
+      "name": "Crisis Intervention & De-escalation",
+      "why": "Hospitals, emergency departments, and residential facilities specifically screen for this; it's both a safety skill and a retention tool."
+    },
+    {
+      "name": "Discharge Planning & Resource Navigation",
+      "why": "Health systems care deeply about bed turnover and post-acute placement; your ability to connect clients to housing, benefits, or follow-up care matters."
+    },
+    {
+      "name": "Client Advocacy & Systems Navigation",
+      "why": "Shows you see yourself as a bridge between vulnerable clients and complex systems—a core social work value that resonates with mission-driven employers."
+    },
+    {
+      "name": "Group Facilitation & Psychoeducation",
+      "why": "Demonstrates capacity to work with multiple clients at once; valuable for substance use, parenting classes, or peer support programs."
+    },
+    {
+      "name": "Interdisciplinary Collaboration",
+      "why": "Healthcare is team-based; hiring managers want evidence you communicate effectively with nurses, therapists, physicians, and community partners."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided case management services to clients and helped them access community resources.",
+      "strong": "Managed caseload of 35–45 clients with complex PTSD and substance use disorders; coordinated enrollment in 8+ community programs (housing, job training, medication-assisted treatment), resulting in 78% program completion and 60% reduction in emergency room visits.",
+      "lesson": "Adding caseload size, specific diagnoses, named programs, and client outcomes transforms a vague task into proof of real impact and efficiency."
+    },
+    {
+      "weak": "Participated in multidisciplinary team meetings and documented client progress.",
+      "strong": "Led weekly interdisciplinary rounds with nursing, psychiatry, and peer specialists for 25-bed behavioral health unit; presented safety assessments and discharge plans that reduced average length of stay from 6.2 to 5.1 days without readmission rate increase.",
+      "lesson": "Naming your role in the meeting (led vs. participated), the team composition, and a specific operational outcome shows leadership and business acumen."
+    },
+    {
+      "weak": "Conducted assessments and created treatment plans for new clients.",
+      "strong": "Administered standardized bio-psycho-social assessments (PHQ-9, AUDIT) within 24 hours of intake; co-created trauma-informed treatment plans with clients, achieving 85% plan adherence and 70% of clients meeting goals within 90 days.",
+      "lesson": "Naming specific assessment tools, mentioning client agency ('co-created'), and reporting adherence/outcomes proves you use evidence-based practice, not just paperwork."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing credentials without context",
+      "fix": "Don't just say 'Licensed Clinical Social Worker (LCSW)' in a bullet; weave it into context—e.g., 'Conducted individual psychotherapy as LCSW in outpatient clinic' shows how you apply the license."
+    },
+    {
+      "mistake": "Focusing on tasks instead of outcomes",
+      "fix": "Replace 'made referrals' or 'documented notes' with results: 'Connected 92% of discharged patients to follow-up appointments' or 'Reduced chart completion time by 2 days through EHR workflow redesign.'"
+    },
+    {
+      "mistake": "Using clinical jargon without explaining population or setting",
+      "fix": "Don't assume the hiring manager knows what 'cognitive restructuring' means; say 'Delivered cognitive-behavioral therapy to 15 adolescents in school-based clinic, reducing anxiety symptoms by 40% over 12 weeks.'"
+    },
+    {
+      "mistake": "Omitting scope or scale",
+      "fix": "Always include caseload size, number of clients, or size of program you managed. 'Developed discharge plan' is weaker than 'Managed discharge planning for 200+ annual hospital discharges.'"
+    },
+    {
+      "mistake": "Treating volunteer or practicum experience as lesser",
+      "fix": "If it's your strongest clinical or client-facing work, feature it prominently and quantify it the same way; hiring managers hire for skills, not just paid titles."
+    }
+  ],
+  "structureTips": [
+    "Lead with your license status if relevant (MSW, LCSW, LMHC) and immediately follow with the clinical setting or population you know best—e.g., 'Licensed Clinical Social Worker (LCSW) | 6 years behavioral health & trauma-focused care.'",
+    "Place your most recent or most relevant clinical role first, and if you have a practicum or supervised clinical hours, list it near the top if it's your only clinical experience (new grads).",
+    "Group skills by competency area: 'Clinical Skills' (assessment, therapy modalities, crisis response), 'Care Coordination' (discharge planning, resource navigation), and 'Systems & Tools' (EHR platforms, databases). This mirrors how job descriptions are organized.",
+    "For education, note your MSW program type (2-year, advanced standing) and any concentration or practicum setting; hiring managers care about the specificity of your training."
+  ],
+  "atsKeywords": [
+    "case management",
+    "mental health assessment",
+    "crisis intervention",
+    "discharge planning",
+    "Electronic Health Records",
+    "trauma-informed care",
+    "motivational interviewing",
+    "LCSW",
+    "social work license",
+    "interdisciplinary collaboration"
+  ],
+  "salarySignal": "Entry-level US social worker salaries typically range from $32,000 to $42,000; licensed clinical social workers (LCSW) in healthcare or mental health settings average $48,000 to $65,000, with variation by region, setting, and experience.",
+  "faq": [
+    {
+      "q": "Should I list my license status on my resume?",
+      "a": "Yes, absolutely. Put it at the top near your name or in your headline (e.g., 'Social Worker, LCSW' or 'MSW Graduate, License Eligible'). Hiring managers in healthcare and clinical settings filter for licensure, and it reassures them of your credentials immediately."
+    },
+    {
+      "q": "How do I show impact as a social worker if I don't have 'metrics'?",
+      "a": "Use caseload numbers, client completion rates, placement rates, appointment adherence, readmission avoidance, or average time-to-discharge. Even 'connected 15 of 18 job-seeking clients to employment within 6 months' is quantified impact. If truly unavailable, use process wins: 'Designed intake protocol adopted by all 6 team sites.'"
+    },
+    {
+      "q": "I'm a new grad with no paid clinical hours yet. How do I structure my resume?",
+      "a": "Feature your MSW program, concentration, and practicum site prominently under Education or in a dedicated 'Clinical Experience' section. Quantify practicum work the same way—caseload, client outcomes, modalities used. Employers hire new grads for their training and potential; show depth where you have it."
+    },
+    {
+      "q": "What if I've worked in child welfare or hospital discharge and now want to move to substance abuse treatment?",
+      "a": "Reframe your language to highlight transferable skills (assessment, trauma-informed care, systems navigation, interdisciplinary work) and adjust examples to match the new setting. In your cover letter, explicitly say why you're drawn to the substance abuse field; on the resume, let your relevant skills do the work."
+    },
+    {
+      "q": "Should I mention specific therapies or modalities I've trained in?",
+      "a": "Yes, if you have formal or ongoing training (CBT, DBT, EMDR, MI, solution-focused brief therapy, etc.). List them in a 'Clinical Training' or 'Certifications' section. Employers in mental health and trauma settings actively search for these—they signal evidence-based practice and specialist value."
+    }
+  ]
+}

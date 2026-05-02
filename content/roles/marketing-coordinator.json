@@ -1,0 +1,134 @@
+{
+  "slug": "marketing-coordinator",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:37:11.839Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Marketing Coordinator Resume: Tips, Examples & Best Practices",
+  "metaDescription": "Land your marketing coordinator role. See skill priorities, strong resume bullets, and real mistakes to avoid when applying.",
+  "h1": "Marketing Coordinator Resume Guide",
+  "intro": "A marketing coordinator resume needs to prove you can juggle campaigns, data, and deadlines—all while supporting the broader team. This guide walks you through the exact skills, phrasing, and structure that hiring managers actually look for.",
+  "audience": "Recent grads, early-career job seekers, and people pivoting into marketing from adjacent fields like customer service or retail.",
+  "topSkills": [
+    {
+      "name": "Campaign Management",
+      "why": "Hiring managers want to see you've organized, tracked, or executed end-to-end marketing campaigns—not just attended meetings."
+    },
+    {
+      "name": "Social Media Management",
+      "why": "Nearly every company expects coordinators to manage or support social accounts, write posts, and monitor engagement."
+    },
+    {
+      "name": "Email Marketing",
+      "why": "Marketing coordinators often own or co-own email lists, campaigns, and metrics—platforms like Mailchimp or HubSpot are table stakes."
+    },
+    {
+      "name": "Content Calendar Planning",
+      "why": "Showing you can organize, schedule, and plan content across channels proves you're organized and think ahead."
+    },
+    {
+      "name": "Google Analytics & Data Analysis",
+      "why": "Even entry-level coordinators are expected to track performance, pull reports, and talk about conversion rates or traffic trends."
+    },
+    {
+      "name": "CRM Software (HubSpot, Salesforce, Pipedrive)",
+      "why": "CRM platforms are everywhere; familiarity signals you can manage leads and integrate marketing with sales."
+    },
+    {
+      "name": "Adobe Creative Suite (Canva, Figma)",
+      "why": "You don't need to be a designer, but basic design tool proficiency shows you can create or edit simple graphics."
+    },
+    {
+      "name": "Project Management Tools (Asana, Monday.com, Trello)",
+      "why": "Marketing teams live in these tools; showing you can manage timelines and collaborate proves you're efficient."
+    },
+    {
+      "name": "SEO & Keyword Research Basics",
+      "why": "Understanding basic SEO principles and how to research keywords makes you a more valuable content contributor."
+    },
+    {
+      "name": "Event Coordination & Promotion",
+      "why": "Many coordinator roles involve planning webinars, trade shows, or local events—mention it if you have experience."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped create social media posts and managed company accounts.",
+      "strong": "Managed Instagram, LinkedIn, and Twitter accounts; created and scheduled 60+ posts monthly, increasing follower engagement by 35-40%.",
+      "lesson": "Replace vague 'helped' with concrete numbers (post count, frequency) and measurable outcomes (engagement lift, growth rate)."
+    },
+    {
+      "weak": "Supported email marketing campaigns and collected subscriber data.",
+      "strong": "Executed weekly email campaigns to 15K+ subscribers using HubSpot; achieved 22-26% open rate and 8-12% CTR by A/B testing subject lines and segmenting lists by role.",
+      "lesson": "Name the platform, audience size, and specific metrics (open rate, CTR) to show you understand what success looks like in email."
+    },
+    {
+      "weak": "Assisted in planning marketing events and promotions.",
+      "strong": "Coordinated logistics for 4 quarterly webinars and 2 in-person trade shows; managed registration page, email sequencing, and post-event follow-up, driving 200+ qualified leads.",
+      "lesson": "Quantify event size, your specific role, and the direct outcome (leads, signups, attendance) rather than generic 'assisted' language."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tasks instead of outcomes",
+      "fix": "Every bullet should start with an action verb and end with a metric or result (e.g., 'Reduced email unsubscribe rate by 5%' not 'Worked on email list health')."
+    },
+    {
+      "mistake": "Not quantifying your impact",
+      "fix": "If you ran a campaign, report reach, engagement rate, or conversions. If you managed social, show follower growth or post performance. Numbers prove you measured success."
+    },
+    {
+      "mistake": "Forgetting to mention tools and platforms",
+      "fix": "Name the software you used (HubSpot, Canva, Google Analytics, Asana, etc.) so ATS systems and hiring managers instantly see you know the tech."
+    },
+    {
+      "mistake": "Treating all experience equally",
+      "fix": "Lead with campaigns, social, or events you directly owned. Downplay routine admin tasks (filing, scheduling meetings) unless they directly supported a measurable result."
+    },
+    {
+      "mistake": "Being too modest about solo projects",
+      "fix": "If you created content, ran a small campaign, or owned a channel—even part-time—own it and quantify it. Hiring managers want to see initiative."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with campaign or social media wins, not administrative duties. Hiring managers scan the top first—put your most impressive metrics there.",
+    "Create a dedicated 'Marketing Tools & Software' section or weave key platforms (HubSpot, Google Analytics, Asana, Canva) into your skills section so ATS algorithms catch them.",
+    "Include a 'Projects' or 'Key Campaigns' subsection if you're a recent grad; a short 2–3 bullet summary of a capstone project or class campaign can punch above an unpaid internship.",
+    "If you have data or analytics work, create a separate line item; don't bury 'pulled 50 Google Analytics reports' in a general bullet. Hiring managers hunt for that skillset."
+  ],
+  "atsKeywords": [
+    "marketing coordinator",
+    "campaign management",
+    "social media management",
+    "email marketing",
+    "content calendar",
+    "Google Analytics",
+    "HubSpot",
+    "SEO keyword research",
+    "project management",
+    "event coordination"
+  ],
+  "salarySignal": "Entry-level marketing coordinator salaries typically range from $32,000 to $45,000 annually in the US, with regional variation and company size affecting the range significantly.",
+  "faq": [
+    {
+      "q": "What should I include if I only have internship experience?",
+      "a": "Treat internships as real jobs on your resume. Quantify what you did: 'Managed 500+ social media followers, published 3 blog posts monthly, tracked email metrics.' Also include 2–3 relevant class projects or capstone work if it involved real marketing tools or campaigns."
+    },
+    {
+      "q": "Should I list skills I haven't used yet?",
+      "a": "Only if you've formally learned them (course, bootcamp, or certification). Don't list 'HubSpot' if you've only watched a YouTube tutorial. Instead, write 'Proficient in Google Analytics; learning HubSpot fundamentals' to signal interest without overselling."
+    },
+    {
+      "q": "How do I show impact if my campaigns were small or internal?",
+      "a": "Size doesn't matter—metrics do. If you ran an internal email campaign to 200 people and got a 30% open rate, that's still impressive and worth reporting. Hiring managers care about your ability to measure and optimize, not the raw scale."
+    },
+    {
+      "q": "What's the best way to format my experience for ATS?",
+      "a": "Use bullet points, not paragraphs. Start each bullet with an action verb. Include specific tool names (HubSpot, Asana, Canva) exactly as written so ATS keywords match. Avoid graphics, tables, and fancy fonts—plain text with bold headers is safest."
+    },
+    {
+      "q": "Should I include a portfolio or link to my work?",
+      "a": "Yes, if you have one. Add a 'Portfolio' or 'Work Samples' line with a link to your personal site, Medium, or LinkedIn. Managers want to see your actual social posts, emails, or blog articles. If you don't have one yet, start a simple one—it sets you apart."
+    }
+  ]
+}

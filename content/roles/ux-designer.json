@@ -1,0 +1,130 @@
+{
+  "slug": "ux-designer",
+  "title": "UX Designer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:27:42.623Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "UX Designer Resume: Examples & Writing Tips",
+  "metaDescription": "Build a standout UX Designer resume with real examples, key skills, and ATS-friendly templates. Land your next design role.",
+  "h1": "How to Write a UX Designer Resume That Gets Interviews",
+  "intro": "Your UX Designer resume needs to prove you can solve real problems, not just make things look pretty. We'll show you how to highlight your design process, research skills, and impact—with concrete examples that hiring managers actually care about.",
+  "audience": "Recent design school grads, career switchers from related fields like graphic or product design, and early-career UX designers looking to level up their applications.",
+  "topSkills": [
+    {
+      "name": "User Research & Testing",
+      "why": "Hiring managers want to see you understand user needs before designing; this is the foundation of good UX."
+    },
+    {
+      "name": "Figma",
+      "why": "Figma is the industry standard for collaborative design and prototyping; almost every UX job posting lists it."
+    },
+    {
+      "name": "Wireframing & Prototyping",
+      "why": "These skills show you can take research insights and translate them into tangible, testable designs."
+    },
+    {
+      "name": "Information Architecture (IA)",
+      "why": "Organizing content logically is critical for usability; it's a core skill that separates junior from mid-level designers."
+    },
+    {
+      "name": "Usability Testing",
+      "why": "Demonstrating you can validate designs with real users shows maturity and reduces hiring risk."
+    },
+    {
+      "name": "Interaction Design",
+      "why": "Micro-interactions, animations, and flow design are what make products feel intuitive and delightful."
+    },
+    {
+      "name": "Design Systems & Component Libraries",
+      "why": "Scaling design across products via systems thinking is increasingly valuable in larger teams."
+    },
+    {
+      "name": "Accessibility (WCAG, A11y)",
+      "why": "Inclusive design is no longer optional; teams actively seek designers who prioritize accessible interfaces."
+    },
+    {
+      "name": "Adobe XD or Sketch",
+      "why": "Alternative design tools show versatility and that you can pick up new software quickly."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed user interfaces for a mobile app and conducted user research.",
+      "strong": "Conducted moderated user testing with 12 participants, identified 3 major navigation pain points, and redesigned information architecture; post-launch analytics showed 35% increase in task completion rate.",
+      "lesson": "Specific numbers (participant count, findings, impact) and a clear before-and-after outcome make the work tangible and measurable."
+    },
+    {
+      "weak": "Created wireframes and prototypes using Figma for cross-functional teams.",
+      "strong": "Built interactive prototypes in Figma that reduced design-to-development handoff time by 40% and created shared component library used across 5 product features.",
+      "lesson": "Quantifying impact (time saved, scope of reuse) and showing collaboration value demonstrates business thinking, not just design output."
+    },
+    {
+      "weak": "Improved website usability through design improvements.",
+      "strong": "Performed heuristic evaluation and A/B tested 2 homepage layouts with 5K+ users; winning variant reduced bounce rate from 52% to 41% and increased sign-ups by 28%.",
+      "lesson": "Naming the research method, real metrics, and user scale shows you can marry design decisions to business outcomes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools instead of outcomes",
+      "fix": "Don't just say 'Proficient in Figma.' Instead, describe what you built in Figma and what problem it solved."
+    },
+    {
+      "mistake": "Vague process descriptions",
+      "fix": "Replace 'Led design process' with specifics: 'Conducted 8 user interviews, mapped user journeys, and iterated 3 design rounds based on feedback.'"
+    },
+    {
+      "mistake": "Forgetting accessibility and inclusive design",
+      "fix": "Include at least one bullet mentioning WCAG compliance, accessibility testing, or inclusive design work—it's expected now."
+    },
+    {
+      "mistake": "No link to portfolio or case studies",
+      "fix": "Always include a portfolio URL and/or link to 1–2 detailed case studies showing your full process, not just the final mockups."
+    },
+    {
+      "mistake": "Claiming solo credit for team work",
+      "fix": "Use 'collaborated with' or 'partnered with' to show you work cross-functionally; hiring managers value teamwork over heroics."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line professional summary that includes your core UX strength (e.g., user research, interaction design, design systems) and the types of problems you love solving.",
+    "Put a 'Notable Projects' or 'Case Studies' section before your job history to spotlight 1–2 end-to-end design projects with user impact.",
+    "Within job descriptions, prioritize bullets that show research, iteration, and metrics over tool proficiency—tools change, but design thinking doesn't.",
+    "Include a 'Skills' section organized by category (Research & Testing, Design Tools, Methodologies, Soft Skills) to hit ATS keywords and make scanning easy for hiring managers."
+  ],
+  "atsKeywords": [
+    "user research",
+    "usability testing",
+    "wireframing and prototyping",
+    "interaction design",
+    "information architecture",
+    "design systems",
+    "Figma",
+    "accessibility WCAG",
+    "user experience design",
+    "cross-functional collaboration"
+  ],
+  "salarySignal": "Entry-level UX Designer roles in the US typically start at $60K–$75K; mid-level designers earn $85K–$110K; senior designers and design leads reach $120K+. Salary varies significantly by location (SF Bay Area and NYC pay higher) and company size.",
+  "faq": [
+    {
+      "q": "Do I need a design degree to get a UX Designer job?",
+      "a": "No, but you need a strong portfolio and case studies showing your design process and problem-solving. Bootcamps, self-taught portfolios, and adjacent fields (graphic design, product management, research) all lead to UX roles. Hiring managers care more about your work than your degree."
+    },
+    {
+      "q": "Should I include all my design tools on my resume?",
+      "a": "No—only list tools you're genuinely comfortable with. Figma is essential for almost every job. Add 1–2 others (Sketch, Adobe XD, Protopie, etc.) only if you've used them in real projects. Skip tools you just dabbled in; they'll come up in interviews."
+    },
+    {
+      "q": "How do I show my design work on a resume if I can't share client projects?",
+      "a": "Create case studies for your portfolio using anonymized versions of real work (change company names, product details) or build a personal project that solves a real problem. Link to your portfolio in your resume and in your email signature."
+    },
+    {
+      "q": "What metrics should I include in my UX Designer resume?",
+      "a": "Focus on user-centered metrics: task completion rates, user satisfaction scores, time-on-task reductions, bounce rates, conversion lifts, or accessibility compliance improvements. Avoid vanity metrics like 'designed X screens'; instead, show impact."
+    },
+    {
+      "q": "How do I stand out as a junior UX Designer with no professional experience?",
+      "a": "Build 2–3 detailed case studies from bootcamp projects or personal work, include user research and iteration (even if small scale), and highlight any internships, volunteer design work, or open-source projects. A strong portfolio often outweighs years of experience for junior roles."
+    }
+  ]
+}

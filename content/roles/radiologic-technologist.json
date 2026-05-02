@@ -1,0 +1,130 @@
+{
+  "slug": "radiologic-technologist",
+  "title": "Radiologic Technologist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:32.132Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Radiologic Technologist Resume: Guide & Examples",
+  "metaDescription": "Write a winning radiologic technologist resume. Learn what skills, certifications, and metrics hiring managers want to see.",
+  "h1": "Radiologic Technologist Resume: Tips, Skills & Examples",
+  "intro": "Your radiologic technologist resume needs to prove you can safely operate imaging equipment, protect patients, and deliver crisp diagnostic images under pressure. We'll show you how to highlight certifications, clinical experience, and technical competencies that hospitals and imaging centers actually want to hire.",
+  "audience": "Entry-level radiology technologists applying for their first clinical role, recently certified grads, and experienced techs moving between facilities or specializations.",
+  "topSkills": [
+    {
+      "name": "ARRT Certification (Radiography)",
+      "why": "Non-negotiable credential that proves you've passed the American Registry of Radiologic Technologists exam and can legally perform radiography in most states."
+    },
+    {
+      "name": "X-ray Equipment Operation",
+      "why": "Core competency—hiring managers need to know you can safely position patients, set exposure parameters, and produce diagnostically acceptable images."
+    },
+    {
+      "name": "Patient Safety & Radiation Protection",
+      "why": "Demonstrates you understand ALARA principles, proper shielding, and dose reduction—critical for reducing liability and showing patient-centered care."
+    },
+    {
+      "name": "CT Imaging",
+      "why": "Computed tomography is high-demand and often commands premium pay; this specialty certification sets you apart from general radiography technologists."
+    },
+    {
+      "name": "MRI Safety Certification",
+      "why": "Magnetic resonance imaging requires specialized training on contraindications, ferrous metal screening, and machine operation—a valuable differentiator."
+    },
+    {
+      "name": "Electronic Health Records (EHR) & PACS",
+      "why": "Modern imaging centers rely on Picture Archiving and Communication Systems; proficiency speeds workflow and reduces errors."
+    },
+    {
+      "name": "Patient Care & Communication",
+      "why": "You're often the first clinical touch for anxious or injured patients; showing empathy and clear instruction improves outcomes and patient satisfaction scores."
+    },
+    {
+      "name": "Fluoroscopy & Interventional Imaging",
+      "why": "Real-time imaging and procedure support roles are high-acuity and often better compensated; highlights advanced technical competency."
+    },
+    {
+      "name": "Quality Assurance & Compliance",
+      "why": "Hospitals value techs who catch retakes, maintain calibration logs, and ensure regulatory adherence—this reduces costs and risk."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed X-rays and other imaging procedures on patients.",
+      "strong": "Performed 40–60 radiographic examinations daily while maintaining 98% first-pass image quality, reducing repeat exposures and patient radiation dose.",
+      "lesson": "Adding volume, quality metric, and patient benefit transforms a generic duty into proof of efficiency and safety awareness."
+    },
+    {
+      "weak": "Helped with CT scans and followed safety rules.",
+      "strong": "Assisted in 15–20 CT procedures per shift, screened 100+ patients for MRI contraindications using standardized questionnaire, and documented zero safety incidents over 18 months.",
+      "lesson": "Quantify your scope, specify safety protocols, and include a positive outcome (incident-free record) to show reliability and judgment."
+    },
+    {
+      "weak": "Used PACS software and communicated with radiologists.",
+      "strong": "Navigated Epic EHR and Philips PACS to archive 300+ studies daily, expedited critical finding notifications to radiologists within 5 min, and trained 3 new techs on protocol changes.",
+      "lesson": "Name the specific software, show speed/throughput, and include mentoring or process improvement—these signal leadership and adaptability."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'ARRT-eligible' instead of certified",
+      "fix": "Only list ARRT Certification or R(AHRA) if you've actually passed the exam and registered; 'eligible' signals you haven't completed the credential and may disqualify you."
+    },
+    {
+      "mistake": "Omitting radiation protection or safety language",
+      "fix": "Always mention ALARA principles, dose reduction, or shielding protocols—hospitals are legally liable for overexposure, so they hire for safety-conscious techs."
+    },
+    {
+      "mistake": "Not specifying imaging modalities you're trained in",
+      "fix": "Spell out which modalities you can operate (general radiography, CT, fluoroscopy, ultrasound assist, etc.) because facilities hire for specific needs and cross-training is valuable."
+    },
+    {
+      "mistake": "Using vague patient volume or clinical experience",
+      "fix": "Replace 'assisted with many procedures' with concrete numbers: 'performed 8,000+ radiographic exams' or 'supported 200+ interventional procedures' to show throughput and skill."
+    },
+    {
+      "mistake": "Forgetting continuing education or specialty certifications",
+      "fix": "List AART CE credits completed, BLS/ACLS renewal dates, or specialty certs like CT, MRI, or Mammography—shows commitment to staying current in a regulated field."
+    }
+  ],
+  "structureTips": [
+    "Lead with your ARRT certification and license number (or state license) at the top of your summary or credentials section—hiring managers scan for this first.",
+    "Group clinical experience by imaging modality (Radiography, CT, Fluoroscopy, etc.) rather than chronologically, so hiring managers immediately see if you match their facility's needs.",
+    "Place continuing education, specialty certifications (CT, MRI, Mammo), and BLS/ACLS renewals in a dedicated section above or alongside your core certifications—regulatory compliance is non-negotiable.",
+    "In your professional summary, lead with years of clinical experience, key modalities, and a safety or quality metric (e.g., '5 years' experience with 99% first-pass rate and zero adverse events')—sets you apart from day-one applicants."
+  ],
+  "atsKeywords": [
+    "ARRT Certification",
+    "Radiography",
+    "CT imaging",
+    "MRI safety",
+    "PACS",
+    "Radiation protection",
+    "Patient positioning",
+    "Fluoroscopy",
+    "EHR",
+    "ALARA principles"
+  ],
+  "salarySignal": "Entry-level US radiologic technologist salaries typically range from $35,000 to $45,000 annually; experienced techs with CT or MRI certifications often earn $50,000–$65,000+, depending on region and employer type (hospital vs. outpatient center).",
+  "faq": [
+    {
+      "q": "Do I need ARRT certification to get hired as a radiologic technologist?",
+      "a": "Yes, ARRT certification is legally required in most states and is a non-negotiable credential for hospital and imaging center jobs. Some employers may hire uncertified techs only under supervision while you study for the exam, but it's temporary. Make sure your resume clearly states you hold (or will hold by a specific date) an active ARRT credential."
+    },
+    {
+      "q": "What's more important on my resume: general radiography experience or specialty certifications like CT?",
+      "a": "Both matter, but specialty certs (CT, MRI, Mammo) are a bigger differentiator and often come with higher pay. Lead with your strongest modalities and most recent clinical experience, then highlight any specialty certifications in a dedicated section. Hiring managers scan for both breadth and depth."
+    },
+    {
+      "q": "How do I show patient safety on a radiologic technologist resume?",
+      "a": "Use concrete language: mention ALARA compliance, dose reduction practices, zero repeat rates or adverse events, safety training completed, and specific protocols you follow (ferrous metal screening, shielding use, etc.). Hospitals are risk-averse, so safety awareness is a top hiring signal."
+    },
+    {
+      "q": "Should I include soft skills like communication or teamwork on my radiologic tech resume?",
+      "a": "Yes, but anchor them to clinical outcomes: 'reduced patient anxiety during difficult exams,' 'trained new staff on protocol changes,' or 'collaborated with radiologists to expedite critical findings.' Generic soft-skills language gets skipped; tie them to your role and impact."
+    },
+    {
+      "q": "What if I'm a new grad with no clinical experience yet?",
+      "a": "Focus on your ARRT certification, clinical internship sites, any externships or practicum, relevant coursework (anatomy, physics, patient care), and BLS/ACLS certification. Highlight any volunteer experience, patient interaction, or technical competencies (PACS familiarity) you gained during your radiologic technology program. Many entry-level roles expect minimal clinical experience if you're certified."
+    }
+  ]
+}

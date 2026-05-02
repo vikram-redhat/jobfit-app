@@ -1,0 +1,130 @@
+{
+  "slug": "dental-assistant",
+  "title": "Dental Assistant",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:05.559Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Dental Assistant Resume Guide & Examples 2026",
+  "metaDescription": "Learn how to write a winning Dental Assistant resume with real examples, key skills, and ATS keywords that land interviews.",
+  "h1": "How to Write a Dental Assistant Resume That Gets Interviews",
+  "intro": "A strong dental assistant resume highlights your clinical skills, patient care experience, and ability to keep the operatory running smoothly. Whether you're fresh out of certification or switching from another healthcare role, we'll show you exactly what hiring managers look for—and how to stand out.",
+  "audience": "Recent dental assisting graduates, certified assistants seeking new positions, and healthcare workers transitioning into dental support roles.",
+  "topSkills": [
+    {
+      "name": "Chairside Assisting",
+      "why": "Dentists need assistants who can anticipate needs, hand instruments efficiently, and maintain the sterile field—this is your core value."
+    },
+    {
+      "name": "Infection Control & Sterilization",
+      "why": "OSHA compliance and cross-contamination prevention are non-negotiable; dentists screen heavily for candidates who know protocols cold."
+    },
+    {
+      "name": "Radiographic Techniques (X-rays)",
+      "why": "Many dental offices require or prefer assistants certified in radiography to reduce dentist workload and improve efficiency."
+    },
+    {
+      "name": "Patient Communication",
+      "why": "You're often the first and last contact with patients; calming anxious patients and explaining procedures builds trust and retention."
+    },
+    {
+      "name": "Electronic Health Records (EHR)",
+      "why": "Modern practices use systems like Dentrix, Open Dental, or Eaglesoft; familiarity saves onboarding time and reduces errors."
+    },
+    {
+      "name": "Oral Surgery Assisting",
+      "why": "Extracting and implant procedures demand precision; practices with surgical scope prefer assistants trained in this specialty."
+    },
+    {
+      "name": "Restorative & Cosmetic Procedures",
+      "why": "Familiarity with composites, veneers, and other restorations shows you can support high-skill procedures and higher-revenue services."
+    },
+    {
+      "name": "DANB Certification (or RDA/CDA)",
+      "why": "State and federal credentialing is increasingly required or preferred; certifications prove competency and commitment."
+    },
+    {
+      "name": "Inventory & Supply Management",
+      "why": "Ordering materials, tracking stock, and reducing waste directly impact practice profitability—efficiency wins points with managers."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Assisted dentist with patient care and chairside duties.",
+      "strong": "Provided chairside assistance for 20–30 restorative and preventative procedures weekly; maintained sterile field protocols and reduced instrument changeover time by anticipating dentist needs.",
+      "lesson": "Specific numbers and measurable impact (weekly volume, efficiency gains) turn a vague task into a concrete achievement."
+    },
+    {
+      "weak": "Took X-rays and maintained patient records.",
+      "strong": "Captured intraoral and panoramic radiographs with 95%+ clarity standard; entered findings into Dentrix EHR and flagged abnormalities for dentist review, improving diagnostic accuracy.",
+      "lesson": "Naming the software, adding a quality metric, and showing how your work helped the dentist makes you sound like an asset, not just a task-doer."
+    },
+    {
+      "weak": "Sterilized instruments and cleaned the office.",
+      "strong": "Processed 200+ instruments daily through ultrasonic cleaning and autoclave sterilization; maintained OSHA compliance with documented verification logs, resulting in zero infection-control findings during state inspection.",
+      "lesson": "Volume, specifics (autoclave temp, logs), and regulatory wins prove you understand why this job matters—not just that you did it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'dental assistant' duties without context or volume.",
+      "fix": "Always quantify (number of patients/procedures per day or week) and link your work to practice outcomes like patient satisfaction or infection control scores."
+    },
+    {
+      "mistake": "Omitting your DANB, RDA, or CDA status or renewal date.",
+      "fix": "Lead with your certification credential and include the expiration date if it's current; if you're pursuing it, say 'DANB certification in progress (exam scheduled [month])' to show intent."
+    },
+    {
+      "mistake": "Forgetting to mention EHR software you've used.",
+      "fix": "Explicitly name systems (e.g., Dentrix, Open Dental, Eaglesoft) you're trained in; many offices filter resumes for these keywords to speed up hiring."
+    },
+    {
+      "mistake": "Writing like you're a generalist instead of highlighting specialty procedures.",
+      "force": "If you have exposure to oral surgery, implants, ortho, or endodontics, call it out by name—practices with those services actively seek assistants with that background."
+    },
+    {
+      "mistake": "Underplaying soft skills or ignoring anxious patient scenarios.",
+      "fix": "Add a bullet or two on patient education, calming nervous patients, or handling cancellations—cultural fit and patient-facing skills matter as much as clinical ones."
+    }
+  ],
+  "structureTips": [
+    "Lead with your DANB, RDA, or CDA certification (and state license if applicable) in the header or a dedicated 'Licensure & Certifications' section above Experience—hiring managers scan for this first.",
+    "Put your most recent and most skilled dental position first, grouping duties by type (Chairside Assisting, Radiography, Sterilization, Patient Communication) rather than a giant paragraph.",
+    "Include a short 'Technical Skills' or 'Core Competencies' section that names EHR systems, radiography equipment, and specialty experience (e.g., 'Oral Surgery Assisting, Invisalign Support, Dentrix EHR')—this speeds up ATS scanning.",
+    "If you have infection control, OSHA, or restorative procedure certifications beyond your main credential, add them in a separate line; they're often bonus differentiators."
+  ],
+  "atsKeywords": [
+    "Dental Assistant",
+    "Chairside Assisting",
+    "DANB Certification",
+    "Infection Control",
+    "Radiographic Techniques",
+    "Dentrix EHR",
+    "Oral Surgery Assisting",
+    "Patient Communication",
+    "Sterilization Protocols",
+    "RDA or CDA"
+  ],
+  "salarySignal": "Entry-level dental assistant salaries in the US typically range from $30,000 to $38,000 annually; experienced or certified assistants in high-cost-of-living areas or specialty practices can earn $38,000–$48,000+.",
+  "faq": [
+    {
+      "q": "Do I need to be certified (DANB/RDA/CDA) to get a dental assistant job?",
+      "a": "It depends on your state and the specific office. Many states don't legally require certification, but employers increasingly prefer it—and certified assistants typically earn more. If you're not certified yet, put 'DANB exam scheduled [month]' on your resume to show intent."
+    },
+    {
+      "q": "What's the difference between a Dental Assistant and a Registered Dental Assistant (RDA)?",
+      "a": "A Dental Assistant is the entry-level role; an RDA (Registered Dental Assistant) or CDA (Certified Dental Assistant) has passed a state or national exam and has expanded duties (like operatory setup, radiography, or some coronal polishing). List whichever credential you hold, and note if you're pursuing a higher one."
+    },
+    {
+      "q": "How do I highlight experience if I'm a new grad with no dental office hours yet?",
+      "a": "Lean on your clinical rotations, externships, or practicum placements—list them under 'Experience' with the school/clinic name and quantify what you practiced (e.g., '200+ chairside assists in varied procedures'). Also highlight volunteer work, shadowing, or perio assisting if applicable."
+    },
+    {
+      "q": "Should I mention specific EHR software I've used?",
+      "a": "Absolutely. Name every system (Dentrix, Open Dental, Eaglesoft, Curve, etc.) you're trained in; hiring managers often search for these keywords. If you're strong in one but willing to learn others, say 'Proficient: Dentrix; quick learner on Open Dental and Eaglesoft.'"
+    },
+    {
+      "q": "How do I show that I improved efficiency or patient satisfaction if my office didn't track metrics?",
+      "a": "Use observable examples: 'Reduced appointment delays by 15 min per session through improved instrument anticipation,' 'Maintained 98%+ patient satisfaction rating (feedback surveys),' or 'Trained 2 new assistants on sterilization protocols.' Be truthful, but frame your contributions in measurable terms."
+    }
+  ]
+}

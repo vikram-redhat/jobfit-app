@@ -1,0 +1,130 @@
+{
+  "slug": "devops-engineer",
+  "title": "DevOps Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:39.616Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "DevOps Engineer Resume: Tips & Examples for 2025",
+  "metaDescription": "Land your DevOps role with a resume that showcases infrastructure, automation, and deployment expertise. See real examples and what hiring managers actually want.",
+  "h1": "DevOps Engineer Resume: Write One That Gets You Hired",
+  "intro": "DevOps hiring managers care about what you've *shipped* and *automated*, not just what you know. A strong DevOps resume proves you can bridge dev and ops, reduce deployment friction, and own infrastructure as code. Let's build one that lands interviews.",
+  "audience": "Early-career DevOps engineers, junior infrastructure engineers transitioning from sysadmin or development roles, and career-switchers with hands-on cloud and automation experience.",
+  "topSkills": [
+    {
+      "name": "CI/CD Pipelines (Jenkins, GitLab CI, GitHub Actions)",
+      "why": "Hiring managers want to see you've automated deployments and reduced manual handoffs between teams."
+    },
+    {
+      "name": "Container Orchestration (Kubernetes, Docker)",
+      "why": "Kubernetes is the industry standard for production workloads; it's often a non-negotiable skill for mid-level and senior roles."
+    },
+    {
+      "name": "Infrastructure as Code (Terraform, Ansible, CloudFormation)",
+      "why": "IaC is how modern DevOps teams version-control and replicate environments; it's a core differentiator from traditional ops."
+    },
+    {
+      "name": "Cloud Platforms (AWS, GCP, Azure)",
+      "why": "Most companies run on cloud now; specific platform experience (VPCs, IAM, managed services) is a quick filter for hiring teams."
+    },
+    {
+      "name": "Monitoring & Observability (Prometheus, Grafana, DataDog, ELK)",
+      "why": "Ops teams live and die by alerts and dashboards; showing you've built or improved monitoring is a strong signal."
+    },
+    {
+      "name": "Linux Administration & Bash/Python Scripting",
+      "why": "Foundational skills that prove you can troubleshoot, automate tasks, and work at the command line without hand-holding."
+    },
+    {
+      "name": "Git & Version Control Workflow",
+      "why": "DevOps engineers manage code, configs, and infrastructure in Git; fluency here shows you fit into modern development teams."
+    },
+    {
+      "name": "Incident Response & Troubleshooting",
+      "why": "On-call rotations and production fires are part of the job; demonstrating past wins during outages builds confidence."
+    },
+    {
+      "name": "Database & Networking Basics (SQL, DNS, TCP/IP)",
+      "why": "Understanding data layer and networking helps you design resilient, secure infrastructure and collaborate with backend teams."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Deployed applications to AWS and managed Docker containers using Kubernetes.",
+      "strong": "Migrated 12 microservices to Kubernetes on AWS, reducing deployment time from 45 minutes to 8 minutes and cutting infrastructure costs by 35% through autoscaling.",
+      "lesson": "Weak bullets list tools; strong ones quantify impact (time saved, cost reduction) and show before/after outcomes that matter to business."
+    },
+    {
+      "weak": "Set up monitoring and alerting for production systems.",
+      "strong": "Designed and deployed Prometheus + Grafana monitoring stack across 40+ services, reducing mean time to detection (MTTD) by 70% and enabling on-call team to resolve P1 incidents 2.5x faster.",
+      "lesson": "Specific tools plus metrics on speed and reliability are gold; hiring managers see you've owned the full observability stack and improved ops efficiency."
+    },
+    {
+      "weak": "Automated infrastructure using Terraform and Ansible.",
+      "strong": "Built Terraform modules for VPC, RDS, and ECS provisioning, enabling 15-person engineering team to spin up staging environments in 10 minutes vs. 2 hours manual setup; maintained 99.2% uptime across 8 production clusters.",
+      "lesson": "Show both the automation work (modules, reusability) and the human impact (faster environments, team velocity, uptime)—this is DevOps in a nutshell."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without showing impact or scale.",
+      "fix": "Always pair a technology with a result: 'Built CI/CD pipeline' is weak; 'reduced deployment failures by 60% with automated testing in Jenkins' is strong."
+    },
+    {
+      "mistake": "Focusing on infrastructure you inherited rather than improvements you made.",
+      "fix": "Emphasize what you optimized, debugged, or migrated—hiring managers want to see your agency, not just your presence."
+    },
+    {
+      "mistake": "Underselling on-call and incident response experience.",
+      "fix": "Call out specific outages you resolved, how you improved runbooks, or alerts you built to prevent recurrence—this is *real* DevOps work."
+    },
+    {
+      "mistake": "Using generic cloud platform language without specifics.",
+      "fix": "Instead of 'managed AWS infrastructure,' say 'architected multi-AZ RDS clusters with automated failover and 99.95% SLA' or 'optimized EC2 instances reducing monthly spend by 20%'."
+    },
+    {
+      "mistake": "Omitting version control and Git workflow details.",
+      "fix": "Mention branch strategies (GitFlow, trunk-based), code reviews, or how you integrated Git with CI/CD—it shows you work in collaborative, modern pipelines."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Technical Skills' section organized by category (Cloud Platforms, CI/CD, IaC, Monitoring, Languages) so scanners and hiring managers spot your strongest tools in 3 seconds.",
+    "Put your most impactful infrastructure or automation project in your top 2–3 bullets under your most recent role; hiring managers skim, so your biggest win should appear early.",
+    "Create a short 'Key Accomplishments' or 'Highlights' section near the top if you've jumped between companies—it surfaces your best results before job history.",
+    "Use metrics-first language: lead bullets with time saved, costs cut, uptime achieved, or deployments accelerated. Numbers bypass corporate bias and prove you shipped."
+  ],
+  "atsKeywords": [
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "CI/CD Pipeline",
+    "AWS",
+    "Infrastructure as Code",
+    "Jenkins",
+    "Ansible",
+    "Prometheus",
+    "Git"
+  ],
+  "salarySignal": "Entry-level DevOps engineer salaries in the US typically range from $70k to $90k; mid-level (3–5 years) from $100k to $130k; senior roles from $140k to $180k+. Salary varies significantly by region (San Francisco and Seattle command 20–30% premiums) and company stage.",
+  "faq": [
+    {
+      "q": "Should I put Kubernetes on my resume if I've only used it in side projects?",
+      "a": "Yes, but be honest about the scope. Say 'Deployed multi-container applications on Kubernetes (minikube/EKS)' rather than 'Kubernetes expert.' Hiring managers appreciate transparency and will probe depth in interviews anyway."
+    },
+    {
+      "q": "How many cloud platforms should I list if I know AWS, GCP, and Azure?",
+      "a": "List all three, but order them by depth of experience. If you're AWS-strongest, lead with AWS and be specific (RDS, VPC, IAM); for others, mention 1–2 core services you've actually used in production."
+    },
+    {
+      "q": "Is it worth mentioning serverless (Lambda, Cloud Functions) on a DevOps resume?",
+      "a": "Absolutely. Serverless is increasingly part of modern DevOps; mention it if you've set up event-driven workflows, automated functions via CI/CD, or optimized cold-start times."
+    },
+    {
+      "q": "Should I include monitoring tools if I've only set up dashboards, not built alerts?",
+      "a": "Yes. List the tools (Prometheus, Grafana, DataDog), but be specific about what you contributed—'built 25+ custom Grafana dashboards for microservices' or 'configured alerting rules for API latency and error rates.'"
+    },
+    {
+      "q": "How do I show incident response experience if I haven't been officially on-call?",
+      "a": "Mention times you debugged production issues, joined incident response calls, or wrote post-mortem follow-ups. Example: 'Debugged and patched critical database connection leak affecting 30k users; led post-incident remediation and monitoring improvements.'"
+    }
+  ]
+}

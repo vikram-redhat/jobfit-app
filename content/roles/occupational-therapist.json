@@ -1,0 +1,140 @@
+{
+  "slug": "occupational-therapist",
+  "title": "Occupational Therapist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:06.208Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Occupational Therapist Resume: Examples & Writing Tips",
+  "metaDescription": "Build a strong OT resume with real examples, key skills, and hiring manager insights. Land interviews faster with our actionable resume guide.",
+  "h1": "How to Write an Occupational Therapist Resume That Gets Interviews",
+  "intro": "Your occupational therapy resume needs to show both clinical expertise and measurable patient outcomes—not just a list of credentials. We'll walk you through the specific skills, formats, and language that hiring managers at hospitals, clinics, schools, and rehab centers actually respond to.",
+  "audience": "Recent OT graduates, newly licensed occupational therapists, and experienced OTs looking to transition between settings (clinical to school, acute to outpatient, etc.).",
+  "topSkills": [
+    {
+      "name": "Patient Assessment & Functional Evaluation",
+      "why": "Hiring managers need to see you can independently evaluate patients' occupational needs and limitations—it's the foundation of all OT work."
+    },
+    {
+      "name": "Treatment Planning & Intervention Design",
+      "why": "Employers want evidence you can develop individualized therapy plans that address specific client goals, not generic templates."
+    },
+    {
+      "name": "ADL & IADL Training",
+      "why": "Activities of daily living and instrumental ADL training are core OT responsibilities; showing mastery here proves competency in the role's essence."
+    },
+    {
+      "name": "Electronic Health Records (EHR) & Documentation",
+      "why": "Clinical documentation is non-negotiable; familiarity with specific EHR systems (Epic, Cerner, etc.) makes you immediately deployable."
+    },
+    {
+      "name": "Manual Therapy & Therapeutic Exercises",
+      "why": "Hands-on clinical skills—range of motion, strengthening, joint protection—differentiate you from candidates with only book knowledge."
+    },
+    {
+      "name": "Sensory Integration & Pediatric Therapy",
+      "why": "If you work with children, sensory processing frameworks and pediatric assessment tools are highly valued by school districts and pediatric clinics."
+    },
+    {
+      "name": "Mental Health & Psychosocial Interventions",
+      "why": "Many OT settings now emphasize mental health and cognition; demonstrating competency here opens doors to psychiatry, community mental health, and wellness roles."
+    },
+    {
+      "name": "Interdisciplinary Collaboration & Case Conferencing",
+      "why": "OTs work across teams (PT, speech, nursing, social work); showing you communicate and coordinate care signals you're ready for real clinical environments."
+    },
+    {
+      "name": "Assistive Technology & Adaptive Equipment",
+      "why": "Prescribing and training patients on mobility aids, home modifications, and adaptive devices is increasingly expected even at entry level."
+    },
+    {
+      "name": "HIPAA Compliance & Safety Protocols",
+      "why": "Healthcare employers screen resumes for evidence of ethical practice and awareness of patient privacy—explicitly mention it."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided occupational therapy treatment to patients with various diagnoses and discharged them when appropriate.",
+      "strong": "Completed occupational therapy assessments for 40+ inpatients with stroke, orthopedic, and neurological diagnoses; designed and implemented individualized treatment plans that resulted in 75% of patients meeting self-care and mobility goals within 2–4 weeks of admission.",
+      "lesson": "Specific diagnosis types, patient volume, and outcome percentages turn a vague responsibility into proof of clinical impact."
+    },
+    {
+      "weak": "Worked with the interdisciplinary team to support patient outcomes.",
+      "strong": "Collaborated with physical therapy, nursing, and social work in weekly case conferences; communicated discharge recommendations and home safety modifications that prevented 3 hospital readmissions in a 3-month period.",
+      "lesson": "Naming specific team members and linking collaboration to a measurable outcome (readmission reduction) shows you understand the value of teamwork."
+    },
+    {
+      "weak": "Trained patients and caregivers on adaptive equipment and home modifications.",
+      "strong": "Educated 50+ patients and family members on proper use of walkers, reachers, dressing aids, and bathroom safety equipment; documented training completion in EHR; 90% of caregivers reported confidence in providing assistance post-discharge.",
+      "lesson": "Patient volume, documentation method, and caregiver confidence metric prove both productivity and quality of education."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing credentials without context (e.g., 'OTR/L' alone)",
+      "fix": "Write 'Licensed Occupational Therapist (OTR/L), [State], License #[if relevant]' to confirm active licensure and state—employers need to know you're legally cleared to practice."
+    },
+    {
+      "mistake": "Focusing on duties instead of outcomes (e.g., 'conducted range-of-motion exercises')",
+      "fix": "Always tie clinical tasks to patient or organizational results: 'Conducted ROM exercises that improved shoulder abduction by 30 degrees, enabling patient to return to light assembly work.'"
+    },
+    {
+      "mistake": "Not mentioning specific settings or client populations",
+      "fix": "State the exact setting (acute-care hospital, outpatient clinic, school, skilled nursing facility) and populations you've worked with—hiring managers want to know if you fit their environment."
+    },
+    {
+      "mistake": "Omitting relevant certifications or specialty training",
+      "fix": "Include certifications like NBCOT, AOTA specialty certifications, or training in sensory integration, hand therapy, or low-vision rehab—they're often ATS keywords."
+    },
+    {
+      "mistake": "Generic references to 'patient care' without clinical depth",
+      "fix": "Replace vague language with specific assessments used (Functional Independence Measure, Canadian Occupational Performance Measure, Sensory Profile) and measurable functional improvements."
+    }
+  ],
+  "structureTips": [
+    "Lead with your clinical license and any specialty certifications in the header or summary—hiring managers scan for 'OTR/L' and state license status immediately to confirm compliance.",
+    "Place your most recent and highest-acuity clinical setting first; if you're applying to schools, move any school-based experience or pediatric training to the top of your work history.",
+    "Use a 'Core Competencies' or 'Key Skills' section to mirror job posting language (e.g., 'ADL training,' 'mental health intervention,' 'EHR documentation')—this helps with both ATS scanning and human readers.",
+    "In the experience section, group bullets by outcome category: Assessment & Diagnosis, Intervention & Treatment, Patient/Caregiver Education, and Collaboration—it mirrors the workflow and shows organizational thinking."
+  ],
+  "atsKeywords": [
+    "Occupational Therapist",
+    "OTR/L",
+    "Licensed Occupational Therapist",
+    "Activities of Daily Living",
+    "ADL training",
+    "Treatment planning",
+    "Patient assessment",
+    "Functional capacity evaluation",
+    "Sensory integration",
+    "Electronic health records",
+    "Clinical documentation",
+    "Interdisciplinary team",
+    "Assistive technology",
+    "Adaptive equipment",
+    "NBCOT",
+    "HIPAA compliant"
+  ],
+  "salarySignal": "Entry-level occupational therapists in the US typically earn $58,000–$68,000 annually; experienced OTs in private practice, specialty clinics, or management roles often earn $75,000–$95,000+. Salary varies by location, setting (hospital vs. school vs. private), and specialization.",
+  "faq": [
+    {
+      "q": "Should I list my NBCOT certification number on my resume?",
+      "a": "Yes, include 'NBCOT Certified' or 'NBCOT #[number]' near your license designation. It's an ATS keyword and proof you passed the national board exam. Some employers also require it for credentialing."
+    },
+    {
+      "q": "How do I show experience if I'm a new graduate with only internships?",
+      "a": "Rename 'Internship' or 'Fieldwork' with the setting and your title, e.g., 'Clinical Occupational Therapist (Internship), Acute Care Hospital.' Use the same outcome-focused bullet format; hiring managers understand new grads, but they want to see you took your education seriously."
+    },
+    {
+      "q": "What if I've worked in multiple OT settings (hospital, school, private practice)?",
+      "a": "List each setting separately in your work history and highlight what's unique about each (hospital: acute care, fast turnover; school: IEP writing, classroom integration; private: long-term relationships, specialized populations). This shows adaptability and breadth."
+    },
+    {
+      "q": "Should I mention EHR systems I'm proficient in?",
+      "a": "Absolutely. Add a 'Technical Skills' section listing systems like Epic, Cerner, NextGen, or specialized OT software (e.g., Therapy Insights). Many job postings filter for specific EHR experience, so naming them is both ATS-friendly and a hiring advantage."
+    },
+    {
+      "q": "How specific should I be about patient populations and diagnoses?",
+      "a": "Be specific: name diagnosis groups (stroke, spinal cord injury, autism, dementia, hand injuries) and client ages (pediatric, geriatric, adult). Employers want to know if you've worked with their target population; it's far more relevant than generic 'patient care' language."
+    }
+  ]
+}

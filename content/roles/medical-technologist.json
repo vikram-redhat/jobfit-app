@@ -1,0 +1,133 @@
+{
+  "slug": "medical-technologist",
+  "title": "Medical Technologist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:32.717Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Medical Technologist Resume: Skills, Examples & Tips",
+  "metaDescription": "Write a standout medical technologist resume. Learn what skills to highlight, see real bullet examples, and avoid common mistakes that cost you interviews.",
+  "h1": "Medical Technologist Resume: What Employers Actually Want to See",
+  "intro": "Medical technologists are the backbone of diagnostic labs, and your resume needs to prove you can handle precision work under pressure. This guide walks you through the exact skills, certifications, and achievements that get you past ATS systems and in front of hiring managers at hospitals, diagnostic labs, and pathology centers.",
+  "audience": "Recent graduates with a Medical Technology degree or related certification, career switchers from clinical lab science, and experienced MTs looking to advance or relocate.",
+  "topSkills": [
+    {
+      "name": "Clinical Laboratory Analysis",
+      "why": "Hiring managers need proof you can perform the core diagnostic tests (hematology, chemistry, microbiology) that justify your role."
+    },
+    {
+      "name": "CLIA Certification / ASCP Board Certification",
+      "why": "Most employers require or strongly prefer MT(ASCP) or equivalent state licensure; list it prominently to pass initial screening."
+    },
+    {
+      "name": "Specimen Collection & Handling",
+      "why": "Proper sample integrity is non-negotiable; labs need techs who minimize re-draws and contamination."
+    },
+    {
+      "name": "Laboratory Information System (LIS)",
+      "why": "Proficiency with Epic, Cerner, or facility-specific LIS software speeds up hiring since onboarding is faster."
+    },
+    {
+      "name": "Quality Control & Assurance",
+      "why": "Labs invest heavily in QA protocols; showing you follow them reduces liability and errors."
+    },
+    {
+      "name": "Immunology & Serology Testing",
+      "why": "Blood bank and transfusion medicine are high-stakes areas; techs with this expertise are in demand."
+    },
+    {
+      "name": "Point-of-Care Testing (POCT)",
+      "why": "Rapid diagnostic skills in urgent care and ED settings make you more versatile and valuable."
+    },
+    {
+      "name": "Troubleshooting & Instrumentation",
+      "why": "Labs need techs who can identify equipment issues and follow SOPs to resolve them without delays."
+    },
+    {
+      "name": "Regulatory Compliance (HIPAA, CLIA)",
+      "why": "Healthcare is heavily regulated; demonstrating compliance mindset reduces HR risk and shows professionalism."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed laboratory tests and analyzed blood samples for accuracy.",
+      "strong": "Processed and analyzed 200+ daily blood samples using automated hematology and chemistry analyzers with 99.8% accuracy; identified and corrected 12 instrument errors monthly to maintain CLIA compliance.",
+      "lesson": "Specific volume, measurable accuracy rate, and link to business outcomes (compliance) beat vague 'performed tests' language."
+    },
+    {
+      "weak": "Helped train new laboratory staff on procedures.",
+      "strong": "Developed and delivered SOPs training to 8 new hires in microbiology and blood bank protocols; reduced specimen rejection rate by 15% within first quarter post-training.",
+      "lesson": "Quantifying the scope (8 hires) and impact (15% reduction in rejects) shows you're not just teaching—you're improving lab metrics."
+    },
+    {
+      "weak": "Maintained quality control standards and reported results.",
+      "strong": "Managed daily QC runs across 5 analyzer platforms; documented discrepancies in LIS and escalated 3 root-cause issues that prevented 40+ erroneous reports from release.",
+      "lesson": "Naming the systems, scope (5 platforms), and tangible consequence (prevented false reports) demonstrates quality vigilance that labs need."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certification without the credential acronym",
+      "fix": "Always write 'MT(ASCP)' or 'MLT(ASCP)' prominently—ATS scanners and recruiters specifically search for these acronyms, and omitting them costs you visibility."
+    },
+    {
+      "mistake": "Vague lab experience claims ('worked in a hospital lab')",
+      "fix": "Specify your department (hematology, chemistry, microbiology, blood bank) and the patient volume or type of facility (500-bed hospital, reference lab, outpatient clinic) so employers know your depth."
+    },
+    {
+      "mistake": "Forgetting to mention LIS or specific analyzers you used",
+      "fix": "Name your equipment (Sysmex, Abbott, Roche, Siemens) and software (Epic, Cerner, Meditech) because labs want to minimize training time for someone already familiar with their tools."
+    },
+    {
+      "mistake": "Not highlighting regulatory or compliance wins",
+      "fix": "Call out CLIA audits passed, CAP accreditation involvement, or corrective actions you led—compliance is a major hiring filter and saves the facility legal headaches."
+    },
+    {
+      "mistake": "Burying customer service or communication in a generic skills list",
+      "fix": "Include a bullet showing you handled difficult patient interactions, phlebotomy follow-ups, or interdepartmental communication, since MTs often bridge lab and clinical teams."
+    }
+  ],
+  "structureTips": [
+    "Put your certification (MT(ASCP), CLIA, state license) directly under your name or in a dedicated 'Licenses & Certifications' section above the fold—recruiters scan for it in the first 10 seconds.",
+    "Lead your experience section with clinical lab departments and specialties (hematology, chemistry, immunology, blood bank) before listing facility name, so ATS and human readers immediately know your scope.",
+    "Include a 'Technical Skills' or 'Laboratory Systems' section listing specific analyzers, LIS platforms, and instrumentation you're certified on—this is a major ATS filter and speeds up hiring conversations.",
+    "If you have phlebotomy certification or POCT training, call it out separately; it makes you a more complete candidate in smaller or urgent-care-adjacent settings."
+  ],
+  "atsKeywords": [
+    "MT(ASCP)",
+    "Clinical Laboratory Analyst",
+    "Hematology",
+    "Chemistry",
+    "Microbiology",
+    "Blood Bank",
+    "CLIA Compliance",
+    "Laboratory Information System",
+    "Specimen Processing",
+    "Quality Assurance",
+    "Point-of-Care Testing",
+    "Immunology",
+    "CAP Accreditation"
+  ],
+  "salarySignal": "Entry-level Medical Technologist salaries in the US typically range from $35,000 to $45,000 annually; experienced MTs and those in high-cost-of-living areas or with specialization can earn $50,000–$65,000 or more.",
+  "faq": [
+    {
+      "q": "Should I list my certification expiration date on my resume?",
+      "a": "Include the year you earned it (e.g., 'MT(ASCP), since 2022') but don't list expiration dates unless the job posting specifically asks. If your cert is expiring soon, renew it before applying—labs won't hire without current credentials."
+    },
+    {
+      "q": "Is it better to list 'laboratory technician' or 'medical technologist' as my job title?",
+      "a": "Use the exact title from your job offer or diploma (MT, MLT, Lab Technician, etc.), but mirror the job posting language too. If the posting says 'Medical Technologist,' use that; if it says 'Clinical Laboratory Analyst,' adjust yours to match for ATS purposes."
+    },
+    {
+      "q": "How do I quantify my lab experience if I mostly just 'ran tests'?",
+      "a": "Focus on volume (samples processed daily or monthly), accuracy rates, turnaround time improvements, equipment you managed, or compliance achievements (audits passed, zero rejects). If you reduced overtime or wait times, include that too—it's measurable and valuable."
+    },
+    {
+      "q": "What if I don't have a specific analyzer or LIS experience they want?",
+      "a": "List the ones you *do* know, and add a line like 'Quick learner of new instrumentation; trained on X platforms within Y weeks.' Most labs expect brief onboarding, but showing you've mastered similar systems proves capability."
+    },
+    {
+      "q": "Should I include phlebotomy or POCT on my resume even if it's not my main role?",
+      "a": "Yes. Add it as a bullet or separate section—it makes you a more flexible hire, especially for smaller facilities or labs that shift staff across departments. It's a competitive advantage with minimal resume space."
+    }
+  ]
+}

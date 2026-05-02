@@ -1,0 +1,126 @@
+{
+  "slug": "scrum-master",
+  "title": "Scrum Master",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:03.231Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Scrum Master Resume: Examples & Tips for 2025",
+  "metaDescription": "Build a winning Scrum Master resume with real examples, key skills, and ATS keywords. Learn what hiring managers want to see.",
+  "h1": "How to Write a Scrum Master Resume That Gets Interviews",
+  "intro": "Scrum Masters are in high demand, but your resume needs to prove you can actually run ceremonies, remove blockers, and coach teams—not just manage a backlog. We'll show you how to translate your agile experience into bullets that hiring managers actually care about.",
+  "audience": "Junior and mid-level candidates transitioning into Scrum Master roles from QA, development, or project management backgrounds, plus career-switchers looking to break into agile coaching.",
+  "topSkills": [
+    {
+      "name": "Agile & Scrum Frameworks",
+      "why": "Hiring managers expect you to know Scrum theory, sprint cycles, and how to run retrospectives—not just the jargon."
+    },
+    {
+      "name": "Sprint Planning & Backlog Management",
+      "why": "You'll be facilitating sprint planning, estimating user stories, and helping teams maintain a healthy backlog—core responsibilities."
+    },
+    {
+      "name": "Facilitation & Servant Leadership",
+      "why": "Scrum Masters coach, not command; hiring managers look for evidence you can guide teams to solutions rather than dictate them."
+    },
+    {
+      "name": "Impediment Removal & Problem-Solving",
+      "why": "Your job is to unblock teams and resolve conflicts; quantifying how you've removed obstacles shows real impact."
+    },
+    {
+      "name": "Cross-functional Team Collaboration",
+      "why": "You'll work with engineers, product owners, and stakeholders; proving you bridge communication gaps is critical."
+    },
+    {
+      "name": "Jira / Azure DevOps",
+      "why": "Most agile teams use tracking tools; familiarity with industry-standard platforms shows you can hit the ground running."
+    },
+    {
+      "name": "Metrics & Transparency (Burndowns, Velocity)",
+      "why": "Scrum Masters track team health through data; showing you've used metrics to improve performance is a strong signal."
+    },
+    {
+      "name": "Conflict Resolution & Stakeholder Management",
+      "why": "You'll mediate disagreements and manage expectations; hiring managers want proof you can keep teams aligned and productive."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Ran daily standups and sprint ceremonies for the development team.",
+      "strong": "Facilitated daily standups and sprint ceremonies for a 7-person engineering team, reducing meeting time by 20% while improving issue resolution time from 3 days to 1.5 days.",
+      "lesson": "Specificity and impact metrics—show team size, improvements in cycle time, and how you made ceremonies more efficient."
+    },
+    {
+      "weak": "Helped remove blockers that were slowing down the team.",
+      "strong": "Identified and resolved 40+ sprint impediments across 4 quarters, including infrastructure bottlenecks and unclear requirements, enabling team to increase sprint velocity from 45 to 62 story points.",
+      "lesson": "Quantify the blockers you've tackled and tie them directly to team performance gains; vague help is forgettable."
+    },
+    {
+      "weak": "Coached the team on Agile best practices and continuous improvement.",
+      "strong": "Coached 2 teams through Scrum adoption and maturity by implementing retrospective action items; 6-month retention of process improvements reached 85%, and team-reported satisfaction increased from 6.2 to 8.1 out of 10.",
+      "lesson": "Show before/after metrics on team health, satisfaction, or process adoption to prove your coaching actually stuck."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing Scrum Master duties instead of achievements",
+      "fix": "Don't just say 'managed sprints'—show what changed because you were there. How did velocity, morale, or delivery speed improve?"
+    },
+    {
+      "mistake": "Using corporate jargon without context",
+      "fix": "Skip buzzwords like 'drive synergy' or 'optimize processes'; instead, name the specific problem you solved and the measurable result."
+    },
+    {
+      "mistake": "Focusing too heavily on tools (Jira, Azure DevOps)",
+      "fix": "Tools are table stakes, not achievements. Mention them briefly in a skills section, but spend resume bullets on facilitation, coaching, and business impact."
+    },
+    {
+      "mistake": "Forgetting to mention the teams you led",
+      "fix": "Always include team size, discipline (backend, frontend, product, etc.), and any cross-functional dynamics—it signals your scope and complexity."
+    },
+    {
+      "mistake": "Not addressing scalability or multiple teams",
+      "fix": "If you've managed more than one team or scaled ceremonies across multiple squads, lead with that—it's a career progression signal."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with a brief 'Scrum Master for [team size] engineering teams' summary; don't bury your scope in bullet points.",
+    "Group bullets by impact area: sprint health metrics, team coaching & development, impediment removal, and stakeholder collaboration—not chronologically.",
+    "Put measurable improvements (velocity gains, cycle time reduction, team satisfaction) in the first bullet of each role to grab attention fast.",
+    "If you're transitioning into Scrum Master from QA, dev, or PM, use a 'Core Competencies' or 'Agile Skills' section to front-load Scrum frameworks, ceremonies, and tools before hiring managers discount you."
+  ],
+  "atsKeywords": [
+    "Scrum Master",
+    "Agile Coach",
+    "Sprint Planning",
+    "Impediment Removal",
+    "Servant Leadership",
+    "Burndown Metrics",
+    "Jira Administration",
+    "Scrum Framework",
+    "Backlog Management",
+    "Cross-functional Teams"
+  ],
+  "salarySignal": "Entry-level Scrum Masters in the US typically earn $65k–$85k; mid-level ($85k–$115k); senior and certified Scrum Masters often command $110k–$150k+, depending on location, company size, and team scope.",
+  "faq": [
+    {
+      "q": "Do I need a Certified Scrum Master (CSM) to land a Scrum Master job?",
+      "a": "Not always, but it helps. Many mid-size and Fortune 500 companies list CSM or similar certifications as preferred. If you don't have one yet, mention on your resume that you're 'CSM exam-ready' or note your Scrum training hours. Your lived experience coaching teams will carry more weight than the cert alone."
+    },
+    {
+      "q": "How do I stand out if I'm new to Scrum Master roles?",
+      "a": "Emphasize process improvement and team wins from your previous role—even if you were a QA lead, developer, or PM. Show how you ran meetings, resolved conflicts, or helped teammates ship faster. Frame your certification training and any side projects where you've coached others on agile practices."
+    },
+    {
+      "q": "Should I list every ceremony and tool I know?",
+      "a": "No. Focus on impact over inventory. If you've run standups, sprint planning, retros, and reviews, mention that once in a summary or skills section. Spend resume bullets on what changed because of your facilitation—not the list of things you did."
+    },
+    {
+      "q": "How do I quantify Scrum Master impact if I'm not in a DevOps or metrics-heavy role?",
+      "a": "Track team velocity, sprint burndown trends, cycle time (from open to merged PR), deployment frequency, or team satisfaction scores (retro feedback). Even soft metrics like 'reduced meeting time' or 'improved ceremony attendance from 70% to 95%' show you're paying attention to team health."
+    },
+    {
+      "q": "What's the difference between a Scrum Master and Agile Coach on a resume?",
+      "a": "Scrum Master typically owns one team's sprint ceremonies and day-to-day blockers. Agile Coach usually spans multiple teams, drives framework adoption, or mentors other SMs. If you've done both, use 'Agile Coach / Scrum Master' in your title and show scope and scale in your bullets."
+    }
+  ]
+}

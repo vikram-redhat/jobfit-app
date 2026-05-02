@@ -1,0 +1,134 @@
+{
+  "slug": "nurse-practitioner",
+  "title": "Nurse Practitioner",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:31:44.708Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Nurse Practitioner Resume: Skills & Examples for 2025",
+  "metaDescription": "Land your NP job with a targeted resume. See what hiring managers want, common mistakes to avoid, and sample bullets that work.",
+  "h1": "Nurse Practitioner Resume: How to Stand Out to Healthcare Employers",
+  "intro": "Your Nurse Practitioner resume needs to balance clinical expertise with business impact—showing you can diagnose, manage patient populations, and improve outcomes. We'll walk you through what hiring managers actually look for, common traps, and exactly how to frame your experience so you land interviews.",
+  "audience": "New graduate NPs, experienced nurses transitioning to advanced practice, and clinicians moving between healthcare settings or specialties.",
+  "topSkills": [
+    {
+      "name": "Patient Assessment & Diagnosis",
+      "why": "Hiring managers need to see you can independently evaluate patients, order appropriate diagnostic tests, and develop treatment plans—this is core to the NP role."
+    },
+    {
+      "name": "Chronic Disease Management",
+      "why": "Whether in primary care or specialty settings, NPs spend significant time managing long-term conditions; employers want evidence you can do this effectively."
+    },
+    {
+      "name": "Electronic Health Records (EHR) Systems",
+      "why": "Proficiency in Epic, Cerner, or other major EHR platforms is often a hard requirement; mention the specific systems you've used."
+    },
+    {
+      "name": "Medication Management & Pharmacology",
+      "why": "Prescribing authority is central to the role; highlighting your ability to select and manage drug therapies shows clinical readiness."
+    },
+    {
+      "name": "Patient Education & Counseling",
+      "why": "NPs reduce readmissions and improve compliance through clear communication; employers value candidates who document this impact."
+    },
+    {
+      "name": "Collaborative Care & Team Leadership",
+      "why": "You'll work with physicians, specialists, and interdisciplinary teams; demonstrating collaboration and leadership experience is attractive to practices."
+    },
+    {
+      "name": "Quality Improvement & Outcome Metrics",
+      "why": "Healthcare is increasingly outcomes-focused; showing you've reduced readmissions, improved vaccination rates, or lowered wait times signals business acumen."
+    },
+    {
+      "name": "Clinical Research & Evidence-Based Practice",
+      "why": "Many employers—especially academic medical centers and progressive practices—value NPs who stay current with literature and implement best practices."
+    },
+    {
+      "name": "Insurance & Reimbursement Knowledge",
+      "why": "Understanding billing codes, insurance denials, and how to optimize reimbursement makes you a more valuable clinical asset."
+    },
+    {
+      "name": "Specialty-Specific Competencies",
+      "why": "Depending on your setting (family medicine, acute care, cardiology, etc.), hiring managers expect relevant certifications and procedural or clinical expertise."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed patient caseload and provided care to diverse populations.",
+      "strong": "Managed active caseload of 25–30 patients with chronic conditions (HTN, DM2, COPD); reduced 30-day readmissions by 18% through structured follow-up protocols and medication reconciliation.",
+      "lesson": "Specific numbers (caseload size, condition types, outcome improvement) transform a generic statement into evidence of impact."
+    },
+    {
+      "weak": "Worked with electronic health records and documented patient encounters.",
+      "strong": "Proficient in Epic EHR; documented 40+ patient encounters weekly with 95%+ chart completion on first pass, exceeding departmental compliance standards.",
+      "lesson": "Naming the EHR system and adding a measurable quality metric (completion rate, timeliness) shows technical competence and attention to detail."
+    },
+    {
+      "weak": "Led quality improvement initiatives to improve patient outcomes.",
+      "strong": "Co-led QI initiative to implement standardized hypertension management protocol; increased BP control rates from 62% to 79% in 6 months and reduced unnecessary emergency visits by 12%.",
+      "lesson": "Specifying the problem, your role, timeline, and quantified results demonstrates leadership and clinically meaningful impact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of outcomes",
+      "fix": "Avoid 'Assessed patients' or 'Prescribed medications.' Instead, lead with impact: 'Reduced A1C by average 1.2% in diabetic population' or 'Achieved 94% patient satisfaction on pain management protocols.'"
+    },
+    {
+      "mistake": "Not specifying your scope of practice or setting",
+      "fix": "Clearly state your role: e.g., 'Primary Care NP in fast-paced urgent care' or 'Acute Care NP in 600-bed teaching hospital.' Hiring managers need context to understand your experience level."
+    },
+    {
+      "mistake": "Burying certifications or hiding gaps",
+      "fix": "Lead with your NP certification and specialty (ANCC, AANP, AAPA), licensing, and any advanced credentials (ACHPN, ACNP-BC, etc.). If you're new-to-practice, highlight your preceptorship and board exam success."
+    },
+    {
+      "mistake": "Omitting metrics or financial impact",
+      "fix": "Healthcare employers care about cost, quality, and volume. Quantify: patient volumes, revenue per visit, reduced ED utilization, faster diagnostic turnaround, or improved preventive screening rates."
+    },
+    {
+      "minute": "Failing to tailor to specialty or setting",
+      "fix": "If applying to a specialty practice (cardiology, psychiatry, orthopedics), front-load relevant experience and certifications. Generalist language won't stand out."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or headline that includes your NP credential, specialty, and key value add (e.g., 'Board-Certified Family Medicine NP | 5+ Years Primary Care | Expert in Chronic Disease Management & Process Improvement').",
+    "Place your NP certification, nursing licensure, and specialty credentials prominently near the top—many applicant tracking systems and hiring managers scan for these first.",
+    "In the experience section, organize by setting and patient population (e.g., 'Outpatient Primary Care,' 'Acute Inpatient Medicine'), then list achievements within each role. This helps employers quickly assess your breadth.",
+    "Include a separate 'Clinical Competencies' or 'Key Skills' section if you have diverse training; explicitly list procedures you perform (e.g., joint injections, chest tube management, IV insertion), certifications (PALS, ACLS, ultrasound), and EHR platforms."
+  ],
+  "atsKeywords": [
+    "Nurse Practitioner",
+    "NP certification ANCC AANP",
+    "Patient assessment and diagnosis",
+    "Chronic disease management",
+    "Electronic health records EHR",
+    "Medication management",
+    "Primary care",
+    "Acute care",
+    "Quality improvement outcomes",
+    "Clinical collaboration"
+  ],
+  "salarySignal": "Entry-level NP salaries (0–2 years) typically range from $100,000 to $130,000 in the US; experienced NPs ($5+ years) often earn $130,000–$180,000+, with significant variation by specialty, region, and setting.",
+  "faq": [
+    {
+      "q": "Should I include my nursing experience on my NP resume?",
+      "a": "Yes, but briefly. Summarize your RN background in a few lines—hiring managers care more about your NP-level practice. Focus the bulk of your resume on your NP roles, achievements, and outcomes. If you're a new graduate, highlight your nursing experience as relevant foundation and feature your preceptorship or clinical residency prominently."
+    },
+    {
+      "q": "What if I'm a newly licensed NP with little experience?",
+      "a": "Lead with your education, NP certification, and any board exam success. Emphasize your graduate clinical hours, preceptorship experience, and the types of patients you managed. Include any QI projects, research, or volunteer work from your program. Consider a 'Clinical Strengths' section to showcase competencies you developed during training."
+    },
+    {
+      "q": "How do I quantify patient care impact on my resume?",
+      "a": "Focus on measurable outcomes: readmission rates, patient satisfaction scores, diagnostic accuracy, medication adherence, preventive screening rates, or ED utilization. If you don't have hard data, use ranges (e.g., 'managed 20–30 daily patient encounters') or percentage improvements ('improved vaccination completion from 65% to 88%'). Always ask your previous employer for audit or quality reports if available."
+    },
+    {
+      "q": "Should I list procedures I'm trained in?",
+      "a": "Yes, especially in acute care or specialty roles. Create a brief 'Procedures & Clinical Skills' section listing skills like venipuncture, IV placement, joint injections, suturing, EKG interpretation, or ultrasound. This is particularly important for employers hiring for specialty or procedural settings."
+    },
+    {
+      "q": "How important is EHR proficiency on my NP resume?",
+      "a": "Very important. Many job postings specifically require Epic, Cerner, or other systems. If you're proficient, name the platform explicitly. If you're new to a particular system, say 'Quick learner with training in Epic; expert in Cerner' to show flexibility. Generic 'EHR experience' is too vague and may be filtered out by ATS."
+    }
+  ]
+}

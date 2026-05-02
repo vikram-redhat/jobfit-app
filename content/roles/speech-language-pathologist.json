@@ -1,0 +1,136 @@
+{
+  "slug": "speech-language-pathologist",
+  "title": "Speech-Language Pathologist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:10.535Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Speech-Language Pathologist Resume: Templates & Writing Tips",
+  "metaDescription": "Master your SLP resume with actionable tips, sample bullets, and ATS keywords to land clinical and school-based roles.",
+  "h1": "Speech-Language Pathologist Resume: Expert Writing Guide",
+  "intro": "Your SLP resume needs to showcase both your clinical expertise and your ability to transform lives—and hiring managers scan for proof of measurable patient outcomes. We'll walk you through the exact skills, bullet format, and keywords that get SLP resumes past ATS systems and into interview callbacks.",
+  "audience": "Recent SLP graduates with clinical hours, licensed practitioners seeking new positions, and career switchers with related healthcare backgrounds applying to clinical, school, or telehealth SLP roles.",
+  "topSkills": [
+    {
+      "name": "Patient/Client Assessment & Diagnosis",
+      "why": "Hiring managers in clinical and educational settings need to see you can independently evaluate speech, language, fluency, and voice disorders using standardized and informal protocols."
+    },
+    {
+      "name": "Treatment Planning & Implementation",
+      "why": "Evidence-based therapy design and execution is core to the role; employers want proof you can develop individualized plans and modify them based on patient progress."
+    },
+    {
+      "name": "Documentation & Clinical Note Writing",
+      "why": "Clear, timely, and compliant documentation (SOAP notes, progress reports, IEPs) directly impacts billing, legal compliance, and continuity of care."
+    },
+    {
+      "name": "Telepractice/Telehealth Delivery",
+      "why": "Post-pandemic, remote SLP services are standard; platforms like Zoom, Speechvive, and teletherapy software are now baseline expectations."
+    },
+    {
+      "name": "Dysphagia Screening & Management",
+      "why": "Swallow disorders affect hospitalized and elderly populations; certification in bedside screening or FEES increases your clinical value."
+    },
+    {
+      "name": "IEP Development & Collaboration",
+      "why": "School-based SLPs spend significant time writing IEPs and co-planning with educators; this skill is essential for public school and private school roles."
+    },
+    {
+      "name": "Standardized Assessment Tools",
+      "why": "Fluency with CELF, GFTA, BLISS, Boston Naming Test, and other norm-referenced assessments signals professional credibility to hiring clinicians."
+    },
+    {
+      "name": "Pediatric & Adult Population Experience",
+      "why": "Employers want to know your breadth; mention specific age ranges and disorders (e.g., 'pediatric apraxia' or 'adult post-stroke aphasia') you've treated."
+    },
+    {
+      "name": "EHR & Practice Management Software",
+      "why": "Proficiency in Epic, Cerner, ASHA SmartCare, or clinic-specific platforms demonstrates immediate productivity and reduces onboarding friction."
+    },
+    {
+      "name": "Licensure & Certification (CCC-SLP, State License)",
+      "why": "Your credential status (licensed, certified, in-process) is a gating factor for most clinical and school positions; must be prominently listed."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided speech therapy to patients with various diagnoses in outpatient setting.",
+      "strong": "Delivered individualized speech therapy to 25–30 patients/week with mixed diagnoses (apraxia, aphasia, dysarthria); tracked progress using standardized measures (BLISS, Boston Naming Test) and achieved 70%+ of treatment goals within 12-week cycles.",
+      "lesson": "Adding patient volume, specific disorder names, named assessment tools, and quantified outcomes transforms a vague duty into proof of clinical impact and data-driven practice."
+    },
+    {
+      "weak": "Collaborated with school team on IEP development.",
+      "strong": "Co-authored IEPs for 40+ K–5 students annually; consulted with teachers and parents on classroom-embedded strategies, resulting in 85% of students meeting speech-language goals by end of school year.",
+      "lesson": "Specifying student volume, grade range, collaboration breadth, and measurable outcomes demonstrates your full scope as an educator and advocate, not just a clinician."
+    },
+    {
+      "weak": "Documented patient sessions and maintained electronic health records.",
+      "strong": "Completed timely SOAP notes (100% within 24 hrs of session) using Epic EHR; ensured compliance with CMS billing codes and insurance requirements; zero audit findings over 18 months.",
+      "lesson": "Naming the specific EHR, including timeliness standards, and adding a compliance metric proves you understand the business side of SLP practice, not just clinical care."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing licensure/certification without status or date.",
+      "fix": "Always state 'CCC-SLP (American Speech-Language-Hearing Association, issued [year])' and your state license number or 'License in progress as of [date]'; hiring managers need to verify credential timing immediately."
+    },
+    {
+      "mistake": "Using vague disorder/population language like 'speech issues' or 'various clients.'",
+      "fix": "Replace with specific diagnoses and age ranges: 'pediatric speech-sound disorders,' 'adult aphasia (CVA/TBI),' 'school-age fluency disorders'; this helps ATS keyword matching and signals clinical precision."
+    },
+    {
+      "mistake": "Omitting measurement of patient outcomes or progress.",
+      "fix": "Include tangible progress metrics: percentage of goals met, pre/post standardized test scores, session frequency and duration, or discharge summaries; outcome data is what separates strong SLP candidates."
+    },
+    {
+      "mistake": "Not mentioning telepractice experience or platform familiarity.",
+      "fix": "Explicitly list any telehealth delivery experience and software (Zoom, Speechvive, LogiMeT, Therapy Insights); many employers now require or prefer remote-ready SLPs."
+    },
+    {
+      "mistake": "Burying clinical experience under a generic 'Experience' header without role clarity.",
+      "fix": "Use specific job titles ('Clinical SLP – Outpatient,' 'School-Based SLP,' 'Rehabilitation SLP') so ATS can accurately categorize your work setting and employers instantly know where you've practiced."
+    }
+  ],
+  "structureTips": [
+    "Lead with your licensure and CCC-SLP credential immediately (below your name or in a 'Credentials' summary line); employers scan for this first and it's often a non-negotiable requirement.",
+    "Organize clinical experience by setting (e.g., 'Outpatient Clinic,' 'School-Based,' 'Inpatient Rehabilitation') so hiring managers can quickly match your background to their open role.",
+    "Create a 'Core Clinical Competencies' or 'Areas of Expertise' section listing disorders treated and populations served (e.g., 'Pediatric apraxia, adult dysphagia, stroke rehabilitation, language-based reading disability'); this boosts ATS keyword hits.",
+    "If relevant, add a 'Clinical Skills & Tools' subsection under experience or in a dedicated area that names assessment instruments (CELF-5, GFTA-3, Computerized Speech Lab) and EHR/software platforms; hiring clinicians will actively search for these."
+  ],
+  "atsKeywords": [
+    "Speech-Language Pathologist",
+    "CCC-SLP",
+    "Patient assessment and diagnosis",
+    "CELF",
+    "Standardized assessment tools",
+    "IEP development",
+    "Dysphagia screening",
+    "Telepractice delivery",
+    "Clinical documentation",
+    "EHR systems",
+    "Adult aphasia",
+    "Pediatric speech-language disorders"
+  ],
+  "salarySignal": "Entry-level SLP salaries in the US typically range from $55,000–$70,000; experienced practitioners and those in high-cost metros or specialized settings (dysphagia, voice, autism spectrum) often earn $70,000–$90,000+. School-based roles often align with teacher salary schedules.",
+  "faq": [
+    {
+      "q": "Do I need my CCC-SLP to list myself as a Speech-Language Pathologist on my resume?",
+      "a": "Not strictly—licensing laws vary by state—but you *must* disclose your credential status (licensed, certified, in-progress). Many employers, especially in healthcare settings, require CCC-SLP; listing it immediately signals eligibility and saves HR time. If you're seeking it, write 'CCC-SLP (Application Submitted, Expected [date])' so it's transparent."
+    },
+    {
+      "q": "Should I list specific disorders I've treated, or keep it general?",
+      "a": "Be specific. Write 'articulation disorders (R, S, Z, etc.),' 'adult post-stroke aphasia,' 'pediatric apraxia of speech' rather than 'communication disorders.' Employers and ATS systems search for these exact terms, and specificity shows clinical depth."
+    },
+    {
+      "q": "How important is telepractice experience on an SLP resume?",
+      "a": "Very. Many employers now offer or require hybrid/remote options. If you have telehealth experience, highlight it with the platform you used (Zoom, Speechvive, etc.). If you don't, mention 'trained in telepractice delivery' or 'eager to work in hybrid model' to show openness."
+    },
+    {
+      "q": "What should I include if I have limited clinical hours or just passed my Praxis?",
+      "a": "Lead with your education, certification date, and relevant coursework or practica. List any volunteer or graduate clinic experience with client volume and diagnoses. Frame clinical fellowship or initial positions as 'Clinical Fellow SLP' or 'Entry-Level SLP' and emphasize your readiness to develop expertise under supervision."
+    },
+    {
+      "q": "Is it okay to list 'various diagnoses' or 'mixed caseload' on my resume?",
+      "a": "Avoid it. 'Various' and 'mixed' are vague and don't help ATS or human readers. Instead, list the 3–5 most common or relevant diagnoses you've treated (e.g., 'articulation, language delay, fluency, voice, dysphagia'), and mention caseload size or patient volume to show breadth without being non-specific."
+    }
+  ]
+}

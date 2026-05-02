@@ -1,0 +1,130 @@
+{
+  "slug": "data-scientist",
+  "title": "Data Scientist",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:25:07.383Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Data Scientist Resume Guide | Build a Winning 2026 Resume",
+  "metaDescription": "Learn how to write a Data Scientist resume that passes ATS and impresses hiring managers. Real examples, key skills, and common mistakes.",
+  "h1": "How to Write a Data Scientist Resume That Gets Interviews",
+  "intro": "A strong Data Scientist resume balances technical depth with business impact—showing both your ML chops and the actual results you've delivered. In this guide, we'll walk you through the exact skills to highlight, how to structure your experience, and what hiring managers actually want to see.",
+  "audience": "Recent grads with a statistics or CS degree, career switchers from analytics or engineering roles, and self-taught practitioners building their first data science portfolio.",
+  "topSkills": [
+    {
+      "name": "Python & R",
+      "why": "Core languages for data manipulation, modeling, and statistical analysis. Hiring managers expect fluency in at least one."
+    },
+    {
+      "name": "Machine Learning (supervised & unsupervised)",
+      "why": "The bread and butter of the role. Managers want to see experience with classification, regression, clustering, and model evaluation."
+    },
+    {
+      "name": "SQL",
+      "why": "You'll spend time querying databases. Being able to write efficient SQL is non-negotiable and often tested in interviews."
+    },
+    {
+      "name": "Statistical Analysis & A/B Testing",
+      "why": "Data scientists validate hypotheses and design experiments. Comfort with p-values, confidence intervals, and experimental design matters."
+    },
+    {
+      "name": "Data Visualization (Tableau, Matplotlib, Seaborn)",
+      "why": "Results mean nothing if stakeholders can't understand them. Visualization skills help you communicate findings to non-technical teams."
+    },
+    {
+      "name": "Model Deployment & MLOps",
+      "why": "Building models in notebooks is one thing; shipping them to production is another. Basic knowledge of Docker, APIs, and monitoring is increasingly expected."
+    },
+    {
+      "name": "Big Data Tools (Spark, Hadoop)",
+      "why": "For mid-to-senior roles or at larger companies, familiarity with distributed computing frameworks is a serious advantage."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "You need to collaborate with engineers and maintain reproducible code. Git proficiency signals professionalism."
+    },
+    {
+      "name": "Business Acumen & Communication",
+      "why": "Top-tier data scientists translate technical results into business outcomes and can explain complexity to non-technical stakeholders."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built machine learning models to predict customer churn using Python and scikit-learn.",
+      "strong": "Developed a gradient boosting churn prediction model (XGBoost) that identified 2,500+ at-risk customers with 87% precision, enabling a targeted retention campaign that recovered $1.2M in annual revenue.",
+      "lesson": "Adds specific algorithm, exact metrics (precision), and quantified business impact—all things hiring managers track."
+    },
+    {
+      "weak": "Analyzed data using SQL and created dashboards in Tableau to help the marketing team.",
+      "strong": "Engineered SQL pipeline to aggregate cross-channel campaign data (25M+ records), then built 8 Tableau dashboards reducing reporting time by 15 hours/week and uncovering a $300K budget reallocation opportunity.",
+      "lesson": "Shows scale of work (record count), tool proficiency, and concrete time/money savings that justify your role."
+    },
+    {
+      "weak": "Improved model performance by tuning hyperparameters and testing different algorithms.",
+      "strong": "Optimized classification model through systematic hyperparameter tuning and cross-validation; improved F1 score from 0.72 to 0.84, reducing false positives by 35% and decreasing downstream processing costs by $80K annually.",
+      "lesson": "Replaces vague 'improvement' with measurable metric change and ties it to cost/efficiency gains."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Focusing only on technical details without business impact",
+      "fix": "Always connect your model or analysis to a business outcome: revenue, cost savings, customer retention, or risk reduction. Ask yourself 'So what?' after every bullet."
+    },
+    {
+      "mistake": "Listing tools without showing real-world application",
+      "fix": "Don't just say 'Proficient in Python, R, and SQL.' Say what you built or analyzed with them—context matters more than a generic skills list."
+    },
+    {
+      "mistake": "Burying projects and academic work below old jobs",
+      "fix": "If you're early-career or switching into data science, lead with a dedicated Projects section showcasing Kaggle competitions, GitHub repos, or personal analyses that prove your skills."
+    },
+    {
+      "mistake": "Ignoring the full ML lifecycle",
+      "fix": "Hiring managers want evidence of end-to-end work: problem framing, data collection, EDA, modeling, validation, and deployment or business decision-making. Don't just mention model training."
+    },
+    {
+      "mistake": "Using jargon without grounding it in results",
+      "fix": "Yes, mention 'ensemble methods' or 'feature engineering' if you did it, but always pair it with what it accomplished—a higher AUC, faster inference, or cleaner predictions."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2-3 line Professional Summary that speaks to both technical depth and business impact (e.g., 'Data Scientist with 3 years' experience building ML models in Python and SQL that drive product decisions and revenue growth'). This immediately flags you as business-aware.",
+    "Create a dedicated Skills section organized by category: Languages (Python, R, SQL), ML/Stats (Regression, Classification, NLP), Tools (Scikit-learn, TensorFlow, Tableau), and Other (Git, AWS). This makes ATS scanning easy and shows breadth.",
+    "In your Experience section, lead each role with 1-2 bullets on your team's mission or key metric you owned, then dive into specific projects. This context helps readers understand why your work mattered.",
+    "If you're early-career or self-taught, add a Projects section with 2-4 of your best portfolio pieces (Kaggle rank, GitHub repo, or Capstone project). Link directly to code or write-ups. This compensates for limited work experience."
+  ],
+  "atsKeywords": [
+    "Machine Learning",
+    "Python",
+    "SQL",
+    "Statistical Analysis",
+    "Data Visualization",
+    "Scikit-learn",
+    "TensorFlow",
+    "A/B Testing",
+    "Feature Engineering",
+    "Model Evaluation"
+  ],
+  "salarySignal": "Entry-level Data Scientists in the US typically earn $75K–$95K; mid-level roles range from $110K–$150K; senior roles and those at FAANG companies often exceed $200K with equity. Salary varies significantly by location, company size, and experience.",
+  "faq": [
+    {
+      "q": "Should I include my GPA and academic coursework on my resume?",
+      "a": "Only if your GPA is 3.7+, or if you recently graduated (within 1–2 years). Otherwise, focus on projects and real-world experience. Academic coursework (e.g., 'Advanced Statistics,' 'Deep Learning') can go in a brief 'Education' section but shouldn't dominate your resume."
+    },
+    {
+      "q": "How do I show that I've deployed models in production?",
+      "a": "Be specific: mention the tech stack (e.g., 'Deployed model via FastAPI and Docker to AWS Lambda, serving 100K+ daily predictions'). If you haven't shipped to production yet, talk about building reproducible pipelines, using version control, or participating in end-to-end projects from design to evaluation."
+    },
+    {
+      "q": "What's the best way to list Kaggle competitions or personal projects?",
+      "a": "Create a dedicated Projects section with title, brief description, and result. Always include a GitHub or Kaggle link. For example: 'Housing Price Prediction | Kaggle | Ranked top 5% (XGBoost ensemble, feature engineering, 0.88 R² score) — github.com/yourname/housing.' This proves you can execute end-to-end."
+    },
+    {
+      "q": "How much space should I dedicate to tools vs. concepts?",
+      "a": "Tools are a gateway, but concepts are the treasure. Don't just list 'TensorFlow' or 'PySpark'—show what you built with them and what problem you solved. A hiring manager cares more about whether you understand bias-variance tradeoff than whether you've used TensorFlow."
+    },
+    {
+      "q": "Do I need to mention domain expertise (finance, healthcare, e-commerce)?",
+      "a": "Absolutely. If you've worked in a specific domain, highlight it—e.g., 'Built fraud detection models for payment risk (2M daily transactions)' or 'Developed pricing optimization algorithms for e-commerce.' Domain knowledge is a huge differentiator and often leads to higher salaries."
+    }
+  ]
+}

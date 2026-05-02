@@ -1,0 +1,126 @@
+{
+  "slug": "developer-advocate",
+  "title": "Developer Advocate",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:03.040Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Developer Advocate Resume: Tips & Examples for Tech Roles",
+  "metaDescription": "Build a compelling Developer Advocate resume with actionable tips, ATS keywords, and real bullet examples that land interviews.",
+  "h1": "Developer Advocate Resume: Stand Out to Tech Companies",
+  "intro": "Developer Advocates bridge the gap between companies and their engineering communities—and your resume needs to prove you can do both. This guide shows you how to highlight community engagement, technical credibility, and business impact on a resume that actually gets read by hiring teams.",
+  "audience": "Software engineers transitioning into advocacy, recent grads with dev backgrounds, and career switchers from community, DevRel, or sales engineering roles looking to break into Developer Advocate positions.",
+  "topSkills": [
+    {
+      "name": "Technical Communication",
+      "why": "You'll explain complex APIs, SDKs, and frameworks to diverse audiences—hiring managers want proof you can make code accessible without oversimplifying."
+    },
+    {
+      "name": "Community Building & Engagement",
+      "why": "Developer Advocates grow communities around products; hiring teams look for evidence of building groups, fostering discussions, or increasing participation."
+    },
+    {
+      "name": "Content Creation (Blogs, Talks, Videos)",
+      "why": "You'll produce educational content regularly; demonstrated ability to write, speak, and create video shows you understand developer needs and can teach at scale."
+    },
+    {
+      "name": "API & SDK Knowledge",
+      "why": "You must understand the products you advocate for deeply enough to debug issues and guide developers; technical depth is non-negotiable."
+    },
+    {
+      "name": "Speaking & Public Presentation",
+      "why": "Conference talks, webinars, and workshops are core to the role; hiring managers want your speaking history front and center."
+    },
+    {
+      "name": "Product Feedback Loop",
+      "why": "You'll relay developer pain points back to product teams; experience translating feedback into actionable insights matters."
+    },
+    {
+      "name": "Developer Relations & Outreach",
+      "why": "Building relationships with developer communities, YouTube creators, and technical influencers shows you can amplify reach organically."
+    },
+    {
+      "name": "Metrics & Reporting (Engagement, Adoption)",
+      "why": "Unlike pure engineering roles, you'll track KPIs like event attendance, content views, and community growth—show you understand the business side."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Created content and helped developers understand the product.",
+      "strong": "Authored 40+ technical tutorials and case studies on REST APIs, resulting in 25K+ monthly blog views and a 30% increase in free tier sign-ups.",
+      "lesson": "Replace vague verbs with metrics; quantify reach, engagement, or business outcomes rather than listing tasks."
+    },
+    {
+      "weak": "Spoke at conferences and attended community events.",
+      "strong": "Delivered 8 talks at regional JS/Python conferences (Node Summit, PyCon, local meetups) to 2K+ developers; rated 4.7/5 by attendees; generated 15 qualified enterprise leads.",
+      "lesson": "Name specific events, audiences, and outcomes; connect speaking directly to business or community impact, not just activity."
+    },
+    {
+      "weak": "Managed developer community on Slack and Discord.",
+      "strong": "Grew developer Slack community from 200 to 2.8K members in 12 months; launched weekly office hours reducing support tickets by 40%; onboarded and mentored 5 community moderators.",
+      "lesson": "Lead with growth metrics and operational impact; show you didn't just participate in community, you scaled and led it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only job titles without showing community or content impact.",
+      "fix": "Always pair job history with concrete examples: 'X talks delivered,' 'Y% engagement lift,' 'Z community members acquired,' or 'helped reduce issue resolution time by %'."
+    },
+    {
+      "mistake": "Treating it like a pure engineering resume (code, repos, algorithms).",
+      "fix": "Yes, you need technical chops, but prioritize communication, speaking, and community outcomes over coding projects; link to your blog or YouTube channel instead of GitHub."
+    },
+    {
+      "mistake": "Forgetting to quantify content or event metrics.",
+      "fix": "Include views, downloads, attendee feedback scores, or business outcomes (leads, sign-ups) for every major content piece or talk you list."
+    },
+    {
+      "mistake": "Not showing cross-functional collaboration with product or marketing.",
+      "fix": "Highlight moments you influenced product decisions, partnered with marketing campaigns, or identified gaps developers cared about—it proves you understand the full picture."
+    },
+    {
+      "mistake": "Omitting your 'proof' (blog, speaking portfolio, social following).",
+      "fix": "Include links to your personal blog, speaking history (Sessionize, Lanyrd), YouTube channel, or Twitter if you have engaged followers; make your advocacy visible before the interview."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief, role-specific summary that hints at your niche (e.g., 'Python developer advocate' or 'Web API advocate')—hiring managers scan fast and want to know immediately if you match their tech stack.",
+    "Place a 'Speaking & Content' section (or 'Community Impact') directly after your summary and above traditional work experience; talks and published content are as important as job titles for this role.",
+    "In the experience section, lead each bullet with outcomes (engagement growth, audience reach, product influence) rather than tasks; quantify everything possible.",
+    "Include a 'Links & Presence' section with your blog, YouTube channel, LinkedIn, Twitter handle, or speaking profile so hiring managers can see your work in real time."
+  ],
+  "atsKeywords": [
+    "Developer Advocate",
+    "Developer Relations",
+    "Technical Content Creator",
+    "API Documentation",
+    "Community Engagement",
+    "Technical Speaking",
+    "Developer Outreach",
+    "Product Advocacy",
+    "SDK Integration",
+    "Developer Experience"
+  ],
+  "salarySignal": "Entry-level US Developer Advocate salaries typically range from $90K to $120K in 2026; mid-level advocates earn $130K–$180K, with significant variation based on company size, tech stack, and geography.",
+  "faq": [
+    {
+      "q": "Do I need a GitHub portfolio for a Developer Advocate role?",
+      "a": "A GitHub with clean, documented code helps, but it's less critical than for engineers. Instead, prioritize a blog, speaking portfolio, or YouTube channel showing you can teach and communicate. If you do have GitHub, include sample projects that solve real developer problems with good README docs."
+    },
+    {
+      "q": "How do I show I can build community if I'm coming from engineering?",
+      "a": "Highlight any events you've organized, open-source communities you've led, internal tech talks you've given, or mentoring you've done. Even starting a small meetup, leading a Slack group, or publishing tutorials counts as proof of advocacy."
+    },
+    {
+      "q": "Should I include my social media following on my resume?",
+      "a": "Yes, if you have a meaningful technical following (5K+ Twitter followers, 10K+ YouTube subscribers, or a well-trafficked blog). Add a 'Links & Presence' section with handles and follower counts; it signals reach and credibility."
+    },
+    {
+      "q": "What metrics matter most for Developer Advocate roles?",
+      "a": "Prioritize community growth (members, followers, event attendees), content reach (views, downloads, engagement rate), business impact (leads, sign-ups, product adoptions), and speaking volume (number of talks, audience size, feedback scores)."
+    },
+    {
+      "q": "How do I frame product feedback or influence on my resume?",
+      "a": "Use bullets like 'Identified and escalated top 5 developer pain points that led to 3 product roadmap items prioritized by engineering team' or 'Provided feedback that informed SDK redesign, reducing integration time by 40%.' Concrete examples of your impact on the product matter."
+    }
+  ]
+}

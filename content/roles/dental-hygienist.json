@@ -1,0 +1,134 @@
+{
+  "slug": "dental-hygienist",
+  "title": "Dental Hygienist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:08.105Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Dental Hygienist Resume: Tips & Examples for 2026",
+  "metaDescription": "Build a standout dental hygienist resume with our actionable tips, skill keywords, and real bullet examples. Land more interviews.",
+  "h1": "Dental Hygienist Resume: How to Stand Out to Hiring Dentists",
+  "intro": "Your dental hygienist resume needs to show not just your clinical skills, but your ability to educate patients, manage time under pressure, and contribute to practice growth. We'll walk you through the specific keywords, bullet structure, and mistakes to avoid so you land more interviews at practices that value your expertise.",
+  "audience": "Recent dental hygiene graduates, newly licensed RDH professionals, and experienced hygienists looking to switch practices or advance into expanded roles.",
+  "topSkills": [
+    {
+      "name": "Periodontal Assessment & Scaling",
+      "why": "Dentists hire hygienists who can confidently perform root planing, detect disease early, and document findings—this is your core clinical value."
+    },
+    {
+      "name": "Patient Education & Communication",
+      "why": "Practices want hygienists who reduce future cavities and gum disease by teaching effective home care habits, reducing dentist chair time downstream."
+    },
+    {
+      "name": "RDH Licensure (State-Specific)",
+      "why": "Licensing credentials are non-negotiable; ATS systems filter for exact state abbreviations (e.g., RDH-CA, RDH-NY) so hiring managers know you're legally qualified."
+    },
+    {
+      "name": "Digital Radiography & Intraoral Imaging",
+      "why": "Modern practices rely on chairside digital systems; showing proficiency signals you won't slow down workflow and can spot pathology independently."
+    },
+    {
+      "name": "Prophy & Preventive Care",
+      "why": "Your ability to perform efficient prophylaxis cleanings directly impacts practice scheduling and patient satisfaction—quantify how many patients you treat per day or how you reduced cancellations."
+    },
+    {
+      "name": "Nitrous Oxide Administration",
+      "why": "Not all states allow it, but if you're certified and your target state permits it, this expands your scope and makes you more valuable to busy practices."
+    },
+    {
+      "name": "EHR & Practice Management Software",
+      "why": "Dental offices rely on Dentrix, Eaglesoft, or Softdent; listing specific systems shows you can integrate smoothly without training overhead."
+    },
+    {
+      "name": "Infection Control & OSHA Compliance",
+      "why": "Dentists are liable for sterilization lapses; demonstrating your mastery of CDC/OSHA protocols reassures practices you protect staff and patients."
+    },
+    {
+      "name": "Oral Health Coaching & Behavior Change",
+      "why": "Hygienists who move beyond 'brush better' to motivational interviewing and tailored coaching reduce re-treatment rates and patient anxiety."
+    },
+    {
+      "name": "Expanded Functions (if applicable)",
+      "why": "Some states allow sealants, local anesthesia, or restorative work; if you hold these credentials, they're major differentiators for high-volume practices."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed dental cleanings and educated patients on oral hygiene.",
+      "strong": "Completed 12–15 prophy appointments daily while maintaining 98% patient satisfaction scores; developed individualized home-care plans that reduced perio-disease recurrence by 25–35% per follow-up cycles.",
+      "lesson": "Adding volume, quality metrics, and patient outcomes transforms a generic duty into proof of clinical efficiency and practice impact."
+    },
+    {
+      "weak": "Took X-rays and assessed patient teeth.",
+      "strong": "Captured and reviewed 40+ intraoral digital radiographs weekly; identified early-stage cavities and periodontal pathology that led to timely referrals, increasing case acceptance by 15–20% per quarter.",
+      "lesson": "Showing specific volume, technology proficiency, and how your work drives revenue-generating cases makes you invaluable to dentists."
+    },
+    {
+      "weak": "Assisted with infection control procedures.",
+      "strong": "Led monthly sterilization audits and trained 4 new hygienists on CDC/OSHA protocols; achieved 100% compliance on all State Board inspections with zero deficiencies over 3 years.",
+      "lesson": "Demonstrating leadership, compliance mastery, and no lapses shows you're a trusted, low-risk asset who can scale processes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing hygiene school and no state license or RDH abbreviation",
+      "fix": "Always include your RDH licensure with state code (e.g., 'Licensed Registered Dental Hygienist — State of California') early in your resume; ATS systems search for exact license strings."
+    },
+    {
+      "mistake": "Vague patient-education claims without evidence",
+      "fix": "Back up patient-education skills with metrics: number of patients reached, disease-recurrence improvement rates, or participation in specific programs like diabetes education or tobacco-cessation coaching."
+    },
+    {
+      "mistake": "Omitting specific EHR or radiography software you know",
+      "fix": "Name the exact systems you've used (Dentrix, Eaglesoft, Softdent, Intraoral camera brands, etc.); hiring managers filter resumes by these keywords to avoid training time."
+    },
+    {
+      "mistake": "Not differentiating from other hygienists (all resumes sound identical)",
+      "fix": "Highlight unique credentials (expanded functions, nitrous certification, specialty training in perio or pediatrics) or practice-specific wins like reducing no-shows or building a local referral network."
+    },
+    {
+      "mistake": "Treating expanding functions or specializations as minor details",
+      "fix": "If you hold sealant, anesthesia, or restorative permits, lead with them in your skills section; they're major revenue-drivers and qualify you for premium positions or higher pay."
+    }
+  ],
+  "structureTips": [
+    "Lead with your RDH license and state(s) in a credentials section just below your contact info—dentists scan for legal qualifications first.",
+    "Put your top clinical skills (periodontal assessment, patient education, digital imaging) in a short, bulleted skills section before work history; this catches the ATS and hiring manager's eye in 5 seconds.",
+    "In each job description, lead with your patient volume and appointment types, then add compliance, teaching, or team achievements; volume signals efficiency, which dentists value.",
+    "If you have specialty training (perio-specific, pediatric hygiene, community health, or expanded functions), create a separate 'Certifications & Specializations' section to make them impossible to miss."
+  ],
+  "atsKeywords": [
+    "Registered Dental Hygienist",
+    "RDH",
+    "Periodontal Scaling & Root Planing",
+    "Digital Radiography",
+    "Patient Education",
+    "Oral Prophylaxis",
+    "Dentrix",
+    "Infection Control",
+    "Nitrous Oxide Administration",
+    "Expanded Functions"
+  ],
+  "salarySignal": "Entry-level dental hygienists in the US typically earn $55,000–$65,000 annually; experienced hygienists with specialty certifications or expanded functions often reach $70,000–$85,000+, with regional variation and benefits packages significantly affecting total comp.",
+  "faq": [
+    {
+      "q": "What should I put first on a dental hygienist resume?",
+      "a": "Your RDH license and state credential in a dedicated credentials section, right after your contact info. Dentists need to verify you're legally qualified before reading anything else. Follow that with a brief skills summary highlighting your top 3–5 clinical strengths."
+    },
+    {
+      "q": "How do I show I'm a strong dental hygienist if I don't have years of experience?",
+      "a": "Emphasize clinical skills from school, internships, and rotations with specific metrics: 'Completed 200+ prophylaxis cases in clinical program' or 'Scored 95%+ on State Board exams.' List any specialized training, volunteer work, or community health projects that show patient care impact."
+    },
+    {
+      "q": "Should I list every software or EHR I've used?",
+      "a": "Yes, but only those you're genuinely confident in. Dentists often filter resumes by software (Dentrix, Eaglesoft, Softdent, etc.); if a practice uses a system you know, it's a huge advantage because you need minimal onboarding."
+    },
+    {
+      "q": "How do I stand out as a dental hygienist with expanded functions?",
+      "a": "Create a dedicated 'Certifications & Specializations' section that lists every expanded function you hold (sealants, local anesthesia, restorative, nitrous). Practices seeking these skills search for exact credential names, so make them prominent and verbatim."
+    },
+    {
+      "q": "What metrics matter most for a dental hygienist resume?",
+      "a": "Patient volume (appointments per day), appointment types, patient satisfaction scores, disease-recurrence rates, compliance audit results, and case acceptance improvements from your patient-education efforts. Any metric that shows efficiency, quality, or practice revenue impact is gold."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "personal-care-aide",
+  "title": "Personal Care Aide",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:35:53.481Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Personal Care Aide Resume: Examples & Tips for 2026",
+  "metaDescription": "Land your personal care aide job with a strong resume. See sample bullets, key skills, and ATS keywords that hiring managers actually look for.",
+  "h1": "Personal Care Aide Resume: What Hiring Managers Want to See",
+  "intro": "A personal care aide resume needs to prove you're reliable, compassionate, and skilled at keeping vulnerable people safe and comfortable. Unlike many jobs, your experience with specific care tasks, patient outcomes, and your ability to work in sensitive situations matter way more than fancy formatting.",
+  "audience": "Mostly entry-level candidates, new grads from CNA programs, and people pivoting into caregiving from adjacent healthcare or service roles.",
+  "topSkills": [
+    {
+      "name": "Activities of Daily Living (ADL) Assistance",
+      "why": "Employers need to see you understand and can execute the core functions: bathing, dressing, grooming, toileting, and mobility support."
+    },
+    {
+      "name": "Patient Safety & Fall Prevention",
+      "why": "Hiring managers prioritize aides who can demonstrate awareness of hazards and proactive steps to prevent injury."
+    },
+    {
+      "name": "Documentation & Care Notes",
+      "why": "Many roles require you to record observations in patient charts or log books; sloppy communication here is a red flag."
+    },
+    {
+      "name": "Infection Control & Hygiene Protocols",
+      "why": "Especially post-2020, facilities want to see you understand and follow strict cleaning and PPE standards."
+    },
+    {
+      "name": "Bedside Manner & Empathy",
+      "why": "You'll work with elderly, disabled, or recovering patients; managers look for evidence you're patient, respectful, and emotionally aware."
+    },
+    {
+      "name": "Vital Signs Monitoring",
+      "why": "Even if you're not a medical aide, observing and reporting changes in patient condition is a valuable safety skill."
+    },
+    {
+      "name": "Team Communication & Reporting",
+      "why": "You'll coordinate with nurses, therapists, and family members; clear handoff and update skills are essential."
+    },
+    {
+      "name": "Physical Stamina & Mobility",
+      "why": "The job is physically demanding; employers want confidence that you can lift, transfer, and move around shifts without injury."
+    },
+    {
+      "name": "Dementia Care & Behavioral Support",
+      "why": "Many care settings serve older adults with cognitive decline; experience or training here is highly valued."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped patients with daily activities and made sure they were comfortable.",
+      "strong": "Assisted 8–12 elderly residents daily with ADLs (bathing, dressing, grooming, toileting); maintained detailed care logs and communicated changes in mobility or appetite to nursing staff within 30 minutes of observation.",
+      "lesson": "Specific patient load, named tasks, and measurable communication timeliness prove competence and accountability."
+    },
+    {
+      "weak": "Worked on a team and followed company policies.",
+      "strong": "Collaborated with interdisciplinary care team (RNs, physical therapists, social workers) during weekly care plan reviews; ensured 100% compliance with infection control protocols and documented all care interventions in real time.",
+      "lesson": "Naming specific roles and departments, plus quantifying compliance, shows you understand the broader care ecosystem and follow critical safety rules."
+    },
+    {
+      "weak": "Provided emotional support to patients and their families.",
+      "strong": "Built trust with 5–7 patients with moderate dementia through consistent, calm presence; coached families on safe transfer techniques and de-escalation strategies, reducing behavioral incidents by 40% in my assigned unit over 6 months.",
+      "lesson": "Tying emotional intelligence to a measurable outcome (reduced incidents) and naming a specific patient population shows impact beyond kindness alone."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Writing vague duties instead of specific care tasks",
+      "fix": "Replace 'provided care' with the actual ADLs and medical tasks you performed: 'assisted with toileting and catheter care,' 'monitored blood pressure and reported abnormalities,' etc."
+    },
+    {
+      "mistake": "Omitting safety training or certifications",
+      "fix": "Always include any CPR, first aid, bloodborne pathogen, or dementia care training—even if it's just 'in progress' or 'completed online.' Facilities legally require certain credentials."
+    },
+    {
+      "mistake": "Listing shift work without showing reliability",
+      "fix": "Add context like 'maintained perfect attendance over 18 months' or 'reliably covered overnight and weekend shifts' to prove you're dependable—a huge hiring signal in healthcare."
+    },
+    {
+      "mistake": "Forgetting to highlight patient outcomes or observations you reported",
+      "fix": "Show that you notice things: 'identified early signs of infection (fever, disorientation) and notified RN immediately, leading to early intervention' or 'flagged weight loss trend, prompting nutritionist referral.'"
+    },
+    {
+      "mistake": "Not mentioning experience with diverse patient populations",
+      "fix": "Specify: 'worked with post-surgical patients,' 'cared for residents with Alzheimer's,' 'supported individuals with mobility restrictions' so hiring managers see you can adapt your approach."
+    }
+  ],
+  "structureTips": [
+    "Lead with a lean 'Professional Summary' (2–3 lines) that names your certification level (CNA, home health aide) and years in care—e.g., 'Compassionate Personal Care Aide with 2+ years in assisted living; CPR certified; skilled in ADL assistance and dementia care.'",
+    "Put certifications and licenses in a dedicated section near the top, not buried at the bottom. Include the credential name, issuing body, and expiration date (if still current).",
+    "Organize your experience chronologically with facility name, patient population served, and your role; each bullet should speak to a specific care task, safety action, or team collaboration rather than general 'helped patients' statements.",
+    "Add a short 'Skills' section listing ADL tasks, safety protocols, patient populations (elderly, post-operative, dementia), and software (e.g., 'electronic health record documentation, Omnicare') so ATS filters catch you."
+  ],
+  "atsKeywords": [
+    "Personal Care Aide",
+    "Activities of Daily Living",
+    "ADL assistance",
+    "Patient hygiene and grooming",
+    "Fall prevention",
+    "Care documentation",
+    "Infection control",
+    "Assisted living facility",
+    "CPR certified",
+    "Dementia care"
+  ],
+  "salarySignal": "Entry-level US personal care aide salaries typically range from $27,000 to $34,000 annually as of 2026; pay varies by region, facility type (home care, assisted living, nursing home), and certifications held.",
+  "faq": [
+    {
+      "q": "Do I need to be a CNA to apply as a personal care aide?",
+      "a": "Not always, but it's a huge advantage. Many facilities require CNA certification or mandate you obtain it within 90 days of hire. Even if it's not required, listing 'CNA certification in progress' or a recent CPR card boosts your competitiveness significantly."
+    },
+    {
+      "q": "How do I show I'm good with difficult or aggressive patients?",
+      "a": "Use specific examples: 'de-escalated behavioral outburst in patient with dementia by using calm tone and familiar routines' or 'maintained composure and safety protocols while assisting combative post-operative patient.' This shows training and emotional maturity, not just tolerance."
+    },
+    {
+      "q": "Should I include my volunteer experience as a personal care aide?",
+      "a": "Absolutely. Volunteer caregiving experience is legitimate and often shows genuine interest in the field. Format it the same way as paid roles: facility, dates, and specific care duties and patient populations you served."
+    },
+    {
+      "q": "What if I've only worked in home care, not a facility?",
+      "a": "Home care is equally valid and sometimes preferred by employers. Highlight the independence, communication with family members, and flexibility required. Name 'private home care,' the number of clients served, and the types of care (elderly, post-hospitalization recovery, disability support)."
+    },
+    {
+      "q": "How do I explain a gap in my work history on my personal care aide resume?",
+      "a": "Be honest and brief. If it's due to caregiving for a family member, education, or health, a one-liner like 'left workforce to care for family member, 2022–2023' or 'completed CNA certification, 2024' is fine. Employers in healthcare are usually understanding, but transparency is key."
+    }
+  ]
+}

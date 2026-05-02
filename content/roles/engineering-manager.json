@@ -1,0 +1,134 @@
+{
+  "slug": "engineering-manager",
+  "title": "Engineering Manager",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:27.085Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Engineering Manager Resume: Write It Right in 2026",
+  "metaDescription": "Build a strong Engineering Manager resume with key skills, ATS keywords, and examples that land interviews. See what hiring managers want.",
+  "h1": "Engineering Manager Resume: Skills, Examples & What Works",
+  "intro": "Engineering managers sit at the intersection of people and technology—and your resume needs to prove you excel at both. This guide shows you how to highlight leadership, technical credibility, and delivery metrics in a way that resonates with hiring managers and passes ATS screening.",
+  "audience": "Senior engineers transitioning into management, first-time engineering managers, and engineering leaders looking to move to larger or faster-growing teams.",
+  "topSkills": [
+    {
+      "name": "Team Leadership & Management",
+      "why": "Hiring managers need to see you've successfully built, mentored, and scaled engineering teams—this is your primary value prop."
+    },
+    {
+      "name": "Technical Architecture & System Design",
+      "why": "You need credibility with your team and peer managers; understanding architecture decisions keeps you in technical conversations."
+    },
+    {
+      "name": "Project & Delivery Management",
+      "why": "Ability to ship on time, manage scope, and unblock teams is what executives care about when evaluating manager performance."
+    },
+    {
+      "name": "Cross-functional Collaboration",
+      "why": "Engineering managers work across product, design, ops, and leadership—demonstrate you've led these partnerships successfully."
+    },
+    {
+      "name": "Strategic Planning & Roadmap Ownership",
+      "why": "Shows you think beyond day-to-day execution and can align engineering work with business goals."
+    },
+    {
+      "name": "Performance Management & Hiring",
+      "why": "Proves you can recruit talent, develop people, and handle performance conversations—core manager responsibilities."
+    },
+    {
+      "name": "Agile/Scrum & Process Optimization",
+      "why": "Most engineering orgs use some version of Agile; showing you've improved velocity or reduced cycle time is valuable."
+    },
+    {
+      "name": "API Design, Microservices & Cloud Platforms",
+      "why": "Specific technical knowledge (AWS, GCP, Kubernetes, etc.) signals you stay current and can make informed architectural calls."
+    },
+    {
+      "name": "Incident Response & Crisis Management",
+      "why": "Engineering managers are on-call for outages; showing you've led blameless postmortems and reduced MTTR is credible."
+    },
+    {
+      "name": "Budget Ownership & Resource Allocation",
+      "why": "Directors and VPs want to see you've managed headcount, tool spend, or infrastructure budgets responsibly."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed a team of engineers and helped them with projects and technical issues.",
+      "strong": "Led a team of 8 full-stack engineers through a critical platform migration; reduced API latency by 40% and improved on-time delivery from 65% to 92% in one quarter.",
+      "lesson": "Specific team size, measurable outcomes (latency, delivery rate), and time-bound results make your impact undeniable."
+    },
+    {
+      "weak": "Responsible for hiring and onboarding new engineers.",
+      "strong": "Sourced and hired 6 senior engineers in 8 months; designed 3-week onboarding program that reduced time-to-productivity from 10 weeks to 5 weeks and increased retention to 95%.",
+      "lesson": "Quantity hired, process improvement, and retention metric show you can both attract and keep talent."
+    },
+    {
+      "weak": "Worked with product and design teams to build features.",
+      "strong": "Partnered with Product and Design to ship 4 major features in a six-month roadmap; coordinated across two backend teams and one frontend team, and reduced scope-creep incidents by 80% through weekly alignment sessions.",
+      "lesson": "Scope of coordination, number of features shipped, and process improvements show strategic cross-functional leadership."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leading with IC (individual contributor) accomplishments instead of team outcomes",
+      "fix": "Shift focus to what your *team* shipped, improved, or delivered. You're hired to multiply the output of others, not to code the most features yourself."
+    },
+    {
+      "mistake": "Omitting hiring and retention numbers",
+      "fix": "Include how many people you've hired, your team's turnover rate, and promotion/growth outcomes. These are measurable signs of good management."
+    },
+    {
+      "mistake": "Being vague about technical direction and architectural decisions",
+      "fix": "Name specific technologies you've championed (e.g., 'migrated monolith to microservices on Kubernetes') and explain the business impact."
+    },
+    {
+      "mistake": "Forgetting to mention process improvements or velocity gains",
+      "fix": "Engineering orgs are obsessed with cycle time, deployment frequency, and incident metrics. If you improved any of these, lead with it."
+    },
+    {
+      "mistake": "Not demonstrating cross-functional leadership",
+      "fix": "Make it explicit that you've unblocked teams, led meetings with other departments, and shipped things that required Buy-in from product, ops, or design."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with team size and scope first (e.g., 'Led 8-person platform team'), then list achievements. This immediately signals your level of responsibility.",
+    "Group accomplishments by category: Team Growth & Retention, Delivery & Execution, Technical Leadership, and Cross-functional Impact. This makes it easy for ATS and hiring managers to scan.",
+    "Put your most recent and highest-impact role first, and make sure it demonstrates either larger team size, faster shipping, or significant technical/process improvement.",
+    "Include a 'Core Competencies' or 'Key Skills' section that mirrors job posting language (Agile, microservices, AWS, etc.) to pass ATS filters and show alignment."
+  ],
+  "atsKeywords": [
+    "Engineering Manager",
+    "Technical Leadership",
+    "Team Management",
+    "Agile/Scrum",
+    "Microservices Architecture",
+    "Cloud Platforms (AWS/GCP/Azure)",
+    "Incident Response",
+    "Cross-functional Collaboration",
+    "Performance Management",
+    "Strategic Planning"
+  ],
+  "salarySignal": "Entry-level engineering manager roles (managing 3–5 people) typically range from $150K–$200K base in US tech hubs; senior and staff-level managers managing 8+ people or multiple teams often reach $220K–$280K+ including equity and bonus.",
+  "faq": [
+    {
+      "q": "How much technical depth should I show on an engineering manager resume?",
+      "a": "Show enough to stay credible with your peers and team—name specific technologies, frameworks, and architectures you've worked with (e.g., 'Designed microservices infrastructure on Kubernetes'). But keep the focus on *decisions* and *impact*, not code samples. You're hired for judgment and leadership, not for being the strongest IC on the team."
+    },
+    {
+      "q": "Should I include metrics about my team's code quality or test coverage?",
+      "a": "Yes, if you drove those improvements. Include things like 'improved test coverage from 45% to 78%' or 'reduced production bugs by 50% through code review process changes.' These show you care about quality and have a process mindset."
+    },
+    {
+      "q": "What's more important: shipping speed or technical excellence?",
+      "a": "Both, but lead with business impact. Frame it as 'reduced time-to-market by 30% while maintaining 99.9% uptime' or 'shipped 12 features on schedule with zero critical incidents.' Hiring managers want to see you balance speed with stability."
+    },
+    {
+      "q": "How do I show impact if I inherited a struggling team?",
+      "a": "Highlight the transformation: 'Took over underperforming team with 45% turnover and 60% on-time delivery; rebuilt culture through mentorship, hired 3 senior engineers, and improved on-time delivery to 88% within 6 months.' Show the before and after."
+    },
+    {
+      "q": "Should my resume look different if I'm applying to a startup vs. a big tech company?",
+      "a": "Slightly. At startups, emphasize speed, bias for action, and wearing multiple hats. At big tech, emphasize scale, process discipline, cross-team coordination, and strategic alignment. Tailor your language to the company's size and culture, but keep the same core metrics."
+    }
+  ]
+}

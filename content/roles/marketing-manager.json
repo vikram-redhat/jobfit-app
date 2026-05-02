@@ -1,0 +1,134 @@
+{
+  "slug": "marketing-manager",
+  "title": "Marketing Manager",
+  "category": "business",
+  "generatedAt": "2026-05-02T22:37:15.019Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Marketing Manager Resume: 2026 Guide & Examples",
+  "metaDescription": "Build a winning Marketing Manager resume with proven bullet examples, key skills, and ATS optimization tips that get interviews.",
+  "h1": "How to Write a Marketing Manager Resume That Gets Interviews",
+  "intro": "A strong Marketing Manager resume needs to prove you can drive campaigns, manage budgets, and hit measurable business outcomes—not just list your responsibilities. We'll show you exactly how to structure yours and what metrics matter most to hiring managers.",
+  "audience": "Recent business grads, career switchers from adjacent roles like sales or communications, and mid-level marketers looking to land their next big opportunity.",
+  "topSkills": [
+    {
+      "name": "Campaign Management",
+      "why": "Hiring managers want proof you can execute full-cycle campaigns from strategy to launch and measure results."
+    },
+    {
+      "name": "Marketing Analytics & Data Interpretation",
+      "why": "Data-driven decision-making separates strong marketers from mediocre ones; companies want to see you track ROI and conversion metrics."
+    },
+    {
+      "name": "Budget Management & Forecasting",
+      "why": "Marketing Manager roles own P&L responsibility; demonstrating cost control and resource allocation is critical."
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "why": "You'll coordinate with sales, product, design, and external vendors; recruiters look for collaboration and communication skills."
+    },
+    {
+      "name": "SEO & SEM / Digital Marketing",
+      "why": "Most modern marketing roles touch paid and organic search; this is a table-stakes skill for 2026."
+    },
+    {
+      "name": "Brand Strategy & Positioning",
+      "why": "Employers want to see you've shaped how a company is perceived in the market, not just executed tactics."
+    },
+    {
+      "name": "Marketing Automation Platforms",
+      "why": "HubSpot, Marketo, and similar tools are standard in the role; familiarity signals efficiency and scalability."
+    },
+    {
+      "name": "Content Strategy & Copywriting",
+      "why": "Whether B2B or B2C, every campaign starts with compelling messaging; this skill demonstrates strategic thinking."
+    },
+    {
+      "name": "Social Media Management & Community Building",
+      "why": "Brands live on social; hiring managers want evidence you've grown audiences and driven engagement."
+    },
+    {
+      "name": "Market Research & Competitive Analysis",
+      "why": "Strategic marketers don't operate in a vacuum; showing you validate decisions with research builds credibility."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed marketing campaigns and worked with the team to improve brand awareness.",
+      "strong": "Led 8+ integrated marketing campaigns across email, social, and paid search; grew monthly website traffic by 45% and increased qualified leads by 32% YoY, contributing to $1.2M in pipeline revenue.",
+      "lesson": "Specific campaign count, concrete metrics (traffic and lead growth %), and revenue impact transform a generic statement into proof of impact."
+    },
+    {
+      "weak": "Responsible for marketing budget and spent money on advertising.",
+      "strong": "Managed $450K annual marketing budget; optimized paid ad spend across Google, LinkedIn, and Facebook, achieving 3.2x ROAS and reducing cost-per-lead by 28% through A/B testing and audience refinement.",
+      "lesson": "Actual budget size, specific platforms, and quantified efficiency gains (ROAS, CPA reduction) show financial discipline and strategic thinking."
+    },
+    {
+      "weak": "Worked on content marketing and social media to increase engagement.",
+      "strong": "Developed and executed content strategy resulting in 120% increase in blog traffic (50K→110K monthly sessions) and grew LinkedIn followers from 3K to 18K; top 3 posts reached 25K+ impressions each and generated 450+ sales-qualified leads.",
+      "lesson": "Concrete before-and-after numbers, specific platform metrics, and tie-in to business outcome (sales-qualified leads) prove measurable impact and strategic understanding."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing soft skills without proof",
+      "fix": "Replace 'excellent communication' with a bullet that shows you led a cross-functional rebrand, managed stakeholder feedback, or presented insights to the C-suite."
+    },
+    {
+      "mistake": "Forgetting to quantify campaigns and initiatives",
+      "fix": "Always pair activities with metrics: campaign reach, conversion rate, revenue impact, audience growth rate, or cost savings—even if it's a range."
+    },
+    {
+      "mistake": "Burying budget and revenue accountability",
+      "fix": "Lead with or prominently feature any P&L ownership, cost management, or revenue contribution; this is a primary hiring signal for manager-level roles."
+    },
+    {
+      "mistake": "Not naming specific tools or platforms",
+      "fix": "Spell out your martech stack: HubSpot, Google Analytics, Hootsuite, Salesforce, Tableau, etc. Hiring managers use these as ATS keywords and want to see relevant tool experience."
+    },
+    {
+      "mistake": "Focusing on activities instead of outcomes",
+      "fix": "Don't just say 'ran email campaigns'; say what the campaigns achieved—open rate, click-through rate, conversions, or revenue generated."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that ties your top accomplishment to the type of role you're seeking; avoid generic 'results-driven marketer' language.",
+    "Put your most recent and impressive campaign/budget win at the top of your experience section; hiring managers spend 6 seconds scanning, so frontload impact.",
+    "Group skills into buckets: Digital Marketing (SEO, SEM, email), Analytics & Data, Tools (HubSpot, GA4, Salesforce), and Strategy (brand, competitive analysis). This helps ATS matching and readability.",
+    "For each role, include 4–5 bullets: 1–2 on campaign/strategy leadership with metrics, 1 on budget or P&L, 1 on cross-functional collaboration or team building, and 1 on a specific win or tool mastery."
+  ],
+  "atsKeywords": [
+    "marketing campaign management",
+    "digital marketing strategy",
+    "marketing analytics",
+    "budget management",
+    "cross-functional leadership",
+    "marketing automation",
+    "SEO and SEM",
+    "brand strategy",
+    "content marketing",
+    "paid advertising"
+  ],
+  "salarySignal": "Entry-level Marketing Manager roles in the US typically start around $55K–$65K; mid-level managers earn $70K–$95K; senior and strategic roles range $100K–$140K+, depending on industry, company size, and region.",
+  "faq": [
+    {
+      "q": "Should I include my personal blog or side marketing projects on my resume?",
+      "a": "Yes, if they're relevant and have concrete metrics. A side project with 50K monthly readers or a campaign that generated 200+ leads is proof of capability. Keep it brief (1 line) and quantify the impact."
+    },
+    {
+      "q": "What metrics matter most on a Marketing Manager resume?",
+      "a": "Revenue impact (pipeline, ARR, customer acquisition cost), traffic and lead growth, ROI/ROAS, audience growth rate, and cost efficiency (CPA reduction, budget savings). Tie metrics to business outcomes when possible."
+    },
+    {
+      "q": "How do I show I'm good at cross-functional work if my title doesn't include 'manager'?",
+      "a": "Use bullets like 'partnered with sales to define ICP and messaging, resulting in X% higher conversion' or 'led marketing brief reviews with product and design teams to align go-to-market strategy.' Show collaboration and shared wins."
+    },
+    {
+      "q": "Is it okay to leave off tools I haven't used in 2+ years?",
+      "a": "If they're no longer industry-standard, yes. But if they're still widely used (Google Analytics, HubSpot, Salesforce), mention them even if it's been a while—you can quickly refresh. Avoid cluttering your skills section with legacy software."
+    },
+    {
+      "q": "How many campaigns or marketing initiatives should I highlight?",
+      "a": "3–5 substantial campaigns or strategic initiatives across your most recent 1–2 roles. Quality over quantity; one campaign with 3x ROAS is better than listing 10 campaigns with no context or results."
+    }
+  ]
+}

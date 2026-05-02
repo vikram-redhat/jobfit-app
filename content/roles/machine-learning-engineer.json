@@ -1,0 +1,144 @@
+{
+  "slug": "machine-learning-engineer",
+  "title": "Machine Learning Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:25:11.375Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Machine Learning Engineer Resume: Examples & Tips",
+  "metaDescription": "Write a compelling ML engineer resume with our guide. See real sample bullets, top skills hiring managers want, and ATS keywords to land interviews.",
+  "h1": "Machine Learning Engineer Resume: Skills, Examples & Writing Guide",
+  "intro": "Landing an ML engineer role means showing you can bridge math, code, and real-world impact—and your resume has about 6 seconds to prove it. This guide walks you through the exact skills, bullet formats, and keywords that get ML resumes past screening bots and in front of hiring teams.",
+  "audience": "Recent ML/CS grads, bootcamp graduates, and software engineers pivoting into machine learning looking to land their first or next ML role.",
+  "topSkills": [
+    {
+      "name": "PyTorch / TensorFlow",
+      "why": "Nearly every ML job posting mentions a deep learning framework; these two dominate industry hiring and show you can build production models."
+    },
+    {
+      "name": "Python",
+      "why": "The default language for ML; hiring managers expect fluency in Python for data processing, model training, and scripting."
+    },
+    {
+      "name": "Model Training & Optimization",
+      "why": "Beyond writing code, you need to demonstrate you understand hyperparameter tuning, loss functions, and improving model performance."
+    },
+    {
+      "name": "Data Processing & Feature Engineering",
+      "why": "Real ML work is 80% data prep; showing you can clean, normalize, and create features from raw data is critical."
+    },
+    {
+      "name": "SQL & Data Querying",
+      "why": "You'll need to pull and manipulate data from databases daily; SQL fluency is non-negotiable."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Every ML team uses Git for collaboration; it's table stakes for working on shared codebases and model repositories."
+    },
+    {
+      "name": "ML Experiment Tracking & MLOps",
+      "why": "Tools like MLflow, Weights & Biases, and DVC show you understand reproducibility and production-readiness, not just one-off notebooks."
+    },
+    {
+      "name": "API Development & Model Deployment",
+      "why": "A trained model sitting in a notebook isn't useful; showing Flask, FastAPI, Docker, or cloud deployment experience proves you can ship ML to production."
+    },
+    {
+      "name": "Statistical Analysis & A/B Testing",
+      "why": "Understanding significance, power, and experimental design separates engineers who tinker from those who impact business metrics."
+    },
+    {
+      "name": "Computer Vision or NLP (domain-specific)",
+      "why": "If you have depth in a specialized domain, call it out to stand out for roles that need those exact skills."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built a machine learning model to predict customer churn using Python and TensorFlow.",
+      "strong": "Trained a TensorFlow LSTM model that predicted customer churn with 89% precision, reducing false-positive intervention costs by ~$40K annually; deployed via Flask API with monitoring.",
+      "lesson": "The strong version adds a concrete metric (89% precision), quantifies business impact ($40K saved), and shows you shipped it to production (Flask API), not just trained a notebook."
+    },
+    {
+      "weak": "Improved model performance through feature engineering and hyperparameter tuning.",
+      "strong": "Engineered 12 new features from raw transaction logs using domain expertise, then systematically tuned learning rate and batch size with Weights & Biases; improved F1-score from 0.74 to 0.82.",
+      "lesson": "Specificity wins: mention the number of features, the tool used, and the before/after metric—this tells hiring managers you're methodical and track your work."
+    },
+    {
+      "weak": "Deployed a deep learning model to production.",
+      "strong": "Containerized a ResNet-50 image classification model in Docker, exposed via FastAPI with request validation, and integrated CI/CD with GitHub Actions; served 50K+ inference requests/day with <200ms latency.",
+      "lesson": "Production deployment is vague; break it into concrete steps (containerization, API, CI/CD) and prove reliability with real throughput and latency numbers."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only model accuracy without business context.",
+      "fix": "Always pair your metric with why it matters: 'improved accuracy to 94%' is weaker than 'improved accuracy to 94%, reducing classification errors by 25% and enabling faster model inference on edge devices.'"
+    },
+    {
+      "mistake": "Overloading with frameworks and libraries you barely used.",
+      "fix": "List only tools and frameworks you actually built or shipped with; recruiters can tell the difference between 'listed PyTorch on resume' and 'shipped a production PyTorch model.'"
+    },
+    {
+      "mistake": "Describing Kaggle competitions or academic projects with no real-world framing.",
+      "fix": "If you include a Kaggle or research project, explain what problem it solved or what you learned that's relevant to an ML engineer job—e.g., 'ranked top 5% on Kaggle NLP competition, validating my understanding of transformer-based architectures that we now use in production.'"
+    },
+    {
+      "mistake": "Forgetting to mention data scale and infrastructure.",
+      "fix": "Hiring teams care about whether you've worked with 10K or 100M rows; mention dataset size, processing tools (Spark, Pandas), and cloud platforms (AWS SageMaker, Google Vertex AI) you've used."
+    },
+    {
+      "mistake": "No mention of model monitoring or post-deployment work.",
+      "fix": "Add a sentence about monitoring, retraining cadence, or how you caught and fixed model drift—it signals you understand ML beyond training."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or highlight section that front-loads your strongest ML framework, a key achievement (e.g., 'shipped 3+ production models'), and your strongest domain if specialized (NLP, CV, etc.).",
+    "Group work experience by impact, not just chronology: lead each role with 1–2 bullets about models or systems you shipped, then follow with technical depth (architecture, frameworks, metrics).",
+    "Create a dedicated 'Technical Skills' section with subsections—Languages (Python, SQL), ML Frameworks (PyTorch, TensorFlow), Tools (Git, Docker, MLflow), Cloud Platforms (AWS, GCP)—to make ATS parsing easier and help recruiters scan quickly.",
+    "Put academic projects, competitions, or open-source contributions in a separate 'Projects' section below experience; only include them if they're recent, well-scoped, and highlight skills not covered by your job roles."
+  ],
+  "atsKeywords": [
+    "TensorFlow",
+    "PyTorch",
+    "Python",
+    "machine learning",
+    "deep learning",
+    "model training",
+    "feature engineering",
+    "SQL",
+    "data processing",
+    "model deployment",
+    "MLOps",
+    "computer vision",
+    "natural language processing",
+    "hyperparameter tuning",
+    "A/B testing",
+    "scikit-learn",
+    "Keras",
+    "Docker",
+    "AWS SageMaker",
+    "Google Vertex AI"
+  ],
+  "salarySignal": "Entry-level ML engineer roles in the US typically start around $120K–$150K base; mid-level engineers with 3–5 years of production experience often see $150K–$200K+, with significant variation based on location (Bay Area, NYC, Seattle command higher salaries) and company stage.",
+  "faq": [
+    {
+      "q": "Should I include my Kaggle rank or competition wins on my ML engineer resume?",
+      "a": "Only if it's top-tier (top 5–10%) and recent (within 1–2 years). Kaggle shows you understand algorithms, but hiring managers care more about production experience. If you include it, frame it as 'ranked top 3% in NLP competition, validating skills I applied to customer intent detection model in production.'"
+    },
+    {
+      "q": "What if I don't have production ML experience yet? How do I make my resume stand out?",
+      "a": "Build 2–3 portfolio projects that mimic real work: end-to-end projects with data sourcing, model training, evaluation, and a simple API or deployed demo. Mention the scale (rows of data), frameworks, and what you'd do differently in a production setting. Employers also value coursework in statistics, linear algebra, or deep learning if it's recent and relevant."
+    },
+    {
+      "q": "How do I talk about model performance without overselling?",
+      "a": "Use honest, comparative metrics: 'improved AUC from 0.72 to 0.81' or 'reduced inference latency by 40% without sacrificing accuracy.' Avoid claims like 'state-of-the-art' unless you've published or can back it up; hiring managers see through hype."
+    },
+    {
+      "q": "Do I need to know every ML framework, or is depth in one or two enough?",
+      "a": "Depth in one or two (e.g., PyTorch and scikit-learn) is far better than surface-level knowledge of ten. List others only if you've shipped with them. You can note familiarity with others in a 'Tools I've explored' line, but employers prioritize real, production experience."
+    },
+    {
+      "q": "How much space should I dedicate to math or theory vs. engineering skills?",
+      "a": "Lean 70% engineering, 30% theory. Show you understand loss functions, backprop, or statistical tests through your projects and results, not by listing 'linear algebra' or 'calculus.' ML hiring is increasingly about shipping, not proving you can derive gradients by hand."
+    }
+  ]
+}

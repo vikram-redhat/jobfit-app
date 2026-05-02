@@ -1,0 +1,126 @@
+{
+  "slug": "qa-automation-engineer",
+  "title": "QA Automation Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:27.589Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "QA Automation Engineer Resume: Best Practices & Examples",
+  "metaDescription": "Write a compelling QA Automation Engineer resume. Learn what skills matter most, how to frame your testing projects, and what hiring managers actually want.",
+  "h1": "QA Automation Engineer Resume Guide",
+  "intro": "QA automation is a technical role that blends testing strategy with solid coding chops—and your resume needs to prove you can do both. We'll walk you through the skills, bullets, and structure that make QA hiring managers actually call you back.",
+  "audience": "Career switchers from manual QA or development, bootcamp grads, and early-career engineers applying to QA automation roles at startups, agencies, and enterprise tech teams.",
+  "topSkills": [
+    {
+      "name": "Selenium (or Cypress, Playwright)",
+      "why": "Selenium remains the industry standard for web automation; naming your specific framework shows you know the landscape and are immediately useful."
+    },
+    {
+      "name": "Test Automation Frameworks (Page Object Model, BDD)",
+      "why": "Hiring managers care less about ad-hoc scripts and more about whether you can build maintainable, scalable test suites that other engineers can inherit."
+    },
+    {
+      "name": "API Testing & REST Endpoints",
+      "why": "Modern QA is as much about testing behind-the-scenes services as it is about UI; API testing knowledge signals you understand the full stack."
+    },
+    {
+      "name": "CI/CD Integration (Jenkins, GitHub Actions, GitLab CI)",
+      "why": "Tests that run in isolation are nice; tests that block bad code from reaching production are what teams actually need."
+    },
+    {
+      "name": "Python or Java",
+      "why": "Test automation is code; demonstrating real scripting proficiency separates automation engineers from QA testers who run manual scripts."
+    },
+    {
+      "name": "Test Case Design & Test Strategy",
+      "why": "Writing good automated tests requires understanding *what* to test and *why*; this domain knowledge makes you a thinking engineer, not just a script writer."
+    },
+    {
+      "name": "Bug Tracking & Reporting (Jira, Azure DevOps)",
+      "why": "You'll be living in these systems; mentioning it shows you understand the QA workflow and can communicate findings clearly to developers."
+    },
+    {
+      "name": "Performance & Load Testing (JMeter, LoadRunner)",
+      "why": "Many QA automation roles expand into performance; even baseline experience here makes you a more versatile candidate."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Wrote automated tests for web application using Selenium and Python.",
+      "strong": "Built 150+ Selenium-Python test cases using Page Object Model framework; reduced manual regression testing time from 8 hours to 2 hours per release cycle.",
+      "lesson": "Added specific numbers (test count, time saved), named the pattern (Page Object Model), and quantified business impact—now it's a win, not just a task."
+    },
+    {
+      "weak": "Tested APIs and fixed bugs found during testing.",
+      "strong": "Designed and maintained 80+ automated API tests using RestAssured; caught 12+ critical bugs in payment flows pre-production, saving ~$50K in potential fraud liability.",
+      "lesson": "Named the tool (RestAssured), gave test count, and tied the work to real business value—this is what QA leaders actually care about."
+    },
+    {
+      "weak": "Set up continuous integration for test automation.",
+      "strong": "Integrated Selenium test suite into GitLab CI pipeline; automated nightly regression runs reduced deployment cycle time by 30% and improved team confidence in releases.",
+      "lesson": "Specified the CI tool (GitLab CI), explained what got automated, and measured the downstream impact—showing you think about the whole process, not just the tests."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Only listing tools without context.",
+      "fix": "Don't just say 'Selenium, Java, Jira.' Show *what* you built with each tool—how many tests, which patterns, what was the outcome?"
+    },
+    {
+      "mistake": "Treating QA like it's the same as manual testing.",
+      "fix": "Emphasize automation frameworks, code patterns, and CI/CD integration. Show that you're an engineer first, not someone clicking buttons."
+    },
+    {
+      "mistake": "Ignoring metrics and impact.",
+      "fix": "Every bullet should answer: how much faster, how many bugs, what code coverage %, what did the team save? Numbers make QA real to hiring managers."
+    },
+    {
+      "mistake": "Burying your strongest frameworks or languages.",
+      "fix": "Lead with your deepest skill—if you're a Cypress + TypeScript expert, don't hide it under a generic 'test automation' heading. Be specific and proud."
+    },
+    {
+      "mistake": "Not mentioning test strategy or design.",
+      "fix": "Include examples of how you *planned* test coverage—not just how you executed it. Smart test design is rarer than just running tests."
+    }
+  ],
+  "structureTips": [
+    "Lead your skills section with your primary automation framework (Selenium, Cypress, etc.) and the language you're strongest in—this is what the ATS and hiring manager will scan first.",
+    "In your experience section, group bullets by *impact*, not just task (e.g., 'Test Infrastructure & Reliability' before 'Day-to-day Testing'). QA leaders want to see you thinking about scale and maintainability.",
+    "If you have limited professional QA experience, include a 'Automation Projects' section above experience—showcase a public GitHub repo, a capstone project, or freelance work that proves you can code and test.",
+    "Put CI/CD pipeline work or framework improvements high on your bulleted list—these signal you're thinking about the team's velocity, not just your own test count."
+  ],
+  "atsKeywords": [
+    "Selenium automation",
+    "API testing",
+    "test framework",
+    "CI/CD pipeline",
+    "Python testing",
+    "Page Object Model",
+    "Cypress automation",
+    "test automation engineer",
+    "regression testing",
+    "GitLab CI or Jenkins"
+  ],
+  "salarySignal": "Entry-level QA Automation Engineer roles in the US typically range from $65K to $85K in 2026; mid-level positions often reach $90K–$120K, with higher ranges in tech hubs like San Francisco and New York.",
+  "faq": [
+    {
+      "q": "Should I list manual QA experience on my automation engineer resume?",
+      "a": "Yes, but reframe it. Instead of 'Performed manual testing,' write 'Identified testing gaps and authored automation strategy that eliminated 3 manual test cases per sprint.' Show that you're moving toward automation and thinking like an engineer."
+    },
+    {
+      "q": "What if I only know Selenium? Is that enough?",
+      "a": "Selenium alone is solid, but mention what *else* you've tested with it—APIs, mobile, performance, etc. If you've only used one framework, highlight your depth (framework patterns, leadership on the test suite) and mention you're eager to learn Cypress or Playwright."
+    },
+    {
+      "q": "How do I stand out if I have bootcamp QA training but no job yet?",
+      "a": "Build a public GitHub repo with a well-structured test suite (Page Object Model, clear reporting, maybe CI integration). Link to it on your resume. Hiring managers will care more about what you *can do* than your exact pedigree."
+    },
+    {
+      "q": "Should I mention test coverage % on my resume?",
+      "a": "Only if it's genuinely impressive (e.g., 'Increased API test coverage from 45% to 87%'). Vague claims like '80% coverage' without context don't help; always tie it to a real outcome."
+    },
+    {
+      "q": "How prominent should performance testing be on my QA automation resume?",
+      "a": "If it's a core part of your role (you run JMeter, manage load tests), give it its own section. If you've only dabbled, mention it under a broader 'Testing Specialties' line. Most pure automation roles don't require it, but it's a nice differentiator."
+    }
+  ]
+}

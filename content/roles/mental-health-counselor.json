@@ -1,0 +1,134 @@
+{
+  "slug": "mental-health-counselor",
+  "title": "Mental Health Counselor",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:37:12.952Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Mental Health Counselor Resume: Examples & Tips",
+  "metaDescription": "Build a compelling mental health counselor resume. Learn what skills matter, see sample bullets, and avoid common mistakes.",
+  "h1": "Mental Health Counselor Resume: How to Stand Out",
+  "intro": "Writing a mental health counselor resume means proving you can handle sensitive client conversations, manage documentation, and show measurable outcomes—all while demonstrating genuine empathy. This guide walks you through what hiring managers actually want to see and how to frame your clinical experience to land interviews.",
+  "audience": "Recent grad counselors with first licenses, career switchers from social work or psychology, and experienced counselors moving to new settings.",
+  "topSkills": [
+    {
+      "name": "Clinical assessment & diagnosis",
+      "why": "Employers need evidence you can conduct intake interviews, identify mental health conditions, and create treatment plans aligned with DSM-5 criteria."
+    },
+    {
+      "name": "Crisis intervention & de-escalation",
+      "why": "Mental health roles require immediate crisis response; demonstrating this reassures employers you won't freeze when clients are in acute distress."
+    },
+    {
+      "name": "Case management & documentation",
+      "why": "Accurate, timely notes and care coordination are non-negotiable; insurers, courts, and licensing boards audit this constantly."
+    },
+    {
+      "name": "Evidence-based therapy modalities",
+      "why": "Listing specific training (CBT, DBT, EMDR, motivational interviewing) tells employers you can deliver proven treatments, not just talk."
+    },
+    {
+      "name": "Treatment planning & progress monitoring",
+      "why": "Employers want to see you set measurable client goals and track outcomes; this shows clinical rigor and accountability."
+    },
+    {
+      "name": "Multicultural & trauma-informed care",
+      "why": "Modern mental health settings demand cultural humility and understanding of trauma's impact; this is increasingly a screening criterion."
+    },
+    {
+      "name": "Electronic health records (EHR) systems",
+      "why": "Most facilities use EHR software; naming systems you've used (Epic, Athena, etc.) speeds up hiring decisions and saves time in onboarding."
+    },
+    {
+      "name": "Insurance & billing compliance",
+      "why": "Understanding pre-authorization, billing codes, and insurance denials prevents revenue loss; employers value this operational knowledge."
+    },
+    {
+      "name": "Group facilitation & psychoeducation",
+      "why": "Many roles require running support groups or wellness workshops; this expands your value and fills staffing needs."
+    },
+    {
+      "name": "Supervision & peer consultation",
+      "why": "If you've mentored interns or contributed to clinical rounds, this signals you're ready for leadership or higher-level roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided counseling to clients with various mental health issues and helped them work toward their goals.",
+      "strong": "Conducted 15–20 weekly individual therapy sessions using CBT and motivational interviewing; tracked symptom reduction via PHQ-9 scores, with 70% of clients showing meaningful improvement (≥5-point decrease) within 8 weeks.",
+      "lesson": "Adding concrete numbers (session count, assessment tool, outcome percentage) transforms vague caring into measurable clinical impact."
+    },
+    {
+      "weak": "Managed crisis calls and de-escalated situations as needed.",
+      "strong": "Responded to 40+ crisis calls annually; applied suicide risk assessment protocols and coordinated emergency services for 8–12 high-risk clients, achieving zero safety incidents.",
+      "lesson": "Specific frequency, protocol names, and outcome metrics (zero incidents) prove competence and reduce employer anxiety about liability."
+    },
+    {
+      "weak": "Documented client sessions and maintained records according to policy.",
+      "strong": "Completed clinical notes within 24 hours, achieving 100% compliance with HIPAA and state licensing board audits; flagged chart discrepancies and trained 3 new staff on documentation standards.",
+      "lesson": "Naming regulations (HIPAA), hit 100%, and showing you trained others elevates documentation from a checkbox to a strength."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing only diagnoses or client demographics without outcomes.",
+      "fix": "Always pair what you treated with how clients improved: 'Provided trauma-focused CBT to 12 PTSD clients; 85% completed 12-session course and reported ≥30% reduction in PTSD Checklist scores.'"
+    },
+    {
+      "mistake": "Omitting licensure status or abbreviations.",
+      "fix": "Add a dedicated line near your name or top of resume: 'Licensed Mental Health Counselor (LMHC), State of [State], License #[Number], Active.'"
+    },
+    {
+      "mistake": "Mixing clinical work with administrative duties without highlighting the clinical piece.",
+      "fix": "Lead with therapy outcomes first, then mention scheduling/billing: 'Delivered 18 weekly counseling sessions…; also managed caseload scheduling and insurance pre-authorizations.'"
+    },
+    {
+      "mistake": "Failing to mention specific therapy modalities or certifications.",
+      "fix": "Name the actual training: 'Certified in Dialectical Behavior Therapy (DBT); co-facilitated DBT skills groups with 8–10 participants weekly.'"
+    },
+    {
+      "mistake": "Glossing over supervision or consultation experience.",
+      "fix": "If you've consulted or supervised, make it visible: 'Provided clinical supervision to 2 master's-level interns; reviewed cases weekly and provided feedback on treatment planning.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with your license status and active credentials at the top (e.g., 'Licensed Mental Health Counselor (LMHC), [State], License #[X]'). This answers the most pressing question immediately.",
+    "Group therapy modalities (CBT, DBT, EMDR) in a 'Clinical Competencies' or 'Certifications' section just below licensure, so employers scan and confirm you match their program model.",
+    "Under each job, lead with direct client care (number of sessions, outcome metrics) before administrative tasks. This prioritizes clinical impact.",
+    "Include a 'Populations Served' or 'Clinical Specialties' line (e.g., 'Adolescents, trauma survivors, LGBTQ+') so recruiters can quickly match you to openings."
+  ],
+  "atsKeywords": [
+    "Licensed Mental Health Counselor",
+    "Clinical assessment and diagnosis",
+    "Crisis intervention",
+    "Evidence-based therapy",
+    "Trauma-informed care",
+    "Treatment planning",
+    "Case management",
+    "HIPAA compliance",
+    "Electronic health records",
+    "Multicultural competence"
+  ],
+  "salarySignal": "Entry-level mental health counselors in the US typically earn $30,000–$40,000 annually; with licensure and 3–5 years of experience, salary often climbs to $45,000–$60,000. Nonprofit and hospital settings often pay slightly less than private practices; geography and state licensing tier also affect range.",
+  "faq": [
+    {
+      "q": "How do I list my mental health counselor license on my resume?",
+      "a": "Place it prominently at the top, right after your name: 'Licensed Mental Health Counselor (LMHC) [or your state's title], State of [State], License #[Number].' If you're applying before licensure, write 'Licensed Mental Health Counselor Candidate' or 'Pursuing LMHC Licensure, [Expected Date].'"
+    },
+    {
+      "q": "What metrics should a mental health counselor highlight on a resume?",
+      "a": "Focus on outcome-driven metrics: client improvement rates (PHQ-9/GAD-7 score reductions), session completion rates, crisis incidents managed, average caseload size, and supervision/training hours. These prove clinical effectiveness and safety."
+    },
+    {
+      "q": "Do I need to name specific therapy certifications like CBT or DBT?",
+      "a": "Yes. Employers often screen for specific modalities that match their program. List formal certifications (e.g., 'Certified in Dialectical Behavior Therapy') and relevant training hours if they exist; avoid claiming expertise you haven't formally trained in."
+    },
+    {
+      "q": "How much clinical detail should I include without violating confidentiality?",
+      "a": "Never name, describe, or imply specific client situations. Instead, use aggregated language: 'Provided trauma-informed therapy to 15+ survivors of interpersonal violence' or 'Served 20 adolescents in community mental health.' This respects confidentiality while proving competence."
+    },
+    {
+      "q": "Should I list supervision or consultation experience even if I'm not a supervisor?",
+      "a": "Absolutely. Include peer consultations ('participated in weekly clinical supervision rounds with 6-person team') and any mentoring of interns. This signals you're collaborative and ready for leadership, making you more competitive."
+    }
+  ]
+}

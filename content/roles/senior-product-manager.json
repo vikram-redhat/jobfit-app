@@ -1,0 +1,130 @@
+{
+  "slug": "senior-product-manager",
+  "title": "Senior Product Manager",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:33.322Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Senior Product Manager Resume Guide & Examples 2026",
+  "metaDescription": "Write a winning Senior Product Manager resume with proven frameworks, sample bullets, and ATS keywords that land interviews at top tech companies.",
+  "h1": "Senior Product Manager Resume: How to Stand Out",
+  "intro": "A strong Senior Product Manager resume proves you ship products that grow revenue and retain users—not just manage tasks. This guide shows you how to translate strategy, leadership, and execution into bullets that hiring managers actually read.",
+  "audience": "Mid-level PMs transitioning to senior roles, product leads at startups, and career switchers from strategy or tech operations with 5+ years of product experience.",
+  "topSkills": [
+    {
+      "name": "Product Strategy & Roadmapping",
+      "why": "Senior PMs must own multi-year vision and align org around it; hiring managers want proof you've shaped long-term direction."
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "why": "You'll lead without authority across eng, design, marketing, and sales; this is the #1 differentiator between mid and senior roles."
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "why": "Senior PMs back strategy with metrics on user behavior, conversion funnels, and retention; vague 'we thought' statements get rejected."
+    },
+    {
+      "name": "Revenue Impact & Business Acumen",
+      "why": "Senior roles require P&L thinking; hiring managers want to see ARR, ARPU, or customer lifetime value improvements tied to your decisions."
+    },
+    {
+      "name": "Stakeholder Management",
+      "why": "You're managing up, across, and down; resumes should show you've navigated competing priorities and kept teams aligned."
+    },
+    {
+      "name": "User Research & Discovery",
+      "why": "Senior PMs validate hypotheses through interviews and testing, not hunches; this separates strategic PMs from executors."
+    },
+    {
+      "name": "Go-to-Market Strategy",
+      "why": "You own the launch narrative, pricing, positioning, and channel strategy; hiring managers want to see GTM ownership, not just execution."
+    },
+    {
+      "name": "Technical Acumen & System Design",
+      "why": "You don't need to code, but senior PMs speak eng language; resumes benefit from API integrations, infrastructure tradeoffs, or technical debt management."
+    },
+    {
+      "name": "Team Building & Mentorship",
+      "why": "Senior roles often include hiring and coaching junior PMs; add evidence of direct reports or PM-to-PM mentoring."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Led product strategy for mobile app and worked with stakeholders to improve retention.",
+      "strong": "Defined 3-year mobile product strategy and executed GTM for 2 major releases; improved 30-day retention from 35% to 54% through personalization and onboarding redesign, retaining $2.1M ARR.",
+      "lesson": "Specific metrics (retention lift, ARR impact) and timeline scope (3-year strategy) show senior-level thinking; quantify both the change and the business outcome."
+    },
+    {
+      "weak": "Managed cross-functional team to ship features and got feedback from users.",
+      "strong": "Coached 2 associate PMs through discovery and shipping cycle; ran 40+ user interviews and built shared research dashboard; shipped 4 features that collectively drove 18% quarter-over-quarter user growth and 12% NPS lift.",
+      "lesson": "Mentorship, research rigor, and multi-feature impact signal seniority; separates PMs who ship what's asked from those who shape strategy at scale."
+    },
+    {
+      "weak": "Improved the onboarding experience and users were happier.",
+      "strong": "Redesigned B2B SaaS onboarding based on 25 customer interviews; reduced time-to-first-value by 40% and decreased support ticket volume by 28%; drove 22-point NPS improvement (42→64) and increased expansion revenue 3.2x within 12 months.",
+      "lesson": "Name your research count and methods; tie UX change to business metric (support cost, expansion revenue) not just satisfaction; show 12-month ROI of the work."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing features shipped instead of outcomes achieved",
+      "fix": "Every bullet should start with the business problem or user need, not the feature name; follow with user impact and revenue/retention signal."
+    },
+    {
+      "mistake": "Underselling cross-functional leadership",
+      "fix": "Add specifics: 'Led 8-person task force across eng, design, marketing, and legal' or 'Unblocked roadmap by negotiating infra trade-offs with CTO'; PMs are hired to lead without authority."
+    },
+    {
+      "mistake": "Using generic metrics like 'improved conversion' without context",
+      "fix": "Name the baseline and lift: 'improved onboarding conversion from 28% to 41%'; hiring managers need to assess whether a 2-point gain or a 5x lift."
+    },
+    {
+      "mistake": "Omitting go-to-market and positioning work",
+      "fix": "Senior PMs own GTM; add bullets on pricing strategy, market positioning, launch narrative, or channel prioritization—not just feature delivery."
+    },
+    {
+      "mistake": "No evidence of mentorship or team scale",
+      "fix": "If you've hired, trained, or coached direct reports or peer PMs, call it out; senior roles require people leadership."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2-3 line professional summary that signals seniority: 'Senior PM with 7+ years scaling B2B SaaS products. Expertise in go-to-market strategy, cross-functional leadership, and data-driven discovery. Track record: $12M ARR expansion, 40% NPS lift, team of 3 PMs mentored.' This filters out junior-role offers immediately.",
+    "Put revenue and retention metrics in the first 2 bullets of each role; hiring managers skim, so lead with proof of impact (ARR, MRR, churn improvement) before process or leadership stories.",
+    "Separate 'Core Skills' from 'Methods & Tools'; for senior roles, add a dedicated subsection on 'Product Discipline' or 'GTM & Strategy' highlighting pricing, positioning, discovery frameworks, and tools (Mixpanel, Amplitude, user interview platforms).",
+    "Include a brief 'Team & Scale' line if you've managed PMs, designers, or run cross-org initiatives; e.g., 'Scaled PM organization from 1 to 5 PMs; established discovery and roadmapping processes used by 3 product teams.' This is weighting in senior hiring."
+  ],
+  "atsKeywords": [
+    "product strategy and roadmapping",
+    "cross-functional leadership",
+    "go-to-market strategy",
+    "data-driven decision making",
+    "user research and discovery",
+    "stakeholder management",
+    "revenue impact",
+    "product metrics and analytics",
+    "go-to-market execution",
+    "team leadership and mentorship"
+  ],
+  "salarySignal": "Senior Product Manager salaries in the US typically range from $160K to $280K base, with stock and bonus pushing total comp to $250K–$450K depending on company stage, location, and equity value.",
+  "faq": [
+    {
+      "q": "How many years of experience do I need to call myself a Senior PM on my resume?",
+      "a": "Most companies require 5–7+ years in product roles (PM, APM, or strategy-adjacent). If you have fewer years but ran a team, owned major GTM work, or drove $5M+ revenue impact, you may qualify. Check the job description; if it says '5+ years PM experience,' you're borderline unless you have exceptional scope."
+    },
+    {
+      "q": "Should I include metrics if I worked at an early-stage startup with small numbers?",
+      "a": "Yes, but frame them correctly. Saying 'grew MAU 300%' (from 1K to 4K) looks weaker than 'led go-to-market for Series B pivot; secured 4 enterprise pilots and $500K ARR commitments.' Focus on business outcome, not absolute scale."
+    },
+    {
+      "q": "How do I show mentorship if I've never been a formal manager?",
+      "a": "List informal leadership: 'Mentored 2 APMs through discovery and shipping; established weekly product case reviews adopted by 3 teams' or 'Led cross-functional working group of 8 PMs on discovery best practices.' Hiring managers value leadership regardless of title."
+    },
+    {
+      "q": "What if most of my impact is on retention, not growth?",
+      "a": "Retention is valuable—highlight it. Show the business math: 'Improved 12-month retention from 60% to 78%, reducing churn cost by $1.2M annually and enabling 40% smaller acquisition budget.' Senior PMs own the full funnel, not just top-of-funnel growth."
+    },
+    {
+      "q": "Should I list tools like Figma, SQL, or product analytics platforms?",
+      "a": "Yes, but in a 'Tools & Methods' section, not your main bullets. Senior PMs don't need to be expert designers or analysts, but familiarity with prototyping, SQL for data pulls, and analytics platforms (Amplitude, Mixpanel, Tableau) signals hands-on execution."
+    }
+  ]
+}

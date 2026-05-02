@@ -1,0 +1,130 @@
+{
+  "slug": "mobile-engineer",
+  "title": "Mobile Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:38.648Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Mobile Engineer Resume: Skills, Examples & Tips",
+  "metaDescription": "Learn how to write a mobile engineer resume that lands interviews. See real examples, key skills, and what hiring managers actually want to see.",
+  "h1": "Mobile Engineer Resume Guide: Examples & Best Practices",
+  "intro": "Mobile engineers are in high demand, but a generic resume won't cut it. This guide shows you exactly what hiring managers look for—from the frameworks you should highlight to the metrics that prove you ship real apps.",
+  "audience": "Recent CS grads, junior engineers pivoting from web to mobile, and mid-level developers looking to level up their mobile credentials.",
+  "topSkills": [
+    {
+      "name": "iOS Development (Swift/Objective-C)",
+      "why": "iOS is still one of the two major platforms; demonstrating production-level Swift experience is non-negotiable for most iOS-focused roles."
+    },
+    {
+      "name": "Android Development (Kotlin/Java)",
+      "why": "Kotlin has largely replaced Java for Android; hiring managers expect you to know modern Android architecture and tooling."
+    },
+    {
+      "name": "React Native or Flutter",
+      "why": "Cross-platform frameworks are increasingly common; showing you can write once and deploy to both platforms is a huge efficiency signal."
+    },
+    {
+      "name": "RESTful APIs & Backend Integration",
+      "why": "Mobile apps live or die by clean API calls; you need to show you understand networking, serialization, and debugging API issues."
+    },
+    {
+      "name": "UI/UX & Mobile Design Principles",
+      "why": "Hiring managers want engineers who think beyond code—understanding responsive design, gesture handling, and platform guidelines matters."
+    },
+    {
+      "name": "Testing & CI/CD",
+      "why": "Unit tests, integration tests, and automated deployment pipelines are baseline expectations; show you can ship confidence, not just code."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Every mobile team uses Git; demonstrating branching, code review, and collaboration skills is essential."
+    },
+    {
+      "name": "Performance Optimization & Memory Management",
+      "why": "Mobile devices have real constraints; proving you can profile, debug, and optimize is a sign of maturity and discipline."
+    },
+    {
+      "name": "Xcode & Android Studio",
+      "why": "Fluency with the IDEs matters; mention specific debugging tools, emulator proficiency, or build configuration you've mastered."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed iOS app features using Swift and fixed bugs.",
+      "strong": "Architected and shipped 4 core iOS features in Swift, reducing app startup time by 35% through lazy loading and async image caching; maintained 88% unit test coverage.",
+      "lesson": "Specific outcomes (4 features, 35% improvement, 88% coverage) and technical depth (lazy loading, async caching) make you memorable instead of forgettable."
+    },
+    {
+      "weak": "Worked with APIs and databases to build Android app.",
+      "strong": "Integrated 6+ third-party REST APIs on Android, implemented offline-first sync using Room database, and reduced API call failures by 60% through exponential backoff retry logic.",
+      "lesson": "Numbers (6+ APIs, 60% reduction) plus concrete technical decisions (Room, exponential backoff) show you understand the full stack, not just coding syntax."
+    },
+    {
+      "weak": "Collaborated with design team and improved user experience.",
+      "strong": "Partnered with design to migrate legacy UIKit components to SwiftUI, improving page render time by 40% and reducing crash reports from 2.1% to 0.3% in 6 weeks.",
+      "lesson": "Quantified impact on both speed and stability, plus the tools you used (UIKit → SwiftUI), proves you drive real product outcomes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing technologies without shipping anything.",
+      "fix": "Every tech mention should tie to a shipped feature or measurable outcome; 'proficient in Kotlin' is weak; 'shipped payment flow in Kotlin reducing transaction errors by 15%' is strong."
+    },
+    {
+      "mistake": "Ignoring platform-specific details (iOS vs. Android).",
+      "fix": "Hiring managers know the differences; don't say 'built mobile app'—specify iOS, Android, or React Native, and mention platform-specific challenges you solved (e.g., lifecycle management, thread handling)."
+    },
+    {
+      "mistake": "No mention of testing or code quality.",
+      "fix": "Mobile engineers who don't test don't survive production; always mention unit tests, integration tests, or test coverage percentages you've maintained."
+    },
+    {
+      "mistake": "Downplaying performance work as 'optimization.'",
+      "fix": "Use concrete metrics: battery drain reduced, memory footprint cut, crash rate lowered, or load time improved—these directly impact user retention and reviews."
+    },
+    {
+      "mistake": "Forgetting to mention cross-platform or tooling expertise.",
+      "fix": "If you've worked with CI/CD, Firebase, TestFlight, Play Console, or analytics SDKs, call them out—ops and DevOps skills make you more valuable to small teams."
+    }
+  ],
+  "structureTips": [
+    "Lead with your strongest platform (iOS or Android) and most recent shipped product—hiring managers scan fast, so put your best work above the fold.",
+    "Group skills by category (Languages, Frameworks, Tools, Platforms) so ATS scanners and humans both quickly see your coverage of the role's key stacks.",
+    "Include a 'Notable Projects' section if you have open-source contributions or published apps with real user metrics (downloads, ratings)—proof of scale beats hypotheticals.",
+    "Dedicate one bullet per project to metrics (time saved, bugs reduced, adoption/retention improved) and one to technical depth—this 60/40 split balances business and engineering credibility."
+  ],
+  "atsKeywords": [
+    "Swift",
+    "Kotlin",
+    "Android Development",
+    "iOS Development",
+    "React Native",
+    "Flutter",
+    "mobile app development",
+    "UI/UX",
+    "REST API integration",
+    "performance optimization"
+  ],
+  "salarySignal": "Entry-level mobile engineers in the US typically earn $80K–$110K; mid-level (3–5 years) range from $120K–$160K; senior mobile engineers often see $160K–$220K+ depending on location and company stage.",
+  "faq": [
+    {
+      "q": "Should I list both iOS and Android on my resume if I've only worked on one?",
+      "a": "Only list what you've shipped or can speak to in depth. If you've built side projects in the other platform, mention them—but hiring managers would rather see strong depth in one than weak familiarity in two. If you're targeting a specific platform, lead with that."
+    },
+    {
+      "q": "How do I show I understand performance if I haven't formally profiled an app?",
+      "a": "Mention specific optimizations you've made: lazy loading, view recycling, caching strategies, or memory leak fixes. Even small wins count. If you haven't, start a side project and profile it—then add it to your resume with metrics."
+    },
+    {
+      "q": "Do I need to mention version control if it's just Git?",
+      "a": "Yes, but only if you can back it up with specifics: 'Managed feature branches, code reviews, and CI/CD integration' shows maturity. Never list Git alone without context."
+    },
+    {
+      "q": "Should I include app store links or GitHub repositories on my resume?",
+      "a": "Absolutely, if the code is clean and the app is live. QR codes linking to App Store or Play Store pages are gold—real users and real metrics beat abstract claims."
+    },
+    {
+      "q": "What if I've only built internal tools, not consumer apps?",
+      "a": "Internal tools count just as much if they solve real problems. Highlight the technical challenges (scale, concurrency, API design) and impact (faster workflows, fewer bugs, user adoption within the org)."
+    }
+  ]
+}

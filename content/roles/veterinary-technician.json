@@ -1,0 +1,134 @@
+{
+  "slug": "veterinary-technician",
+  "title": "Veterinary Technician",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:37:15.519Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Veterinary Technician Resume: Examples & Tips for 2026",
+  "metaDescription": "Build a standout veterinary technician resume with proven examples, key skills, and ATS-friendly keywords that land interviews.",
+  "h1": "How to Write a Veterinary Technician Resume That Gets Noticed",
+  "intro": "Your veterinary technician resume needs to showcase hands-on clinical skills, animal handling experience, and your ability to support veterinarians in fast-paced clinic environments. We'll walk you through the exact format, keywords, and bullet points that hiring managers at animal hospitals and clinics actually look for.",
+  "audience": "Recent veterinary technology program graduates, licensed vet techs making lateral moves between clinics or specialties, and career changers from related healthcare fields.",
+  "topSkills": [
+    {
+      "name": "Veterinary Surgical Assistance",
+      "why": "Hiring managers prioritize candidates who can safely prep animals, pass instruments, monitor anesthesia, and maintain surgical fields during procedures."
+    },
+    {
+      "name": "Animal Restraint & Handling",
+      "why": "This is table-stakes; clinics need techs who can safely control animals of all sizes and temperaments to prevent injury and stress."
+    },
+    {
+      "name": "Laboratory Testing & Analysis",
+      "why": "Running bloodwork, urinalysis, and in-house diagnostics is core to the role and directly impacts treatment decisions."
+    },
+    {
+      "name": "Radiography / X-ray Certification",
+      "why": "Many clinics require or heavily favor techs with ARRT certification or equivalent radiography skills and radiation safety knowledge."
+    },
+    {
+      "name": "Anesthesia Monitoring",
+      "why": "Vets depend on techs to track vital signs, manage oxygen/gas delivery, and alert them to complications during procedures."
+    },
+    {
+      "name": "Dental Prophylaxis",
+      "why": "Veterinary dental cleanings are high-revenue services; techs who can perform cleanings and polish teeth are extremely valuable."
+    },
+    {
+      "name": "Electronic Health Records (EHR)",
+      "why": "Familiarity with AVVET, Cornerstone, or similar practice management software is increasingly expected for efficient clinic workflow."
+    },
+    {
+      "name": "Client Communication",
+      "why": "Techs often educate pet owners on discharge care, medication compliance, and preventive health—strong communication skills set you apart."
+    },
+    {
+      "name": "Venipuncture & Catheter Placement",
+      "why": "Blood draws and IV placement are daily tasks; demonstrating proficiency builds employer confidence in your clinical competency."
+    },
+    {
+      "name": "AVMA/State Licensure (LVT or CVT)",
+      "why": "Being licensed as a Licensed or Certified Veterinary Technician is a non-negotiable credential that must be prominently featured."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Assisted veterinarians with surgical procedures and monitored anesthesia during operations.",
+      "strong": "Prepped and draped 8–12 surgical patients daily; monitored anesthesia vitals (heart rate, SpO₂, BP, temperature) using multiparameter monitors; passed instruments and maintained sterile fields; flagged concerning trends to veterinarian in real time, preventing adverse outcomes.",
+      "lesson": "Numbers and specific monitoring tasks show depth of experience and proactive problem-solving, not just presence in the OR."
+    },
+    {
+      "weak": "Performed lab work and diagnostic testing.",
+      "strong": "Executed in-house bloodwork panels, urinalysis, and fecal flotations; processed samples for external reference labs; achieved 99% accuracy on hematology readings as verified by quarterly QA audits; communicated results to vets within 2 hours to enable same-day diagnosis.",
+      "lesson": "Quantifying accuracy and turnaround time demonstrates reliability and directly impacts clinic efficiency and patient outcomes."
+    },
+    {
+      "weak": "Helped clients understand pet care instructions after appointments.",
+      "strong": "Delivered discharge instructions to 30+ pet owners per week on post-operative care, medication administration, and diet modifications; improved medication compliance by 40% (clinic survey) through written summaries and follow-up calls; reduced post-operative complications by fielding owner questions proactively.",
+      "lesson": "Linking client education to measurable outcomes (compliance, reduced complications) shows business impact and soft-skill maturity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leaving out your veterinary technician license/credential (LVT, CVT, RVNT)",
+      "fix": "Always include your license type, state, and license number prominently—ideally near your name or in a 'Licensure & Certifications' section. Hiring managers filter for this first."
+    },
+    {
+      "mistake": "Describing duties instead of measuring impact",
+      "fix": "Replace 'Did bloodwork' with 'Processed 50+ blood samples weekly with <X>% accuracy; reduced turnaround time from 4 to 2 hours.' Metrics prove competency."
+    },
+    {
+      "mistake": "Not listing specific equipment or software you're trained on",
+      "fix": "Call out radiography (ARRT certified), ultrasound, anesthesia monitors, EHR systems (Cornerstone, AVVET, VetSoft), dental scalers, and other gear you've used. Clinics search for these exact terms."
+    },
+    {
+      "mistake": "Downplaying specialty experience (surgery, dentistry, exotic care)",
+      "fix": "If you have surgery, dental, exotic animal, or emergency/critical care experience, make it a separate bullet point or section. Specialty clinics fish for these keywords."
+    },
+    {
+      "mistake": "Hiding volunteer or unpaid internship experience",
+      "fix": "Include internships and volunteer shifts at shelters or rescue organizations; they count as relevant experience and show commitment, especially for new grads."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'License & Certifications' section immediately after your contact info, listing LVT/CVT status, state, license number, and any specialty credentials (ARRT, dental, anesthesia certification). This is what hiring managers scan first.",
+    "Group work experience by clinic setting or specialty if you have diverse roles (e.g., 'Emergency Medicine,' 'General Practice,' 'Surgical Assistant'). This helps hiring managers match your background to their specific clinic type.",
+    "Create a standalone 'Technical Skills & Equipment' section listing EHR platforms, radiography systems, anesthesia monitors, ultrasound, dental equipment, and software. Use the exact brand/model names clinics advertise in job postings.",
+    "If you have surgery, dental prophylaxis, or exotic animal experience, give those skills prominent real estate via bullet points or a brief subsection under each role—don't bury them in generic clinic duties."
+  ],
+  "atsKeywords": [
+    "Licensed Veterinary Technician",
+    "Certified Veterinary Technician",
+    "Surgical Assistant",
+    "Anesthesia Monitoring",
+    "Veterinary Radiography",
+    "Laboratory Testing",
+    "Venipuncture",
+    "Dental Prophylaxis",
+    "EHR Management",
+    "Animal Restraint & Handling"
+  ],
+  "salarySignal": "Entry-level veterinary technician salaries in the US typically range from $28,000 to $35,000 annually; experienced techs and those in high-cost-of-living areas or specialty clinics can earn $40,000–$52,000+.",
+  "faq": [
+    {
+      "q": "Do I need to be licensed to get a veterinary technician job?",
+      "a": "Requirements vary by state and employer. Some states require a CVT (Certified Veterinary Technician) or LVT (Licensed Veterinary Technician) credential; others allow you to work as a veterinary assistant or technician while pursuing licensure. Check your state's veterinary board and the clinic's job posting. Most progressive clinics prefer or require licensure."
+    },
+    {
+      "q": "Should I include animal handling certifications on my resume?",
+      "a": "Yes. Include any Fear Free certification, low-stress handling training, exotics handling, or large-animal restraint credentials. Clinics searching for these certifications will flag your resume immediately, and it demonstrates you're serious about best practices."
+    },
+    {
+      "q": "How do I show progression from vet assistant to vet tech?",
+      "a": "List your vet assistant role first with basic duties, then show your Licensed/Certified Veterinary Technician credential prominently. In your tech role, emphasize advanced skills (surgery, anesthesia, lab work, radiography) you couldn't do as an assistant. This shows clear career growth."
+    },
+    {
+      "q": "What if I only have shelter or rescue experience, not clinic experience?",
+      "a": "Shelters and rescues count—highlight surgery support, vaccination clinics, intake exams, and animal handling. Reframe your role to emphasize clinical skills: 'Prepped 20–30 animals for spay/neuter surgeries,' 'Managed medicinal inventory,' 'Performed basic wound care.' Make the crossover clear."
+    },
+    {
+      "q": "How important is EHR software experience on my resume?",
+      "a": "Very. Most clinics use some form of EHR (Cornerstone, AVVET, VetSoft, ezyVet). If you're trained on specific platforms, list them by name. If you're new to a system, emphasize your adaptability and experience with *any* EHR—that's often enough to get hired."
+    }
+  ]
+}

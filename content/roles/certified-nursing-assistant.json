@@ -1,0 +1,130 @@
+{
+  "slug": "certified-nursing-assistant",
+  "title": "Certified Nursing Assistant",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:31:44.418Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Certified Nursing Assistant Resume Guide & Examples",
+  "metaDescription": "Write a winning CNA resume with actionable tips, sample bullets, and ATS keywords that get you interviews at hospitals and clinics.",
+  "h1": "Certified Nursing Assistant Resume: Tips, Examples & ATS Keywords",
+  "intro": "A strong CNA resume shows hiring managers you're dependable, detail-oriented, and ready to deliver compassionate patient care from day one. We'll walk you through what skills to highlight, how to format your certifications, and exactly what metrics and action verbs make CNAs stand out in a competitive healthcare job market.",
+  "audience": "Recent CNA certification graduates, career switchers into healthcare, and CNAs looking to move to a new facility or higher-acuity setting.",
+  "topSkills": [
+    {
+      "name": "Patient Care & Hygiene",
+      "why": "Hospitals and clinics filter resumes for direct evidence of hands-on patient assistance, bathing, toileting, and grooming—the core of the CNA role."
+    },
+    {
+      "name": "Vital Signs Monitoring",
+      "why": "Employers want to see you're trained to accurately measure and record blood pressure, temperature, pulse, and respiration—critical for patient safety."
+    },
+    {
+      "name": "Electronic Health Records (EHR)",
+      "why": "Almost every modern healthcare facility uses EHR systems; naming specific platforms (Epic, Cerner, Meditech) signals you can hit the ground running."
+    },
+    {
+      "name": "HIPAA Compliance",
+      "why": "Patient privacy and confidentiality are non-negotiable; mentioning HIPAA awareness shows maturity and legal/ethical understanding."
+    },
+    {
+      "name": "Infection Control & Safety Protocols",
+      "why": "CNAs must follow strict sanitation and safety procedures; naming standards like bloodborne pathogen protocols and isolation precautions reassures hiring managers."
+    },
+    {
+      "name": "Patient Communication & Empathy",
+      "why": "Healthcare facilities seek CNAs who can comfort anxious or distressed patients and communicate clearly with families and care teams."
+    },
+    {
+      "name": "Catheter & Specimen Care",
+      "why": "Many CNA roles involve assisting with or monitoring catheters, collecting specimens, and handling biohazardous materials safely."
+    },
+    {
+      "name": "Team Collaboration & Responsiveness",
+      "why": "CNAs work in fast-paced teams under tight supervision; demonstrating flexibility, multitasking, and quick response to requests is a major hiring signal."
+    },
+    {
+      "name": "Mobility & Patient Transfer Techniques",
+      "why": "Safe patient transfers and positioning prevent injury; familiarity with mechanical lifts and proper body mechanics is a valued safety skill."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided direct patient care and assisted patients with daily activities.",
+      "strong": "Assisted 12–15 patients daily with bathing, grooming, toileting, and transfers; maintained 100% charting accuracy in EHR for vital signs and patient interactions; received positive feedback from nursing staff on responsiveness and patient comfort.",
+      "lesson": "Strong version uses specific patient volumes, quantifies attention to detail, and includes a soft metric (team feedback) that proves reliability and interpersonal skills."
+    },
+    {
+      "weak": "Monitored vital signs and reported to nursing staff.",
+      "strong": "Recorded and communicated vital signs (BP, temp, pulse, respiration) on 20+ patients per shift using Epic EHR; flagged 3 instances of abnormal readings to RN within required timeframe, contributing to early intervention for one acute patient.",
+      "lesson": "Strong version names the EHR platform, gives scope (patient count), and highlights one concrete example of safety-critical communication—exactly what hiring managers want to see."
+    },
+    {
+      "weak": "Followed infection control procedures and kept patient areas clean.",
+      "strong": "Maintained strict HIPAA compliance and infection control protocols (bloodborne pathogen precautions, isolation precautions, hand hygiene); sanitized patient rooms and equipment per facility standards; zero safety incidents or complaints over 18-month tenure.",
+      "lesson": "Strong version names specific compliance standards, quantifies safety track record, and uses 'zero incidents' as a proxy for meticulous attention to protocol—a reassuring signal to hospitals."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certification with no expiration date or renewal status",
+      "fix": "Always include 'CNA License #[State] (Exp. [Month/Year])' or 'Current & Active' to signal you meet legal requirements and won't cause a hiring delay."
+    },
+    {
+      "mistake": "Using vague language like 'helped patients' or 'assisted with care'",
+      "fix": "Be specific: name the types of care (catheter care, transferring, feeding, bathing) and the scope (number of patients, shift types) so hiring managers understand your direct experience."
+    },
+    {
+      "mistake": "Downplaying EHR or technical skills because 'it's just data entry'",
+      "fix": "Healthcare facilities care deeply about EHR competency; name the specific system(s) you used (Epic, Cerner, Meditech) and any measurable accuracy or speed metrics."
+    },
+    {
+      "mistake": "Leaving off CPR/BLS certification or burying it in the resume",
+      "fix": "Highlight BLS and CPR certifications in a dedicated section near the top; employers screen for these and may not hire without them."
+    },
+    {
+      "mistake": "Not mentioning the care setting (med-surg, ICU, long-term care, ER) or patient population (pediatric, geriatric, dialysis)",
+      "fix": "Specify the unit type and patient acuity level for each role; it helps hiring managers see if your experience matches their open position and shows specialized knowledge."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or objective (2–3 lines) that names your CNA certification status and the healthcare setting you're seeking—e.g., 'Certified Nursing Assistant (License #, Active) with 2 years' experience in acute-care med-surg; seeking full-time position in fast-paced hospital setting.'",
+    "Place your CNA Certification and CPR/BLS credentials in a dedicated 'Certifications & Licenses' section near the top, above or right after your summary, so hiring managers and ATS systems find compliance proof immediately.",
+    "Organize your work history by care setting (unit type, facility level) rather than just job title, so hiring managers can quickly see if you have experience in the acuity or population they need.",
+    "Use a 'Core Competencies' or 'Skills' section to mirror ATS keywords and job posting language (e.g., 'Patient Hygiene & ADL Assistance,' 'Vital Signs Monitoring,' 'EHR Systems: Epic, Cerner,' 'HIPAA & Infection Control') so the system and human reader both catch your fit."
+  ],
+  "atsKeywords": [
+    "Certified Nursing Assistant",
+    "CNA license",
+    "patient care",
+    "vital signs monitoring",
+    "Electronic Health Records",
+    "EHR",
+    "HIPAA compliance",
+    "infection control",
+    "patient hygiene",
+    "BLS certification"
+  ],
+  "salarySignal": "Entry-level CNA salaries in the US typically range from $28,000 to $36,000 annually as of 2026, with variation by region, facility type, and shift differential; experienced CNAs and those in high-cost-of-living areas may earn $40,000–$45,000+.",
+  "faq": [
+    {
+      "q": "Should I list my CNA certification even if it's expiring soon?",
+      "a": "Yes, but flag it transparently—write 'Expiring [date]' or 'Renewal in progress'—so HR doesn't flag your application as noncompliant. Many facilities won't move forward with an expired or soon-to-expire license, so renew before you job-hunt if possible."
+    },
+    {
+      "q": "What if I only have 6 months of CNA experience?",
+      "a": "Lead with your clinical rotation experience from certification school, volunteer shifts, or internships to show you have hands-on patient care hours. Be specific: 'Assisted 200+ patient interactions during 8-week clinical practicum at [hospital].' Quantity of supervised experience matters as much as duration of employment."
+    },
+    {
+      "q": "Do I need to mention specific EHR systems I've used?",
+      "a": "Absolutely. If you've used Epic, Cerner, Meditech, or another major EHR, name it directly. Many hospitals filter resumes by EHR keywords, and familiarity with their system can shorten your training timeline—a huge selling point."
+    },
+    {
+      "q": "How should I describe my patient care if I worked in long-term care vs. a hospital?",
+      "a": "Always clarify the setting and acuity level—e.g., 'Provided ADL assistance to 20+ stable, long-term care residents' vs. 'Supported nursing staff with acute-care, post-surgical patients in med-surg unit.' This helps hiring managers assess if your experience aligns with their patient population."
+    },
+    {
+      "q": "What soft skills matter most for a CNA resume?",
+      "a": "Highlight responsiveness, teamwork, empathy, and time management—use bullet points to show specific examples, like 'Responded to patient call lights within 2 minutes' or 'Trained 3 new CNAs on infection control protocol.' Soft skills + concrete proof = believable and hireable."
+    }
+  ]
+}

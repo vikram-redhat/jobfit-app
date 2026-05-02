@@ -1,0 +1,134 @@
+{
+  "slug": "psychologist",
+  "title": "Psychologist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:37:15.998Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Psychologist Resume: Skills, Templates & Examples 2026",
+  "metaDescription": "Build a standout psychologist resume with actionable examples, ATS keywords, and clinical impact metrics. Land interviews faster with proven templates.",
+  "h1": "How to Write a Psychologist Resume That Gets Interview Calls",
+  "intro": "Your resume is your clinical credential on paper—it needs to show both your therapeutic expertise and measurable patient outcomes. We'll walk you through exactly how to frame your psychology background, certifications, and clinical experience so hiring managers and HR systems can't miss you.",
+  "audience": "Recent psychology graduates pursuing licensure, licensed psychologists job-hunting between roles, and mental health professionals making the jump into clinical, research, or organizational settings.",
+  "topSkills": [
+    {
+      "name": "Clinical Assessment & Diagnosis",
+      "why": "Hiring managers need proof you can administer psychometric tests (MMPI, Rorschach, etc.) and formulate accurate diagnoses; it's non-negotiable for clinical roles."
+    },
+    {
+      "name": "Evidence-Based Psychotherapy (CBT, DBT, ACT)",
+      "why": "Treatment modality expertise is what separates competitive candidates; clinics and hospitals specifically filter resumes for these certifications."
+    },
+    {
+      "name": "Patient-Centered Care & Rapport Building",
+      "why": "Retention and therapeutic alliance directly impact patient outcomes; employers want proof you keep clients engaged long-term."
+    },
+    {
+      "name": "Electronic Health Records (EHR) & Practice Management Software",
+      "why": "Most clinical settings use Epic, TherapyNotes, or SimplePractice; familiarity reduces onboarding friction and signals readiness for modern workflows."
+    },
+    {
+      "name": "Crisis Intervention & Risk Assessment",
+      "why": "Liability and safety are critical; demonstrating suicide risk screening, de-escalation, and emergency protocols is essential for clinical hires."
+    },
+    {
+      "name": "Individual & Group Therapy Facilitation",
+      "why": "Many positions require dual competency; showing experience running both modalities expands your hiring pool."
+    },
+    {
+      "name": "Research Design, Statistics & Data Analysis",
+      "why": "Academic, hospital, and grant-funded roles demand quantitative skills; research psychologists and clinical researchers especially need this."
+    },
+    {
+      "name": "Insurance & Billing Compliance",
+      "why": "Understanding HIPAA, insurance verification, and coding streamlines your transition and reduces onboarding training."
+    },
+    {
+      "name": "Trauma-Informed Care (EMDR, Trauma CPT, TF-CBT)",
+      "why": "Many practices now specialize in trauma; certifications in this area increase demand and salary range."
+    },
+    {
+      "name": "Supervision & Clinical Training",
+      "why": "Demonstrating ability to mentor interns or supervise practicum students signals leadership and elevates your candidacy for senior or academic roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided individual and group therapy to diverse clients with various mental health conditions.",
+      "strong": "Delivered evidence-based CBT and DBT to 25–30 weekly individual clients and facilitated two 8-member psychoeducational groups, achieving 78% client retention rate and average 40% symptom reduction on PHQ-9 scores over 12-week treatment episodes.",
+      "lesson": "Adding caseload size, specific modalities, measurable retention, and clinical outcome metrics transforms a generic statement into proof of clinical impact."
+    },
+    {
+      "weak": "Conducted psychological assessments and wrote diagnostic reports.",
+      "strong": "Administered, scored, and interpreted 120+ standardized assessments annually (MMPI-2, WAIS-IV, PAI, structured clinical interviews) and authored comprehensive diagnostic reports that informed treatment plans for 95% of referred patients within 5 business days.",
+      "lesson": "Naming specific instruments, quantifying volume, and linking assessment output to clinical decision-making demonstrates expertise and thoroughness."
+    },
+    {
+      "weak": "Collaborated with other mental health professionals on patient care.",
+      "strong": "Coordinated multidisciplinary treatment via weekly rounds with psychiatrists, social workers, and case managers for 18–22 inpatients; documented clinical consults in EHR (Epic) and communicated discharge recommendations within 24 hours, reducing 30-day readmission rate by 12% in 2024.",
+      "lesson": "Naming collaborators, systems (EHR), communication frequency, and a measurable outcome shows you operate as a team player and drive institutional metrics."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing diagnoses instead of outcomes",
+      "fix": "Don't just say 'worked with depression and anxiety clients'—quantify how many clients, which treatments you used, and what symptom reduction or functional gains they achieved."
+    },
+    {
+      "mistake": "Omitting licensure status and credentials in the summary",
+      "fix": "Put 'Licensed Psychologist (NY)' or 'Pre-Doctoral Clinical Intern' prominently in your header or summary so HR systems and recruiters spot it immediately."
+    },
+    {
+      "mistake": "Vague research or publication claims",
+      "fix": "If you list research, name the study, journal, or conference and your specific role (first author, data analyst, etc.); unpublished data should be framed as 'in preparation' or 'presented at [conference]'."
+    },
+    {
+      "mistake": "Ignoring EHR and software systems you've used",
+      "fix": "Explicitly mention Epic, TherapyNotes, SimplePractice, or any other platforms; many roles screen for these and your resume gets flagged by ATS if they're not listed."
+    },
+    {
+      "mistake": "Forgetting to highlight crisis, trauma, or specialty certifications",
+      "fix": "If you have EMDR, trauma-informed care, suicide prevention (QPR, ASIST), or de-escalation training, give them a dedicated line or subsection—these are differentiators in competitive markets."
+    }
+  ],
+  "structureTips": [
+    "Start with a brief professional summary that leads with your license status (if licensed), primary clinical modalities, and patient population specialty (e.g., 'Licensed Psychologist specializing in trauma-informed CBT for adolescents; 4 years outpatient and inpatient experience').",
+    "Put your clinical experience section before education; hiring managers want to see your direct patient hours and outcomes before credentials, though you'll still list education with degree, graduation year, and any honors.",
+    "Create a standalone 'Core Competencies' or 'Clinical Skills' section listing 8–12 evidence-based treatments, assessment tools, and systems (EHR, billing, research methods) you're proficient in; ATS crawlers hunt these keywords.",
+    "If you have research publications, presentations, or grants, give them their own line item below experience; clinical hires don't always weigh research heavily, but academic and grant-funded positions absolutely do."
+  ],
+  "atsKeywords": [
+    "Licensed Psychologist",
+    "clinical assessment and diagnosis",
+    "cognitive behavioral therapy",
+    "dialectical behavior therapy",
+    "patient risk assessment",
+    "mental health diagnosis",
+    "psychometric evaluation",
+    "evidence-based treatment",
+    "crisis intervention",
+    "EHR documentation"
+  ],
+  "salarySignal": "Entry-level US salaries for psychologists typically range from $45,000 to $60,000; licensed practitioners with 5+ years experience and specializations (trauma, neuropsych) often earn $75,000–$95,000+. Salary varies widely by region, employer type (private practice, hospital, VA), and licensure status.",
+  "faq": [
+    {
+      "q": "Should I list my graduate school internship and practicum on a psychologist resume?",
+      "a": "Yes, absolutely. Practicum and internship hours count as clinical experience and demonstrate hands-on therapy, assessment, and supervision hours. Use them to show patient volume and outcomes just as you would a salaried role. Many employers specifically want to see your pre-doctoral hours."
+    },
+    {
+      "q": "How do I show I'm working toward licensure if I'm not fully licensed yet?",
+      "a": "Use language like 'Doctoral Psychology Graduate (pending licensure)' or 'Pre-Doctoral Clinical Fellow, [X] hours toward [State] licensure.' Be explicit about your progress and timeline so employers know exactly where you stand legally and can plan supervision or mentoring if needed."
+    },
+    {
+      "q": "What if I have a narrow specialty like child psychology or neuropsych—should I emphasize it on my resume?",
+      "a": "Yes, specialize unapologetically. Use your summary, core competencies, and bullet points to flag your expertise (child CBT, pediatric assessment, neuropsychological testing, etc.). This helps you land roles that truly match your training and often command higher pay."
+    },
+    {
+      "q": "How do I quantify success in therapy if there's no standard 'completion rate'?",
+      "a": "Use validated symptom measures (PHQ-9, GAD-7, PCL-5 pre/post), session attendance, treatment goal attainment, or functional improvement (return to work, school engagement). Even if outcomes vary, showing you track and report on client progress signals rigor and accountability."
+    },
+    {
+      "q": "Should I list my theoretical orientation (psychodynamic, humanistic, etc.) on my resume?",
+      "a": "Only if the job posting explicitly asks or if your orientation is a major differentiator for the role. Most modern clinics care more about modality certifications (CBT, DBT, ACT) and evidence-based outcomes than theoretical school. Keep it brief in your summary if you mention it at all."
+    }
+  ]
+}

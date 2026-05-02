@@ -1,0 +1,136 @@
+{
+  "slug": "platform-engineer",
+  "title": "Platform Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:40.567Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Platform Engineer Resume: Skills & Examples for 2026",
+  "metaDescription": "Build a standout platform engineer resume with proven skills, ATS keywords, and sample bullets that land interviews.",
+  "h1": "Platform Engineer Resume: What Hiring Managers Want to See",
+  "intro": "Platform engineers are the backbone of modern infrastructure—you build and maintain the systems that let developers ship faster. Your resume needs to prove you can design scalable systems, automate workflows, and bridge the gap between infrastructure and development teams.",
+  "audience": "Engineers transitioning from SRE or backend roles, recent grads with DevOps internship experience, and mid-level infrastructure engineers looking to level up.",
+  "topSkills": [
+    {
+      "name": "Kubernetes & Container Orchestration",
+      "why": "Nearly every platform engineer job lists K8s as a must-have; it's the de facto standard for managing containerized workloads at scale."
+    },
+    {
+      "name": "Infrastructure as Code (Terraform, CloudFormation)",
+      "why": "Hiring managers want proof you can version-control, test, and automate infrastructure deployments—not do manual config changes."
+    },
+    {
+      "name": "CI/CD Pipeline Design & Implementation",
+      "why": "Your job is to make developers' lives easier by automating testing, building, and deployment workflows."
+    },
+    {
+      "name": "Cloud Platforms (AWS, GCP, Azure)",
+      "why": "Most companies run on public cloud; deep knowledge of at least one major platform is table stakes."
+    },
+    {
+      "name": "Observability & Monitoring (Prometheus, Datadog, New Relic)",
+      "why": "You need to instrument systems so the entire org can see what's happening; this is critical for platform reliability."
+    },
+    {
+      "name": "Linux & Shell Scripting",
+      "why": "You'll spend time debugging on Linux boxes and writing automation scripts; fluency here is non-negotiable."
+    },
+    {
+      "name": "API Design & Service Mesh (Istio, Consul)",
+      "why": "Modern platforms expose internal tools via APIs and manage traffic routing—being comfortable with these patterns sets you apart."
+    },
+    {
+      "name": "Security & Compliance (RBAC, secrets management, compliance frameworks)",
+      "why": "Platform engineers own the secure foundation that the whole org builds on; security chops are increasingly expected."
+    },
+    {
+      "name": "Problem-Solving & Incident Response",
+      "why": "You'll need to debug cascading failures and communicate clearly under pressure; this matters as much as technical depth."
+    },
+    {
+      "name": "Developer Experience & Tooling",
+      "why": "The best platform engineers obsess over making tools seamless for their users; this mindset shows on resumes that mention developer feedback and iteration."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed Kubernetes clusters and improved system reliability.",
+      "strong": "Designed and deployed multi-region Kubernetes infrastructure on EKS supporting 200+ microservices; reduced deployment time from 45 to 12 minutes through automated canary releases, enabling the team to ship 3x faster.",
+      "lesson": "Specific technologies, scale (200+ services), and quantified impact (time reduction, shipping velocity) are far more compelling than vague improvements."
+    },
+    {
+      "weak": "Wrote infrastructure-as-code scripts to automate deployments.",
+      "strong": "Authored 30+ Terraform modules (1,200+ lines) to provision AWS VPCs, RDS, and load balancers; reduced infrastructure setup time from 2 weeks to 2 hours and eliminated manual configuration drift, enabling 15 new service launches per quarter.",
+      "lesson": "Name the tool (Terraform), estimate scope (30+ modules, lines of code), and tie automation back to business velocity or developer productivity, not just effort saved."
+    },
+    {
+      "weak": "Built CI/CD pipelines and improved code quality.",
+      "strong": "Architected unified CI/CD pipeline using GitHub Actions and ArgoCD; reduced test-to-production time by 60% and achieved 99.2% deployment success rate through automated smoke tests and progressive rollouts, unblocking 40+ engineers daily.",
+      "lesson": "Show the end-to-end flow (test → deploy), a reliability metric (99.2% success), and downstream impact (number of engineers unblocked or faster feedback loop)."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context or impact",
+      "fix": "Always pair tech (e.g., 'Prometheus') with what you actually built or improved (e.g., 'set up Prometheus alerting to reduce MTTR from 30 to 8 minutes')."
+    },
+    {
+      "mistake": "Focusing on operational tasks instead of enabling developer velocity",
+      "fix": "Reframe around what you unblocked or made easier for engineers: 'reduced deployment friction' is more powerful than 'managed production incidents.'"
+    },
+    {
+      "mistake": "Not mentioning scale or scope",
+      "fix": "Include numbers wherever possible—team size, number of services, requests per second, nodes managed, cost savings—so hiring managers grasp the complexity you've handled."
+    },
+    {
+      "mistake": "Burying observability or reliability work under generic 'DevOps'",
+      "fix": "Call out monitoring, alerting, or SLO work explicitly; platform engineers are expected to design systems you can actually see and debug."
+    },
+    {
+      "mistake": "Overstating experience with obscure or deprecated tools",
+      "fix": "Stick to tools actively used in the market (K8s, Terraform, AWS, Datadog, Istio) and explain why you learned them—skip legacy stacks unless highly relevant to the role."
+    }
+  ],
+  "structureTips": [
+    "Lead with a summary or objective that frames you as a 'platform-focused engineer who automates developer workflows and scales infrastructure'—this hooks hiring managers looking for the right mindset.",
+    "Put your most impressive infrastructure or platform projects (K8s migrations, CI/CD overhauls, observability initiatives) in the top 3 bullets of your most recent role so they're seen first.",
+    "Group technical skills by domain (Cloud, Containers, IaC, Observability, Languages) rather than a flat list; platform engineers need breadth, and this layout shows organized thinking.",
+    "If you have formal certifications (CKA, AWS Solutions Architect, LFCS), list them in a dedicated section or inline after your name—they add credibility but aren't substitutes for real project experience."
+  ],
+  "atsKeywords": [
+    "Kubernetes",
+    "Infrastructure as Code",
+    "Terraform",
+    "CI/CD",
+    "AWS",
+    "Docker",
+    "Microservices",
+    "Observability",
+    "Developer Experience",
+    "Incident Response",
+    "Linux",
+    "Prometheus"
+  ],
+  "salarySignal": "Entry-level platform engineers in the US typically earn $120K–$160K; mid-level roles range from $160K–$220K; senior platform engineers often command $220K–$320K+ depending on location, company scale, and specialization.",
+  "faq": [
+    {
+      "q": "What's the difference between a Platform Engineer and a DevOps Engineer on a resume?",
+      "a": "DevOps is ops-focused (monitoring, on-call, firefighting); Platform Engineering is product-focused (building tools, APIs, and self-service systems for developers). On your resume, emphasize outcomes for *internal customers* (developers)—faster deployments, easier onboarding, self-service tooling—rather than just keeping things running."
+    },
+    {
+      "q": "Should I include my SRE or DevOps background if I'm switching to Platform Engineering?",
+      "a": "Absolutely. SRE and DevOps are natural feeder roles. Highlight the parts that overlap—observability, automation, incident response—and reframe them through a platform lens. For example, 'Built runbooks and dashboards' becomes 'Created self-service observability dashboards used by 30+ teams.'"
+    },
+    {
+      "q": "How many tools or programming languages should I list?",
+      "a": "Quality over quantity. Pick 3–5 you're genuinely confident in (Terraform, Kubernetes, Go, Python, AWS) and actually use in bullets. Recruiters and hiring managers will probe on anything you mention, so stick to tools you can defend in an interview."
+    },
+    {
+      "q": "What if I haven't worked at a FAANG or high-scale company?",
+      "a": "Scale is relative. If you managed infrastructure for a 50-person startup, talk about what you automated, how many engineers you unblocked, and what reliability improvements you shipped. Smaller companies often demand *more* breadth, which is a feature, not a bug. Quantify your impact clearly so reviewers understand the scope."
+    },
+    {
+      "q": "How do I show developer experience or feedback in a resume bullet?",
+      "a": "Tie it to outcomes: 'Redesigned deployment UI based on user interviews; reduced onboarding time for new engineers from 4 hours to 30 minutes' or 'Gathered feedback from 40+ developers; prioritized observability improvements that reduced MTTR by 25%.'"
+    }
+  ]
+}

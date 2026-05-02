@@ -1,0 +1,134 @@
+{
+  "slug": "android-engineer",
+  "title": "Android Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:38.150Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Android Engineer Resume: Tips & Examples for 2026",
+  "metaDescription": "Learn how to build a standout Android Engineer resume with real examples, key skills, and ATS-friendly formatting that lands interviews.",
+  "h1": "Android Engineer Resume: How to Stand Out to Hiring Managers",
+  "intro": "Android engineering roles are competitive, but a well-crafted resume can make you shine. We'll show you exactly what hiring managers look for—from Kotlin and Java expertise to real shipped features—and how to frame your work in a way that gets you interviews.",
+  "audience": "Recent CS grads, career switchers from web development, and mid-level Android developers looking to level up their applications.",
+  "topSkills": [
+    {
+      "name": "Kotlin",
+      "why": "Google's official Android language since 2019; hiring managers expect modern Kotlin proficiency, especially for new roles."
+    },
+    {
+      "name": "Android SDK & Android Studio",
+      "why": "Core development environment and framework knowledge; non-negotiable for any Android role and a red-flag if missing."
+    },
+    {
+      "name": "Java",
+      "why": "Legacy Android codebases still use Java heavily; bilingual Java/Kotlin engineers are highly marketable."
+    },
+    {
+      "name": "Jetpack & Architecture Components",
+      "why": "Modern Android development relies on LiveData, ViewModel, Navigation, and Room; shows you build scalable, testable apps."
+    },
+    {
+      "name": "REST APIs & Networking",
+      "why": "Almost every app talks to a backend; familiarity with Retrofit, OkHttp, or similar libraries is expected."
+    },
+    {
+      "name": "UI/UX Implementation",
+      "why": "Composable design, Material Design, and responsive layouts matter; hiring managers want engineers who care about user experience."
+    },
+    {
+      "name": "Testing & Debugging",
+      "why": "Unit tests, instrumented tests, and profiling tools (Espresso, JUnit, Robolectric) separate solid engineers from careless ones."
+    },
+    {
+      "name": "Version Control (Git)",
+      "why": "Essential collaboration skill; expected on every modern team, so make sure it's explicitly listed."
+    },
+    {
+      "name": "Firebase & Cloud Messaging",
+      "why": "Real-time data, push notifications, and analytics are common in production apps; valuable real-world experience."
+    },
+    {
+      "name": "Performance Optimization",
+      "why": "Battery life, memory management, and app startup time matter; engineers who measure and optimize stand out."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed Android app features using Kotlin and Java.",
+      "strong": "Built 3 customer-facing features in Kotlin using MVVM architecture, reducing app startup time by 40% and improving Play Store rating from 4.2 to 4.6 stars.",
+      "lesson": "Quantify impact (metrics like performance gains, user ratings, adoption) and name the architecture/pattern you used—it shows depth."
+    },
+    {
+      "weak": "Worked on bug fixes and UI improvements.",
+      "strong": "Diagnosed and resolved 18+ high-priority crashes in Production (ANRs, memory leaks); implemented automated UI tests in Espresso, reducing regression bugs by 60%.",
+      "lesson": "Concrete numbers (bug count, test coverage improvements) and specific tools (Espresso, Logcat) prove you've owned real problems."
+    },
+    {
+      "weak": "Implemented API integration and database management.",
+      "strong": "Integrated Retrofit-based REST API with offline-first caching using Room database; handled 50K+ daily API calls with <200ms latency and 99.5% success rate.",
+      "lesson": "Name libraries (Retrofit, Room), mention scale/load, and include performance metrics—hiring managers want engineers who think about reliability."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'Android' as a skill without specifying Kotlin or Java.",
+      "fix": "Always name the languages and frameworks you actually used—'Android (Kotlin), Java, Jetpack'—so ATS and recruiters know your depth."
+    },
+    {
+      "mistake": "Vague descriptions like 'helped with the app' or 'contributed to mobile features.'",
+      "fix": "Use 'I' or 'Owned,' be specific about what you built, and tie it to business outcomes (user retention, crash reduction, performance gain)."
+    },
+    {
+      "mistake": "Omitting testing, debugging, or performance work because it feels 'boring.'",
+      "fix": "Hiring managers love engineers who test and optimize; frame it as 'shipped 4 features with 90%+ test coverage and profiled to meet 60fps target.'"
+    },
+    {
+      "mistake": "Not mentioning shipped/production apps or real user numbers.",
+      "fix": "If you've shipped an app to Google Play or internal users, say so; include download counts, DAU, or user feedback if relevant."
+    },
+    {
+      "mistake": "Forgetting to highlight Jetpack or modern architecture patterns.",
+      "fix": "Explicitly mention MVVM, MVI, Clean Architecture, LiveData, ViewModel, or Navigation—it signals you build maintainable, testable code."
+    }
+  ],
+  "structureTips": [
+    "Lead with a strong Professional Summary or headline like 'Android Engineer | Kotlin & Java | Jetpack Specialist' to signal your focus instantly.",
+    "In your Experience section, lead each role with your most impactful shipped feature or bug-fix, then add 2–3 supporting bullets; quality over quantity.",
+    "Create a dedicated 'Technical Skills' section listing languages (Kotlin, Java), frameworks (Android SDK, Jetpack), libraries (Retrofit, Room, Compose), and tools (Git, Firebase, Android Studio); group by category for ATS clarity.",
+    "If you have shipped apps on Google Play or used them in an internship, include a separate 'Projects' or 'Portfolio' section with download links or GitHub repos—hiring managers love proof."
+  ],
+  "atsKeywords": [
+    "Kotlin",
+    "Android SDK",
+    "Jetpack",
+    "MVVM Architecture",
+    "REST APIs",
+    "Firebase",
+    "Material Design",
+    "Unit Testing",
+    "Git",
+    "Google Play"
+  ],
+  "salarySignal": "Entry-level Android Engineer salaries in the US typically range from $85K–$130K; mid-level engineers see $130K–$180K+, with senior roles and FAANG companies pushing into $200K+ with equity and bonuses.",
+  "faq": [
+    {
+      "q": "Should I list both Kotlin and Java on my Android resume?",
+      "a": "Yes. Java is still prevalent in legacy codebases, and knowing both signals flexibility. If you're stronger in Kotlin, lead with that, but don't hide Java if you've used it professionally."
+    },
+    {
+      "q": "How important is it to mention Jetpack and MVVM on my resume?",
+      "a": "Very. Modern Android hiring is heavily focused on scalable, testable architecture. Explicitly naming MVVM, ViewModel, LiveData, or Navigation shows you're not writing spaghetti code and are aligned with industry best practices."
+    },
+    {
+      "q": "Do I need a GitHub portfolio or shipped app to land an Android job?",
+      "a": "Not required, but it's a huge plus. If you have a shipped app on Google Play or a well-maintained GitHub repo with real features, link it; it's stronger proof than bullet points alone."
+    },
+    {
+      "q": "What's the best way to show performance optimization work on my resume?",
+      "a": "Use concrete metrics: 'Reduced app startup time from 2.5s to 1.5s,' 'Profiled memory leaks and cut heap usage by 35%,' or 'Optimized RecyclerView scrolling to maintain 60fps.' Hiring managers hire for results."
+    },
+    {
+      "q": "Should I mention Firebase or cloud services if I've only used them in side projects?",
+      "a": "Yes, but be honest about the context. Label it as 'Side Projects' or 'Personal Projects' if it wasn't production. Firebase experience still shows initiative and relevant skill, even if small-scale."
+    }
+  ]
+}

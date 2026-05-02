@@ -1,0 +1,134 @@
+{
+  "slug": "licensed-practical-nurse",
+  "title": "Licensed Practical Nurse",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:31:44.697Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Licensed Practical Nurse Resume: Tips & Examples",
+  "metaDescription": "Build a strong LPN resume with real examples, key skills, and ATS keywords. Land nursing interviews faster.",
+  "h1": "Licensed Practical Nurse Resume: What Hiring Managers Want to See",
+  "intro": "Your LPN resume needs to show hands-on patient care skills and clinical experience in a way that gets past both ATS systems and nursing recruiters. We'll walk you through the exact format, skills, and bullets that land interviews at hospitals, clinics, and long-term care facilities.",
+  "audience": "New LPN graduates applying for first jobs, experienced LPNs switching specialties or facilities, and career-changers with nursing credentials.",
+  "topSkills": [
+    {
+      "name": "Patient Care & Assessment",
+      "why": "Recruiters need proof you can safely monitor vitals, recognize patient changes, and document findings — the core of LPN work."
+    },
+    {
+      "name": "Electronic Health Records (EHR)",
+      "why": "Nearly every facility uses EHR systems (Epic, Cerner, etc.); employers want to know you're comfortable with digital charting."
+    },
+    {
+      "name": "Medication Administration & IV Therapy",
+      "why": "State-specific, but LPNs who can safely administer meds and manage IV lines are in higher demand and earn more."
+    },
+    {
+      "name": "Wound Care & Dressing Changes",
+      "why": "A concrete clinical skill that appears frequently in job postings and separates experienced LPNs from entry-level candidates."
+    },
+    {
+      "name": "Catheterization & Foley Care",
+      "why": "Urinary catheter management is a routine LPN task; demonstrating comfort here signals readiness for most patient floors."
+    },
+    {
+      "name": "Vital Signs Monitoring",
+      "why": "Basic but essential; employers want to see you can identify abnormal readings and escalate appropriately."
+    },
+    {
+      "name": "HIPAA Compliance & Patient Confidentiality",
+      "why": "Healthcare employers screen hard for this; showing you understand privacy rules builds trust immediately."
+    },
+    {
+      "name": "Team Collaboration & Communication",
+      "why": "Nursing is a team sport; recruiters look for LPNs who document clearly, report changes, and work well with RNs and aides."
+    },
+    {
+      "name": "Patient Education",
+      "why": "Demonstrating you can teach patients about medications, discharge care, or disease prevention shows initiative beyond task completion."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided patient care and monitored vitals on a busy medical-surgical unit.",
+      "strong": "Monitored and recorded vital signs for 8-12 patients per shift on medical-surgical unit; escalated 3+ abnormal readings weekly to RN, preventing 2 readmissions in Q3.",
+      "lesson": "Specific patient load, quantified outcomes, and demonstrated clinical judgment turn a generic duty into proof of impact."
+    },
+    {
+      "weak": "Assisted with wound care and dressing changes as assigned.",
+      "strong": "Performed sterile dressing changes on 15-20 surgical and pressure wounds per week; documented wound assessment findings (size, color, drainage) in EHR; maintained 0 infections in assigned patients over 6-month period.",
+      "lesson": "Numbers (frequency, volume, outcomes) and specific EHR documentation skills show competence and consistency."
+    },
+    {
+      "weak": "Collaborated with nursing team to deliver quality patient care.",
+      "strong": "Communicated patient status changes to RN charge nurse within 5 minutes of observation; coordinated with CNAs on toileting and hygiene; received 'excellent teamwork' on 4 consecutive quarterly reviews.",
+      "lesson": "Concrete actions (timing, coordination, feedback) replace vague 'collaboration' with proof of reliable partnership."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing duties instead of impact",
+      "fix": "Replace 'provided care to patients' with measurable outcomes: number of patients, specific skills used, complication rates, or feedback received."
+    },
+    {
+      "mistake": "Omitting EHR and clinical system names",
+      "fix": "Name the exact systems you've used (Epic, Cerner, Meditech) — recruiters and ATS systems search for these as proof of technical readiness."
+    },
+    {
+      "mistake": "Skipping state licensure or certification details",
+      "fix": "Clearly list your LPN license number/state, BLS/CPR expiration date, and any specialty certifications (e.g., IV therapy, phlebotomy) in a dedicated section near the top."
+    },
+    {
+      "mistake": "Using generic healthcare buzzwords without context",
+      "fix": "Instead of 'compassionate care,' show it: 'Spent 10 minutes educating post-op patient on pain management, reducing call light use by 40% during recovery.'"
+    },
+    {
+      "mistake": "Burying clinical experience behind soft skills",
+      "fix": "Lead your experience section with clinical skills and patient outcomes; save teamwork and communication for the bullet explanation."
+    }
+  ],
+  "structureTips": [
+    "Put your LPN license and BLS/CPR credentials at the very top (right below your name) — recruiters scan for this first and many use it as an auto-filter.",
+    "Lead your Professional Experience section with your most recent clinical role and quantify patient load, shift type (nights/days), and unit specialty (ICU, med-surg, long-term care).",
+    "Create a separate 'Clinical Skills' section listing EHR systems, medication prep, wound care, catheterization, and any specialty training (IV therapy, phlebotomy, etc.) — this is ATS gold.",
+    "If you're early-career, include your nursing school clinical rotations with specific unit placements and supervisor contact info; hiring managers may verify."
+  ],
+  "atsKeywords": [
+    "Licensed Practical Nurse",
+    "LPN",
+    "Patient Care",
+    "Vital Signs Monitoring",
+    "Electronic Health Records",
+    "EHR",
+    "Medication Administration",
+    "Wound Care",
+    "IV Therapy",
+    "Foley Catheter",
+    "Medical-Surgical Nursing",
+    "Long-Term Care",
+    "BLS/CPR Certification",
+    "HIPAA Compliance"
+  ],
+  "salarySignal": "Entry-level LPN salaries in the US typically range from $35,000–$42,000 annually; experienced LPNs in high-demand settings (ICU, home health) often earn $45,000–$55,000+, depending on location and shift differentials.",
+  "faq": [
+    {
+      "q": "Should I list my nursing school clinical rotations on an LPN resume if I have no job experience yet?",
+      "a": "Yes. New grads should dedicate a 'Clinical Experience' or 'Practicum' section to your nursing school rotations, listing the unit, facility, patient populations, and key skills practiced. Include your supervisor's name and contact info if possible — employers may verify. Then add any CNA or medical assistant work in a separate 'Work Experience' section."
+    },
+    {
+      "q": "What's the best way to format my LPN license and BLS/CPR info on my resume?",
+      "a": "Create a 'Licensure & Certifications' section immediately below your contact info or at the top of your resume. List: 'Licensed Practical Nurse, [State], License #[number], Expires [date]' and 'BLS/CPR Certification, American Heart Association, Expires [date].' This is non-negotiable — recruiters filter on it."
+    },
+    {
+      "q": "How many patients should I mention on my resume if I worked night shifts with smaller patient loads?",
+      "a": "Be honest about your actual typical load. If you cared for 6–8 patients on nights, say so; if you floated between units and the load varied, write 'varied patient assignments ranging from 5–12 patients depending on unit acuity.' Context matters more than inflated numbers."
+    },
+    {
+      "q": "Should I list every EHR system I've touched, or just the major ones?",
+      "a": "List every system you've actually used hands-on (Epic, Cerner, Meditech, etc.) — ATS systems search for these exact names. If you're only familiar with one, list that one with confidence. Don't claim proficiency in systems you've never used."
+    },
+    {
+      "q": "How do I write about infection control or safety achievements as an LPN?",
+      "a": "Use concrete metrics: 'Maintained zero HAIs (hospital-acquired infections) among assigned patients over 12-month period' or 'Completed quarterly safety audits with 98% compliance on hand hygiene protocols.' These show employers you take safety seriously and have measurable track records."
+    }
+  ]
+}

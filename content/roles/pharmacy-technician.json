@@ -1,0 +1,130 @@
+{
+  "slug": "pharmacy-technician",
+  "title": "Pharmacy Technician",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:33:04.987Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Pharmacy Technician Resume: Tips & Examples",
+  "metaDescription": "Land your next pharmacy tech job. Learn what skills to highlight, how to structure your resume, and see real bullet examples.",
+  "h1": "How to Write a Pharmacy Technician Resume That Gets Noticed",
+  "intro": "Pharmacy technician roles are in high demand, but hiring managers get a lot of applications—and they're scanning for very specific skills and certifications. A strong resume shows you're organized, detail-oriented, and ready to keep patients safe. Let's build one that actually stands out.",
+  "audience": "Recent pharmacy tech program graduates, certified or uncertified techs looking to switch employers, and career changers with retail or healthcare experience.",
+  "topSkills": [
+    {
+      "name": "PTCB Certification (Certified Pharmacy Technician)",
+      "why": "Many employers require or strongly prefer PTCB certification; it signals you've passed the national exam and meet competency standards."
+    },
+    {
+      "name": "Pharmacy Point of Sale (POS) systems",
+      "why": "Techs must move fast and accurately in pharmacy software—mentioning specific systems like PharmaCare, Medispan, or Walgreens/CVS platforms shows hands-on experience."
+    },
+    {
+      "name": "Prescription compounding & verification",
+      "why": "Patient safety hinges on accurate medication preparation; demonstrating this core duty proves you understand high-stakes accuracy."
+    },
+    {
+      "name": "Insurance claim processing & billing",
+      "why": "Handling rejections, copay verification, and prior authorizations is a daily reality; it's a must-have operational skill."
+    },
+    {
+      "name": "Patient counseling (supporting RPh)",
+      "why": "Techs often answer routine questions and assist the pharmacist; showing you can communicate clearly with diverse patients is valuable."
+    },
+    {
+      "name": "Inventory management & stock rotation",
+      "why": "Controlling shrink, spotting expired stock, and managing reorder points directly impacts pharmacy margins and patient safety."
+    },
+    {
+      "name": "DEA & state pharmacy regulations",
+      "why": "Knowledge of controlled substance handling, HIPAA, and local licensing rules shows you're compliance-minded and legally sharp."
+    },
+    {
+      "name": "Customer service & conflict resolution",
+      "why": "Pharmacy is high-stress; techs need to stay calm, handle frustrated customers, and work smoothly with pharmacists and other staff."
+    },
+    {
+      "name": "IV preparation & sterile compounding (if applicable)",
+      "why": "Hospital and specialty pharmacy roles demand advanced sterile technique; this credential sets you apart for clinical settings."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Filled prescriptions and helped customers at the pharmacy.",
+      "strong": "Filled 200+ prescriptions daily with 99.8% accuracy while maintaining HIPAA compliance; processed insurance claims and resolved rejections, reducing customer delays by 15–20%.",
+      "lesson": "Replace vague action with metrics, specific output, and business impact—hiring managers want to see you work fast and reduce friction."
+    },
+    {
+      "weak": "Managed inventory and made sure there were no expired medications.",
+      "strong": "Maintained inventory of 2,500+ SKUs using PharmaCare POS system; conducted weekly stock audits and managed reorder cycles, achieving zero expired-product losses in 18 months.",
+      "lesson": "Name the tool you used, quantify the scope, and tie your work to a measurable outcome (cost savings, compliance wins, or operational excellence)."
+    },
+    {
+      "weak": "Trained new technicians on pharmacy operations.",
+      "strong": "Trained 6 new pharmacy technicians on POS systems, controlled-substance handling, and customer service protocols; 5 of 6 completed PTCB certification within their first year.",
+      "lesson": "Show leadership impact with headcount and concrete results—promotions and training roles are premium experience hiring managers reward."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Not listing your PTCB certification status upfront.",
+      "fix": "Lead your résumé with 'Certified Pharmacy Technician (PTCB)' or 'Pharmacy Technician (PTCB Exam Scheduled [Month/Year])' so screeners know your certification status immediately."
+    },
+    {
+      "mistake": "Describing routine tasks without measurable output.",
+      "fix": "Replace 'filled prescriptions' with numbers and context: 'filled 150–200 prescriptions per shift' or 'reduced average wait time by 10 minutes through process optimization.'"
+    },
+    {
+      "mistake": "Ignoring specific pharmacy software or systems you've used.",
+      "fix": "Explicitly name the POS, EHR, or compounding systems (e.g., PharmaCare, Medispan, Walgreens RxSmart, CVS Pharmacy Rx System) so ATS bots pick up the exact keywords employers search for."
+    },
+    {
+      "mistake": "Burying your state pharmacy license or DEA number training.",
+      "fix": "Clearly state your state pharmacy technician license number and expiration date in a dedicated credentials section or next to your PTCB cert."
+    },
+    {
+      "mistake": "Overlooking compliance and patient safety details.",
+      "fix": "Call out experience with HIPAA protocols, controlled-substance audits, or quality-control checks—these directly address employer risk concerns and stand out in screening."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or objective that mentions PTCB certification, your years of pharmacy experience, and one key strength (e.g., 'Certified Pharmacy Technician with 4 years of retail and specialty pharmacy experience; expert in insurance claim resolution and POS systems.').",
+    "Place your credentials and certifications in a dedicated 'Licenses & Certifications' section near the top, listing PTCB cert number, state license number, and expiration dates—hiring managers scan for these first.",
+    "In your work experience, lead each role with the pharmacy setting (retail, hospital, specialty, mail-order) and store/system size so employers understand the complexity you've handled.",
+    "Use a separate 'Technical Skills' or 'Core Competencies' section to list POS systems, pharmacy software, and compliance knowledge—this is where ATS keywords live and where recruiters look for exact software matches."
+  ],
+  "atsKeywords": [
+    "Certified Pharmacy Technician",
+    "PTCB",
+    "prescription filling",
+    "pharmacy POS systems",
+    "insurance claim processing",
+    "inventory management",
+    "controlled substance handling",
+    "sterile compounding",
+    "HIPAA compliance",
+    "pharmacy technician license"
+  ],
+  "salarySignal": "Entry-level pharmacy technician salaries typically range from $28,000 to $35,000 annually; experienced or certified techs in urban areas often earn $35,000–$45,000+. Specialty and hospital settings tend to pay higher than retail chains.",
+  "faq": [
+    {
+      "q": "Do I need to be PTCB certified to list it on my resume?",
+      "a": "Yes. Only claim the PTCB credential if you've passed the exam. If you're studying for it, write 'PTCB Exam Scheduled [Month/Year]' or 'In Progress' so there's no confusion. Misrepresenting certification is a major red flag to employers."
+    },
+    {
+      "q": "Should I include customer service if I worked retail before becoming a tech?",
+      "a": "Absolutely. Retail experience shows you can handle high-volume transactions, customer conflict, and fast-paced environments. Reframe it as 'retail operations' or 'customer-facing environment,' then show what you learned that transfers to pharmacy (accuracy, patience, multitasking)."
+    },
+    {
+      "q": "What if I don't have experience with the specific POS system they list in the job posting?",
+      "a": "Don't panic. List the POS systems you *have* used; most employers know techs can learn new software quickly. In your cover letter, emphasize your ability to master new tools and your strong foundation in pharmacy workflows—that matters more than one specific system."
+    },
+    {
+      "q": "How much detail should I go into on medication handling and safety?",
+      "a": "Be specific. Mention 'DEA controlled-substance audits,' 'sterile compounding under USP <797> standards,' or 'medication verification protocols'—these phrases show you understand regulatory standards and patient safety, which is critical in pharmacy."
+    },
+    {
+      "q": "Should I list my state pharmacy license number on my resume?",
+      "a": "Yes, include your state license number and expiration date in a 'Licenses & Certifications' section. Employers need to verify you're legally qualified to work, and listing it upfront speeds up the background check process."
+    }
+  ]
+}

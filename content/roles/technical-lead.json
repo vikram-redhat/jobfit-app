@@ -1,0 +1,130 @@
+{
+  "slug": "technical-lead",
+  "title": "Technical Lead",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:26.492Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Technical Lead Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a Technical Lead resume that gets noticed. See sample bullets, key skills, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a Technical Lead Resume That Lands Interviews",
+  "intro": "A Technical Lead resume needs to show you can code, ship, and lead—all at once. Hiring managers want proof you've grown engineers, shipped projects on time, and solved real technical problems. This guide walks you through exactly what to highlight.",
+  "audience": "Senior engineers moving into leadership for the first time, and experienced Technical Leads switching companies or industries.",
+  "topSkills": [
+    {
+      "name": "Team Leadership & Mentorship",
+      "why": "Technical Leads are responsible for growing junior engineers—hiring managers want evidence you've coached and leveled up your team."
+    },
+    {
+      "name": "Architectural Design",
+      "why": "You need to demonstrate you can design scalable systems and make high-level technical decisions, not just execute them."
+    },
+    {
+      "name": "Full-Stack Development (or your primary stack)",
+      "why": "You still need hands-on credibility in your core language/framework; hiring managers expect you to contribute code, not just assign it."
+    },
+    {
+      "name": "Cross-functional Communication",
+      "why": "Tech Leads bridge engineering and product/design; showing you speak both languages is crucial."
+    },
+    {
+      "name": "Project Planning & Delivery",
+      "why": "You own timelines and dependencies—hiring managers want to see you've shipped projects on deadline, often with multiple engineers."
+    },
+    {
+      "name": "Code Review & Quality Standards",
+      "why": "Establishing and enforcing technical standards is core to the role; this signals you care about code quality and consistency."
+    },
+    {
+      "name": "Performance Optimization",
+      "why": "Tech Leads often own system reliability and scaling; demonstrating you've improved latency, throughput, or reliability is high-value."
+    },
+    {
+      "name": "Technical Debt Management",
+      "why": "Knowing when to refactor and how to balance features vs. sustainability is a leadership skill, not just an engineering one."
+    },
+    {
+      "name": "Incident Response & Debugging",
+      "why": "Tech Leads often own production support and postmortems; this shows judgment under pressure."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Led a team of engineers on a new feature project.",
+      "strong": "Led 5-engineer team through full redesign of payment processing system; mentored 2 junior engineers from first PR to independent feature ownership; shipped on time with 40% reduction in payment latency.",
+      "lesson": "Add team size, scope (what you built), impact on people (mentoring), and a quantified business outcome."
+    },
+    {
+      "weak": "Improved code quality and established best practices.",
+      "strong": "Established formal code review process with automated linting and security scanning; reduced critical bugs in production by 65% YoY; built review culture that decreased avg PR feedback cycles from 3 days to 8 hours.",
+      "lesson": "Replace vague 'best practices' with specific mechanisms (linting, scanning), metrics (bug reduction %), and the human outcome (faster feedback)."
+    },
+    {
+      "weak": "Worked on architecture improvements and infrastructure projects.",
+      "strong": "Designed and led migration of monolith to microservices (Node.js to gRPC); coordinated across 3 teams; reduced API response time by 50% and improved horizontal scaling capacity 10x; documented architecture decisions in ADRs adopted across 20-person eng org.",
+      "lesson": "Name the technology, the scope (teams involved), before/after metrics, and secondary impact (reuse by others)."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Still writing as an IC engineer, not a leader.",
+      "fix": "Shift your language from 'I built' to 'I led,' 'I unblocked,' 'I established.' Use words that show leverage (team size, mentees, process impact)."
+    },
+    {
+      "mistake": "Listing management duties without technical credibility.",
+      "fix": "Always pair people leadership with technical outcomes. Show you're still shipping code or designing systems, not just attending meetings."
+    },
+    {
+      "mistake": "Being vague about team size and scope.",
+      "fix": "Always say how many engineers, how many layers of tech, how long the project took. Specificity signals real responsibility."
+    },
+    {
+      "mistake": "Forgetting to quantify process improvements.",
+      "fix": "If you mention code review, incident response, or onboarding—measure it. 'Reduced onboarding time from 2 weeks to 3 days,' not 'improved onboarding.'"
+    },
+    {
+      "mistake": "Overstating autonomy without mentioning coordination.",
+      "fix": "Tech Leads own accountability but work with product, design, and other teams. Show you listen and align, not just decree."
+    }
+  ],
+  "structureTips": [
+    "Start with a professional summary (2-3 lines) that signals both technical depth and leadership—e.g. 'Fullstack engineer leading 6-person platform team; shipped 3 major features, mentored 4 engineers to mid-level.'",
+    "Put your most recent technical leadership role first, with emphasis on team size, scope, and people outcomes before technical outcomes.",
+    "Use a 'Leadership Highlights' or 'Key Projects' section to call out 2-3 high-impact initiatives with team/scope/metric, separate from day-to-day accomplishments.",
+    "Keep technical skills relevant to your level—don't list every language, but do show your 'fluent in' stack and depth in one or two areas (architecture, cloud platforms, databases)."
+  ],
+  "atsKeywords": [
+    "technical lead",
+    "tech lead",
+    "engineering manager",
+    "team leadership",
+    "architectural design",
+    "mentorship",
+    "full-stack development",
+    "project management",
+    "code review",
+    "incident response"
+  ],
+  "salarySignal": "Entry-level Technical Lead roles in the US typically range from $140K–$180K base; Senior Tech Leads at larger companies often hit $200K–$280K+ with equity. Regional variation is significant (SF/NYC higher, elsewhere lower).",
+  "faq": [
+    {
+      "q": "How do I show leadership if I've never had a formal 'manager' title?",
+      "a": "Focus on moments you led by influence: mentored interns, owned a team project, established a code review process, or led an RFC. Use action verbs like 'led,' 'established,' and 'mentored.' Title doesn't matter as much as demonstrated impact."
+    },
+    {
+      "q": "Should I include technical skills or focus more on leadership?",
+      "a": "Do both. A Tech Lead resume should have a 60/40 split: majority technical accomplishments (shipped features, improved performance), 40% leadership/people wins (mentoring, standards, coordination). You're still hands-on."
+    },
+    {
+      "q": "How much detail should I include on architecture vs. people stuff?",
+      "a": "Lead with outcomes, not process. Instead of 'designed a service-oriented architecture,' say 'designed service-oriented architecture that reduced deployment time by 40% and enabled 3 new feature teams to work independently.' Connect tech to impact."
+    },
+    {
+      "q": "Is it better to show one deep role or multiple shorter leadership stints?",
+      "a": "One deep role (2+ years) at a growing company usually signals stronger impact and relationships. But multiple stints work if you can show clear progression (IC → Tech Lead → Senior Tech Lead) or diverse scopes (different stacks, team sizes, or domains)."
+    },
+    {
+      "q": "How do I explain a gap between IC and leadership work?",
+      "a": "Don't hide it. Use a summary line in that role: 'Senior Engineer → Tech Lead, managed X people and shipped Y.' If you're not yet formally titled Tech Lead but act like one, use 'Lead' or 'Senior Engineer (Leadership Track)' and prove it with bullets."
+    }
+  ]
+}

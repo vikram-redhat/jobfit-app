@@ -1,0 +1,134 @@
+{
+  "slug": "solutions-engineer",
+  "title": "Solutions Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:05.408Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Solutions Engineer Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Write a winning Solutions Engineer resume with strong bullets, key skills, and ATS-friendly formatting. See real examples and avoid common mistakes.",
+  "h1": "Solutions Engineer Resume: How to Highlight Technical Sales & Implementation Skills",
+  "intro": "Solutions Engineers sit at the intersection of sales, technical expertise, and customer success—and your resume needs to prove you can do all three. This guide shows you how to showcase the demos, integrations, and client wins that hiring managers actually want to see.",
+  "audience": "Junior and mid-level engineers transitioning from pure development or support roles, as well as recent technical grads aiming for their first Solutions Engineering position.",
+  "topSkills": [
+    {
+      "name": "Solution Architecture & Design",
+      "why": "SE managers need proof you can design systems that fit customer requirements, not just understand technical specs."
+    },
+    {
+      "name": "Customer Communication & Presentation",
+      "why": "This role demands clear translation of complex tech for non-technical stakeholders—hiring teams look for evidence of demos, workshops, or speaking."
+    },
+    {
+      "name": "Product Demonstrations & Proof of Concepts",
+      "why": "Running effective demos and building POCs to win deals is core to the job; show specific deal wins or customer outcomes."
+    },
+    {
+      "name": "Integration & API Knowledge",
+      "why": "SE roles often require hands-on familiarity with REST/GraphQL APIs, webhooks, and third-party integrations."
+    },
+    {
+      "name": "Sales Support & Deal Acceleration",
+      "why": "Hiring managers want to see how you shortened sales cycles, unblocked technical objections, or supported closing large contracts."
+    },
+    {
+      "name": "Cloud Platforms (AWS, Azure, GCP)",
+      "why": "Most enterprise solutions run on cloud infrastructure; demonstrating hands-on experience is a major differentiator."
+    },
+    {
+      "name": "Requirements Gathering & Discovery",
+      "why": "The ability to ask the right questions and translate customer needs into technical specs shows maturity in the role."
+    },
+    {
+      "name": "Scripting & Automation (Python, JavaScript, Bash)",
+      "why": "Light coding skills help you build quick solutions, automate testing, and handle customer customizations."
+    },
+    {
+      "name": "Documentation & Knowledge Base Creation",
+      "why": "Hiring teams value engineers who scale themselves through clear guides, runbooks, and technical enablement materials."
+    },
+    {
+      "name": "Success Metrics & ROI Modeling",
+      "why": "Being able to quantify customer value, cost savings, or efficiency gains separates true solutions thinkers from order-takers."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked with customers to implement the platform and answered technical questions.",
+      "strong": "Led 12+ customer implementations across healthcare and fintech verticals; authored 6 integration guides that reduced customer onboarding time by 40% and cut support escalations by 25%.",
+      "lesson": "Specificity, metrics, and business impact make this resume-worthy—show scope, results, and the materials or outcomes you created."
+    },
+    {
+      "weak": "Gave product demos to prospects and helped close deals.",
+      "strong": "Delivered 30+ product demonstrations and custom POCs to Fortune 500 prospects; directly contributed to $3.2M in ARR through technical validation of use cases in supply chain and logistics.",
+      "lesson": "Quantify the number of demos, the dollar value or deal size influenced, and the strategic accounts or verticals you supported."
+    },
+    {
+      "weak": "Learned and used several cloud platforms and technologies in my role.",
+      "strong": "Built and deployed containerized microservices on AWS ECS; integrated with Salesforce, Snowflake, and Slack using REST APIs and webhooks; authored Python automation scripts that reduced customer environment setup time from 3 hours to 20 minutes.",
+      "lesson": "Name specific platforms, tools, and languages; tie each to a customer or business outcome—vague 'learned' language doesn't show depth."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Focusing only on technical implementation details without linking to deal or customer outcomes.",
+      "fix": "Always pair technical work with the business impact: how many customers, what ARR/MRR influenced, which competitive objections you helped overcome, or how you shortened a sales cycle."
+    },
+    {
+      "mistake": "Listing support-heavy or solely reactive work as if it's a selling strength.",
+      "fix": "If you came from support, emphasize the proactive projects: launching enablement content, creating reusable solutions, mentoring junior engineers, or influencing product roadmap based on customer feedback."
+    },
+    {
+      "mistake": "Omitting soft skills entirely or burying them in job descriptions.",
+      "fix": "Front-load evidence of communication: led training workshops, owned customer advisory board presentations, delivered webinars, or managed large accounts directly."
+    },
+    {
+      "mistake": "Claiming experience with enterprise systems without showing hands-on integration or customization work.",
+      "fix": "Be specific: 'Integrated [Platform] with [3+ third-party tools] using [API type]' is stronger than 'experienced with enterprise solutions.'"
+    },
+    {
+      "mistake": "Forgetting to highlight 'scale' metrics—how many customers, how much revenue, how much faster, how much cheaper.",
+      "fix": "Quantify everything: customer count, ARR/MRR, time saved, cost reduction, or quality improvement—even if it's a range like '20–50% faster.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary or headline that combines technical credibility with customer-facing wins (e.g., 'Solutions Engineer | SaaS Platform Integration | $2M+ in Customer Implementations').",
+    "Put a 'Technical Skills' section near the top, organized by category: Cloud Platforms, Languages, Databases, Integration Tools—hiring managers use this for ATS filtering.",
+    "In your experience section, lead each role with the most customer-impacting or revenue-generating achievements first; save process improvements or internal initiatives for the second or third bullet.",
+    "Include a 'Projects' or 'Enablement' subsection if you've created reusable assets (documentation, demo environments, integration templates, training materials)—these show scalability and thought leadership."
+  ],
+  "atsKeywords": [
+    "Solutions Engineer",
+    "Customer technical implementation",
+    "Product demonstration",
+    "Proof of concept",
+    "Sales engineering support",
+    "API integration",
+    "Cloud infrastructure",
+    "Requirements gathering",
+    "Customer enablement",
+    "Technical architecture"
+  ],
+  "salarySignal": "Entry-level Solutions Engineer roles in the US typically start around $80–$100K; mid-level roles (3–5 years) range from $120–$160K; senior SEs and staff-level positions can exceed $180K. Compensation often includes commission or variable bonus tied to deal support and customer success.",
+  "faq": [
+    {
+      "q": "Should I include coding projects on my Solutions Engineer resume?",
+      "a": "Yes, if they're relevant: automation scripts, POC demos, or integration tools you built for customers. Skip hobby projects unrelated to SE work. Lead with the business outcome (time saved, faster onboarding, fewer bugs) rather than the code itself."
+    },
+    {
+      "q": "How do I show customer communication skills on a resume?",
+      "a": "Be explicit: 'Delivered 20+ customer workshops,' 'Presented technical roadmap to C-suite stakeholders,' 'Managed executive steering committee,' or 'Authored 5 customer-facing enablement guides.' Concrete evidence matters more than vague claims."
+    },
+    {
+      "q": "What's the best way to quantify my solutions engineering impact?",
+      "a": "Use three lenses: revenue (ARR influenced, deals accelerated), efficiency (onboarding time reduced, support tickets decreased, time-to-value), and scale (number of customers, breadth of verticals, or number of integrations). Mix at least one metric per role."
+    },
+    {
+      "q": "Do I need to list every tool or platform I've used?",
+      "a": "No—prioritize the tools that are in job postings for roles you want and that show meaningful hands-on experience. Quality over exhaustive lists; focus on platforms relevant to your target companies' tech stacks (e.g., AWS, Salesforce, Stripe, Slack, etc.)."
+    },
+    {
+      "q": "How do I stand out if I'm coming from a support or developer background?",
+      "a": "Highlight the bridge: 'Transitioned from support to pre-sales by leading 15+ POCs,' or 'Built automation tools that improved customer time-to-value by 35%.' Show you understand both the technical and customer-success sides, not just one."
+    }
+  ]
+}

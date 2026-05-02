@@ -1,0 +1,132 @@
+{
+  "slug": "game-developer",
+  "title": "Game Developer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:30:28.315Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Game Developer Resume: Tips & Examples for Landing Jobs",
+  "metaDescription": "Write a standout game developer resume with actionable tips, skill keywords, and real bullet examples. Get hired faster with our expert guide.",
+  "h1": "Game Developer Resume Guide: Skills, Examples & ATS Keywords",
+  "intro": "Your game developer resume needs to showcase both technical chops and shipped titles—not just frameworks and engines. We'll walk you through the exact skills, bullet formats, and ATS keywords that land interviews at studios and indie companies alike.",
+  "audience": "Junior and mid-level game developers, recent graduates from game dev programs, and software engineers transitioning into game development.",
+  "topSkills": [
+    {
+      "name": "Game Engines (Unity, Unreal Engine, Godot)",
+      "why": "Studios filter resumes by engine proficiency first—you must name the specific engine(s) you've shipped with or spent serious time in."
+    },
+    {
+      "name": "C# (Unity) / C++ (Unreal)",
+      "why": "Game programming is heavily language-specific; employers want to see you're fluent in the primary language for your target engine."
+    },
+    {
+      "name": "Shipped/Published Titles",
+      "why": "A game you've actually released (even a mobile game or itch.io project) proves you can ship code from start to finish, not just write features."
+    },
+    {
+      "name": "Game Design Patterns",
+      "why": "Physics, networking, state machines, and AI pathfinding show you understand game-specific architecture beyond generic software design."
+    },
+    {
+      "name": "Version Control (Git, Perforce)",
+      "why": "Large studios use Perforce; indie teams use Git—both are deal-breakers, and hiring managers scan for proof of collaboration."
+    },
+    {
+      "name": "3D Graphics / Rendering (Shaders, Materials)",
+      "why": "Even gameplay programmers touch shaders and material pipelines; any visible graphics work proves cross-functional knowledge."
+    },
+    {
+      "name": "Multiplayer / Networking",
+      "why": "Online games are increasingly common; experience with Netcode, Mirror, PlayFab, or similar networking libraries is a major differentiator."
+    },
+    {
+      "name": "Audio & VFX Integration",
+      "why": "Wwise, FMOD, or particle systems show you care about the full player experience, not just code logic."
+    },
+    {
+      "name": "Gameplay Programming",
+      "why": "Writing core loop mechanics, player controllers, and game logic is the most common hiring path—emphasize shipped gameplay features."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed gameplay features for a mobile game using Unity and C#.",
+      "strong": "Shipped 3 core gameplay systems (player controller, enemy AI pathfinding, loot progression) in Unity C# for a mobile roguelike; optimized load times by 40% through asset bundling, reducing initial APK size to 250MB.",
+      "lesson": "Specific shipped features + metrics (load times, file size, player count) beat vague language; numbers prove the work mattered."
+    },
+    {
+      "weak": "Worked on graphics and visual effects using Unreal Engine.",
+      "strong": "Created 15+ custom material instances and particle systems in Unreal Engine 5 for boss encounters; collaborated with VFX artist via Perforce to iterate on real-time feedback, reducing per-effect memory footprint by 25%.",
+      "lesson": "Name the engine version, quantify output (15+ effects), and show collaboration—hiring managers want to see you work with other disciplines."
+    },
+    {
+      "weak": "Fixed bugs and optimized the game code.",
+      "strong": "Profiled and eliminated 8 frame-rate bottlenecks in networked gameplay loop; reduced per-tick CPU cost by 35%, enabling 60 FPS on target hardware (Nintendo Switch); mentored 2 junior devs on optimization best practices.",
+      "lesson": "Concrete performance wins (FPS targets, hardware names) and evidence of mentoring lift you above generic 'optimization' claims."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing a 'game mod' or single asset as a shipped title",
+      "fix": "Only claim 'shipped' or 'published' for games you (or your team) released on a store, platform, or public server—mods and jam prototypes belong under 'Projects' instead."
+    },
+    {
+      "mistake": "Writing 'proficient in all game engines'",
+      "fix": "Name the 1–2 engines you've genuinely shipped with or spent 500+ hours in; studios want depth, not false versatility."
+    },
+    {
+      "mistake": "Omitting links to your portfolio, GitHub, or itch.io",
+      "fix": "Add a 'Portfolio' or 'Links' line with URLs to your shipped games, GitHub profile (with gameplay code), and itch.io page; studios *will* check them."
+    },
+    {
+      "mistake": "Ignoring soft skills like agile, code review, and mentoring",
+      "fix": "Game teams are collaborative—mention sprint ceremonies, code review participation, or onboarding junior devs to show you're not a lone wolf."
+    },
+    {
+      "mistake": "Burying engine and language skills in a generic 'Technical Skills' block",
+      "fix": "Create a dedicated 'Game Development' subsection listing engines, languages, and tools; ATS scanners and humans both skim this first."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Featured Projects / Shipped Titles' section before 'Work Experience'—shipped games outweigh job titles, especially for entry-level or indie roles.",
+    "Create a 'Game Development Skills' or 'Technical Stack' section that mirrors job descriptions; list engines (Unity 2022+, Unreal 5.x), languages (C#, C++), and tools (Git, Wwise, Maya) verbatim.",
+    "Under each job or project, prioritize gameplay features, shipped systems, and performance wins over administrative tasks; 'Collaborated with design team' matters less than 'Built player controller handling 100+ input states.'",
+    "Include a 'Portfolio & Links' section at the top or bottom with live URLs to your itch.io, GitHub (with code samples), and any published games; this is your proof."
+  ],
+  "atsKeywords": [
+    "game engine (Unity, Unreal Engine, Godot)",
+    "C# programming",
+    "C++ programming",
+    "shipped game",
+    "gameplay programming",
+    "game networking",
+    "multiplayer development",
+    "physics engine",
+    "Perforce version control",
+    "game optimization",
+    "shader programming",
+    "particle systems"
+  ],
+  "salarySignal": "Entry-level game developer salaries in the US typically range from $55,000 to $75,000 in 2026; mid-level roles ($75,000–$110,000) and senior roles ($110,000+) vary widely by studio size, location, and published success.",
+  "faq": [
+    {
+      "q": "Should I list my itch.io games on my resume?",
+      "a": "Yes, absolutely—but only if they're polished and playable. Add a 'Portfolio' or 'Featured Projects' section with direct links; studios want to see shipped code, not unfinished jam prototypes. Keep the description brief (one line) and let the game speak for itself."
+    },
+    {
+      "q": "What if I haven't shipped a commercial game yet?",
+      "a": "Lead with your best personal or jam game (Ludum Dare, Global Game Jam) with a playable link, then list internships, contract work, or open-source game engine contributions. Hiring managers understand that shipped experience is rare for juniors—they'll evaluate your code quality and portfolio instead."
+    },
+    {
+      "q": "How important is it to list both C# and C++ on my resume?",
+      "a": "Only list languages you're confident in; most studios hire for one engine and language. If you want versatility, highlight your *strongest* language first and note 'C# (expert) / C++ (intermediate)' to be honest about your depth."
+    },
+    {
+      "q": "Do I need to mention specific game frameworks (Godot, Phaser, custom engines)?",
+      "a": "Yes—list the exact tool you shipped with. Studios often use multiple engines, and showing Godot, Phaser, or a custom engine proves you can adapt. ATS scanners look for engine names, so be explicit."
+    },
+    {
+      "q": "How do I explain a game I shipped but don't want to show?",
+      "a": "It's fine to list it by title with a brief description (e.g., 'Mobile puzzle game, 50K downloads') without a link. If it's a sensitive or unsuccessful project, focus bullets on the *technical* wins (optimization, feature shipping, cross-team collaboration) rather than player metrics."
+    }
+  ]
+}

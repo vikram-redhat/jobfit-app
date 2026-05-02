@@ -1,0 +1,130 @@
+{
+  "slug": "it-support-specialist",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:07.069Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "IT Support Specialist Resume: Tips & Examples",
+  "metaDescription": "Land your IT Support job with a resume that highlights troubleshooting skills, certifications, and ticket resolution metrics. See real examples inside.",
+  "h1": "IT Support Specialist Resume: Stand Out With Technical Skills & Metrics",
+  "intro": "IT Support roles are competitive, but a resume that showcases real troubleshooting wins and certifications will get you noticed. We'll show you how to translate technical experience into metrics that hiring managers actually care about—and help you avoid the resume patterns that land you in the reject pile.",
+  "audience": "Entry-level tech support candidates, help desk workers looking to move up, career switchers from adjacent IT roles, and those with CompTIA A+, Security+, or vendor certifications seeking their first support role.",
+  "topSkills": [
+    {
+      "name": "Ticketing Systems (Jira, ServiceNow, Zendesk)",
+      "why": "Hiring managers want to see you can log, track, and resolve issues in the systems their company already uses."
+    },
+    {
+      "name": "Remote Support Tools (TeamViewer, AnyDesk, Microsoft Remote Desktop)",
+      "why": "Most IT support is delivered remotely now; hands-on experience with these tools is table stakes."
+    },
+    {
+      "name": "Active Directory & User Management",
+      "why": "Managing user accounts, permissions, and passwords is a core daily task for support specialists."
+    },
+    {
+      "name": "Windows & macOS Troubleshooting",
+      "why": "Operating system-level problem-solving is the foundation of technical support work."
+    },
+    {
+      "name": "Network Basics (TCP/IP, DNS, VPN)",
+      "why": "You don't need to be a network engineer, but understanding connectivity issues separates candidates."
+    },
+    {
+      "name": "Hardware Troubleshooting (Printers, Monitors, Peripherals)",
+      "why": "Most of your day involves solving hardware problems; specific examples boost credibility."
+    },
+    {
+      "name": "CompTIA A+ or Security+ Certification",
+      "why": "These certs prove you have standardized IT knowledge and are often required for government/corporate roles."
+    },
+    {
+      "name": "Customer Service & Communication",
+      "why": "You're the bridge between non-technical users and solutions; showing patience and clarity matters as much as tech skills."
+    },
+    {
+      "name": "Incident Response & Root Cause Analysis",
+      "why": "Managers want candidates who don't just fix problems but understand why they happened."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Resolved IT support tickets and helped employees with computer problems.",
+      "strong": "Resolved 450+ support tickets monthly with an average first-call resolution rate of 68%, reducing average ticket closure time from 8 hours to 4.5 hours through proactive troubleshooting.",
+      "lesson": "Added specific metrics (ticket volume, resolution rate, time improvement) that prove impact and scale—vague 'helped employees' tells hiring managers nothing."
+    },
+    {
+      "weak": "Provided technical support to end users via phone and email.",
+      "strong": "Supported 200+ end users across three offices via phone, remote desktop, and ticketing system (ServiceNow); maintained 95% customer satisfaction rating and documented solutions in knowledge base to reduce repeat tickets by 22%.",
+      "lesson": "Quantified user base, named the tools, added satisfaction metric, and showed how documentation multiplied your value beyond individual fixes."
+    },
+    {
+      "weak": "Troubleshot network and hardware issues.",
+      "strong": "Diagnosed and resolved printer, VPN, and network connectivity issues for 80+ devices; coordinated with network team on 15+ Active Directory provisioning tasks; reduced hardware RMA turnaround from 12 days to 6 days by establishing vendor escalation protocol.",
+      "lesson": "Specified which systems you touched, included cross-functional collaboration, and quantified process improvement—shows breadth and initiative, not just reactive problem-solving."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic IT skills with no context",
+      "fix": "Always pair skills with a real outcome: 'Resolved Windows authentication failures affecting 40+ users in branch office' beats 'Windows troubleshooting.'"
+    },
+    {
+      "mistake": "Focusing on tools instead of problems solved",
+      "fix": "Don't lead with 'ServiceNow experience'—lead with 'managed 400+ monthly tickets in ServiceNow with 65% first-contact resolution rate.'"
+    },
+    {
+      "mistake": "No mention of certifications or training",
+      "fix": "If you have CompTIA A+, Security+, or vendor certs (Microsoft, Cisco, etc.), put them prominently near the top; many roles require or prefer them."
+    },
+    {
+      "mistake": "Ignoring soft skills in a technical role",
+      "fix": "Include evidence of customer service strength: 'maintained 92% customer satisfaction' or 'mentored 3 junior support staff' shows you're not just a technical person."
+    },
+    {
+      "mistake": "Using help desk and IT support interchangeably without clarifying scope",
+      "fix": "Be clear: 'Tier 1 help desk support' vs. 'Tier 2 infrastructure support' matter; use job description language to position yourself at the right level."
+    }
+  ],
+  "structureTips": [
+    "Lead with certifications and technical skills summary: IT hiring managers scan resumes in 6 seconds, so put A+, Security+, or Microsoft certs at the top where they can't miss them.",
+    "Put ticketing system experience and user count in the first bullet of each support role: 'Managed 350+ monthly tickets in Zendesk for 200+ end users' signals scale immediately.",
+    "Group bullets by responsibility tier: Separate Tier 1 (password resets, basic troubleshooting) from Tier 2 (Active Directory, network diagnostics) so hiring managers know your depth.",
+    "Reserve one bullet per role for soft skill proof: customer satisfaction metric, mentoring, or knowledge base contribution—it humanizes a technical resume and addresses 'can this person work with non-technical people?'"
+  ],
+  "atsKeywords": [
+    "IT Support Specialist",
+    "Help desk support",
+    "Ticketing system",
+    "Active Directory",
+    "Remote support tools",
+    "CompTIA A+",
+    "Network troubleshooting",
+    "ServiceNow",
+    "Customer satisfaction",
+    "First-call resolution"
+  ],
+  "salarySignal": "Entry-level IT Support Specialist roles in the US typically range from $32,000 to $45,000 annually; mid-level support roles with certifications and 3+ years of experience often earn $45,000–$60,000, with significant variation by region, company size, and specialization.",
+  "faq": [
+    {
+      "q": "Do I need CompTIA A+ to get an IT Support Specialist job?",
+      "a": "Not always—but it's a big plus. Many corporate and government roles require or strongly prefer A+ or Security+. If you don't have it, your resume needs to show hands-on support experience, ticket resolution metrics, and tool proficiency. Getting A+ while job-hunting can be a game-changer."
+    },
+    {
+      "q": "How do I show IT support experience if I've only worked help desk?",
+      "a": "Help desk *is* IT support—just position it correctly. Focus on the technical problems you solved (not just password resets), name the tools and systems you used, and include metrics: ticket volume, resolution rate, customer satisfaction. Highlight any Tier 2 work (Active Directory, network issues) to show growth."
+    },
+    {
+      "q": "What metrics matter most on an IT Support resume?",
+      "a": "First-call resolution rate, average ticket closure time, customer satisfaction score, and number of users/tickets supported are the big ones. If you don't track these formally, estimate them from your experience and include them anyway—hiring managers expect to see quantified impact."
+    },
+    {
+      "q": "Should I list every ticket system and remote tool I've touched?",
+      "a": "List the major ones you've used heavily (ServiceNow, Zendesk, TeamViewer, AnyDesk, Microsoft Remote Desktop), but don't flood your resume with every tool. Hiring managers care more about breadth (you can learn new tools quickly) than a checkbox list of 20 software names."
+    },
+    {
+      "q": "How do I stand out if my IT support experience is limited?",
+      "a": "Include relevant certifications, contributions like knowledge base articles or process documentation, mentoring of junior staff, and quantifiable wins (reduced ticket time, improved satisfaction score, resolved a recurring issue). If you're entry-level, emphasize learning and initiative—'self-taught troubleshooting' or 'earned A+ while on the job' is competitive."
+    }
+  ]
+}

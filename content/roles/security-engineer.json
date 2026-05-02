@@ -1,0 +1,126 @@
+{
+  "slug": "security-engineer",
+  "title": "Security Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:25:05.049Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Security Engineer Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a Security Engineer resume that gets past ATS and impresses hiring managers. See real bullet examples, key skills, and what to avoid.",
+  "h1": "Security Engineer Resume Guide: Stand Out to Hiring Managers",
+  "intro": "A strong Security Engineer resume shows that you can identify threats, patch vulnerabilities, and protect infrastructure—not just list certifications. This guide walks you through the exact skills, bullets, and structure that land interviews at tech companies and security firms.",
+  "audience": "Recent CompSci graduates, career switchers from systems administration or DevOps, and junior security professionals building their first resume.",
+  "topSkills": [
+    {
+      "name": "Vulnerability Assessment & Penetration Testing",
+      "why": "Hiring managers want to see you can actively hunt for security flaws, not just monitor them passively."
+    },
+    {
+      "name": "Network Security & Firewalls",
+      "why": "Core competency for most Security Engineer roles; shows you understand perimeter defense and traffic control."
+    },
+    {
+      "name": "SIEM Tools (Splunk, ELK, Azure Sentinel)",
+      "why": "Essential for threat detection and incident response; companies rely on these to centralize log analysis."
+    },
+    {
+      "name": "Cloud Security (AWS, Azure, GCP)",
+      "why": "Modern infrastructure is cloud-based; hiring managers expect you to secure it across providers."
+    },
+    {
+      "name": "Incident Response & Forensics",
+      "why": "Proves you can act fast when something breaks; separates defensive thinkers from hands-on troubleshooters."
+    },
+    {
+      "name": "Identity & Access Management (IAM)",
+      "why": "One of the most common attack vectors; experience managing authentication and permissions is highly valued."
+    },
+    {
+      "name": "Security Compliance & Standards (ISO 27001, NIST, SOC 2)",
+      "why": "Regulated industries need engineers who understand compliance requirements, not just technical controls."
+    },
+    {
+      "name": "Threat Modeling & Risk Assessment",
+      "why": "Shows you think strategically about security, not just react to alerts."
+    },
+    {
+      "name": "Scripting & Automation (Python, Bash, PowerShell)",
+      "why": "Modern security work requires automating repetitive tasks and building custom tooling."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Conducted security assessments and identified vulnerabilities.",
+      "strong": "Performed quarterly penetration tests across 15+ internal applications; identified and remediated 40+ medium-to-high severity vulnerabilities before production exposure.",
+      "lesson": "Adds scope (15+ apps, quarterly cadence), quantifies impact (40+ vulns), and shows follow-through (remediation completed)."
+    },
+    {
+      "weak": "Monitored security alerts and responded to incidents.",
+      "strong": "Investigated and resolved 100+ security alerts monthly via Splunk SIEM; reduced mean time to detection (MTTD) from 45 min to 12 min through improved alert tuning.",
+      "lesson": "Specific tool (Splunk), measurable improvement (33 min reduction), and proves you optimized the process, not just reacted."
+    },
+    {
+      "weak": "Implemented security controls and best practices.",
+      "strong": "Designed and deployed zero-trust IAM policy across 500+ employees; reduced unauthorized access attempts by 70% and achieved SOC 2 Type II compliance.",
+      "lesson": "Names the control (zero-trust IAM), quantifies users impacted (500+), shows business outcome (70% reduction, compliance achieved)."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certifications without context",
+      "fix": "Show what you *did* with those certs. Instead of 'CEH', write 'Leveraged CEH knowledge to design penetration testing framework used in quarterly audits.'"
+    },
+    {
+      "mistake": "Passive language ('responsible for', 'helped with')",
+      "fix": "Use action verbs like 'designed', 'deployed', 'hardened', 'identified', 'mitigated'. Security work is active; your resume should reflect that."
+    },
+    {
+      "mistake": "No mention of compliance or business impact",
+      "fix": "Security hiring managers care about reducing risk and meeting regulations. Include how your work helped the company stay compliant or avoid breaches."
+    },
+    {
+      "mistake": "Overloading with technical jargon without explaining impact",
+      "fix": "Technical depth is good, but pair it with outcomes. 'Configured iptables rules on 20 edge servers' is weaker than 'Hardened firewall rules on 20 edge servers, blocking 99% of malicious traffic.'"
+    }
+  ],
+  "structureTips": [
+    "Lead with hands-on technical experience, not general IT or infrastructure background. Security Engineer roles expect active offense or defense work, not passive admin tasks.",
+    "If you have certifications (CISSP, CEH, Security+), place them in a dedicated section near the top or alongside relevant experience—don't bury them in a generic 'Awards' section.",
+    "Group experience by security discipline (e.g., 'Incident Response', 'Cloud Security', 'Threat Intelligence') if you've worked across multiple areas; this helps ATS match keywords and shows breadth.",
+    "Include any open-source security tools you've built or contributed to (e.g., custom detection rules, Python automation scripts). This signals continuous learning and real-world problem-solving."
+  ],
+  "atsKeywords": [
+    "penetration testing",
+    "vulnerability assessment",
+    "SIEM",
+    "incident response",
+    "threat detection",
+    "firewall",
+    "zero-trust",
+    "cloud security",
+    "compliance",
+    "identity and access management"
+  ],
+  "salarySignal": "Entry-level Security Engineer roles in the US typically range from $75,000 to $110,000 annually; mid-level (3–5 years) often reach $110,000–$160,000, with significant variation by region, company size, and required certifications.",
+  "faq": [
+    {
+      "q": "Do I need certifications to land a Security Engineer job?",
+      "a": "Not always for entry-level, but they help. Security+, CEH, or OSCP are highly valued. If you don't have one yet, highlight practical penetration testing, vulnerability scanning, or incident response experience on your resume instead—and mention you're studying for a cert if true."
+    },
+    {
+      "q": "How do I show security impact on a resume if I worked at a small company?",
+      "a": "Focus on scope and outcomes relative to company size. Instead of 'managed 5,000 users', try 'secured infrastructure for 500 employees; reduced security incidents by 50% year-over-year.' Small wins scaled is still compelling."
+    },
+    {
+      "q": "Should I include bug bounty or CTF wins on my resume?",
+      "a": "Yes, if they're recent and impressive. Add a brief 'Security Research' section noting platforms (HackerOne, Bugcrowd), number of critical bugs found, or CTF rankings. This proves you stay sharp."
+    },
+    {
+      "q": "What if I'm transitioning from DevOps or systems admin to Security Engineer?",
+      "a": "Emphasize security work you already did: hardening infrastructure, patching systems, managing secrets/keys, implementing CI/CD security. Then explicitly list skills gaps you're closing (e.g., 'completing penetration testing training' or 'building SIEM expertise via Splunk labs')."
+    },
+    {
+      "q": "How much technical detail should I include in bullets?",
+      "a": "Include enough to prove competence (e.g., tool names, frameworks, attack types you've defended against), but always pair it with business impact. 'Deployed WAF rules for OWASP Top 10' is better than 'Configured web application firewall.'"
+    }
+  ]
+}

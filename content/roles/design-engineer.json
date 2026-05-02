@@ -1,0 +1,134 @@
+{
+  "slug": "design-engineer",
+  "title": "Design Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:06.282Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Design Engineer Resume: Templates & Examples 2026",
+  "metaDescription": "Build a standout Design Engineer resume with proven bullet examples, key skills, and ATS optimization tips from a resume coach.",
+  "h1": "Design Engineer Resume: What Actually Gets Hired",
+  "intro": "Design engineers sit at the intersection of creativity and engineering—and your resume needs to prove you can own both. Whether you're bridging CAD and prototyping or leading design-for-manufacturability reviews, we'll show you how to frame your work so hiring managers instantly see your impact.",
+  "audience": "Recent engineering grads, junior designers moving into formal engineering roles, and mechanical/electrical engineers shifting toward design-focused positions.",
+  "topSkills": [
+    {
+      "name": "CAD (SolidWorks, AutoCAD, Fusion 360)",
+      "why": "Design engineers live in CAD; hiring managers filter resumes by specific software competency, and these platforms dominate the job boards."
+    },
+    {
+      "name": "Design for Manufacturability (DFM)",
+      "why": "Shows you think beyond the pretty render—companies care that your designs can actually be built cost-effectively."
+    },
+    {
+      "name": "Prototyping & Iteration",
+      "why": "Demonstrates hands-on problem-solving and ability to validate designs in the real world, not just on screen."
+    },
+    {
+      "name": "GD&T (Geometric Dimensioning & Tolerancing)",
+      "why": "Precision-critical industries (automotive, aerospace, medical devices) require proven GD&T literacy for quality control."
+    },
+    {
+      "name": "FEA/Simulation (ANSYS, COMSOL, etc.)",
+      "why": "Engineering-heavy companies expect you to validate designs computationally before building, reducing time and cost."
+    },
+    {
+      "name": "Cross-functional Collaboration",
+      "why": "Design engineers work with manufacturing, supply chain, and product teams; showing collaboration chops signals you're team-ready."
+    },
+    {
+      "name": "Technical Documentation & Drawing Packages",
+      "why": "Your ability to communicate with precision—via datums, tolerances, and clear assembly drawings—directly impacts production quality."
+    },
+    {
+      "name": "Product Development Lifecycle (PDLC)",
+      "why": "Employers want evidence you understand concept-to-launch workflows and can navigate concurrent engineering."
+    },
+    {
+      "name": "Materials & Manufacturing Processes Knowledge",
+      "why": "Knowing when to use aluminum vs. steel, injection molding vs. machining, shows real-world engineering judgment."
+    },
+    {
+      "name": "Python or MATLAB Scripting",
+      "why": "Modern design engineers often automate repetitive CAD/analysis tasks; coding literacy is increasingly expected."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed parts using CAD and helped with manufacturing.",
+      "strong": "Designed and iterated 12+ housing assemblies in SolidWorks; worked with manufacturing to reduce injection-mold tooling cost by 22% through wall-thickness optimization and GD&T refinement.",
+      "lesson": "Specific software, quantified impact, and proof of cross-functional thinking (manufacturing collaboration) turn a vague bullet into a hiring signal."
+    },
+    {
+      "weak": "Performed FEA analysis on components.",
+      "strong": "Conducted FEA (ANSYS) on bracket assemblies under dynamic load; identified stress concentration and redesigned geometry, reducing peak stress by 35% and eliminating field failures in pilot production.",
+      "lesson": "Naming the tool, the problem you solved, and the measurable outcome (failure prevention) shows you're not just running software—you're driving real business results."
+    },
+    {
+      "weak": "Created technical drawings for production.",
+      "strong": "Generated comprehensive drawing packages (80+ detailed sheets) with GD&T callouts and assembly instructions for contract manufacturers; zero clarification requests from suppliers, enabling on-time launch.",
+      "lesson": "Specificity (number of drawings, precision standards) + business impact (supplier clarity, schedule success) proves your documentation rigor matters."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context",
+      "fix": "Don't just say 'proficient in SolidWorks'—always pair each tool with a concrete project or outcome (e.g., 'designed 3 injection-molded enclosures in SolidWorks, reducing cycle time to market by 6 weeks')."
+    },
+    {
+      "mistake": "Hiding your prototyping work",
+      "fix": "Hands-on making matters to design engineers: explicitly call out breadboarding, 3D printing, test rigs, or lab validation you led—it proves you can move from concept to hardware."
+    },
+    {
+      "mistake": "Skipping DFM or cost context",
+      "fix": "Design engineers who only optimize for performance, not manufacturability, look naive; always mention cost, material choice, or process constraints you balanced."
+    },
+    {
+      "mistake": "Using ambiguous timeline language",
+      "fix": "Avoid 'worked on design project'; instead say 'led design phase for [product] from concept through DVT (Design Verification Test), completing 3-month PDLC gate in 9 weeks.'"
+    },
+    {
+      "mistake": "Not mentioning standards or compliance",
+      "fix": "If you designed for ISO, UL, FCC, MIL, or other specs, call it out—regulatory-aware engineers are harder to find and command more respect."
+    }
+  ],
+  "structureTips": [
+    "Lead with your strongest CAD/simulation tool in the first bullet of your most relevant role—hiring managers skim resumes in seconds and need to see your primary skill immediately.",
+    "Create a dedicated 'Technical Skills' or 'Design Competencies' section listing CAD platforms, FEA tools, and manufacturing processes (injection molding, CNC machining, etc.)—ATS filters heavily on these exact phrases.",
+    "If you have hands-on prototyping or lab experience (3D printing, soldering, test assembly), showcase it early as a separate 'Hands-On Projects' or 'Capstone' section—many design engineers are purely CAD-bound, and practical skills stand out.",
+    "Put product launches or shipped designs high on your resume (top 3 bullets)—'brought to production' or 'launched Q3 2024' signals real business impact better than internal project work."
+  ],
+  "atsKeywords": [
+    "CAD design",
+    "SolidWorks",
+    "FEA analysis",
+    "Design for Manufacturability",
+    "GD&T",
+    "technical drawings",
+    "product development",
+    "prototyping",
+    "ANSYS",
+    "manufacturing engineering"
+  ],
+  "salarySignal": "Entry-level Design Engineers (0–2 years) in the US typically range from $55K–$70K; mid-level ($70K–$95K) is common for those with 3–6 years of shipped products or specialized skills like aerospace GD&T.",
+  "faq": [
+    {
+      "q": "What's the difference between Design Engineer and Mechanical Engineer on a resume?",
+      "a": "Design Engineers emphasize the creative, iterative side—CAD, prototyping, design optimization, and user-facing features. Mechanical Engineers often highlight systems analysis, thermodynamics, and structural theory. Lead with your role title as the company uses it; if you're a 'Design Engineer,' front-load CAD, DFM, and prototyping bullets."
+    },
+    {
+      "q": "Should I put my CAD skills in a technical section or weave them into my bullets?",
+      "a": "Do both. Use a dedicated 'Technical Skills' section to list every platform you know (SolidWorks, Fusion 360, ANSYS, etc.) so ATS catches your keywords; then prove proficiency by naming the specific tool in your strongest project bullets."
+    },
+    {
+      "q": "How do I quantify design work when there's no obvious revenue or cost savings?",
+      "a": "Focus on time saved (faster iteration cycles, reduced design-cycle time), quality improvements (fewer revisions, zero field failures), or process efficiency (CAD library created, design standards documented). If you improved an internal benchmark—cycle time, prototype cost, supplier lead time—use that."
+    },
+    {
+      "q": "Is hands-on prototyping experience (3D printing, electronics breadboarding) important for a Design Engineer resume?",
+      "a": "Yes. It's not required, but it significantly differentiates you from pure CAD jockeys. If you've built test rigs, validated designs in hardware, or iterated on printed prototypes, call it out explicitly—employers love engineers who can translate digital designs into physical reality."
+    },
+    {
+      "q": "What if I'm switching from a pure mechanical engineering background to Design Engineer?",
+      "a": "Reframe relevant projects around design outputs: highlight any product designs you led, showcase CAD work prominently, and emphasize iterative design decisions and manufacturability thinking. Consider adding a 'Design-Focused Projects' section if your full work history is more analysis-heavy."
+    }
+  ]
+}

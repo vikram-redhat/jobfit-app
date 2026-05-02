@@ -1,0 +1,136 @@
+{
+  "slug": "product-designer",
+  "title": "Product Designer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:27:47.135Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Product Designer Resume: Tips & Examples for 2026",
+  "metaDescription": "Land product design roles with a resume that showcases your design thinking and shipped work. See what hiring managers want to see.",
+  "h1": "How to Write a Product Designer Resume That Gets You Interviews",
+  "intro": "Your product designer resume needs to prove you can solve real problems—not just make things look pretty. This guide walks you through the skills, bullets, and structure that actually land interviews at tech companies, startups, and design-forward brands.",
+  "audience": "Recent design grads, career switchers from UX/UI or related fields, and mid-level designers looking to level up their resume game.",
+  "topSkills": [
+    {
+      "name": "User Research & Testing",
+      "why": "Hiring managers want to see you validate decisions with real user data, not gut feelings."
+    },
+    {
+      "name": "Figma (or Design Tool Proficiency)",
+      "why": "Most product teams use Figma as their standard; naming it signals you're current and production-ready."
+    },
+    {
+      "name": "Prototyping & Wireframing",
+      "why": "Moving from static mockups to interactive prototypes is what separates product designers from graphic designers."
+    },
+    {
+      "name": "Design Systems & Component Libraries",
+      "why": "Scaling design across teams requires design system thinking; this signals maturity and cross-functional awareness."
+    },
+    {
+      "name": "Product Strategy & Roadmap",
+      "why": "Product designers influence direction, not just execution—showing strategic thinking separates you from junior roles."
+    },
+    {
+      "name": "Collaboration & Cross-Functional Leadership",
+      "why": "You'll partner with engineers, PMs, and stakeholders daily; demonstrating influence and communication matters."
+    },
+    {
+      "name": "Analytics & Data Interpretation",
+      "why": "Modern product designers make data-informed decisions; comfort with metrics and dashboards is expected."
+    },
+    {
+      "name": "Accessibility & Inclusive Design",
+      "why": "Responsible product design includes WCAG compliance and designing for diverse users—it's table stakes now."
+    },
+    {
+      "name": "Mobile & Responsive Design",
+      "why": "Most products live on multiple devices; showing you think across platforms proves you understand real-world constraints."
+    },
+    {
+      "name": "Stakeholder Communication & Presenting Design",
+      "why": "A great design that can't be sold to leadership or engineers isn't shipped; storytelling is a critical skill."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed a new checkout flow using Figma and conducted user testing with customers.",
+      "strong": "Redesigned checkout flow through 4 rounds of user testing (n=24), reducing cart abandonment by 18% and increasing average order value by $12.",
+      "lesson": "Quantifying the impact (abandonment %, revenue lift) and showing rigor (4 rounds, 24 users) turns a vague task into proof of value."
+    },
+    {
+      "weak": "Led design for mobile app and worked with engineering team to ship features.",
+      "strong": "Led end-to-end design of mobile onboarding experience; shipped within 8 weeks across iOS/Android, reaching 2.3M users in beta with 72% completion rate (vs. 48% prior flow).",
+      "lesson": "Adding scope (iOS/Android), timeline, scale (2.3M users), and the specific metric that matters (completion rate) shows you ship real products."
+    },
+    {
+      "weak": "Created design system documentation and helped other designers use components.",
+      "strong": "Built and maintained design system for 3-person design team + 8 engineers; documented 40+ components in Figma, reducing design-to-dev handoff time from 5 days to 1 day.",
+      "lesson": "Naming the people impacted, the deliverable (40+ components), and the concrete time savings shows scope and cross-functional leverage."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context (Figma, Adobe XD, Sketch...)",
+      "fix": "Only list tools you're actually fluent in; instead of a tool dump, show what you built with them (e.g., 'Prototyped interactive mobile flows in Figma')."
+    },
+    {
+      "mistake": "Focusing on design output instead of business impact",
+      "fix": "Every bullet should answer 'so what?'—did it increase engagement, reduce churn, ship faster, or save costs? Add a number."
+    },
+    {
+      "mistake": "Not mentioning user research or validation",
+      "fix": "Even if research wasn't your job, say how you validated decisions: 'Validated copy changes through A/B test,' 'incorporated feedback from 12 user interviews.'"
+    },
+    {
+      "mistake": "Treating portfolio and resume as the same thing",
+      "fix": "Your resume should tease the story; the portfolio shows the depth. On your resume, link to work samples, but focus on outcomes, not process."
+    },
+    {
+      "mistake": "Downplaying collaboration and cross-functional impact",
+      "fix": "Use language that shows leadership without being a manager: 'partnered with,' 'led design for,' 'influenced roadmap,' 'drove alignment' across teams."
+    }
+  ],
+  "structureTips": [
+    "Start with a 2-3 line professional summary that signals your design philosophy + the types of products you've shipped (e.g., 'Product designer with 4 years building mobile-first consumer apps. Specializes in user research, design systems, and shipping products that scale.').",
+    "Lead your experience section with your most recent or most impressive product win; use the first bullet of each role to grab attention with a measurable outcome.",
+    "Group skills into categories (Tools & Platforms, Design Disciplines, Methodologies, Soft Skills) rather than a flat list; this helps both humans and ATS scanners.",
+    "Include a 'Projects & Case Studies' section if you have 1–3 strong portfolio pieces; link directly to Figma, case study blogs, or live products so hiring managers can see your work without asking."
+  ],
+  "atsKeywords": [
+    "User Research",
+    "Figma",
+    "Product Design",
+    "Wireframing",
+    "Prototyping",
+    "Design Systems",
+    "UI/UX Design",
+    "Mobile Design",
+    "Interaction Design",
+    "Accessibility",
+    "Cross-functional collaboration",
+    "A/B Testing"
+  ],
+  "salarySignal": "Entry-level product designer salaries in the US typically range from $70K to $95K; mid-level (3–5 years) ranges from $100K to $150K; senior roles often exceed $150K depending on company stage and location.",
+  "faq": [
+    {
+      "q": "Should I include my full portfolio or just link to it on my resume?",
+      "a": "Link to 1–3 of your best case studies on your resume (or a portfolio site), but don't embed screenshots inline; ATS systems may skip images. Mention the link in a 'Portfolio / Case Studies' section and be ready to walk through your work in conversation."
+    },
+    {
+      "q": "How do I show product impact if I worked at an early-stage startup with limited analytics?",
+      "a": "Focus on user-level outcomes: feedback from interviews, beta tester retention, usability test improvements, or qualitative wins ('reduced support tickets about X by moving it to Y'). If data is truly sparse, highlight process rigor (rounds of testing, stakeholder alignment) and the ship itself."
+    },
+    {
+      "q": "Is it okay to mention tools like Adobe XD or Sketch if I haven't used Figma?",
+      "a": "Absolutely—many companies still use other tools. List what you know, but if Figma is a must-have for the role, note that you're familiar with rapid design handoff tools and can ramp on Figma quickly."
+    },
+    {
+      "q": "How should I frame design work I did as a freelancer or in school projects?",
+      "a": "Treat them like real projects: name the client/product, the problem you solved, and the outcome (even if it's 'increased user task completion from 40% to 65% in usability test'). Hiring managers respect well-executed small projects over half-baked big ones."
+    },
+    {
+      "q": "Should I include accessibility or inclusive design explicitly on my resume?",
+      "a": "Yes, especially in your skills section or as a bullet point if you've led accessibility improvements (e.g., 'Designed and tested mobile app for WCAG 2.1 AA compliance'). It's increasingly a hiring filter for responsible companies."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "product-manager",
+  "title": "Product Manager",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:26:27.474Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Product Manager Resume: Tips & Examples for Tech Roles",
+  "metaDescription": "Write a standout Product Manager resume with real examples, key skills, and ATS keywords. Land interviews at top tech companies.",
+  "h1": "How to Write a Product Manager Resume That Gets Interviews",
+  "intro": "Product Manager roles are competitive, and your resume needs to prove you can ship products, drive strategy, and lead cross-functional teams. We'll show you exactly how to position your skills and metrics so hiring managers see you as a force, not just a candidate.",
+  "audience": "Recent grads pivoting into PM, career switchers from engineering or design, and early-career PMs looking to level up to mid-market or Series B roles.",
+  "topSkills": [
+    {
+      "name": "Product Strategy & Roadmap Development",
+      "why": "Hiring managers want to see you can think long-term, align stakeholders, and articulate why features matter."
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "why": "PMs live by metrics; you need to show you can interpret analytics, A/B tests, and user research to inform decisions."
+    },
+    {
+      "name": "Cross-Functional Leadership",
+      "why": "You'll work with engineers, designers, marketers, and sales—proving you can coordinate without authority is critical."
+    },
+    {
+      "name": "User Research & Customer Discovery",
+      "why": "Hiring teams want evidence you talk to users, synthesize feedback, and use it to shape the product."
+    },
+    {
+      "name": "Go-to-Market Strategy",
+      "why": "Shipping a feature is half the battle; showing you can launch, iterate, and acquire users signals business acumen."
+    },
+    {
+      "name": "Competitive Analysis",
+      "why": "PMs must understand the market landscape and position products against competitors strategically."
+    },
+    {
+      "name": "Agile & Scrum Methodologies",
+      "why": "Most tech teams use Agile; fluency here shows you can work in their development rhythm."
+    },
+    {
+      "name": "Product Analytics & Metrics",
+      "why": "You should be comfortable with tools like Mixpanel, Amplitude, or Google Analytics to track product health."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on the mobile app and improved user engagement.",
+      "strong": "Led redesign of mobile onboarding flow; increased 30-day retention by 18% and reduced churn by 12%, impacting ~50K active users.",
+      "lesson": "Adding specific metrics (retention %, user count) and naming the outcome transforms vague work into proof of impact."
+    },
+    {
+      "weak": "Managed product roadmap and coordinated with engineering and design teams.",
+      "strong": "Owned roadmap for payments module across 3 quarters; prioritized features based on customer discovery interviews (25+ conducted) and data analysis, shipped 8 features with 95% on-time delivery and zero critical bugs.",
+      "lesson": "Naming the scope, the process (customer interviews), the output (features shipped), and the quality signal (on-time, zero bugs) shows leadership and rigor."
+    },
+    {
+      "weak": "Analyzed user feedback and made product improvements.",
+      "strong": "Analyzed NPS data and conducted 40+ qualitative interviews revealing friction in account creation; iterated on UX spec with design team, launching simplified flow that reduced friction by 3 minutes, decreasing abandonment by 24%.",
+      "lesson": "Showing the research method, the insight, the cross-functional action, and the business result (abandonment drop) is how PMs prove they move the needle."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing features shipped without explaining why or the outcome",
+      "fix": "Always pair a shipped feature with the hypothesis, the user problem it solved, and the metric that changed (engagement, revenue, retention, etc.)."
+    },
+    {
+      "mistake": "Burying customer interaction under vague 'stakeholder management'",
+      "fix": "Call out specific customer discovery efforts (user interviews, surveys, support channel monitoring) as a core responsibility—it's a PM superpower."
+    },
+    {
+      "mistake": "Overstating scope if you were in a supporting PM or associate PM role",
+      "fix": "Be honest about your level, but highlight the parts you owned end-to-end; hiring managers respect clarity over inflated titles."
+    },
+    {
+      "mistake": "Forgetting to mention the tools and frameworks you actually used",
+      "fix": "Reference specific tools (Figma, Jira, Amplitude, etc.) and frameworks (OKRs, RICE prioritization, Lean Canvas) you've worked with—they're ATS keywords."
+    },
+    {
+      "mistake": "Writing product bullets that sound like engineering or design work",
+      "fix": "Lead with the problem, strategy, and business outcome—not the technical implementation or design details. That's the PM lens."
+    }
+  ],
+  "structureTips": [
+    "Put a brief professional summary or headline at the top that signals your PM level and strongest domain (e.g., 'B2B SaaS Product Manager | Mobile Growth | Series A–C experience').",
+    "Lead your experience section with the product outcome and metric first, then describe the process (customer research, prioritization, cross-functional work) so hiring managers see impact immediately.",
+    "Group projects or initiatives by product area or cohort if you've worked on many small features; a 4–5 sentence narrative per product cycle is cleaner than a bullet list of 15 tiny features.",
+    "Create a dedicated 'Skills' or 'Tools' section listing PM-specific platforms (Jira, Mixpanel, Figma, Notion, etc.) and methodologies (OKRs, Lean, Agile) so ATS and recruiters can find them."
+  ],
+  "atsKeywords": [
+    "Product Strategy",
+    "Cross-Functional Leadership",
+    "User Research",
+    "Go-to-Market Strategy",
+    "Product Roadmap",
+    "Data-Driven Decision Making",
+    "A/B Testing",
+    "Product Analytics",
+    "OKRs",
+    "Customer Discovery"
+  ],
+  "salarySignal": "Entry-level Product Manager roles in the US typically start at $120K–$160K (often with equity); mid-market PMs ($160K–$220K); senior PMs and above ($220K–$350K+). Salary varies widely by region (SF and NYC tend higher) and company stage (startups offer more equity, big tech more cash).",
+  "faq": [
+    {
+      "q": "What if I don't have a PM title but have done PM work?",
+      "a": "Use a role title that reflects your closest function (e.g., 'Product Associate,' 'Senior Software Engineer – Product,' 'Founder') and write your bullets as PM work (strategy, roadmap, user interviews, metrics). Hiring managers care about what you shipped and the process, not just the title."
+    },
+    {
+      "q": "Should I include a portfolio or product case study on my resume?",
+      "a": "No—resumes are 1 page (or 1.5 max for mid-level). Instead, link to a portfolio or deck in your contact info or a cover letter, and let the resume bullets hint at the depth. Save the case study for an interview."
+    },
+    {
+      "q": "How do I quantify impact if my product was internal or B2B?",
+      "a": "Use the metrics that mattered to your org: employee adoption %, time saved, cost reduced, onboarding time, bug reduction, NPS, feature usage, or revenue influenced. If the number is confidential, describe the relative impact ('doubled', 'reduced by half', 'increased 3x')."
+    },
+    {
+      "q": "What's the right way to mention failed products or deprioritized features?",
+      "a": "Skip them unless you learned something critical (e.g., 'Led discovery for X feature; validated low product-market fit, pivoted roadmap to Y, which shipped and drove 30% growth'). Failure is OK if the narrative shows learning and course correction."
+    },
+    {
+      "q": "How much technical depth should I show as a non-engineer PM?",
+      "a": "Don't pretend to be an engineer, but show you understand the tech stack and constraints. Mention architectures or technical trade-offs you learned to navigate, and list tools you use (SQL, analytics platforms, prototyping software) honestly—no exaggeration."
+    }
+  ]
+}

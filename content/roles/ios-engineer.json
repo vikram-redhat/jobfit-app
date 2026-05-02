@@ -1,0 +1,134 @@
+{
+  "slug": "ios-engineer",
+  "title": "iOS Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:38.796Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "iOS Engineer Resume Guide | Build a Winning Application",
+  "metaDescription": "Land your iOS Engineer role with a resume that highlights Swift, Xcode, and app deployment. See sample bullets and ATS keywords that work.",
+  "h1": "iOS Engineer Resume: How to Stand Out to Hiring Managers",
+  "intro": "iOS engineering roles go to candidates who can prove they've shipped features users love—not just written code. This guide shows you how to build a resume that gets past ATS systems and impresses technical interviewers.",
+  "audience": "Recent computer science grads, mid-level iOS developers looking to switch companies, and engineers transitioning from Android or web to native iOS development.",
+  "topSkills": [
+    {
+      "name": "Swift",
+      "why": "Nearly every iOS job posting lists Swift as a core requirement; it's the modern standard and shows you can write clean, contemporary iOS code."
+    },
+    {
+      "name": "UIKit / SwiftUI",
+      "why": "Hiring managers need to know you can build user interfaces—UIKit for legacy codebases and SwiftUI for modern greenfield projects."
+    },
+    {
+      "name": "Xcode",
+      "why": "The IDE is non-negotiable; it signals you can navigate builds, debug, and profile apps without handholding."
+    },
+    {
+      "name": "REST APIs & JSON",
+      "why": "Most iOS apps are client-side; demonstrating API integration experience shows you understand the full stack."
+    },
+    {
+      "name": "Core Data / SQLite",
+      "why": "Local data persistence is a foundation skill; companies need engineers who can design and query databases on-device."
+    },
+    {
+      "name": "Git & Version Control",
+      "why": "Teams expect you to collaborate via branches, merges, and pull requests without friction."
+    },
+    {
+      "name": "Networking & Concurrency",
+      "why": "URLSession, GCD, Async/await—recruiters want evidence you can handle asynchronous tasks and network calls safely."
+    },
+    {
+      "name": "TestFlight & App Store Deployment",
+      "why": "Shipping to production is a differentiator; mention experience with release builds, versioning, and app store review cycles."
+    },
+    {
+      "name": "MVVM / MVC Architecture",
+      "why": "Code structure matters; showing you understand design patterns demonstrates maturity and maintainability mindset."
+    },
+    {
+      "name": "Debugging & Performance Optimization",
+      "why": "Instruments, profiling, and crash reporting experience shows you care about app quality and user experience beyond feature velocity."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Developed iOS app features using Swift and Xcode",
+      "strong": "Built 4 major product features (payment checkout, push notifications, offline sync) in Swift, reducing app crashes by 35% through systematic memory profiling and Core Data optimization",
+      "lesson": "Add specificity (which features), quantify impact (crash reduction %), and mention tools/frameworks to show depth and measurable outcomes."
+    },
+    {
+      "weak": "Collaborated with product and design teams to deliver app updates",
+      "strong": "Partnered with product and design to ship 12 monthly releases; coordinated with QA to reduce post-launch bugs by 40% via automated unit and UI tests covering 65% of codebase",
+      "lesson": "Replace 'collaborated' with concrete shipping velocity, tie collaboration to quality metrics, and call out testing practices that prove reliability."
+    },
+    {
+      "weak": "Improved app performance and fixed bugs",
+      "strong": "Refactored image caching layer using NSCache and lazy loading, cutting app launch time from 8s to 3.2s; diagnosed and resolved 18 high-priority bugs in UIKit stack views via Xcode debugger",
+      "lesson": "Name specific bottlenecks and tools, show before/after numbers, and quantify bug fixes to demonstrate problem-solving rigor."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing languages like 'Objective-C' without context if you only learned it in school",
+      "fix": "Only include Objective-C if you've shipped code or contributed to a living codebase; otherwise, focus on Swift and modern frameworks."
+    },
+    {
+      "mistake": "Forgetting to mention app release history or metrics",
+      "fix": "Lead with shipped projects: include app name, download count, or user base (e.g., '200K+ downloads on App Store') to prove real-world impact."
+    },
+    {
+      "mistake": "Vague descriptions of 'building apps' without naming architecture or libraries",
+      "fix": "Be explicit: 'Architected music streaming feature using MVVM, URLSession, and Combine' beats 'developed app features.'"
+    },
+    {
+      "mistake": "Omitting testing and CI/CD experience",
+      "fix": "Call out unit testing, integration testing, and CI/CD pipelines (GitHub Actions, Fastlane, etc.) to show you ship quality code consistently."
+    },
+    {
+      "mistake": "Not mentioning app store deployment or release processes",
+      "fix": "Include TestFlight beta testing, app signing, versioning strategy, and app store submission experience—it's a real skill that separates juniors from pros."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with shipped iOS projects or products; put app name, role, and core impact in the first line, then drill into features and metrics.",
+    "Group technical skills into tiers: Proficient (Swift, UIKit/SwiftUI, Xcode) separate from Familiar (Objective-C, Kotlin) so hiring managers immediately see depth.",
+    "Highlight testing, debugging, and performance work in bullets, not hidden in a catch-all; these signal engineering maturity and reduce hiring risk.",
+    "If you have open-source contributions or a portfolio of shipped apps, link them prominently or use a 'Projects' section before Experience to showcase live proof."
+  ],
+  "atsKeywords": [
+    "Swift",
+    "UIKit",
+    "SwiftUI",
+    "Xcode",
+    "iOS development",
+    "App Store deployment",
+    "Core Data",
+    "REST API integration",
+    "MVVM architecture",
+    "Async/await"
+  ],
+  "salarySignal": "Entry-level iOS Engineers in the US typically earn $100K–$130K in 2026; mid-level roles range from $130K–$180K, with senior positions exceeding $180K at top tech companies.",
+  "faq": [
+    {
+      "q": "Should I put Objective-C on my iOS Engineer resume if I learned it years ago?",
+      "a": "Only if you've shipped production code with it or worked on a live legacy app. Otherwise, lead with Swift and modern frameworks to show you're current. If you do mention it, note the year or context (e.g., 'Maintained Objective-C codebase for 2 years before migration to Swift')."
+    },
+    {
+      "q": "How do I talk about an app I built solo or in a bootcamp without shipping numbers?",
+      "a": "Focus on features and technical depth: 'Built note-taking app with SwiftUI, Core Data persistence, CloudKit sync, and 40+ unit tests.' Link the GitHub repo or App Store link so reviewers can see it live."
+    },
+    {
+      "q": "Do I need to mention both UIKit and SwiftUI, or just SwiftUI?",
+      "a": "Mention both if you've used both. Many codebases still use UIKit; newer ones use SwiftUI. Saying you're proficient in both makes you more hireable. If you've only used one, be honest—but prioritize SwiftUI for modern roles."
+    },
+    {
+      "q": "How important is open-source contribution for an iOS Engineer resume?",
+      "a": "It's a nice-to-have, not required. If you have a solid shipped product or strong portfolio, prioritize that. Open-source shows initiative and community engagement, so include it if you have 3+ meaningful PRs or an active repo."
+    },
+    {
+      "q": "What's the best way to show app performance improvements on my resume?",
+      "a": "Use before-and-after metrics: 'Optimized image loading with NSCache, reducing app launch time from 8s to 3.2s' or 'Eliminated memory leaks in background sync, cutting app crashes by 35%.' Mention the tool (Instruments, Xcode profiler) to prove you measured it."
+    }
+  ]
+}

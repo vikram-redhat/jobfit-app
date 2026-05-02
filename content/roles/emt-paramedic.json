@@ -1,0 +1,130 @@
+{
+  "slug": "emt-paramedic",
+  "title": "EMT / Paramedic",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:37:11.870Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "EMT & Paramedic Resume Guide: Skills & Examples",
+  "metaDescription": "Build a standout EMT/Paramedic resume with proven bullet formats, ATS keywords, and hiring manager tips for 2026.",
+  "h1": "EMT & Paramedic Resume: What Hiring Managers Really Want",
+  "intro": "Emergency Medical Services hiring managers scan resumes fast—they're looking for proof you can handle high-pressure calls, manage patient care, and follow protocols flawlessly. Your resume needs to show clinical competence, response metrics, and your certifications upfront. Let's make yours impossible to overlook.",
+  "audience": "First-time EMT/Paramedic applicants, career switchers from nursing or military medicine backgrounds, and paramedics seeking station transfers or advancement.",
+  "topSkills": [
+    {
+      "name": "Advanced Life Support (ALS) & BLS Certification",
+      "why": "Hiring managers filter for active, current certifications first—missing these eliminates you before they read anything else."
+    },
+    {
+      "name": "Patient Assessment & Triage",
+      "why": "Demonstrates your core clinical skill and ability to prioritize care under pressure, which is what EMS operations depend on."
+    },
+    {
+      "name": "Emergency Response & Dispatch Protocols",
+      "why": "Shows familiarity with real-world call workflows, communication standards, and compliance with regional EMS guidelines."
+    },
+    {
+      "name": "Trauma & Critical Care Management",
+      "why": "Paramedics and advanced EMTs must prove hands-on experience with severe injuries, cardiac events, and multi-patient scenarios."
+    },
+    {
+      "name": "Vehicle Operation & Scene Safety",
+      "why": "Ability to safely operate ambulances and secure scenes is non-negotiable and often verified during background checks."
+    },
+    {
+      "name": "Electronic Patient Care Reporting (ePCR/eCall)",
+      "why": "Most EMS agencies now use digital documentation systems; familiarity signals you won't slow down your crew."
+    },
+    {
+      "name": "Team Communication & Crew Coordination",
+      "why": "EMS is inherently team-based; hiring managers want evidence you communicate clearly with paramedics, nurses, and hospital staff."
+    },
+    {
+      "name": "CPR & Defibrillation (ACLS/PALS)",
+      "why": "These credentials are usually mandatory; listing them separately reinforces you're fully prepared for cardiac emergencies."
+    },
+    {
+      "name": "Physical Fitness & Endurance",
+      "why": "Implicit in EMS but worth mentioning if you've passed fitness tests, maintained certifications, or worked high-volume stations."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Responded to emergency calls and provided patient care.",
+      "strong": "Responded to 40–60 emergency calls monthly across urban and suburban zones; achieved 95%+ on-scene arrival compliance and zero adverse incident reports.",
+      "lesson": "Adding call volume, specificity (urban/suburban), and a measurable outcome (arrival compliance, safety record) transforms a vague duty into proof of competence and reliability."
+    },
+    {
+      "weak": "Managed trauma and cardiac patients.",
+      "strong": "Assessed and stabilized 150+ trauma and cardiac patients; initiated IV lines, administered medications per ALS protocols, and maintained detailed ePCR documentation with 99% accuracy.",
+      "lesson": "Quantifying patient encounters, naming specific clinical procedures, and referencing compliance metrics (accuracy, protocol adherence) show depth and accountability."
+    },
+    {
+      "weak": "Trained new EMTs and maintained equipment.",
+      "strong": "Mentored 8 newly hired EMTs in field protocols and patient care standards; coordinated monthly equipment checks and supply inventory, ensuring 100% station readiness before each shift.",
+      "lesson": "Naming specific mentee counts, listing tangible responsibilities (inventory, checks), and proving outcomes (readiness, compliance) position you as a leader, not just a responder."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing expired or pending certifications without a renewal date",
+      "fix": "Always state expiration or expected completion date for BLS, ALS, PALS, ACLS, and any state EMT license—hiring managers reject incomplete credentials immediately."
+    },
+    {
+      "mistake": "Omitting call volume or response metrics entirely",
+      "fix": "Include annual or monthly call numbers, response times, or transport volumes; these are the language EMS hiring managers speak and expect to see."
+    },
+    {
+      "mistake": "Glossing over ePCR/documentation experience",
+      "fix": "Name the specific systems you've used (e.g., Zoll, Medic, ImageTrend) and your accuracy rate—agencies are increasingly IT-dependent and want to know you won't be a bottleneck."
+    },
+    {
+      "mistake": "Burying scene safety or vehicle operation details",
+      "fix": "Call out vehicle certification (Class B or higher ambulance license), scene safety protocols, and any hazmat or extrication training—these are non-negotiable in many markets."
+    },
+    {
+      "mistake": "Forgetting to mention high-volume or challenging station assignments",
+      "fix": "If you worked a busy urban station, trauma center district, or rural outreach area, name it—hiring managers value experience in specific call types and environments."
+    }
+  ],
+  "structureTips": [
+    "Lead with a one-line summary or tagline: 'Certified Paramedic | BLS/ALS/PALS | 5+ years high-volume EMS' to grab attention before they scan deeper.",
+    "Place Certifications & Licenses in a dedicated section near the top, with expiration dates clearly formatted—treat it like your headline, not a footnote.",
+    "Order work experience by call volume and complexity, not just chronology—highlight your busiest, most challenging station first to signal capability.",
+    "In the skills section, cluster clinical skills (patient assessment, trauma care, medication admin) separately from operational skills (dispatch, ePCR systems, vehicle operation) so hiring managers can quickly match your strengths to their needs."
+  ],
+  "atsKeywords": [
+    "Advanced Life Support",
+    "BLS CPR Certification",
+    "Emergency Medical Technician",
+    "Patient Assessment",
+    "Trauma Management",
+    "ACLS PALS Certification",
+    "Electronic Patient Care Reporting",
+    "Emergency Response Protocols",
+    "Ambulance Operation",
+    "Scene Safety"
+  ],
+  "salarySignal": "Entry-level EMT salaries in the US typically range from $28,000 to $35,000 annually; Paramedics earn $38,000 to $55,000+, with higher pay in urban centers and for 24-hour shift schedules.",
+  "faq": [
+    {
+      "q": "Should I list every single call or patient encounter I've handled?",
+      "a": "No—instead, summarize call volume monthly or annually (e.g., '45 calls/month') and break out high-impact cases (trauma saves, cardiac interventions, multi-patient incidents) by type. This shows breadth and depth without overwhelming."
+    },
+    {
+      "q": "How do I explain a gap in my EMT certification?",
+      "a": "Address it upfront in your cover letter, not your resume. If renewing soon, state 'ACLS Certification in progress, expected [month/year].' Hiring managers are lenient on gaps if you're actively recertifying."
+    },
+    {
+      "q": "Do I need to mention CPR/BLS if I'm applying as a Paramedic?",
+      "a": "Yes—list it separately with expiration date. Even though ALS implies BLS, explicitly calling out CPR reassures hiring managers you're current on all foundational credentials."
+    },
+    {
+      "q": "What if I've never worked a high-volume station?",
+      "a": "Focus on call complexity and patient outcomes instead of volume—highlight critical decisions, difficult scenes you've managed, or specialized training (pediatrics, cardiac, rescue). Quality beats quantity."
+    },
+    {
+      "q": "Should I include volunteer or student EMS experience?",
+      "a": "Absolutely, especially if you're early-career or transitioning. Label it clearly ('Volunteer Paramedic, [Station Name]') and emphasize the same metrics (calls handled, certifications earned, protocols practiced) as paid roles."
+    }
+  ]
+}

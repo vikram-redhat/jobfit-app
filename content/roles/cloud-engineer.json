@@ -1,0 +1,130 @@
+{
+  "slug": "cloud-engineer",
+  "title": "Cloud Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:30:19.913Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Cloud Engineer Resume: Skills & Templates for 2026",
+  "metaDescription": "Write a standout cloud engineer resume. Learn which skills matter most, see strong bullet examples, and avoid common mistakes.",
+  "h1": "Cloud Engineer Resume Guide: How to Land Your Next Role",
+  "intro": "Cloud engineers are in high demand, but a generic resume won't cut it. This guide shows you exactly what hiring managers look for—from the technical skills section to quantified impact bullets—so you can stand out from other candidates and get the interview.",
+  "audience": "Recent grads with cloud certifications, backend engineers moving into cloud infrastructure, and career switchers with DevOps or sysadmin backgrounds.",
+  "topSkills": [
+    {
+      "name": "AWS (EC2, S3, Lambda, RDS)",
+      "why": "AWS dominates the cloud market; most job postings expect hands-on experience with at least three core services."
+    },
+    {
+      "name": "Infrastructure as Code (Terraform, CloudFormation)",
+      "why": "Hiring managers want proof you can automate and version-control your infrastructure, not click around a console."
+    },
+    {
+      "name": "Kubernetes (K8s) & Container Orchestration",
+      "why": "Containerized deployments are the industry standard; Kubernetes experience signals you understand modern DevOps."
+    },
+    {
+      "name": "CI/CD Pipelines (Jenkins, GitLab CI, GitHub Actions)",
+      "why": "Cloud teams need engineers who can set up automated testing and deployment workflows to move fast."
+    },
+    {
+      "name": "Azure or Google Cloud Platform",
+      "why": "Multi-cloud skills make you more versatile; many enterprises use more than one cloud provider."
+    },
+    {
+      "name": "Linux & Shell Scripting (Bash)",
+      "why": "Bash scripting and Linux command-line fluency are non-negotiable for troubleshooting and automation."
+    },
+    {
+      "name": "Monitoring & Logging (CloudWatch, Datadog, ELK Stack)",
+      "why": "Cloud systems need visibility; hiring managers expect you to set up alerts and parse logs effectively."
+    },
+    {
+      "name": "Networking & Security (VPC, IAM, SSL/TLS)",
+      "why": "Securing cloud resources and managing network architecture are core responsibilities that must be on your resume."
+    },
+    {
+      "name": "Python or Go for Automation",
+      "why": "Many cloud automation tools and scripts are written in Python or Go; coding ability sets senior candidates apart."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked with AWS to improve system performance and reliability.",
+      "strong": "Migrated 12 legacy on-premises databases to AWS RDS, reducing infrastructure costs by 35% and cutting failover time from 2 hours to 15 minutes.",
+      "lesson": "The strong version adds specifics (RDS, legacy databases, exact percentages) and ties the work to business impact—not just vague 'improvement.'"
+    },
+    {
+      "weak": "Set up CI/CD pipeline for the development team.",
+      "strong": "Designed and deployed Jenkins CI/CD pipeline for microservices team, reducing build time from 45 to 12 minutes and enabling 10+ deployments per day.",
+      "lesson": "Quantified the before-and-after on build time and deployment frequency, showing direct velocity gains the business cares about."
+    },
+    {
+      "weak": "Managed cloud infrastructure using Terraform.",
+      "strong": "Provisioned and maintained 200+ EC2 instances and RDS clusters via Terraform, reducing infrastructure provisioning time by 70% and cutting manual configuration errors to near zero.",
+      "lesson": "Named the scale (200+ instances), the tool (Terraform), the metric (70% time savings), and the outcome (error reduction)—all concrete."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without proof of use",
+      "fix": "Every technology you mention should have at least one bullet showing how you actually used it in production or a real project."
+    },
+    {
+      "mistake": "Forgetting to quantify infrastructure improvements",
+      "fix": "Include metrics like cost savings, uptime improvements, latency reductions, or deployment frequency—these are the language hiring managers speak."
+    },
+    {
+      "mistake": "Burying certifications or cloud credentials",
+      "fix": "Put AWS, Azure, or GCP certifications prominently near the top or in a dedicated section; recruiters filter by cert status first."
+    },
+    {
+      "mistake": "Focusing on tools instead of outcomes",
+      "fix": "Don't just say 'configured VPC and security groups'—explain what that enabled (e.g., multi-region failover, zero-trust access, 99.99% uptime)."
+    },
+    {
+      "mistake": "Omitting incident response or troubleshooting work",
+      "fix": "Add a bullet about a production incident you resolved; cloud engineers are on-call troubleshooters first, and hiring managers want proof."
+    }
+  ],
+  "structureTips": [
+    "Lead with a summary or headline that names 2–3 cloud platforms and one major skill (e.g., 'AWS & Kubernetes specialist who designs highly available, cost-optimized cloud infrastructure').",
+    "Put certifications (AWS Solutions Architect, CKA, AZ-900) in their own section or at the top of your skills area—they're a quick filter for recruiters.",
+    "Dedicate one section to 'Cloud Architecture & Infrastructure' and another to 'DevOps & Automation' so hiring managers can scan for depth in each area.",
+    "Use your most impactful cloud project (e.g., a major migration or new platform launch) as your first or most visible bullet under experience."
+  ],
+  "atsKeywords": [
+    "AWS EC2 RDS Lambda S3",
+    "Terraform Infrastructure as Code",
+    "Kubernetes container orchestration",
+    "CI/CD pipeline automation",
+    "Azure cloud platform",
+    "Google Cloud Platform GCP",
+    "CloudWatch monitoring logging",
+    "IAM security VPC networking",
+    "Jenkins GitHub Actions GitLab CI",
+    "Bash Python scripting automation"
+  ],
+  "salarySignal": "Entry-level cloud engineer salaries typically range from $85K–$110K in the US; mid-level roles ($120K–$160K) and senior roles ($160K–$220K+) are common for candidates with 3+ years of cloud platform experience and relevant certifications.",
+  "faq": [
+    {
+      "q": "Should I list every AWS service I've touched on my resume?",
+      "a": "No. Stick to the 4–6 services you've used most deeply (e.g., EC2, S3, Lambda, RDS). Depth beats breadth; a hiring manager will ask follow-up questions on anything you list, so be ready to explain it in detail."
+    },
+    {
+      "q": "Do I need a cloud certification to get hired?",
+      "a": "Not required, but highly recommended. AWS Solutions Architect Associate, Azure Fundamentals, or Kubernetes CKA open doors quickly and are often used as resume filters. If you don't have one yet, list any in-progress certifications."
+    },
+    {
+      "q": "How do I show cloud skills if I'm coming from a non-cloud role?",
+      "a": "Create a 'Projects' or 'Cloud Portfolio' section and describe personal labs, home infrastructure, or coursework (e.g., 'Built a three-tier application on AWS using RDS, EC2, and load balancing'). Also link to a GitHub repo with Terraform or Kubernetes manifests if possible."
+    },
+    {
+      "q": "What's more important: multi-cloud skills or deep expertise in one cloud?",
+      "a": "Deep expertise in one cloud (usually AWS) is more valuable for landing a first cloud job. Once hired, you'll learn the second cloud on the job. Show depth first, breadth second."
+    },
+    {
+      "q": "How should I frame on-call or on-premises infrastructure work?",
+      "a": "Translate it to cloud terms. Instead of 'managed physical servers,' say 'provisioned and scaled 50+ EC2 instances using auto-scaling groups and CloudFormation.' Highlight the principles (automation, monitoring, high availability) that transfer to cloud roles."
+    }
+  ]
+}

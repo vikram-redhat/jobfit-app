@@ -1,0 +1,122 @@
+{
+  "slug": "ekg-technician",
+  "title": "EKG Technician",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:33.963Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "EKG Technician Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your EKG technician role with a resume that highlights technical skills, certifications, and patient care experience. Get concrete examples and ATS keywords.",
+  "h1": "EKG Technician Resume Guide: Skills, Examples & Format",
+  "intro": "An EKG technician resume needs to balance clinical precision with patient interaction—and hiring managers can spot the difference between someone who just runs machines and someone who delivers quality cardiac diagnostics. This guide shows you how to highlight your certifications, technical competencies, and real-world impact on patient outcomes.",
+  "audience": "Recent healthcare graduates, certified EKG technicians entering their first role, and clinical support staff transitioning into dedicated cardiac care.",
+  "topSkills": [
+    {
+      "name": "EKG/ECG Interpretation & Acquisition",
+      "why": "This is the core technical skill—hiring managers need to see you can operate equipment and capture clean, diagnostic-quality tracings."
+    },
+    {
+      "name": "CEDT Certification (Certified EKG Technician)",
+      "why": "Many hospitals and clinics require or strongly prefer CEDT credentials; listing this signals you meet industry standards."
+    },
+    {
+      "name": "Arrhythmia Recognition",
+      "why": "Identifying abnormal heart rhythms is critical for patient safety and informs next-step clinical decisions."
+    },
+    {
+      "name": "ACLS/BLS Certification",
+      "why": "Basic life support certification is often mandatory and shows you can respond in emergencies."
+    },
+    {
+      "name": "Patient Care & Communication",
+      "why": "EKG techs interact with anxious or unwell patients; employers value calm, clear bedside manner."
+    },
+    {
+      "name": "Holter Monitor & Stress Test Administration",
+      "why": "Extended or specialized monitoring is a common responsibility that broadens your technical toolkit."
+    },
+    {
+      "name": "Electronic Health Records (EHR) Systems",
+      "why": "You'll document findings and patient data in EHR platforms—proficiency speeds workflows and reduces errors."
+    },
+    {
+      "name": "Infection Control & Patient Safety Protocols",
+      "why": "Healthcare employers prioritize compliance; demonstrating adherence to sterilization and safety standards is non-negotiable."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed EKG tests on patients and recorded results.",
+      "strong": "Acquired and interpreted 25–40 diagnostic 12-lead EKGs daily, achieving 98% technical quality on first attempt; flagged 3–5 abnormalities per month for immediate physician review, supporting timely patient interventions.",
+      "lesson": "Quantifying volume, quality, and clinical impact transforms a task description into evidence of competence and reliability."
+    },
+    {
+      "weak": "Helped patients during EKG procedures.",
+      "strong": "Provided clear pre-procedure education to 150+ patients annually; reduced patient anxiety-related motion artifacts by 40% through calm communication and positioning guidance, improving diagnostic accuracy.",
+      "lesson": "Showing how soft skills (communication, reassurance) directly improve technical outcomes demonstrates you're a complete team member."
+    },
+    {
+      "weak": "Maintained equipment and followed protocols.",
+      "strong": "Completed daily EKG machine calibration and infection control checks; maintained 100% compliance with HIPAA documentation standards across 200+ patient encounters; identified and reported equipment malfunction, preventing 2 weeks of downtime.",
+      "lesson": "Specificity about compliance, frequency, and preventive action shows reliability and attention to detail that hiring managers trust."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing 'EKG technician' as your job title without describing the scope or impact.",
+      "fix": "Include your setting (hospital, clinic, cardiology practice) and a brief context line that hints at volume, patient population, or specialty (e.g., 'EKG Technician, Cardiac ICU – 500-bed teaching hospital')."
+    },
+    {
+      "mistake": "Omitting your CEDT or certification status entirely.",
+      "fix": "Always list certifications in a dedicated 'Licenses & Certifications' section near the top; hiring managers scan for credentials first."
+    },
+    {
+      "mistake": "Using vague phrases like 'assisted physicians' or 'supported the cardiology team.'",
+      "fix": "Name the specific action you performed: 'performed,' 'acquired,' 'interpreted,' 'flagged,' 'documented'—be direct."
+    },
+    {
+      "mistake": "Forgetting to mention EHR systems or tools you've used.",
+      "fix": "Add a skills line or bullets that reference specific platforms (e.g., 'Epic,' 'Cerner,' 'Philips EKG software') to match ATS keywords."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Licenses & Certifications' section immediately after your name and contact info—CEDT, BLS, ACLS, and any specialty training belong here so recruiters see them first.",
+    "In your professional summary or objective, mention your certification level, years of experience, and the patient population or setting you're strongest in (e.g., 'CEDT with 3 years in acute-care cardiac monitoring').",
+    "Group role-specific skills (arrhythmia recognition, stress test, Holter monitor, EHR platforms) in a standalone 'Technical Skills' or 'Core Competencies' section rather than burying them in job descriptions.",
+    "Under each job, lead with your highest-volume or most clinically significant responsibility (e.g., diagnostic EKG acquisition), then add supporting bullets on equipment maintenance, patient education, or process improvements."
+  ],
+  "atsKeywords": [
+    "EKG technician",
+    "ECG technician",
+    "CEDT certified",
+    "12-lead EKG",
+    "Holter monitor",
+    "cardiac monitoring",
+    "arrhythmia recognition",
+    "BLS/ACLS certification",
+    "patient care",
+    "EHR systems"
+  ],
+  "salarySignal": "Entry-level EKG technicians in the US typically earn $28,000–$36,000 annually; experienced or certified technicians in urban or specialty settings may earn $38,000–$48,000.",
+  "faq": [
+    {
+      "q": "Do I need CEDT certification to put on my resume?",
+      "a": "Yes, if you have it—CEDT is highly valued and often required by hospitals and larger clinics. If you're working toward it, write 'CEDT (exam scheduled [month/year])' to signal commitment. If you don't have it yet, highlight any other relevant certifications (BLS, ACLS) and state that you're pursuing CEDT."
+    },
+    {
+      "q": "How do I describe EKG work if I've only done it in a training program or clinical rotation?",
+      "a": "Use 'Clinical Rotation' or 'Practicum' as your job title; list the setting (hospital, clinic), duration, and the number of EKGs you performed or observed. Quantify: 'Acquired 150+ diagnostic EKGs under supervision' or 'Interpreted rhythm strips in a 20-bed cardiac unit.' Employers understand training experience—just be honest about the supervision level."
+    },
+    {
+      "q": "Should I include CPR or First Aid certification if it's not EKG-specific?",
+      "a": "Absolutely. BLS and ACLS are often mandatory for EKG technicians and signal you can handle emergencies. List them in your certifications section with expiration dates (e.g., 'BLS for Healthcare Providers, American Heart Association – Valid through 03/2027')."
+    },
+    {
+      "q": "What if I've worked in different departments (med-surg, ICU, ER)?",
+      "a": "Lead your job description with your primary EKG or cardiac role, then mention secondary responsibilities. For example: 'EKG Technician & Patient Monitor Tech, Emergency Department.' This shows versatility while making your cardiac focus clear."
+    },
+    {
+      "q": "How do I quantify my work on a resume if I haven't tracked specific metrics?",
+      "a": "Use realistic ranges based on typical shift volume: 'Acquired 20–35 EKGs per 8-hour shift' or 'Monitored 10–15 cardiac patients simultaneously.' Ask a colleague or supervisor for average numbers, then write ranges. This honesty signals you're detail-oriented without inflating numbers."
+    }
+  ]
+}

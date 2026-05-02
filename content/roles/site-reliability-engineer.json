@@ -1,0 +1,134 @@
+{
+  "slug": "site-reliability-engineer",
+  "title": "Site Reliability Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:24:40.512Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Site Reliability Engineer Resume: Guide & Tips",
+  "metaDescription": "Build a winning SRE resume with proven bullet examples, key skills, and ATS strategies. Stand out to hiring managers with metrics-driven accomplishments.",
+  "h1": "How to Write a Site Reliability Engineer Resume That Gets Noticed",
+  "intro": "Site Reliability Engineer roles are competitive, and your resume needs to prove you can scale systems, prevent outages, and bridge ops and engineering cultures. We'll walk you through the exact skills, bullet structures, and keywords that hiring managers at top tech companies actually search for.",
+  "audience": "Early-career and mid-level engineers transitioning into SRE from DevOps, backend engineering, or systems administration roles, plus recent grads with strong ops fundamentals.",
+  "topSkills": [
+    {
+      "name": "Incident Response & On-Call Management",
+      "why": "Hiring managers need proof you can handle production fires calmly—this is the core of the SRE mindset."
+    },
+    {
+      "name": "Kubernetes & Container Orchestration",
+      "why": "Nearly every modern SRE role requires hands-on Kubernetes experience for managing containerized infrastructure at scale."
+    },
+    {
+      "name": "Infrastructure as Code (Terraform, Ansible, CloudFormation)",
+      "why": "SREs automate infrastructure provisioning and configuration management—IaC is non-negotiable for reducing manual toil."
+    },
+    {
+      "name": "Observability & Monitoring (Prometheus, Grafana, ELK Stack)",
+      "why": "You need to instrument systems, alert proactively, and diagnose failures—observability is how you prevent incidents before users notice."
+    },
+    {
+      "name": "Linux Systems Administration & Networking",
+      "why": "Deep OS and networking knowledge is the foundation—most SRE work happens at the kernel and network layer."
+    },
+    {
+      "name": "CI/CD Pipeline Development (Jenkins, GitLab CI, GitHub Actions)",
+      "why": "SREs build and maintain deployment pipelines that ship code safely and enable fast recovery from failures."
+    },
+    {
+      "name": "Distributed Systems & Microservices Architecture",
+      "why": "Understanding failure modes, consensus, and service mesh patterns shows you can reason about complex systems."
+    },
+    {
+      "name": "Cloud Platforms (AWS, GCP, Azure)",
+      "why": "Most SRE work runs on cloud infrastructure—hands-on expertise with managed services and APIs is expected."
+    },
+    {
+      "name": "Scripting & Automation (Python, Go, Bash)",
+      "why": "SREs write automation scripts to eliminate toil—hiring managers want proof you can code beyond bash."
+    },
+    {
+      "name": "Capacity Planning & Performance Tuning",
+      "why": "SREs ensure systems don't break under load—demonstrating cost optimization and scaling work shows business impact."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed Kubernetes clusters and worked on infrastructure automation.",
+      "strong": "Designed and deployed 3 multi-region Kubernetes clusters supporting 50+ microservices; reduced cluster provisioning time from 4 weeks to 2 days via Terraform automation, enabling 5x faster service onboarding.",
+      "lesson": "Specific numbers on scale, time savings, and business impact make the work tangible—hiring managers want to see the scope and the outcome."
+    },
+    {
+      "weak": "Improved monitoring and alerting for production systems.",
+      "strong": "Built Prometheus + Grafana observability stack covering 200+ services; reduced mean-time-to-detection (MTTD) from 12 min to 3 min through custom metric schemas and correlation rules, dropping P95 incident resolution time by 40%.",
+      "lesson": "Name the tools, quantify the scope, and connect to a real business metric (MTTD, recovery time)—SRE impact is measurable."
+    },
+    {
+      "weak": "Responded to production incidents and reduced downtime.",
+      "strong": "Led incident response for 8 high-severity P1 outages affecting 100K+ users; documented post-mortems and implemented 12 preventive mitigations (circuit breakers, rate limiters, failover automation) that reduced incident frequency by 60% YoY.",
+      "lesson": "Show scale (users impacted), count the actual remediations you drove, and use year-over-year metrics to prove your improvements stuck."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without demonstrating impact or scale.",
+      "fix": "Always pair technology names with a measurable outcome—'deployed' is weaker than 'reduced MTTR by 35% by deploying'; always show scope (number of services, users, regions)."
+    },
+    {
+      "mistake": "Treating SRE like a junior sysadmin—resume full of ticket-closing and manual tasks.",
+      "fix": "Lead with automation, incident prevention, and systems design; SREs solve problems at scale through code and process, not hand-crafted fixes."
+    },
+    {
+      "mistake": "Forgetting to mention on-call ownership and incident leadership.",
+      "fix": "Explicitly call out high-severity incidents you drove to resolution, post-mortem ownership, and blameless culture contributions—hiring managers want confidence you thrive under pressure."
+    },
+    {
+      "mistake": "Omitting specific cloud platforms or infrastructure tools used.",
+      "fix": "Name AWS, GCP, or Azure by name; specify Kubernetes, Terraform, or Prometheus—ATS and hiring managers filter by exact tech stacks."
+    },
+    {
+      "mistake": "Not quantifying 'toil reduction' or automation wins.",
+      "fix": "Replace 'automated X' with 'reduced manual overhead by 30 hours/week' or 'eliminated 95% of repetitive runbooks by building self-service tooling.'"
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most complex infrastructure or incident-response wins—SRE hiring managers scan for scale and system maturity first.",
+    "Use a skills section that mirrors the job description exactly: list Kubernetes, Terraform, Prometheus, and the specific cloud platforms mentioned, in that priority order.",
+    "Include a small 'On-Call & Incident Response' subsection if you've handled critical incidents—call out the scale (P1 severity, X users impacted, Y minute MTTR) to prove production readiness.",
+    "Put recent or current operational wins (last 1–2 years) above older infrastructure work—SREs must stay current with containerization, observability, and cloud-native patterns."
+  ],
+  "atsKeywords": [
+    "Site Reliability Engineer",
+    "Kubernetes",
+    "Infrastructure as Code",
+    "Terraform",
+    "Incident Response",
+    "Prometheus",
+    "CI/CD",
+    "AWS",
+    "On-call",
+    "Observability"
+  ],
+  "salarySignal": "Entry-level US SRE salaries typically range from $120K–$160K; mid-level roles span $160K–$240K, with senior SREs at top tech companies earning $240K–$350K+ including stock and bonus.",
+  "faq": [
+    {
+      "q": "Should I include specific incidents I handled on my SRE resume?",
+      "a": "Yes—name the severity (P1/P2), scale (users impacted), and your role (incident commander, lead responder, post-mortem owner). Avoid naming the company's outage publicly if it was a major incident; instead, use non-identifying language. Emphasize what you learned and what you fixed to prevent recurrence."
+    },
+    {
+      "q": "What's the difference between a DevOps engineer and SRE on a resume?",
+      "a": "SRE resumes emphasize incident prevention, observability, and scaling systems reliably; DevOps resumes focus on CI/CD pipelines and deployment automation. SRE roles lean more toward distributed systems thinking and production stability. If you're transitioning from DevOps, highlight monitoring, incident leadership, and architecture decisions."
+    },
+    {
+      "q": "How much hands-on coding should show up on an SRE resume?",
+      "a": "Approximately 30–40% of your bullets should reference automation, tooling, or scripting (Python, Go, Bash); the rest focus on infrastructure, incident response, and systems design. SREs are engineers, not sysadmins—prove you can code automation and libraries, not just manage VMs."
+    },
+    {
+      "q": "Should I list certifications like Kubernetes (CKA) or AWS Solutions Architect on my resume?",
+      "a": "Yes—these validate hands-on expertise and are scanned by ATS. Put them in a 'Certifications' section near the top if they're recent (within 2–3 years). CKA and AWS certs carry more weight in SRE hiring than generic cloud badges."
+    },
+    {
+      "q": "How do I show SRE impact if I've mostly done internal platform or tooling work?",
+      "a": "Quantify internal adoption and speed gains: 'Built self-service deployment dashboard used by 40+ teams, reducing deploy time by 50% and eliminating 20 hrs/week of manual deployment work.' Internal platforms impact hiring and velocity—frame it in terms of developer productivity and reliability improvements."
+    }
+  ]
+}

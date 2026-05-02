@@ -1,0 +1,126 @@
+{
+  "slug": "data-engineer",
+  "title": "Data Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:25:06.048Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Data Engineer Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a data engineer resume that passes ATS and lands interviews. See real examples, must-have skills, and common mistakes to avoid.",
+  "h1": "Data Engineer Resume: How to Stand Out and Get Hired",
+  "intro": "A strong data engineer resume needs to prove you can build scalable pipelines, wrangle messy data, and deliver insights that drive decisions. We'll show you exactly what hiring managers want to see—and the specific mistakes that get your resume binned before anyone reads it.",
+  "audience": "Early-career data engineers, bootcamp grads pivoting from analytics or backend engineering, and career changers with SQL and Python skills looking to land their first or second data role.",
+  "topSkills": [
+    {
+      "name": "ETL/ELT pipeline design",
+      "why": "Data engineers spend most of their time building pipelines; managers filter resumes based on proof you've designed end-to-end workflows."
+    },
+    {
+      "name": "SQL",
+      "why": "Non-negotiable for any data role; if you don't mention it, hiring managers assume you can't query efficiently at scale."
+    },
+    {
+      "name": "Cloud data platforms (Snowflake, BigQuery, Redshift)",
+      "why": "Most modern teams store and process data in the cloud; resume keywords here unlock automatic scoring in ATS systems."
+    },
+    {
+      "name": "Apache Spark",
+      "why": "Demonstrates ability to process massive datasets in parallel; Spark experience signals you can handle big-data problems."
+    },
+    {
+      "name": "Python",
+      "why": "The lingua franca of data engineering; used for scripting, automation, and building data tools."
+    },
+    {
+      "name": "Data warehousing concepts",
+      "why": "Managers want engineers who understand schema design, slowly-changing dimensions, and fact/dimension tables."
+    },
+    {
+      "name": "Apache Airflow or Prefect",
+      "why": "Workflow orchestration is table stakes for modern data teams; experience here shows you can automate and monitor pipelines."
+    },
+    {
+      "name": "Git and CI/CD",
+      "why": "Data engineering is now software engineering; version control and deployment pipelines are expected, not optional."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Built data pipelines using Python and SQL to load data into the warehouse.",
+      "strong": "Designed and deployed 12+ ETL pipelines in Apache Airflow, reducing manual data loads by 85% and cutting warehouse refresh time from 4 hours to 45 minutes.",
+      "lesson": "Specific tools, measurable outcomes (time and effort saved), and business impact make hiring managers see you as someone who ships."
+    },
+    {
+      "weak": "Worked with big data and helped the analytics team get better data quality.",
+      "strong": "Implemented data validation layer in Spark, catching and logging 99.2% of schema violations before they hit production; reduced failed analytics queries by 60%.",
+      "lesson": "Metrics prove impact; naming the tool (Spark) and the problem you solved (data quality upstream) shows deep ownership."
+    },
+    {
+      "weak": "Created SQL queries and helped optimize database performance.",
+      "strong": "Optimized 40+ slow-running SQL queries on Redshift through indexing and query rewrites, improving report generation time from 15+ minutes to <2 minutes for 20+ stakeholders.",
+      "lesson": "Quantifying both the scope (40+ queries, 20+ users) and the improvement (15 min → <2 min) proves you can move the needle."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without context or measurable impact",
+      "fix": "Always pair a tool (e.g., 'Apache Spark') with a specific outcome—how many records processed, what latency or throughput you achieved, or what problem you solved."
+    },
+    {
+      "mistake": "Using analyst-speak instead of engineer-speak",
+      "fix": "Focus on pipeline architecture, data flow, schema design, and system reliability instead of 'analyzing data' or 'creating dashboards'—those signal analytics roles, not engineering."
+    },
+    {
+      "mistake": "Forgetting to mention data quality, testing, or monitoring",
+      "fix": "Data engineers are increasingly expected to own reliability; call out any work on data validation, unit tests, alerting, or incident response."
+    },
+    {
+      "mistake": "Not matching cloud platform keywords to the job description",
+      "fix": "If the job lists 'Snowflake' or 'BigQuery' and you've used it, mention it explicitly—ATS systems keyword-match on exact platform names."
+    },
+    {
+      "mistake": "Underselling infrastructure or DevOps work",
+      "fix": "If you've built CI/CD pipelines, containerized workflows, or managed infrastructure as code, call it out—modern data teams value this heavily."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most recent and technically complex role, not your longest job; hiring managers scan top-to-bottom and want to see cutting-edge skills first.",
+    "Group bullet points by initiative or project, not task type—e.g., 'Built real-time inventory pipeline' followed by 3–4 bullets on that project shows cohesive impact better than 'Wrote SQL queries, fixed bugs, deployed code.'",
+    "Put cloud platform or orchestration tools in your top 3–5 bullets; if they're buried, ATS systems might not weight them correctly.",
+    "Include a short 'Core Technologies' or 'Technical Stack' section at the top if you have space; data teams love quick visual scanning of your skill set."
+  ],
+  "atsKeywords": [
+    "ETL pipeline",
+    "Apache Spark",
+    "SQL",
+    "Python",
+    "Apache Airflow",
+    "Snowflake",
+    "BigQuery",
+    "data warehouse",
+    "schema design",
+    "CI/CD"
+  ],
+  "salarySignal": "Entry-level US data engineer salaries typically range from $85,000 to $120,000; mid-level (3–5 years) can reach $130,000–$180,000; senior roles and team leads often exceed $200,000 with stock/bonus.",
+  "faq": [
+    {
+      "q": "Should I include academic projects or only professional experience?",
+      "a": "Yes, if the project demonstrates pipeline building or real-world data scale. A capstone project where you built an ETL pipeline for a public dataset is stronger than busy work. Keep it brief and focus on the engineering, not the grades."
+    },
+    {
+      "q": "How do I talk about a data engineering role at a startup if I wore many hats?",
+      "a": "Focus on the data engineering pieces: 'Architected and deployed a Spark-based ETL pipeline handling 500M+ daily events' is stronger than 'did data work.' Separate the pure data work from product/ops work so hiring managers don't see you as a generalist."
+    },
+    {
+      "q": "Is it okay to list a tool I used for just a few months?",
+      "a": "Only if you built something non-trivial with it or can speak confidently about it in an interview. If you touched it briefly, skip it—hiring managers will probe on resume keywords and vague claims hurt credibility."
+    },
+    {
+      "q": "How should I handle coming from data analytics or backend engineering?",
+      "a": "Reframe your bullets to emphasize data infrastructure and pipeline work. If you're an analyst who moved to engineering, highlight any time you built or optimized databases, ETL, or data ingestion. If you're a backend engineer, call out any data-adjacent projects like batch processing or event streaming."
+    },
+    {
+      "q": "Do I need certifications (e.g., AWS, Snowflake)?",
+      "a": "Not required, but they can help if your professional experience is thin. A Snowflake University cert or AWS Data Engineer certification signals commitment and fills gaps—but real project experience always beats a cert alone."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "ux-researcher",
+  "title": "UX Researcher",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:27:49.471Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "UX Researcher Resume: Build Your Best Application",
+  "metaDescription": "Learn how to write a UX Researcher resume that lands interviews. See sample bullets, key skills, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a UX Researcher Resume That Gets Noticed",
+  "intro": "A strong UX Researcher resume proves you can uncover user insights and translate them into product decisions—not just that you've done research before. We'll show you how to structure your resume, highlight the skills that matter most, and avoid the mistakes that make hiring managers skip past your application.",
+  "audience": "Recent design or psychology grads, researchers transitioning from academia or adjacent fields, and career changers looking to break into UX research.",
+  "topSkills": [
+    {
+      "name": "User Research Methods (Qualitative & Quantitative)",
+      "why": "Hiring managers want to see you can choose and execute the right research methodology—interviews, surveys, usability tests, analytics—for the business question at hand."
+    },
+    {
+      "name": "Usability Testing",
+      "why": "This is the bread-and-butter skill for UX researchers; companies expect you to run moderated or unmoderated tests and synthesize actionable findings."
+    },
+    {
+      "name": "User Interviews & Moderation",
+      "why": "The ability to ask good questions, build rapport with users, and extract honest insights is fundamental to the role and hard to fake."
+    },
+    {
+      "name": "Data Analysis & Synthesis",
+      "why": "You need to turn raw research data—notes, videos, metrics—into clear patterns and recommendations that inform product decisions."
+    },
+    {
+      "name": "Figma / Design Tools",
+      "why": "While you're not designing, familiarity with tools your design team uses shows you can collaborate effectively and iterate on prototypes."
+    },
+    {
+      "name": "SQL / Analytics Platforms",
+      "why": "Many UX research roles require you to query databases or work with Google Analytics, Mixpanel, or similar tools to extract quantitative insights."
+    },
+    {
+      "name": "User Journey Mapping",
+      "why": "Creating and presenting user journeys, personas, and mental models demonstrates your ability to communicate research insights visually."
+    },
+    {
+      "name": "Presentation & Stakeholder Communication",
+      "why": "Research means nothing if your findings don't influence decisions; hiring managers look for researchers who can present to executives and designers."
+    },
+    {
+      "name": "Wireframing & Prototyping Feedback",
+      "why": "You'll often review designs and wireframes with users; experience giving constructive feedback on prototypes is a plus."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Conducted user research and testing to improve the product.",
+      "strong": "Ran 12 moderated usability tests and 3 rounds of user interviews with target demographic, identifying 8 critical UX pain points; recommendations resulted in 25% improvement in task completion rates post-redesign.",
+      "lesson": "Adding specific numbers—test count, improvement metric, and business outcome—transforms a vague activity into proof of impact."
+    },
+    {
+      "weak": "Analyzed data and created reports for the team.",
+      "strong": "Synthesized feedback from 200+ survey responses and 15 hours of interview video using affinity mapping; delivered findings deck to C-suite that informed roadmap prioritization for Q3 release.",
+      "lesson": "Naming your methods (affinity mapping) and audience (C-suite) shows methodological rigor and evidence of stakeholder influence."
+    },
+    {
+      "weak": "Helped design better user experiences through research.",
+      "strong": "Identified mobile checkout abandonment pain points through heatmap analysis and user interviews; collaborated with product and design on 4 iterations; final prototype tested with 18 users showed 40% reduction in form completion time.",
+      "lesson": "Showing the full research-to-action loop—discovery, collaboration, iteration, validation—proves you drive real product outcomes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing research activities without outcomes or recommendations.",
+      "fix": "Always tie your research to a business decision or product change—what did the team learn, and what did they do differently as a result?"
+    },
+    {
+      "mistake": "Overloading your resume with methodological jargon.",
+      "fix": "Use precise terminology (e.g., 'moderated usability test,' 'affinity mapping') but always explain the insight it uncovered, not just the method you used."
+    },
+    {
+      "mistake": "Not mentioning sample sizes, participant demographics, or research scope.",
+      "fix": "Always specify: How many users? What was their profile? How long was the study? These details prove your research was rigorous, not anecdotal."
+    },
+    {
+      "mistake": "Treating research as separate from product impact.",
+      "fix": "Connect every research project to how it changed the product, roadmap, or user behavior—hiring managers want researchers who influence decisions."
+    },
+    {
+      "mistake": "Forgetting to highlight cross-functional collaboration.",
+      "fix": "Emphasize partnerships with design, product, engineering, and leadership; UX research is a team sport, and hiring managers value your ability to work across silos."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with research studies or projects that had the biggest measurable business impact (reduced churn, improved engagement, faster task completion), not your job duties.",
+    "Group related skills by category—Research Methods, Analytics & Data, Design Tools & Collaboration, Reporting & Presentation—so ATS and human readers both spot what you're good at.",
+    "Include a 'Research Portfolio' or 'Key Projects' section linking to case studies or publicly shareable research findings; UX research is one of the few tech roles where showing your work trumps talking about it.",
+    "Quantify participant diversity and scope in your experience bullets—mention if you've worked with underserved or international users, conducted longitudinal studies, or run large-scale surveys, as these signal research maturity."
+  ],
+  "atsKeywords": [
+    "user research",
+    "usability testing",
+    "user interviews",
+    "qualitative research",
+    "quantitative research",
+    "data analysis",
+    "user personas",
+    "user journey mapping",
+    "moderated testing",
+    "unmoderated testing",
+    "research synthesis"
+  ],
+  "salarySignal": "Entry-level US UX Researcher salaries typically range from $65K to $85K; mid-level researchers earn $85K to $120K; senior roles and tech hubs like SF and NYC push above $130K.",
+  "faq": [
+    {
+      "q": "Should I include a research portfolio or case studies on my resume?",
+      "a": "Yes—add a line or section with links to public-facing research findings, blog posts, or case study writeups. UX research is one role where employers want to see how you actually think and communicate, not just your job titles. Make sure everything you link is shareable (no NDAs violated)."
+    },
+    {
+      "q": "What if I don't have formal UX research experience yet?",
+      "a": "Highlight any research-adjacent projects: academic theses involving user interviews, freelance usability testing you've run, design work informed by user feedback, analytics projects, or even volunteer projects where you gathered and acted on user insights. Frame it as 'User Research' or 'Applied Research' and quantify your findings."
+    },
+    {
+      "q": "How much should I talk about tools like Figma, Miro, or user testing platforms?",
+      "a": "Mention them in a skills section, but don't let tools dominate your bullets. Hiring managers care more about your ability to ask the right research question and interpret data than your tool proficiency—tools change, but your research thinking stays constant."
+    },
+    {
+      "q": "Do I need a statistics or data background to be a UX researcher?",
+      "a": "Not required, but helpful. If you don't have formal stats training, highlight hands-on experience with quantitative data (survey analysis, A/B testing interpretation, analytics dashboards). Many UX researchers come from psychology, design, or anthropology backgrounds, so emphasize your methodology thinking over credentials."
+    },
+    {
+      "q": "How do I show impact when my research didn't lead to a product change?",
+      "a": "Focus on the strength and clarity of your findings instead. Bullets can read like: 'Conducted research revealing 3 critical usability blockers; shared findings with stakeholders; informed prioritization of Q2 roadmap even if deployment happened later.' Show that your research was high-quality and heard, even if follow-through took time."
+    }
+  ]
+}

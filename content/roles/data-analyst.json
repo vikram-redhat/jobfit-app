@@ -1,0 +1,130 @@
+{
+  "slug": "data-analyst",
+  "title": "Data Analyst",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:25:10.973Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Data Analyst Resume: Templates & Examples for 2025",
+  "metaDescription": "Land your data analyst job with resume tips, bullet examples, and ATS keywords. See what hiring managers actually want.",
+  "h1": "Data Analyst Resume Guide: Stand Out with Real Examples",
+  "intro": "Your data analyst resume needs to prove you can turn numbers into business decisions—and hiring managers can spot generic CVs in seconds. We'll show you exactly how to structure your resume, what metrics matter most, and the mistakes that tank applications before they're even read.",
+  "audience": "Recent graduates entering analytics roles, career switchers from business or IT, and early-career analysts looking to level up their job search.",
+  "topSkills": [
+    {
+      "name": "SQL",
+      "why": "Nearly every data analyst job requires SQL to query and manipulate databases; it's the first skill recruiters filter for."
+    },
+    {
+      "name": "Data visualization (Tableau, Power BI, Looker)",
+      "why": "Hiring managers want proof you can communicate findings visually; name the specific tools you've mastered."
+    },
+    {
+      "name": "Excel (advanced: pivot tables, VLOOKUP, formulas)",
+      "why": "Still the most widely used tool in corporate settings; advanced proficiency signals you can do quick analysis without code."
+    },
+    {
+      "name": "Python or R for data analysis",
+      "why": "Mid-level and senior roles increasingly require statistical programming; pandas, ggplot2, and similar libraries stand out."
+    },
+    {
+      "name": "Statistical analysis and hypothesis testing",
+      "why": "Shows you understand when data is statistically significant, not just directionally interesting—critical for credibility."
+    },
+    {
+      "name": "Business acumen / domain knowledge",
+      "why": "Demonstrating you understand the 'why' behind the analysis (KPIs, revenue impact, customer behavior) separates strong analysts from data processors."
+    },
+    {
+      "name": "Google Analytics, mixpanel, or similar product analytics tools",
+      "why": "Many tech and product-focused roles require event tracking and user funnel analysis; mentioning these shows you've worked in real product environments."
+    },
+    {
+      "name": "Data cleaning and ETL processes",
+      "why": "Analysts spend 60–80% of time wrangling messy data; showing you've built pipelines or documented cleaning steps is valuable."
+    },
+    {
+      "name": "Communication and storytelling with data",
+      "why": "The ability to explain findings to non-technical stakeholders separates analysts who stay in junior roles from those who advance."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Analyzed customer data and created dashboards using Tableau to help the team understand trends.",
+      "strong": "Built 12+ interactive Tableau dashboards tracking customer retention and churn, reducing data request turnaround by 65% and enabling marketing team to identify 3 high-value customer segments for targeted campaigns.",
+      "lesson": "Strong version includes specific count of dashboards, quantified impact (time saved), and business outcome (identified segments) instead of vague 'helped the team understand.'"
+    },
+    {
+      "weak": "Used SQL to query databases and prepare data for analysis.",
+      "strong": "Wrote and optimized 200+ SQL queries (joins, CTEs, window functions) to extract 18-month behavioral datasets for A/B testing; reduced query execution time by 40% through indexing, enabling analysts to iterate 2x faster.",
+      "lesson": "Strong version shows scope (200+ queries), technical depth (named specific SQL features), and measurable business impact (faster iteration cycle) instead of generic 'prepared data.'"
+    },
+    {
+      "weak": "Performed statistical analysis on sales data and presented findings to leadership.",
+      "strong": "Conducted hypothesis testing (t-tests, chi-square) on 50K+ sales transactions to validate impact of pricing strategy change; findings influenced $2.3M revenue decision and were presented to C-suite with 95% confidence intervals noted.",
+      "lesson": "Strong version names the statistical method, sample size, business stakes, and level of rigor (confidence intervals) instead of just saying 'presented findings.'"
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without showing impact",
+      "fix": "Never just say 'proficient in Python and Tableau.' Always attach a concrete outcome: 'created a Python script that automated weekly report generation, reducing manual work by 8 hours/week' or 'designed 5 Tableau dashboards that reduced ad-hoc requests by 40%.'"
+    },
+    {
+      "mistake": "Vague metrics and percentages",
+      "fix": "Avoid 'increased efficiency' or 'improved data quality.' Instead, use absolutes: 'reduced data pipeline latency from 4 hours to 12 minutes' or 'identified and corrected 12K erroneous records, improving data accuracy to 99.2%.'"
+    },
+    {
+      "mistake": "Forgetting to mention the 'why' behind the analysis",
+      "fix": "Don't just say 'analyzed user behavior.' Specify the business outcome: 'analyzed 50K user sessions to identify friction in checkout flow, reducing cart abandonment by 18% and generating $400K incremental revenue.'"
+    },
+    {
+      "mistake": "Over-emphasizing tools instead of thinking",
+      "fix": "Hiring managers care more about how you think through problems. Lead with the question you answered or the decision you enabled, not the software you used. 'Determined optimal ad spend allocation across channels using regression analysis' beats 'used Excel and Python for reporting.'"
+    },
+    {
+      "mistake": "Not tailoring to the job description",
+      "fix": "If the posting emphasizes 'product analytics,' lead with Google Analytics or Mixpanel projects. If it's 'financial analyst,' highlight relevant models or forecasting. Mirror language from the job posting without lying."
+    }
+  ],
+  "structureTips": [
+    "Put your most relevant technical skills at the top of a 'Skills' or 'Core Competencies' section. Organize by category (SQL, Visualization Tools, Statistical Methods, Programming Languages) so ATS scanners and recruiters can quickly find what they're looking for.",
+    "In your Work Experience, lead with the business outcome or question answered, then describe the data technique. Format: 'Discovered [insight/decision] by [method]' rather than '[Tool used] to analyze [dataset].' This keeps hiring managers focused on your analytical thinking, not your tool mastery.",
+    "If you have a GitHub portfolio, Kaggle profile, or case study portfolio, create a 'Projects' or 'Portfolio' section between your experience and education. Link to 2–3 strongest pieces of work. Non-traditional candidates and early-career analysts should lead with this to compensate for thin employment history.",
+    "Include a quantified achievement in the first 2–3 bullets of your most recent role. Recruiters often skim; if your impact isn't visible in the first glance, it might not register. Save the more nuanced or longer-tail wins for bullets 4+."
+  ],
+  "atsKeywords": [
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Python",
+    "statistical analysis",
+    "data visualization",
+    "Excel",
+    "ETL",
+    "business intelligence",
+    "A/B testing"
+  ],
+  "salarySignal": "Entry-level data analyst positions in the US typically range from $55K to $75K annually; mid-level roles (3–5 years experience) often reach $75K–$110K. Salary varies by region, company size, and industry (tech, finance, and healthcare tend to pay higher).",
+  "faq": [
+    {
+      "q": "Should I include my GPA on my data analyst resume?",
+      "a": "Only if it's 3.7 or higher and you graduated within the last 2 years. After 2 years of work experience, leave it off. Hiring managers care far more about your project wins and technical depth than a three-year-old transcript."
+    },
+    {
+      "q": "How do I show SQL skills on my resume if I don't have professional experience?",
+      "a": "Create a portfolio project (analyze a public dataset, build a case study with GitHub code). Add a 'Projects' section and link to it. Write the bullet as 'Analyzed 100K+ e-commerce transactions using SQL joins and window functions to identify top-performing product categories; shared findings in public repo.' Employers value proof over claimed proficiency."
+    },
+    {
+      "q": "What's the difference between a data analyst and a business analyst resume?",
+      "a": "Data analysts emphasize SQL, statistics, and technical tools (Tableau, Python). Business analysts highlight process improvement, requirements gathering, and cross-functional communication. If applying to a data analyst role, lead with technical skills and quantified data insights. Flip the priority if the posting emphasizes 'business processes' or 'stakeholder management.'"
+    },
+    {
+      "q": "How many years of experience should I show on my resume?",
+      "a": "Include the last 10 years of work; for recent grads, show all internships and part-time roles. Beyond 10 years, you can condense older roles into a brief 'Additional Experience' line to focus on recent wins. Never lie or backdoor skills—recruiters check reference dates."
+    },
+    {
+      "q": "Should I highlight my certifications (Google Analytics, Data Analytics Certificate, etc.)?",
+      "a": "Yes, but only if relevant to the job. Place them in a dedicated 'Certifications' section below experience and education. Be honest: bootcamp certificates and online credentials are a foot in the door, but they're weakest when unsupported by real projects. Use them as proof you've learned the theory, but make sure your bullet points prove you've applied it."
+    }
+  ]
+}

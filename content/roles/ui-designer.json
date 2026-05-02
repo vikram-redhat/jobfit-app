@@ -1,0 +1,134 @@
+{
+  "slug": "ui-designer",
+  "title": "UI Designer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:27:46.291Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "UI Designer Resume: Tips, Examples & ATS Keywords",
+  "metaDescription": "Write a standout UI Designer resume with real bullet examples, must-have skills, and expert tips to land interviews.",
+  "h1": "How to Write a UI Designer Resume That Gets Interviews",
+  "intro": "A great UI Designer resume shows hiring managers you can craft interfaces that look sharp *and* work intuitively. We'll walk you through the skills, bullets, and structure that land interviews—whether you're fresh out of a design bootcamp or pivoting from another creative role.",
+  "audience": "Recent design school grads, bootcamp alumni, and creatives switching into UI design from graphic design, product design, or web development.",
+  "topSkills": [
+    {
+      "name": "Figma",
+      "why": "Figma is the industry standard for collaborative UI design; nearly every posting lists it as a required or preferred skill."
+    },
+    {
+      "name": "Prototyping & Wireframing",
+      "why": "Hiring managers want to see you can translate ideas into interactive mockups—this shows you think beyond static visuals."
+    },
+    {
+      "name": "User Research & UX Principles",
+      "why": "UI designers who understand user behavior and can back up design decisions with research stand out from decorators."
+    },
+    {
+      "name": "Design Systems & Component Libraries",
+      "why": "Building and maintaining scalable, reusable design components shows you work well on mature product teams."
+    },
+    {
+      "name": "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+      "why": "Still relevant for many companies; fluency signals you can work across tools and legacy workflows."
+    },
+    {
+      "name": "Responsive Design",
+      "why": "Showing you design for mobile, tablet, and desktop—and understand breakpoints—proves you ship real products."
+    },
+    {
+      "name": "Accessibility (WCAG, a11y)",
+      "why": "Companies increasingly care about inclusive design; knowing accessible design principles separates strong candidates."
+    },
+    {
+      "name": "Collaboration & Stakeholder Communication",
+      "why": "UI designers work cross-functionally with engineers, PMs, and researchers; showing this skill signals maturity."
+    },
+    {
+      "name": "CSS & HTML Basics",
+      "why": "Understanding how developers implement your designs helps you create feasible, pixel-perfect interfaces."
+    },
+    {
+      "name": "User Testing & Usability Studies",
+      "why": "Demonstrating you validate designs with real users shows you're outcome-focused, not just aesthetically driven."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Designed user interfaces for mobile and web apps using Figma.",
+      "strong": "Designed and iterated on 12+ mobile and web UI screens in Figma, collaborating with 3 engineers and 1 PM; validated designs through 5 moderated user sessions, resulting in 35% improvement in task completion rate.",
+      "lesson": "Added specifics (number of screens, team size, validation method, and metric) that prove impact—this moves it from a job description to evidence of your work."
+    },
+    {
+      "weak": "Created a design system for the company.",
+      "strong": "Built and documented a design system with 40+ reusable components (buttons, forms, modals, navigation) in Figma; published guidelines covering spacing, color, typography, and accessibility; reduced design-to-development handoff time by 20%.",
+      "lesson": "Specificity about the *scale* of the system and the *outcome* (faster handoff) transforms a vague accomplishment into proof of impact."
+    },
+    {
+      "weak": "Improved the app's visual design and user experience.",
+      "strong": "Redesigned the checkout flow (4 screens) based on user research; A/B tested new micro-interactions and form field labels; increased conversion rate by 18% and reduced form abandonment by 12%.",
+      "lesson": "Grounding your work in real metrics and research (not just opinion) shows you're a designer who ships results, not just pretty screens."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing tools without demonstrating what you made with them.",
+      "fix": "For every tool you mention (Figma, XD, Sketch, etc.), pair it with a *shipped* project or specific outcome—e.g., 'Designed a responsive pricing page in Figma that increased sign-ups by 12%.' Tools alone don't tell the story."
+    },
+    {
+      "mistake": "Focusing on aesthetics instead of problem-solving.",
+      "fix": "Reframe your bullets around *user needs* and *business outcomes*: instead of 'Made beautiful color palette,' write 'Redesigned color system to improve readability for colorblind users, increasing accessibility score from 72 to 94.'"
+    },
+    {
+      "mistake": "Leaving out evidence of collaboration with developers and product managers.",
+      "fix": "Explicitly mention cross-functional work—'partnered with engineering to validate responsive breakpoints' or 'aligned with PM on feature prioritization and timing'—because hiring managers hire for team fit."
+    },
+    {
+      "mistake": "Including a portfolio link without a resume description of the work.",
+      "fix": "Your resume bullets should *preview* what's in your portfolio—what the problem was, how you solved it, and what the outcome was. Don't make screeners guess."
+    },
+    {
+      "mistake": "Overstating design solo work when you were part of a larger team.",
+      "fix": "Be honest about scope: 'Led mobile UI refresh' is stronger than 'Designed all UI,' but only if true. Credibility matters more than sounding impressive."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 2–3 line summary or objective that signals you're a *product designer*, not just a visual designer—mention user research, systems thinking, or business impact if possible.",
+    "Place your most impressive, metric-backed projects in your experience section first; sort by impact, not chronology.",
+    "Include a dedicated 'Skills' section organized by category: Design Tools (Figma, Adobe, etc.), UX/Research Methods (user testing, wireframing, etc.), and Technical (HTML, CSS, accessibility).",
+    "If you have a strong portfolio or case studies, link to them prominently at the top under your name; make it easy for recruiters to see your work without digging."
+  ],
+  "atsKeywords": [
+    "Figma",
+    "User Interface Design",
+    "Responsive Design",
+    "Design Systems",
+    "Prototyping",
+    "Wireframing",
+    "User Experience",
+    "Adobe Creative Suite",
+    "Accessibility (WCAG)",
+    "Cross-functional Collaboration"
+  ],
+  "salarySignal": "Entry-level UI Designer salaries in the US typically range from $55,000 to $75,000 in 2026; mid-level roles (3–5 years) average $75,000–$110,000, varying by location, company size, and portfolio strength.",
+  "faq": [
+    {
+      "q": "Should I include my portfolio link on my resume?",
+      "a": "Yes—place it prominently near your name and contact info (e.g., 'Portfolio: [your-site.com]'). ATS can handle URLs, and it dramatically increases your chances of getting noticed. Make sure your portfolio is up-to-date and loads quickly."
+    },
+    {
+      "q": "Do I need to know how to code to be a UI Designer?",
+      "a": "Not required, but helpful. Understanding HTML/CSS basics and how your designs translate to code makes you a stronger collaborator and candidate. Even a high-school level of front-end knowledge is a real differentiator on your resume."
+    },
+    {
+      "q": "How do I write resume bullets if I've only done design projects in school or bootcamp?",
+      "a": "Treat bootcamp projects and capstones like real work: describe the problem you solved, who it was for, your process (research, ideation, testing), and measurable outcomes (e.g., 'Improved task completion by X%' from user testing). Authenticity matters; don't fake projects."
+    },
+    {
+      "q": "What metrics should I include in my UI Design resume bullets?",
+      "a": "Use metrics your team actually tracked: conversion rate improvements, reduced task completion time, user satisfaction scores (NPS, SUS), accessibility score improvements, or team efficiency gains (faster handoff time). Avoid guessing; if you don't have the data, focus on scope and process instead."
+    },
+    {
+      "q": "How do I highlight design system work on my resume?",
+      "a": "Be specific about scale and impact: number of components built, adoption rate across teams, time saved in design-to-dev, or reduction in design inconsistencies. Example: 'Owned 60+ component library in Figma, adopted by 4 product teams, reducing design rework by 25%.'"
+    }
+  ]
+}

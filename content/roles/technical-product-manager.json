@@ -1,0 +1,136 @@
+{
+  "slug": "technical-product-manager",
+  "title": "Technical Product Manager",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:27:49.380Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Technical Product Manager Resume: Skills & Examples",
+  "metaDescription": "Write a Technical Product Manager resume that lands interviews. Real examples, ATS keywords, and proven strategies for tech PMs.",
+  "h1": "Technical Product Manager Resume: Guide & Examples",
+  "intro": "A Technical Product Manager resume needs to prove you can bridge engineering and business—and that you've shipped real products that moved metrics. We'll show you how to highlight the technical depth, leadership, and shipped outcomes that tech companies actually want to see.",
+  "audience": "Software engineers moving into product management, recent MBA grads targeting PM roles, and career switchers with technical backgrounds applying to their first product management position.",
+  "topSkills": [
+    {
+      "name": "Product Strategy & Roadmap Planning",
+      "why": "Hiring managers want to see you've defined and executed a multi-quarter vision—this is your core job."
+    },
+    {
+      "name": "Technical Architecture & System Design",
+      "why": "TPMs must speak credibly with engineers; deep technical knowledge tells them you can evaluate tradeoffs and avoid misalignment."
+    },
+    {
+      "name": "Data Analysis & Metrics-Driven Decision Making",
+      "why": "Every TPM decision should reference KPIs, conversion rates, or latency—this signals rigor."
+    },
+    {
+      "name": "Cross-Functional Leadership",
+      "why": "You manage without authority; TPMs prove influence over eng, design, marketing, and leadership."
+    },
+    {
+      "name": "Agile & Scrum Methodologies",
+      "why": "Most tech teams run Scrum or Kanban; fluency here shows you can operate in their cadence."
+    },
+    {
+      "name": "SQL & Analytics Tools",
+      "why": "Writing your own queries or pulling from Tableau/Mixpanel proves self-sufficiency hiring managers love."
+    },
+    {
+      "name": "Stakeholder Management & Communication",
+      "why": "TPMs spend 30% of time on alignment; evidence of clear docs, design reviews, and executive updates stands out."
+    },
+    {
+      "name": "Customer Research & User Empathy",
+      "why": "Shipping is not enough—TPMs must validate that what they built solves real problems."
+    },
+    {
+      "name": "API & Integration Experience",
+      "why": "Modern TPMs often own platform/API products; hands-on experience signals deep product fluency."
+    },
+    {
+      "name": "Go-to-Market & Launch Strategy",
+      "why": "Launching a feature is one thing; launching it *right* (timing, messaging, rollout) is what scales revenue."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed the development of a new feature that improved user engagement.",
+      "strong": "Shipped search API with 99.99% uptime; drove 15% increase in platform adoption through phased rollout and 10+ partner integrations, resulting in $2.1M ARR expansion.",
+      "lesson": "Strong version specifies the product, technical metric (uptime), business impact (adoption), concrete deliverables (partner integrations), and revenue outcome—making it memorable and quantifiable."
+    },
+    {
+      "weak": "Worked with engineers and designers to build better products.",
+      "strong": "Led cross-functional team through 3-month discovery and shipped redesigned checkout flow; reduced cart abandonment by 8% and increased mobile conversion by 23%, validated via A/B test on 200K+ weekly users.",
+      "lesson": "Instead of vague collaboration, this shows a timeline, the exact improvement (quantified), the methodology (A/B test), and scale—proof you can move metrics."
+    },
+    {
+      "weak": "Responsible for roadmap prioritization and quarterly planning.",
+      "strong": "Prioritized roadmap against 18 feature requests using weighted scoring model; delivered 4 highest-impact items, cutting infrastructure costs by $85K/month and reducing API response time from 800ms to <250ms, per incident metrics.",
+      "lesson": "Weak version says 'roadmap'—strong version shows *how* you decided (scoring model), *what* shipped, and *what it cost* (money and performance), signaling both rigor and ownership."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "No technical depth—resume reads like a generic PM.",
+      "fix": "Show you understand the stack: mention APIs you owned, databases you optimized, or architecture tradeoffs you evaluated. Even 'led migration from monolith to microservices' signals technical credibility."
+    },
+    {
+      "mistake": "Claiming credit for engineering work.",
+      "fix": "Say 'partnered with the infra team' or 'proposed and validated' rather than 'built' or 'developed.' TPMs lead; engineers ship. Hiring managers know the difference."
+    },
+    {
+      "mistake": "Metrics without context—'30% improvement' with no baseline.",
+      "fix": "Always pair metrics with scale: '30% reduction in latency for 2.5M daily API calls' or '30% improvement in signup conversion, validated via controlled experiment with 100K sample size.'"
+    },
+    {
+      "mistake": "Listing tools instead of impact—'experienced with Jira, Notion, Slack.'",
+      "fix": "Use tools as proof of process: 'Structured OKR tracking in Jira across 3 teams; shipped all Q4 roadmap items on time.' The tool doesn't matter; the discipline does."
+    },
+    {
+      "mistake": "Omitting failed products or pivots.",
+      "fix": "Briefly mention what you learned from a product that missed: 'Sunsetted email feature after 6 months—led user research that showed <8% adoption; reallocated team to higher-ROI checkout optimization.' Failure + learning is credible."
+    }
+  ],
+  "structureTips": [
+    "Lead with your most impressive shipped product or metric: put your biggest win in the first bullet of your most recent role. Recruiters often skim; the first item sets the tone.",
+    "Separate 'Products Shipped' and 'Impact' subsections within your experience: make it obvious what you owned end-to-end vs. what you influenced. TPMs should have a clear list of 3–4 finished products.",
+    "Include a 'Technical Skills' or 'Tools & Methods' line above or within your experience section: explicitly list SQL, analytics platforms (Mixpanel, Amplitude, Looker), prototyping tools (Figma), and frameworks (Agile, OKR). ATS scanners and humans both look for these.",
+    "If you have engineering or data background, lead with that—move a brief 'Technical Background' section high. Hiring managers want to know why a technical founder or ex-engineer is pivoting to PM, and doing so early builds credibility."
+  ],
+  "atsKeywords": [
+    "Technical Product Manager",
+    "Product Strategy",
+    "Roadmap Planning",
+    "Agile Methodology",
+    "Cross-Functional Leadership",
+    "SQL",
+    "A/B Testing",
+    "OKR",
+    "API Development",
+    "Product Launch",
+    "Metrics & KPI",
+    "Stakeholder Management"
+  ],
+  "salarySignal": "Entry-level Technical Product Manager roles in the US typically range from $120K–$160K base (2026), with mid-level TPMs earning $160K–$220K and senior TPMs $220K+, plus equity and bonus; variations depend significantly on company stage (startup vs. FAANG) and geography.",
+  "faq": [
+    {
+      "q": "Should I put 'technical PM' or 'product manager' on my resume?",
+      "a": "Use 'Technical Product Manager' if that's the job title you held or are targeting—it signals to ATS and humans that you were trusted with architectural decisions, not just feature spec. If your title was 'Product Manager' but you owned APIs or infrastructure, add '(Technical)' in parentheses or lead your first bullet with a technical accomplishment."
+    },
+    {
+      "q": "I'm an engineer moving to TPM—do I need an MBA or should I emphasize my coding background?",
+      "a": "Emphasize your coding background—it's your credibility. List 1–2 languages, mention a system you architected, and highlight a time you shipped something with your own hands. An MBA is nice but not necessary; shipping and metrics always trump credentials for TPM hiring."
+    },
+    {
+      "q": "How many products should I list on a TPM resume?",
+      "a": "Lead with 3–4 products you shipped end-to-end, ideally across 2–3 roles. If you've been at one company for 4+ years, show the progression: name the feature, ship date (or quarter), and the metric. Quality over quantity—one deeply impactful product beats five small ones."
+    },
+    {
+      "q": "What metrics matter most for a TPM resume?",
+      "a": "Revenue (ARR, MRR), user engagement (adoption %, retention, DAU), performance (latency, uptime), and operational efficiency (cost reduction, time saved) are strongest. Avoid vanity metrics—page views or 'user growth' without context. Always tie a metric to a decision or a shipped product."
+    },
+    {
+      "q": "I worked on failed products—should I mention them?",
+      "a": "Yes, but reframe as learning. Instead of 'shut down the feature,' say 'led post-mortem and user research that revealed misalignment with customer needs; pivoted team to [higher-impact product].' Failure + insight is credible; failure alone is a red flag."
+    }
+  ]
+}

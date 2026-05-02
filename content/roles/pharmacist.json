@@ -1,0 +1,134 @@
+{
+  "slug": "pharmacist",
+  "title": "Pharmacist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:31:49.561Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Pharmacist Resume: Tips & Examples for 2026",
+  "metaDescription": "Write a pharmacist resume that gets noticed. See examples, key skills, and ATS keywords hiring managers search for.",
+  "h1": "How to Write a Pharmacist Resume That Gets Interviews",
+  "intro": "Your pharmacist resume needs to prove you can manage medications safely, counsel patients effectively, and handle high-pressure environments—all while staying compliant with regulations. We'll show you how to highlight your clinical expertise and operational wins in a way that resonates with hiring managers and ATS systems.",
+  "audience": "Recent pharmacy school graduates, licensed pharmacists switching practice settings (retail to clinical, hospital to ambulatory care), and experienced pharmacists returning to the workforce.",
+  "topSkills": [
+    {
+      "name": "Pharmacy Practice Management Systems (PPMS)",
+      "why": "Most retail and hospital pharmacies use PharMerica, Medisafe, or similar platforms—employers assume you know at least one."
+    },
+    {
+      "name": "Patient Counseling & Communication",
+      "why": "State boards require this; hiring managers want evidence you explain medications clearly and reduce medication errors through patient education."
+    },
+    {
+      "name": "Medication Therapy Management (MTM)",
+      "why": "Insurance-reimbursable service that shows you can optimize patient outcomes and generate revenue for clinics and pharmacies."
+    },
+    {
+      "name": "Regulatory Compliance & DEA Regulations",
+      "why": "Controlled substance handling, HIPAA, and state pharmacy laws are non-negotiable; compliance violations sink applications."
+    },
+    {
+      "name": "Clinical Assessment & Lab Interpretation",
+      "why": "Especially for hospital, ambulatory care, and specialty pharmacy roles—shows you can catch drug interactions and dosing issues."
+    },
+    {
+      "name": "Dispensing & Inventory Management",
+      "why": "Proves you can maintain accuracy under pressure, reduce waste, and manage stock efficiently in any setting."
+    },
+    {
+      "name": "Immunization Administration",
+      "why": "State-wide vaccine programs and retail expansions make this a high-demand credential that increases your marketability."
+    },
+    {
+      "name": "Electronic Health Records (EHR) & NCPDP Standards",
+      "why": "Healthcare systems require EHR fluency; NCPDP standards ensure you understand pharmacy data interchange protocols."
+    },
+    {
+      "name": "Team Leadership & Staff Training",
+      "why": "If you've supervised technicians or led department initiatives, this separates you for pharmacy manager and senior roles."
+    },
+    {
+      "name": "Patient Safety & Error Reduction",
+      "why": "Hiring managers in any setting want to see your track record preventing adverse drug events and near-misses."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Dispensed medications to patients and answered questions about their prescriptions.",
+      "strong": "Counseled 150+ patients weekly on medication usage, side effects, and contraindications; identified and prevented 8–12 potential drug interactions monthly, reducing adverse events.",
+      "lesson": "Add scale (number of patients/interactions), quantify your impact (prevented errors), and show direct clinical outcomes, not just task completion."
+    },
+    {
+      "weak": "Managed inventory and made sure medications were in stock.",
+      "strong": "Optimized inventory turnover for 2,000+ SKUs, reducing expired stock waste by 25% YoY and freeing up $18K in cash flow while maintaining 99.2% availability for high-demand therapeutics.",
+      "lesson": "Replace vague actions with metrics: show how much you saved, improved efficiency, or maintained quality. Numbers make you memorable."
+    },
+    {
+      "weak": "Trained pharmacy technicians on proper dispensing procedures.",
+      "strong": "Designed and delivered quarterly training program for 6 technicians on USP <797> sterile compounding standards; reduced compounding errors by 40% and earned 100% compliance audit score.",
+      "lesson": "Show scope of leadership, the specific standard or skill taught, and a measurable outcome (audit scores, error rates, retention) that proves the training worked."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing license number or DEA credentials in the summary instead of a dedicated 'Licenses & Certifications' section",
+      "fix": "Create a clear, prominent section with full credentials: 'Licensed Pharmacist, State of [State], License #[XXX]' and 'DEA Registration [XXX].' ATS systems and hiring managers scan for this specific format."
+    },
+    {
+      "mistake": "Downplaying clinical decision-making or only listing routine dispensing tasks",
+      "fix": "Lead with high-impact clinical activities: MTM interventions, drug interaction reviews, therapeutic recommendations, or patient outcomes you influenced. Hiring managers want to see judgment, not just task execution."
+    },
+    {
+      "mistake": "Forgetting to mention practice setting experience or assuming all pharmacy jobs are the same",
+      "fix": "Clearly label your experience: retail, hospital, clinical, ambulatory care, specialty, long-term care, etc. Hiring managers in specialty settings want proof you've worked in similar environments."
+    },
+    {
+      "mistake": "Using generic language like 'improved efficiency' without any measure",
+      "fix": "Always tie improvements to measurable outcomes: 'reduced prescription fill time by 12%,' 'increased MTM revenue by $35K annually,' or 'improved patient satisfaction scores from 82% to 94%.' Vague wins don't stick."
+    },
+    {
+      "mistake": "Omitting continuing education, certifications, or specialty training beyond the PharmD",
+      "fix": "Include BCACP, BCPS, immunization certification, chemotherapy certification, or other specialty credentials in a separate section. These often unlock higher-paying roles and signal ongoing professional growth."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Licenses & Certifications' section at the very top—put your pharmacy license, DEA number, and specialty certs (BCPS, immunization, MTM) before your work history. Hiring managers verify these first.",
+    "Within each role, separate clinical responsibilities from operational ones: group 'drug therapy reviews' and 'patient counseling' together, then list 'inventory management' and 'PPMS administration' separately so both skill sets are visible.",
+    "If you're a new grad, replace 'years of experience' with 'internships,' 'rotations,' and 'clinical electives'—highlight the practice setting and what you did (e.g., 'Advanced Practice Rotation, [Hospital Name], Cardiology Unit: managed 20+ inpatients, performed 15+ MTM consults').",
+    "For career-switchers or re-entering professionals, add a brief 'Professional Summary' that flags your specialty or practice focus (retail, hospital, specialty pharmacy, clinical) so the hiring manager knows your exact niche immediately."
+  ],
+  "atsKeywords": [
+    "Licensed Pharmacist",
+    "Pharmacy Practice Management",
+    "Medication Therapy Management",
+    "Drug Interaction Review",
+    "Patient Counseling",
+    "Controlled Substance Handling",
+    "HIPAA Compliance",
+    "Electronic Health Records",
+    "Clinical Assessment",
+    "Immunization Administration"
+  ],
+  "salarySignal": "Entry-level US pharmacist salaries typically range from $110K to $130K; experienced pharmacists in specialty or clinical roles earn $130K–$160K+. Regional demand and practice setting (hospital vs. retail) significantly affect compensation.",
+  "faq": [
+    {
+      "q": "Should I include my pharmacy school GPA or graduation honors on my pharmacist resume?",
+      "a": "Only if you graduated in the last 1–2 years or earned honors (summa cum laude, Dean's List). After your first 2–3 years of practice, employers care far more about clinical outcomes and certifications than your PharmD GPA. Remove it to save space for impact metrics."
+    },
+    {
+      "q": "How do I showcase MTM and immunization experience if I haven't done many yet?",
+      "a": "Count every encounter: 'Conducted 8 comprehensive medication therapy management reviews for patients on 5+ chronic medications' or 'Administered 200+ vaccinations and maintained 100% patient compliance documentation.' Be specific about the number of patients served, which makes even small volumes look professional."
+    },
+    {
+      "q": "What's the best way to explain a gap in my pharmacy career (e.g., taking time off after grad school)?",
+      "a": "Address it briefly in a cover letter, not your resume. If you must note it on your resume, use 'Professional Development & Credentialing (2024–2025): Completed BCPS certification, MTM training, and specialty rotations.' Frame gaps as active growth, not absence."
+    },
+    {
+      "q": "Should I list every pharmacy system I've used, or just the major ones?",
+      "a": "List the 3–4 most common or current systems (e.g., PharMerica, Medisafe, Rx30) relevant to your target role. If you're applying to a specific chain or health system, research their PPMS and mention it. Generic 'proficient in pharmacy software' wastes space."
+    },
+    {
+      "q": "How do I stand out as a new grad pharmacist with no 'years of experience'?",
+      "a": "Highlight board certifications (BCACP, BCPS), specialty rotations, intern hours (total number), community health initiatives, and any publications or presentations. Quantify what you did: 'Completed 1,500+ internship hours in hospital and retail; managed 12-bed patient panel during clinical rotation.' New grads who show initiative and specialization rank higher."
+    }
+  ]
+}

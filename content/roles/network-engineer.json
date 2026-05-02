@@ -1,0 +1,134 @@
+{
+  "slug": "network-engineer",
+  "title": "Network Engineer",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:30:31.286Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Network Engineer Resume: Skills, Examples & Tips",
+  "metaDescription": "Write a Network Engineer resume that lands interviews. See sample bullets, key skills, and ATS keywords hiring managers search for.",
+  "h1": "Network Engineer Resume: Build a Resume That Gets Noticed",
+  "intro": "Your Network Engineer resume needs to prove you can design, deploy, and troubleshoot infrastructure that keeps businesses online. We'll walk you through the exact skills, metrics, and bullet-point formats that hiring managers look for—so you stand out over generic applications.",
+  "audience": "Recent network certification holders, junior network engineers, and IT professionals transitioning into dedicated network roles who want to land their next position.",
+  "topSkills": [
+    {
+      "name": "TCP/IP Networking",
+      "why": "Hiring managers expect you to understand the foundational protocols that power all network communication and troubleshooting."
+    },
+    {
+      "name": "Cisco IOS & Routing Protocols (OSPF, BGP)",
+      "why": "Cisco gear dominates enterprise networks, so hands-on IOS expertise and routing knowledge are almost always required."
+    },
+    {
+      "name": "Network Configuration & Deployment",
+      "why": "You need to prove you can actually configure switches, routers, and firewalls—not just understand theory."
+    },
+    {
+      "name": "Firewall Management (Palo Alto, Fortinet, Checkpoint)",
+      "why": "Security-first hiring means firewall experience is now table-stakes for most network roles."
+    },
+    {
+      "name": "LAN/WAN Architecture",
+      "why": "Employers want to see you've designed or optimized local and wide-area networks under real constraints."
+    },
+    {
+      "name": "Network Monitoring & Troubleshooting (Wireshark, Splunk, Nagios)",
+      "why": "Proactive monitoring and fast diagnosis of outages are what separate junior from mid-level engineers."
+    },
+    {
+      "name": "Cloud Networking (AWS, Azure, GCP)",
+      "why": "Hybrid and cloud-native infrastructure is now standard, so cloud networking skills give you a competitive edge."
+    },
+    {
+      "name": "CCNA or CCNP Certification",
+      "why": "Industry credentials validate your knowledge and show you've invested in staying current with vendor standards."
+    },
+    {
+      "name": "Network Documentation & Change Management",
+      "why": "Employers value engineers who write clear runbooks and follow change-control procedures to minimize risk."
+    },
+    {
+      "name": "VoIP & Unified Communications",
+      "why": "Many enterprises still rely on legacy or hybrid voice systems, making VoIP experience a plus."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed network switches and routers for the company.",
+      "strong": "Deployed and configured 40+ Cisco Catalyst switches across 5 data centers, reducing packet loss by 15% and improving failover time from 90s to <5s via redundant OSPF architecture.",
+      "lesson": "Replace generic tasks with specific device counts, measurable outcomes (packet loss %), and the technical method (OSPF) that shows real expertise."
+    },
+    {
+      "weak": "Monitored network performance and fixed problems when they happened.",
+      "strong": "Implemented Nagios and Wireshark-based monitoring for 200+ network endpoints, identifying and resolving latency issues in 2–4 hours (vs. 8–12 hour average), reducing ticket resolution time by 40%.",
+      "lesson": "Lead with the tool and scope (Nagios, 200+ endpoints), then quantify the impact (40% faster resolution) to show proactive management, not reactive firefighting."
+    },
+    {
+      "weak": "Helped migrate the office to a new firewall.",
+      "strong": "Led Palo Alto Networks PA-5220 migration for 1,200+ users with zero downtime, coordinating pre-flight security policy audits and post-deployment threat log analysis; achieved 99.98% availability in first month.",
+      "lesson": "Include the scope (1,200 users), the outcome (zero downtime, 99.98% uptime), and your specific role (led migration, audits, analysis) to show leadership and measurable success."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certifications without mentioning what you built or deployed with them.",
+      "fix": "Pair your CCNA or CCNP with a concrete example—e.g., 'CCNA-certified; designed and implemented OSPF routing for 3-site WAN upgrade, reducing inter-site latency by 25%.'"
+    },
+    {
+      "mistake": "Using vague phrases like 'network maintenance' or 'general IT support.'",
+      "fix": "Replace with specific tasks: 'configured BGP peering,' 'performed packet capture analysis,' 'audited ACLs for compliance,' or 'maintained SLA monitoring dashboards.'"
+    },
+    {
+      "mistake": "Ignoring security certifications or firewall experience in a DevSecOps world.",
+      "fix": "Explicitly call out firewall rules, DLP policies, threat detection, or network segmentation work—it's no longer optional for network engineers."
+    },
+    {
+      "mistake": "Not mentioning your cloud networking experience (AWS VPC, Azure Virtual Networks, etc.).",
+      "fix": "Add a bullet or skills section showing hybrid cloud experience—it's increasingly expected, especially for mid-level roles."
+    },
+    {
+      "mistake": "Failing to quantify uptime, speed improvements, or cost savings.",
+      "fix": "Always pair technical work with a metric: throughput gain (Gbps), latency reduction (ms), availability (%), or cost reduction (%)."
+    }
+  ],
+  "structureTips": [
+    "Lead your skills section with Cisco (or your primary vendor) and routing protocols, then follow with cloud platforms and tools—it shows you can configure the core network before diving into modern platforms.",
+    "Put your most impressive infrastructure project first in your experience section, even if it's not your most recent role—hiring managers skim the top 30 seconds, so impact beats chronology.",
+    "Create a 'Key Projects' or 'Technical Highlights' section below your experience if you've worked on major deployments or migrations (e.g., 'Data Center Migration,' 'Multi-site SD-WAN Implementation')—it breaks up text and catches the eye.",
+    "Include certifications prominently near the top if you hold CCNA, CCNP, or CompTIA Security+—they're credibility signals that hiring managers filter on, especially for gateway roles."
+  ],
+  "atsKeywords": [
+    "Cisco IOS configuration",
+    "OSPF and BGP routing",
+    "network troubleshooting",
+    "firewall management",
+    "LAN WAN design",
+    "CCNA CCNP certified",
+    "network monitoring tools",
+    "cloud networking AWS Azure",
+    "packet analysis Wireshark",
+    "network security protocols"
+  ],
+  "salarySignal": "Entry-level Network Engineer salaries in the US typically range from $55K to $70K, mid-level from $75K to $95K, and senior roles from $105K to $140K+, with significant variation by region, company size, and certifications.",
+  "faq": [
+    {
+      "q": "What certifications do I need for a Network Engineer resume?",
+      "a": "CCNA is the industry standard and almost always a plus; CCNP, CompTIA Security+, or AWS Certified Network Specialist will strengthen your candidacy for mid-to-senior roles. However, hands-on experience and measurable project results matter more than credentials alone."
+    },
+    {
+      "q": "How do I show networking experience if I'm coming from general IT support?",
+      "a": "Highlight any network-adjacent work: VLAN configuration, switch setup, firewall rule changes, VPN troubleshooting, or WAN optimization. Take a vendor lab (Cisco Packet Tracer, GNS3) or online course, then add a 'Projects' section showing what you built."
+    },
+    {
+      "q": "Should I include cloud networking skills on a Network Engineer resume?",
+      "a": "Yes. Modern networks are hybrid, so even basic AWS VPC or Azure VNET experience is valuable. If you've designed or migrated infrastructure to the cloud, make it prominent."
+    },
+    {
+      "q": "How do I quantify network performance improvements on my resume?",
+      "a": "Use metrics like latency (ms), throughput (Gbps or Mbps), packet loss (%), availability (%), MTTR (mean time to recovery), or cost savings (%). If you don't have exact numbers, use ranges: 'reduced failover time from ~2 minutes to <30 seconds.'"
+    },
+    {
+      "q": "What should I do if most of my experience is with a single vendor (e.g., only Cisco)?",
+      "a": "Emphasize your depth and certifications with that vendor, but add a 'Exposure to' or 'Familiar with' section listing competing platforms (Juniper, Arista, Fortinet, Palo Alto). Lab projects or coursework count—show you're willing to learn beyond your comfort zone."
+    }
+  ]
+}

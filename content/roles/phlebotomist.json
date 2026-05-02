@@ -1,0 +1,130 @@
+{
+  "slug": "phlebotomist",
+  "title": "Phlebotomist",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:32.302Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Phlebotomist Resume: Tips, Skills & Examples",
+  "metaDescription": "Write a standout phlebotomist resume with our expert tips, real bullet examples, and must-have skills to land interviews faster.",
+  "h1": "How to Write a Phlebotomist Resume That Gets Interviews",
+  "intro": "Phlebotomists are the backbone of blood collection in hospitals, clinics, and labs—and hiring managers want to see proof you can do the job safely and efficiently. This guide shows you exactly how to structure your resume, what skills to highlight, and how to turn your experience into bullets that actually impress.",
+  "audience": "Recent phlebotomy program graduates, certified phlebotomists entering the job market, and healthcare workers transitioning into phlebotomy roles.",
+  "topSkills": [
+    {
+      "name": "Venipuncture",
+      "why": "This is the core skill of phlebotomy—employers need to see you can draw blood safely and accurately from multiple collection sites."
+    },
+    {
+      "name": "Patient Safety & Infection Control",
+      "why": "Hiring managers prioritize candidates who understand OSHA regulations, bloodborne pathogen protocols, and sterile technique to prevent contamination and harm."
+    },
+    {
+      "name": "Laboratory Information System (LIS)",
+      "why": "Most modern labs use electronic systems to track samples; experience with LIS software (Cerner, Epic, or generic LIMS) saves employers training time."
+    },
+    {
+      "name": "Phlebotomy Certification (CPT/ASCP/NHA)",
+      "why": "Certification signals competency and compliance; many employers require or strongly prefer candidates with active credentials."
+    },
+    {
+      "name": "Capillary & Arterial Draw Techniques",
+      "why": "Beyond routine venipuncture, ability to perform pediatric, geriatric, or specialized draws (finger sticks, heel sticks, arterial punctures) expands your value."
+    },
+    {
+      "name": "Customer Service & Communication",
+      "why": "Phlebotomists work directly with anxious or difficult patients; demonstrating empathy and clear communication reduces no-shows and complaints."
+    },
+    {
+      "name": "Specimen Handling & Chain of Custody",
+      "why": "Lab accuracy depends on proper labeling, storage, and documentation; employers want proof you understand the stakes of a mishandled sample."
+    },
+    {
+      "name": "Time Management & High-Volume Processing",
+      "why": "Hospital and clinic labs often run hundreds of draws per day; showing you can manage heavy workloads without sacrificing quality matters."
+    },
+    {
+      "name": "Troubleshooting & Problem-Solving",
+      "why": "Difficult veins, patient anxiety, and equipment issues are routine; hiring managers value candidates who stay calm and find solutions."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed phlebotomy duties and collected blood samples from patients.",
+      "strong": "Performed venipuncture on 50-80 patients daily across diverse demographics (pediatric, geriatric, difficult veins) with 98%+ first-stick success rate and zero incident reports.",
+      "lesson": "Adding volume, specificity (age groups, difficulty), and a real outcome metric shows impact, not just task completion."
+    },
+    {
+      "weak": "Maintained lab records and entered patient information into the system.",
+      "strong": "Logged and verified 2,000+ monthly specimen entries in Epic LIS with 100% accuracy; identified and flagged mislabeled samples, preventing 3-5 result errors per month.",
+      "lesson": "Quantifying work volume and showing how you added value (error prevention) transforms a clerical duty into a compliance win."
+    },
+    {
+      "weak": "Helped patients feel comfortable during blood draws.",
+      "strong": "De-escalated 10-15 anxious/needle-phobic patients per month through clear communication and technique; achieved 95% patient satisfaction rating on post-visit surveys.",
+      "lesson": "Concrete patient counts and satisfaction metrics prove soft skills are measurable and valuable to the clinic's reputation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certification but not the expiration date or issuing body",
+      "fix": "Always include the full credential (e.g., 'Certified Phlebotomy Technician (ASCP), License expires 06/2027') so hiring managers know it's current and valid."
+    },
+    {
+      "mistake": "Burying clinical hours or practicum experience",
+      "fix": "If you're a new grad without work history, lead with your phlebotomy program, clinical externship hours, and real-world rotations—hiring managers understand lab-based training counts."
+    },
+    {
+      "mistake": "Not mentioning specific lab equipment or software you've used",
+      "fix": "Name the exact LIS (Epic, Cerner, etc.), centrifuges, or draw chairs you're trained on; ATS systems scan for these tools, and it proves you won't need weeks of onboarding."
+    },
+    {
+      "mistake": "Glossing over high-acuity or specialty experience",
+      "fix": "If you've worked in oncology, ICU, or pediatric phlebotomy, call it out—these specialties command higher respect and often higher pay."
+    },
+    {
+      "mistake": "Using vague language like 'worked in a busy lab'",
+      "fix": "Replace with specifics: 'processed 300+ specimens per shift,' 'drew blood in a 500+ bed hospital,' or 'rotated through 3 departments during clinical training.'"
+    }
+  ],
+  "structureTips": [
+    "Put your certification (and its expiration date) prominently near your name or at the top of your professional summary—it's often a non-negotiable requirement.",
+    "Lead experience with metrics: patient volume, success rates, and systems you've used. Employers want to know you can handle their workload day one.",
+    "If you're a recent grad with limited work history, create a 'Clinical Training' or 'Phlebotomy Practicum' section and list hours, departments rotated, and techniques mastered.",
+    "Group LIS software, lab equipment, and technical certifications (CPR, bloodborne pathogens) in a dedicated 'Skills' section so ATS and hiring managers spot them instantly."
+  ],
+  "atsKeywords": [
+    "Phlebotomy Technician",
+    "Certified Phlebotomy Technician",
+    "Venipuncture",
+    "Patient blood draw",
+    "Laboratory Information System",
+    "Infection control",
+    "Specimen handling",
+    "OSHA compliance",
+    "Capillary draw",
+    "Healthcare certification"
+  ],
+  "salarySignal": "Entry-level phlebotomists in the US typically earn $28,000–$35,000 annually; experienced or hospital-based phlebotomists can reach $38,000–$45,000+, depending on location and shift differentials.",
+  "faq": [
+    {
+      "q": "Do I need to be certified to get hired as a phlebotomist?",
+      "a": "Certification (CPT, ASCP, or NHA) is not legally required in all states, but most hospitals and large labs strongly prefer or require it. Some clinics hire phlebotomy students or on-the-job trainees, but certification significantly improves your odds and starting pay. Put it on your resume prominently if you have it."
+    },
+    {
+      "q": "How do I highlight phlebotomy experience if I'm a new graduate?",
+      "a": "Create a 'Clinical Training' or 'Practicum' section listing your school, total clinical hours, departments you rotated through, and specific techniques you performed (venipuncture, capillary, arterial). Employers know what phlebotomy school entails, so don't undersell this experience. Include any supervisor praise or high performance metrics from your clinicals."
+    },
+    {
+      "q": "What lab software should I mention on my resume?",
+      "a": "List any LIS you've used (Epic, Cerner, Meditech, etc.) and any other lab tools (centrifuges, tube readers, drawing chairs). If you haven't used hospital software yet, name any generic lab management or electronic health record training you've had. Employers want proof you're not afraid of technology."
+    },
+    {
+      "q": "Should I include my first-stick success rate or patient satisfaction numbers?",
+      "a": "Yes—if you have them. Metrics like 'first-stick success rate of 95%+' or 'patient satisfaction rating of 4.8/5' are extremely valuable and differentiate you. If you don't have formal metrics, ask your clinical supervisor or current employer if they can provide them."
+    },
+    {
+      "q": "How long should my phlebotomist resume be?",
+      "a": "Keep it to one page if you're early-career (under 3 years) or two pages if you have 5+ years of diverse experience. Hiring managers often screen dozens of applications; concise, metric-heavy bullets win over lengthy descriptions."
+    }
+  ]
+}

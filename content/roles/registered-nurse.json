@@ -1,0 +1,134 @@
+{
+  "slug": "registered-nurse",
+  "title": "Registered Nurse",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:30:25.709Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Registered Nurse Resume: Examples & Tips to Land Interviews",
+  "metaDescription": "Build a compelling RN resume with actionable tips, sample bullets, and ATS keywords. Stand out to hiring managers and recruiters.",
+  "h1": "How to Write a Registered Nurse Resume That Gets Noticed",
+  "intro": "Your resume is your first chance to show hiring managers you're the clinical expert and patient advocate they need. We'll walk you through the exact format, keywords, and real examples that help RN resumes stand out—whether you're fresh out of nursing school or transitioning between specialties.",
+  "audience": "New RN graduates, nurses changing specialties or healthcare settings, and career switchers with clinical backgrounds applying to hospital and clinic jobs.",
+  "topSkills": [
+    {
+      "name": "Patient Care & Assessment",
+      "why": "Hiring managers want evidence you can safely assess patients, recognize changes in condition, and respond appropriately—the core of nursing."
+    },
+    {
+      "name": "Electronic Health Records (EHR)",
+      "why": "Nearly every healthcare setting uses EHR systems like Epic, Cerner, or Meditech; proficiency is assumed and often screened by ATS."
+    },
+    {
+      "name": "IV Therapy & Medication Administration",
+      "why": "Demonstrable clinical competencies that show you can handle core nursing tasks independently and safely."
+    },
+    {
+      "name": "Critical Thinking & Clinical Judgment",
+      "why": "Hospitals and clinics need nurses who can triage, prioritize care, and escalate concerns—not just follow protocols."
+    },
+    {
+      "name": "Communication & Handoff",
+      "why": "Patient safety depends on clear handoffs to other nurses and providers; hiring managers look for evidence of strong communication."
+    },
+    {
+      "name": "BLS/ACLS Certification",
+      "why": "Most RN positions require current certification; listing it upfront signals you meet baseline compliance requirements."
+    },
+    {
+      "name": "Infection Control & Safety Protocols",
+      "why": "Post-COVID, healthcare settings prioritize nurses who demonstrate strong adherence to safety and prevention standards."
+    },
+    {
+      "name": "Teamwork & Collaborative Care",
+      "why": "Nursing is inherently collaborative; evidence of working with interdisciplinary teams and supporting colleagues is valued."
+    },
+    {
+      "name": "Patient Education & Discharge Planning",
+      "why": "Hospitals now measure readmission rates; nurses who educate patients and plan safe discharges reduce costs and improve outcomes."
+    },
+    {
+      "name": "Time Management & Organization",
+      "why": "RNs juggle multiple patients and priorities; concrete examples of managing heavy workloads set you apart from generic resumes."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Provided patient care on a busy medical-surgical unit. Used EHR system to document patient information. Helped train new nurses.",
+      "strong": "Delivered safe, compassionate care to 6–8 patients on a 32-bed medical-surgical unit; maintained 98% medication accuracy and zero adverse events. Trained 4 new graduate RNs on EHR workflows and unit protocols, reducing onboarding time by 2 weeks.",
+      "lesson": "Adding specific numbers (patient load, accuracy rate, outcomes, and the impact of your training) transforms vague tasks into measurable contributions."
+    },
+    {
+      "weak": "Collaborated with doctors and other staff to manage patient care. Recognized changes in patient condition and reported them.",
+      "strong": "Recognized early signs of sepsis in 2 patients within 48 hours of admission and escalated concerns to physicians; both patients received timely antibiotics and recovered without complications. Participated in daily multidisciplinary rounds and contributed clinical assessments that informed care plans.",
+      "lesson": "Highlighting specific clinical judgment moments and patient outcomes shows hiring managers you don't just follow orders—you think critically and drive better care."
+    },
+    {
+      "weak": "Completed certifications. Good at organizing tasks. Received positive feedback from patients.",
+      "strong": "Maintained current BLS, ACLS, and PALS certifications. Consistently ranked in top 10% on unit-level patient satisfaction surveys (average score: 4.8/5.0) for compassion and communication. Coordinated safe hospital-to-home transitions for 40+ patients annually, with <8% 30-day readmission rate vs. unit average of 12%.",
+      "lesson": "Quantifying soft skills (patient satisfaction, readmission outcomes) and certifications with real metrics proves your impact on the metrics hospitals actually care about."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing generic duties instead of outcomes",
+      "fix": "Replace 'Provided nursing care' with specific examples: 'Managed central lines, reduced CLABSI rate by 25% through strict asepsis protocols,' or 'Educated 50+ diabetic patients on insulin administration and glucose monitoring.'"
+    },
+    {
+      "mistake": "Omitting or burying certifications",
+      "fix": "List BLS, ACLS, PALS, and specialty certifications (e.g., CCRN, TNCC) near the top of your resume or in a dedicated 'Licenses & Certifications' section—ATS and hiring managers scan for these immediately."
+    },
+    {
+      "mistake": "Using vague medical jargon without context",
+      "fix": "Write bullets a non-clinician could understand, but don't dumb it down; e.g., 'Monitored hemodynamic stability in ICU patients post-operative' is clear and specific without being generic."
+    },
+    {
+      "mistake": "Ignoring EHR systems you've used",
+      "fix": "List specific platforms (Epic, Cerner, Meditech, etc.) you've trained on or worked with; many healthcare facilities filter by EHR experience and will scan your resume for these keywords."
+    },
+    {
+      "mistake": "Downplaying specialty skills or recent training",
+      "fix": "If you've completed new certifications, specialty units (ICU, ED, OR), or quality improvement projects, feature them prominently—they signal you're invested in professional growth and adaptable."
+    }
+  ],
+  "structureTips": [
+    "Lead with a brief professional summary (2–3 lines) that highlights your specialty, years of experience, and top credential—e.g., 'Compassionate RN with 3 years of critical care experience in a Level 1 trauma center. BLS, ACLS, CCRN certified.'",
+    "Put your 'Licenses & Certifications' section immediately below your summary or at the top of your experience section so hiring managers see current BLS, ACLS, and specialty certs without scrolling.",
+    "Organize your experience by the most recent or relevant role first, and group bullet points by theme (patient care outcomes, quality improvements, training/mentoring) rather than listing random tasks top to bottom.",
+    "Add a 'Core Competencies' or 'Clinical Skills' section with 8–12 keywords (e.g., 'IV Therapy, EHR Documentation, Patient Advocacy, Infection Control, Interdisciplinary Collaboration') to boost ATS matching and give recruiters a quick scan."
+  ],
+  "atsKeywords": [
+    "Registered Nurse",
+    "Patient Care",
+    "Electronic Health Records",
+    "BLS ACLS",
+    "IV Therapy",
+    "Medication Administration",
+    "Clinical Assessment",
+    "Patient Safety",
+    "Infection Control",
+    "Nursing Documentation"
+  ],
+  "salarySignal": "Entry-level RN salaries in the US typically range from $55,000 to $70,000 annually; experienced RNs in high-cost-of-living areas or specialty roles (ICU, OR, ED) often earn $75,000–$95,000+. Salary varies widely by region, facility type, and shift (night shift premiums common).",
+  "faq": [
+    {
+      "q": "Should I list patient care hours or number of patients on my RN resume?",
+      "a": "Yes—if you can quantify it. For example, 'Managed 6–8 patients per shift' or 'Completed 2,000+ hours of clinical rotation across medical-surgical, ICU, and ED units' gives hiring managers a concrete sense of your experience level and workload capacity. Always keep patient confidentiality in mind; never list names or identifiers."
+    },
+    {
+      "q": "What if I'm a new graduate RN with no work experience yet?",
+      "a": "Lead with your clinical rotations, preceptorship placements, and notable projects from nursing school—e.g., 'Completed 12-week senior capstone in 24-bed ICU under CCRN preceptor; performed initial assessments, managed telemetry, and assisted with 50+ admissions.' Include certifications (BLS, ACLS), GPA if 3.5+, and any volunteer or internship experience. Emphasize clinical skills you demonstrated and patient outcomes from your rotations."
+    },
+    {
+      "q": "How do I highlight specialty skills or certifications like CCRN or TNCC?",
+      "a": "Create a dedicated 'Licenses & Certifications' section that lists the credential, issuing body, and expiration date. Then weave related experience into your job bullets—e.g., 'Earned CCRN certification and applied advanced hemodynamic monitoring skills to reduce ICU length of stay by 8%.' This shows both the credential and the real-world impact."
+    },
+    {
+      "q": "What EHR systems should I mention on my RN resume?",
+      "a": "List any system you've worked with or trained on: Epic, Cerner, Meditech, NextGen, eClinicalWorks, etc. Hiring managers often search for candidates with specific EHR experience because training costs time. If you're proficient in multiple systems, list them—it's a competitive advantage for roles that value flexibility."
+    },
+    {
+      "q": "How do I show quality improvement or leadership on an RN resume?",
+      "a": "Use bullet points that reference specific initiatives—e.g., 'Led unit-wide fall prevention project; implemented new assessment protocol that reduced falls by 35% and earned recognition from nursing leadership,' or 'Mentored 3 new graduate RNs through orientation; all 3 retained beyond first year.' These examples show you think beyond individual patient care and contribute to the organization's goals."
+    }
+  ]
+}

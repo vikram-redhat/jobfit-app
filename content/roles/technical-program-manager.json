@@ -1,0 +1,130 @@
+{
+  "slug": "technical-program-manager",
+  "title": "Technical Program Manager",
+  "category": "tech",
+  "generatedAt": "2026-05-02T22:29:04.439Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Technical Program Manager Resume: Tips & Examples",
+  "metaDescription": "Build a winning TPM resume with actionable examples, ATS keywords, and hiring manager insights. Stand out with metrics that matter.",
+  "h1": "How to Write a Technical Program Manager Resume That Gets Noticed",
+  "intro": "Technical Program Managers sit at the intersection of engineering, product, and operations—and your resume needs to prove you can speak all three languages. This guide shows you how to highlight the coordination, problem-solving, and delivery skills that hiring managers actually want to see.",
+  "audience": "Software engineers moving into program management, recent MBA grads targeting tech roles, and operations professionals breaking into tech companies.",
+  "topSkills": [
+    {
+      "name": "Project & Program Management",
+      "why": "TPMs live and breathe delivery timelines; hiring managers need to see you can own end-to-end execution."
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "why": "You'll coordinate engineers, designers, PMs, and stakeholders daily—evidence of influence without authority matters most."
+    },
+    {
+      "name": "Roadmap & Planning",
+      "why": "TPMs define technical strategy and multi-quarter goals; showing you've built roadmaps is table stakes."
+    },
+    {
+      "name": "Stakeholder Communication",
+      "why": "Translating technical complexity for non-technical executives and keeping teams aligned is 40% of the job."
+    },
+    {
+      "name": "Risk & Dependency Management",
+      "why": "Hiring managers want proof you anticipate blockers and navigate cross-team constraints proactively."
+    },
+    {
+      "name": "Agile & Scrum",
+      "why": "Most tech orgs run on Agile; explicit experience with sprints, standups, and retrospectives is expected."
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "why": "TPMs justify trade-offs with metrics; show you track velocity, quality, and business impact."
+    },
+    {
+      "name": "Technical Acumen",
+      "why": "You don't need to code, but you must understand architecture, APIs, and technical constraints to be credible."
+    },
+    {
+      "name": "Jira, Confluence & Tooling",
+      "why": "Resume should name the specific PM tools you've mastered—it signals readiness on day one."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed a technical program for a cloud infrastructure project.",
+      "strong": "Led cross-team delivery of cloud migration initiative affecting 5 engineering teams (30+ engineers); reduced deployment time by 35% and cut infrastructure costs by $200K annually through process redesign and dependency mapping.",
+      "lesson": "Specificity, team scale, and measurable business impact (timeline improvement + cost savings) transform a vague accomplishment into a hiring manager's proof of competence."
+    },
+    {
+      "weak": "Communicated with stakeholders about project status.",
+      "strong": "Established weekly executive syncs and monthly business reviews for $15M product initiative; created transparent roadmap dashboard that reduced scope creep questions by 60% and improved leadership buy-in across 3 org units.",
+      "lesson": "Naming the communication mechanism, quantifying the outcome (reduced questions), and connecting it to business value (buy-in) shows strategic impact beyond just 'reporting.'"
+    },
+    {
+      "weak": "Helped coordinate between engineering and product teams.",
+      "strong": "Unblocked 2-week dependency gridlock between backend and frontend teams by mapping critical path, negotiating API contract changes, and creating shared sprint goals; shipped feature 10 days ahead of revised timeline.",
+      "lesson": "TPMs solve bottlenecks; showing the problem, your method, and the outcome demonstrates the actual value of program management."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing PM responsibilities instead of outcomes",
+      "fix": "Replace 'Managed project timelines' with 'Delivered 4 consecutive releases on schedule while reducing bug escape rate by 25% through earlier QA integration.' Outcomes prove impact."
+    },
+    {
+      "mistake": "Underselling your communication impact",
+      "fix": "Don't just say you 'presented status updates.' Quantify: 'Built stakeholder dashboard reducing escalations by 40%' or 'Facilitated alignment meetings that cut rework by 3 weeks.'"
+    },
+    {
+      "mistake": "Forgetting to highlight technical credibility",
+      "fix": "If you came from engineering, lead with that and show how it informed your PM work. If you didn't, add 'Technical acumen: familiar with microservices, REST APIs, Kubernetes, CI/CD pipelines' (or whatever applies)."
+    },
+    {
+      "mistake": "Not naming specific tools and methodologies",
+      "fix": "Write 'Jira, Confluence, Asana' instead of 'project management software.' Write 'Agile/Scrum, SAFe' instead of 'agile processes.' ATS and hiring managers search for exact tool names."
+    },
+    {
+      "mistake": "Treating all programs as equal weight",
+      "fix": "Prioritize by complexity, headcount, or budget. A 3-team 4-week project is not as impressive as a 50-person, cross-org, 12-month delivery. Lead with your biggest wins."
+    }
+  ],
+  "structureTips": [
+    "Lead your experience section with your most complex delivery (team size, timeline, budget, cross-functional scope). TPMs are hired for orchestration complexity, not individual tasks.",
+    "Create a dedicated 'Technical Skills' or 'Tools & Methodologies' section listing Jira, Confluence, Git, Asana, SAFe, Agile, Scrum, etc. TPMs need to show day-one productivity with your company's stack.",
+    "Use a 'Key Projects' or 'Programs Led' subsection under each role to clearly surface 2–3 headline accomplishments, each with team size, timeline, and measurable outcome. Bury the rest in a bullet or omit it.",
+    "If you transitioned from engineering, keep a brief 'Technical Background' line (e.g., '5 years full-stack backend development') near the top to build credibility; it explains why you can talk to engineers as a peer."
+  ],
+  "atsKeywords": [
+    "Technical Program Manager",
+    "cross-functional leadership",
+    "project delivery",
+    "Agile Scrum",
+    "roadmap planning",
+    "stakeholder management",
+    "risk mitigation",
+    "Jira Confluence",
+    "technical acumen",
+    "dependency management"
+  ],
+  "salarySignal": "Entry-level TPM roles (0–2 years PM experience) typically range $130K–$170K in the US; mid-level ($150K–$220K); senior TPM roles exceed $200K. FAANG and high-growth startups trend higher.",
+  "faq": [
+    {
+      "q": "Do I need an engineering background to become a Technical Program Manager?",
+      "a": "No, but you need technical credibility. If you don't code, highlight domain expertise (infrastructure, data, APIs) and name the technologies you've worked with. Many strong TPMs come from product, operations, or consulting."
+    },
+    {
+      "q": "What metrics should I include on a TPM resume?",
+      "a": "Focus on delivery impact: timeline compression (shipped X weeks early), cost savings, quality metrics (bug reduction %), team velocity improvements, or business KPIs influenced (revenue, user growth). Avoid vanity metrics like 'managed 50 projects'—depth beats breadth."
+    },
+    {
+      "q": "How do I show cross-functional leadership without a management title?",
+      "a": "Use verbs like 'orchestrated,' 'aligned,' 'negotiated,' and 'unblocked' paired with outcomes. Example: 'Orchestrated buy-in from 4 teams on shared API contract, reducing integration time by 3 weeks.' Leadership shows in results, not title."
+    },
+    {
+      "q": "Should I include Agile certifications (CSM, CSPO) on my TPM resume?",
+      "a": "If you have them, yes—add them to a brief 'Certifications' section. They're not required but signal formal training. More important: proven track record shipping on Agile teams."
+    },
+    {
+      "q": "How much technical detail should I include?",
+      "a": "Enough to show you understand constraints and can translate between engineers and business. Avoid jargon salad; if you mention microservices or Kubernetes, tie it to a program outcome (e.g., 'advocated for Kubernetes migration to reduce ops overhead by 40%')."
+    }
+  ]
+}

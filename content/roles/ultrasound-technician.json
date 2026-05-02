@@ -1,0 +1,136 @@
+{
+  "slug": "ultrasound-technician",
+  "title": "Ultrasound Technician",
+  "category": "healthcare",
+  "generatedAt": "2026-05-02T22:34:32.675Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Ultrasound Technician Resume: Tips & Examples for 2026",
+  "metaDescription": "Land your next ultrasound tech role. Learn what hiring managers want on your resume, from certifications to clinical skills.",
+  "h1": "Ultrasound Technician Resume: What Hiring Managers Really Want to See",
+  "intro": "As an ultrasound technician, your resume needs to prove you can operate equipment safely, produce quality images, and handle patient care professionally. We'll show you how to highlight your clinical skills, certifications, and experience in ways that stand out to hiring managers and ATS systems.",
+  "audience": "Recent graduates from ultrasound programs, newly certified sonographers, and healthcare professionals transitioning into ultrasound roles.",
+  "topSkills": [
+    {
+      "name": "RDMS or ARDMS Certification",
+      "why": "Most employers require or strongly prefer credential verification; it's the first thing hiring managers check for this role."
+    },
+    {
+      "name": "B-mode and Doppler Ultrasound",
+      "why": "Core technical competencies that demonstrate hands-on proficiency with the modalities employers rely on daily."
+    },
+    {
+      "name": "Patient Care & Communication",
+      "why": "You're often the first clinical contact; ability to explain procedures and comfort anxious patients is directly valued by hiring teams."
+    },
+    {
+      "name": "Image Quality & Artifact Recognition",
+      "why": "Ultrasound managers care deeply about diagnostic accuracy; spotting and correcting artifacts separates competent techs from great ones."
+    },
+    {
+      "name": "EHR & Ultrasound Software (GE, Philips, Siemens)",
+      "why": "Most facilities use vendor-specific systems; experience with common platforms reduces onboarding time and increases your marketability."
+    },
+    {
+      "name": "Obstetric Ultrasound",
+      "why": "OB is a high-demand specialty; if you have training or certification, it significantly expands job opportunities."
+    },
+    {
+      "name": "Abdominal & Vascular Ultrasound",
+      "why": "These are the most frequently ordered exams; familiarity with protocols and anatomy makes you immediately valuable."
+    },
+    {
+      "name": "HIPAA Compliance & Medical Records Management",
+      "why": "Healthcare facilities are strict about data security; demonstrating awareness of compliance is a compliance and liability safeguard."
+    },
+    {
+      "name": "Infection Control & Sterile Technique",
+      "why": "Patient safety is non-negotiable; experience with sterilization procedures and infection prevention protocols is expected."
+    },
+    {
+      "name": "Clinical Workflow & Time Management",
+      "why": "Ultrasound departments are fast-paced; your ability to manage multiple exams and maintain quality under pressure is a key differentiator."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Performed ultrasound exams and helped patients feel comfortable.",
+      "strong": "Completed 20–30 diagnostic ultrasound exams daily (abdominal, OB, vascular) with zero rejected images; maintained 98% patient satisfaction via clear pre-procedure communication and compassionate care.",
+      "lesson": "Adding specific exam volume, imaging quality metric, and patient satisfaction percentage transforms a vague duty into proof of clinical competence and reliability."
+    },
+    {
+      "weak": "Used ultrasound equipment and followed safety procedures.",
+      "strong": "Operated GE Logiq E9 and Philips iU22 ultrasound systems; maintained equipment per manufacturer protocols; performed monthly quality assurance tests, achieving 100% equipment uptime over 18-month tenure.",
+      "lesson": "Naming specific equipment brands and adding quantifiable uptime/compliance metrics shows technical depth and reliability that hiring managers trust."
+    },
+    {
+      "weak": "Helped train new technicians and managed patient records.",
+      "strong": "Mentored 4 newly hired ultrasound technicians on scanning protocols and image optimization; reduced first-exam scanning time by 35% through peer feedback; ensured 100% HIPAA-compliant record documentation across 150+ monthly exams.",
+      "lesson": "Quantifying training impact (number of staff trained, time savings) and compliance metrics proves leadership and attention to quality and regulations."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing certification without date or renewal status.",
+      "fix": "Always include 'RDMS (AIUM), Registered 2023; Renewal eligible 2026' so employers know your credential is current and verifiable."
+    },
+    {
+      "mistake": "Focusing on general 'patient care' without clinical specifics.",
+      "fix": "Name the exam types you're trained in (OB, vascular, abdominal, cardiac, etc.) so hiring managers can immediately see if you match their department's needs."
+    },
+    {
+      "mistake": "Omitting equipment or software experience entirely.",
+      "fix": "Even if you've used just one ultrasound system or EHR, name it explicitly—employers filter for platform familiarity and it's a quick way to pass resume screening."
+    },
+    {
+      "mistake": "Downplaying image quality or diagnostic accuracy.",
+      "fix": "Instead of 'produced clear images,' say 'achieved <95% first-pass image acceptance rate' or 'zero diagnostic retakes due to quality issues'—these prove technical skill."
+    },
+    {
+      "mistake": "Not addressing gaps or non-standard career paths.",
+      "fix": "If you returned to school, changed specialties, or took time off, use a brief cover note to frame it positively so hiring managers don't wonder about your reliability."
+    }
+  ],
+  "structureTips": [
+    "Place your RDMS or ARDMS certification at the very top of your certifications section with the registration date and renewal year—it's the hiring manager's first credential check.",
+    "Lead your professional summary or objective with your primary ultrasound specialty (e.g., 'Registered Diagnostic Medical Sonographer (RDMS) specializing in obstetric and abdominal imaging with 3+ years clinical experience').",
+    "List equipment and software skills in their own section or as a sub-line under key roles so ATS systems and hiring managers spot your platform experience instantly.",
+    "Group exam types or specialties (OB, vascular, cardiac, abdominal) near the top of your bullet points so hiring managers can assess clinical breadth at a glance."
+  ],
+  "atsKeywords": [
+    "RDMS certification",
+    "Registered Diagnostic Medical Sonographer",
+    "B-mode ultrasound",
+    "Doppler ultrasound imaging",
+    "Obstetric ultrasound",
+    "Abdominal ultrasound",
+    "Vascular ultrasound",
+    "Ultrasound equipment operation",
+    "Patient care and communication",
+    "HIPAA compliance",
+    "EHR documentation",
+    "Infection control"
+  ],
+  "salarySignal": "Entry-level ultrasound technicians in the US typically earn $35,000–$45,000 annually; experienced RDMSs with specialty credentials (OB, cardiac) often reach $50,000–$70,000+, depending on region, employer type, and shift differentials.",
+  "faq": [
+    {
+      "q": "Do I need RDMS certification to put 'Ultrasound Technician' on my resume?",
+      "a": "You can use the title if you're licensed or working toward certification in your state, but most employers strongly prefer or require RDMS (or equivalent regional credential). Always list your credential status clearly—'RDMS, Registered 2023' or 'RDMS Exam Eligible, expected 2026'—so there's no confusion."
+    },
+    {
+      "q": "Should I list every ultrasound exam type I've done, or just the main ones?",
+      "a": "List the exams you're confident and competent in. Hiring managers will probe specifics in interviews, so include OB, abdominal, vascular, cardiac, or MSK if you have solid experience—but leave off exams where you assisted passively or have minimal hands-on time."
+    },
+    {
+      "q": "How do I show image quality or diagnostic accuracy on a resume?",
+      "a": "Use metrics like 'first-pass acceptance rate,' 'zero rejected exams in X time period,' 'reduced retake rate by Y%,' or 'feedback score of 4.8/5.0 from attending radiologists.' These numbers prove technical skill without being too specific about patient data."
+    },
+    {
+      "q": "Is equipment experience (GE, Philips, etc.) important to mention?",
+      "a": "Yes—name any ultrasound systems or EHR platforms you've used, especially if they're common in your target region or facility type. ATS systems often search for specific equipment, and it signals you won't need extensive retraining."
+    },
+    {
+      "q": "What if I'm a newly certified or recent grad with no clinical experience?",
+      "a": "Highlight your clinical rotations, practicum hours, and the facilities or exam types you trained in. Quantify: 'Completed 500+ supervised diagnostic exams across OB, abdominal, and vascular during clinical program.' Include certifications, volunteer health work, and any continuing education or specializations you've pursued."
+    }
+  ]
+}
