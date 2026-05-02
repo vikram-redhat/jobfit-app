@@ -3,6 +3,7 @@
 // breadcrumb, and footer. Pass children to render the form + result body.
 
 import Link from 'next/link';
+import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export default function ToolPageLayout({
   eyebrow,    // e.g. "Free tool · No signup"
@@ -18,7 +19,8 @@ export default function ToolPageLayout({
         <Link href="/" className="text-xl font-bold tracking-tight">
           JobFit<span className="text-blue-600">.today</span>
         </Link>
-        <nav className="flex items-center gap-4 text-sm text-gray-500">
+        <nav className="flex items-center gap-4 sm:gap-5 text-sm text-gray-500">
+          <Link href="/resume-for" className="hidden sm:inline hover:text-gray-800 transition-colors">Resume guides</Link>
           <Link href="/tools" className="hover:text-gray-800 transition-colors">Free tools</Link>
           <Link href="/" className="hover:text-gray-800 transition-colors">Sign in</Link>
         </nav>
@@ -59,13 +61,19 @@ export default function ToolPageLayout({
       </main>
 
       {/* Footer */}
-      <footer className="px-6 py-6 border-t border-gray-100 flex items-center justify-between max-w-3xl mx-auto w-full">
-        <span className="text-xs text-gray-400 font-mono">
-          © {new Date().getFullYear()} JobFit
-        </span>
-        <div className="flex items-center gap-4 text-xs text-gray-400">
-          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
-          <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
+      <footer className="px-6 py-6 border-t border-gray-100 max-w-3xl mx-auto w-full">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <span className="text-xs text-gray-400 font-mono">
+            © {new Date().getFullYear()} JobFit
+          </span>
+          <div className="flex items-center gap-4 text-xs text-gray-400">
+            <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
+            <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+            <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
+          </div>
+        </div>
+        <div className="mt-3 text-center sm:text-left">
+          <BuiltWithClaude />
         </div>
       </footer>
     </div>

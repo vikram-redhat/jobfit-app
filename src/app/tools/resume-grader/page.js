@@ -1,6 +1,7 @@
 // src/app/tools/resume-grader/page.js
 // Server-rendered landing page. Form is a client island.
 
+import Link from 'next/link';
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
 
@@ -62,6 +63,15 @@ export default function ResumeGraderPage() {
         subtitle="Paste your resume. Get a letter grade and three specific fixes — based on what hiring managers and ATS systems actually care about."
         faq={faq}
       >
+        {/* Contextual cross-link to /resume-for — visitors are likely to want
+            specific advice for their target role after seeing the grade. */}
+        <div className="mb-6 px-4 py-3 rounded-lg bg-gray-50 border border-gray-200 text-sm text-gray-600 flex items-center justify-between gap-3 flex-wrap">
+          <span>Want resume tips for a specific role?</span>
+          <Link href="/resume-for" className="text-blue-700 hover:underline font-semibold whitespace-nowrap">
+            Browse 200+ resume guides →
+          </Link>
+        </div>
+
         <ToolForm
           endpoint="/api/tools/grade-resume"
           inputName="resume"

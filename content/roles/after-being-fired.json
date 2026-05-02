@@ -1,0 +1,124 @@
+{
+  "slug": "after-being-fired",
+  "title": "After Being Fired",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:24:25.208Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Resume After Being Fired: How to Address It",
+  "metaDescription": "Practical resume strategies for after job termination. Address the gap honestly, reframe your value, and move forward.",
+  "h1": "Your Resume After Being Fired",
+  "intro": "Being fired is disorienting and often embarrassing. The first instinct is to hide it or apologize on your resume — don't. This guide shows you how to address the ending directly, reframe what you learned, and give employers reason to hire you anyway.",
+  "audience": "People who were recently terminated and are now job searching, wondering how to explain the end date and rebuild confidence.",
+  "topSkills": [
+    {
+      "name": "Resilience and rapid learning",
+      "why": "You've already been knocked down; showing you can get back up matters more than pretending the fall didn't happen."
+    },
+    {
+      "name": "Honesty and accountability",
+      "why": "Employers worry about candidates who hide things. Direct acknowledgment of a firing — without blame-shifting — is disarming and rare."
+    },
+    {
+      "name": "Specific, recent technical or craft skills",
+      "why": "Shift focus from the ending to what you actually did and built while you were there; let competence speak louder than circumstances."
+    },
+    {
+      "name": "Cross-functional collaboration",
+      "why": "If the firing wasn't about isolation, emphasize how you worked well across teams; it suggests the issue was situational, not interpersonal."
+    },
+    {
+      "name": "Project completion and delivery",
+      "why": "Lead with measurable work you finished, not vague responsibilities; concrete proof of productivity deflects attention from the bad ending."
+    },
+    {
+      "name": "Adaptability and flexibility",
+      "why": "After a firing, showing you can pivot and learn new approaches in a new environment is a stronger signal than stubbornness."
+    },
+    {
+      "name": "Self-awareness and reflection",
+      "why": "In interviews, the ability to speak calmly about what went wrong — and what you'd do differently — turns a liability into proof of maturity."
+    },
+    {
+      "name": "Relevant certifications or recent upskilling",
+      "why": "If there's been a gap since the firing, new credentials or training show you've been actively preparing, not waiting or spiraling."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Left role due to company restructuring and management changes.",
+      "strong": "Designed and deployed customer feedback system that increased product adoption by 18% over 6 months; findings informed roadmap decisions despite organizational transition.",
+      "lesson": "Don't lead with the exit. Lead with the output. The firing is context; your work is substance."
+    },
+    {
+      "weak": "Worked on various projects while employed.",
+      "strong": "Owned QA testing for 4 product releases, identified and documented 200+ bugs, and trained 2 junior testers on automated testing frameworks before role ended.",
+      "lesson": "Specificity (numbers, duration, scope) makes you memorable and real — the ending of the role becomes a detail, not the story."
+    },
+    {
+      "weak": "Was let go after conflict with management.",
+      "strong": "Drove cross-team initiative to standardize reporting; presented findings to executive team and built buy-in from 3 department heads despite divergent priorities.",
+      "lesson": "Reframe friction as evidence of ambition or principle, not failure. Show what you accomplished *in spite of* difficulty."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Explaining the firing in your resume or summary.",
+      "fix": "Don't. Your resume is not a confessional. Address the gap or the end-date in the cover letter or interview; let the interviewer ask."
+    },
+    {
+      "mistake": "Leaving a suspicious gap or vague end-date.",
+      "fix": "Use month and year; be consistent with LinkedIn. A gap is fine. Hiding the end-date or fuzzing it signals you're ashamed and makes you look dishonest."
+    },
+    {
+      "mistake": "Over-crediting or inventing achievements to compensate.",
+      "fix": "Stick to what you actually did. If you padded your resume and got fired partly because of a performance issue, lying harder will only dig deeper."
+    },
+    {
+      "mistake": "Badmouthing the employer or boss.",
+      "fix": "Never. Not in your resume, not in a cover letter, not in an interview. It flags you as a liability. Save any legitimate grievance for a lawyer, not a recruiter."
+    },
+    {
+      "mistake": "Pretending the firing didn't happen or hoping no one notices.",
+      "fix": "Employers will find out. You're better off addressing it calmly and directly in an interview than having them discover it and wonder why you lied."
+    }
+  ],
+  "structureTips": [
+    "Use a hybrid or functional resume format if you have a strong track record at that job; lead with the work you did, not a chronological narrative that emphasizes the abrupt end.",
+    "Include a brief professional summary that reframes your immediate future, not your recent past — something like 'results-driven [role] with 8 years building [domain expertise], seeking to apply [skills] in a collaborative environment focused on [outcome].'",
+    "On the job where you were fired, list your accomplishments first and end-date matter-of-factly; don't add 'Contract ended' or 'Role eliminated' unless it's true — just dates and bullets.",
+    "If there's a gap after the firing, fill it credibly: freelance work, volunteer projects, skills training, side work. Even modest activity looks better than radio silence."
+  ],
+  "atsKeywords": [
+    "career transition",
+    "seeking new opportunity",
+    "results-driven professional",
+    "looking to apply expertise",
+    "independent contributor",
+    "team player",
+    "proven track record",
+    "ready for fresh start"
+  ],
+  "salarySignal": "Salary depends on your field and how recently you were fired; avoid naming a number first. If it's been months, you may have more negotiating room. If it's weeks, you may need to reset expectations slightly lower to close quickly — this is temporary leverage to keep in mind, not a permanent cut.",
+  "faq": [
+    {
+      "q": "Do I have to tell them I was fired?",
+      "a": "No, you don't volunteer it. But if they ask directly — 'Why did you leave?' — you must answer honestly and briefly. A simple 'We weren't the right fit' or 'There was a management change and my role was eliminated' is enough. Lying will hurt you worse if discovered, and it will be."
+    },
+    {
+      "q": "How do I explain the gap on my resume without making it sound worse?",
+      "a": "A gap is not a red flag if you were recently fired; it's expected. If it's been several months, mention something constructive you did: freelance work, coursework, volunteering. If it was just weeks, you don't need to explain it at all — job searching takes time."
+    },
+    {
+      "q": "Will I be asked why I was fired in every interview?",
+      "a": "Likely yes, at some point. Prepare a 1–2 sentence answer that's honest but not defensive: 'The role and my work style didn't align' or 'There was a strategic shift and my position was affected.' Then pivot to what you learned or what you're looking for next. Don't rehearse it until it sounds robotic."
+    },
+    {
+      "q": "Should I ask my former manager for a reference?",
+      "a": "Probably not, unless you have an unusually mature relationship with them. Instead, ask colleagues, former clients, or people from before the firing. If asked about references, be upfront: 'I'm using former colleagues and clients from that role, as the manager relationship ended on difficult terms.' Honesty here actually helps."
+    },
+    {
+      "q": "How long will this hurt my prospects?",
+      "a": "Not as long as you think. A firing months or years ago becomes background noise. A firing weeks ago is still raw, but most employers move past it quickly if you can explain it calmly and show strength in your work history. The shame you feel now is sharper than the liability you actually face."
+    }
+  ]
+}

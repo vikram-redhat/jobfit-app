@@ -1,6 +1,7 @@
 // src/app/tools/job-description-keyword-extractor/page.js
 // Server-rendered landing page. Form is a client island.
 
+import Link from 'next/link';
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
 
@@ -62,6 +63,15 @@ export default function KeywordExtractorPage() {
         subtitle="Paste any job description. Get the keywords that ATS systems and hiring managers actually look for — categorized into must-haves, nice-to-haves, and soft skills."
         faq={faq}
       >
+        {/* Contextual cross-link to /resume-for — high-intent moment for visitors
+            looking for role-specific guidance after extracting keywords. */}
+        <div className="mb-6 px-4 py-3 rounded-lg bg-gray-50 border border-gray-200 text-sm text-gray-600 flex items-center justify-between gap-3 flex-wrap">
+          <span>Looking for role-specific resume tips?</span>
+          <Link href="/resume-for" className="text-blue-700 hover:underline font-semibold whitespace-nowrap">
+            Browse 200+ resume guides →
+          </Link>
+        </div>
+
         <ToolForm
           endpoint="/api/tools/keywords"
           inputName="jd"

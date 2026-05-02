@@ -5,7 +5,7 @@ function getResend() {
   if (!_resend) _resend = new Resend(process.env.RESEND_API_KEY);
   return _resend;
 }
-const contactEmail = process.env.CONTACT_EMAIL || 'vikram@craftbits.com';
+const contactEmail = process.env.CONTACT_EMAIL || 'help@jobfit.today';
 
 export async function POST(request) {
   try {

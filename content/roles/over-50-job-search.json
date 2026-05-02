@@ -1,0 +1,134 @@
+{
+  "slug": "over-50-job-search",
+  "title": "Job Search Over 50",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:25:54.536Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Resume Tips for Job Search Over 50 | Age-Smart Strategies",
+  "metaDescription": "How to write a resume over 50 that highlights your depth without triggering age bias. Practical strategies that work.",
+  "h1": "Your Resume After 50: How to Position Yourself Competitively",
+  "intro": "Searching for work over 50 comes with a real challenge: some hiring managers unconsciously filter for 'energy' or 'fresh perspective'—code for younger. Your resume needs to work twice as hard to prove you're current, adaptable, and worth the investment. The good news: your depth and track record are assets if you frame them right.",
+  "audience": "Experienced professionals aged 50+ who are re-entering the job market, changing roles, or dealing with job loss and need to compete against younger candidates.",
+  "topSkills": [
+    {
+      "name": "Leadership & mentorship of diverse teams",
+      "why": "Demonstrates you can manage people of all ages and aren't a cultural liability—a real anxiety for hiring managers."
+    },
+    {
+      "name": "Learning new technologies & platforms",
+      "why": "Directly counters the 'not tech-savvy' stereotype; include specific tools or systems you've picked up in the last 3 years."
+    },
+    {
+      "name": "Cross-generational communication",
+      "why": "Shows you work well with younger colleagues, which matters to teams with mixed tenure."
+    },
+    {
+      "name": "Change management & navigating disruption",
+      "why": "Proves you've adapted through industry shifts, not just coasted through one static role."
+    },
+    {
+      "name": "Strategic problem-solving with limited resources",
+      "why": "Signals efficiency and resourcefulness—valuable in leaner organizations."
+    },
+    {
+      "name": "Process improvement & modernization",
+      "why": "Shows you don't operate on 'that's how we've always done it'—you drive innovation, not resist it."
+    },
+    {
+      "name": "Remote-work capability & asynchronous collaboration",
+      "why": "Essential after 2020; proves you're not tied to old office norms and can work flexibly."
+    },
+    {
+      "name": "Stakeholder management & negotiation",
+      "why": "A skill that compounds with experience; shows maturity and judgment that younger candidates can't match."
+    },
+    {
+      "name": "Industry-specific certifications or updates (recent)",
+      "why": "Proves ongoing professional development, not resting on past credentials."
+    },
+    {
+      "name": "Translating between technical and non-technical stakeholders",
+      "why": "A bridge skill that's rare and valuable; positions you as an asset to cross-functional teams."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Managed the accounting department for 22 years.",
+      "strong": "Led modernization of accounting workflows using cloud-based software (Xero, NetSuite); trained 8 cross-generational team members; reduced month-end close time by 35% in first year.",
+      "lesson": "Specificity + change + recent tools + results. Avoid total tenure (sounds like you've done the same thing forever); show you've evolved and learned."
+    },
+    {
+      "weak": "Worked in sales, built relationships, exceeded targets.",
+      "strong": "Generated $2.3M in revenue through account management and digital outreach (LinkedIn, Zoom); onboarded two junior reps and coached them to quota within 6 months; adapted sales strategy post-COVID from in-person to virtual close.",
+      "lesson": "Name the shift you navigated (COVID, remote, digital). Show mentoring (generational bridge). Use recent methods (LinkedIn, video). Numbers beat vague claims."
+    },
+    {
+      "weak": "Responsible for HR functions including hiring, training, and compliance.",
+      "strong": "Built and scaled HR operations for growing org; implemented ATS and HRIS system migration; designed mentorship program pairing experienced and early-career employees; maintained 92% employee engagement across three-generation workforce.",
+      "lesson": "Show you *chose* and implemented new systems, not just inherited them. Prove intergenerational work success explicitly. Metrics > duties."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every job from the last 30+ years",
+      "fix": "Include the last 15 years in detail; summarize earlier roles in a brief 'Prior Experience' section. Hiring managers are assessing *current* relevance, not your entire history."
+    },
+    {
+      "mistake": "Using outdated language or formatting (like 'References available upon request')",
+      "fix": "Use a modern template, clean typography, and current resume conventions. Your format signals whether you're in 2024 or 1994."
+    },
+    {
+      "mistake": "Emphasizing seniority or titles without showing ongoing growth",
+      "fix": "Balance past leadership with recent learning—new software, course completion, or newly acquired skills. Seniority + stagnation is a red flag; seniority + learning is a win."
+    },
+    {
+      "mistake": "Explaining gaps or unemployment in the resume itself",
+      "fix": "Don't volunteer an explanation on the resume. Address it calmly in the cover letter or interview only if asked. 'I took 18 months to care for family' is honest and human—don't hide it, but the resume isn't the place to lead with it."
+    },
+    {
+      "mistake": "Overselling 'passion' or downplaying financial need",
+      "fix": "Be straightforward about your value and motivations. You're not searching because you 'discovered a new calling'—you have bills and expertise. Employers respect that. Focus on what you'll do for them, not why you need the job."
+    }
+  ],
+  "structureTips": [
+    "Lead with a 'Professional Summary' (not 'Objective') that showcases your niche, depth, and one recent learning—e.g., 'Operations leader with 18 years reducing costs and scaling processes; recently certified in Lean Six Sigma.' This front-loads value before chronology invites bias.",
+    "Use a 'Core Competencies' or 'Skills' section featuring both depth (strategic planning, P&L management) and currency (Salesforce, Slack, hybrid team leadership). This signals range and relevance simultaneously.",
+    "Order your experience by *relevance* to the target role, not strict reverse chronology. If your most recent role was a step sideways, lead with the one that matches the job description.",
+    "Include a 'Professional Development' or 'Continuous Learning' line—recent course, certification, or conference—to counter the 'stuck in the past' assumption."
+  ],
+  "atsKeywords": [
+    "experienced professional",
+    "senior-level candidate",
+    "mature workforce",
+    "returning to work",
+    "second-career candidate",
+    "career transition",
+    "leadership experience",
+    "established professional",
+    "re-entry candidate",
+    "skilled worker 50+"
+  ],
+  "salarySignal": "Salary expectations vary widely depending on industry and role; over-50 candidates sometimes face lower offers despite equal experience, so research comparable roles for people aged 30–50 in your field and don't underbid. Ageism in pay is real, but so is the temptation to accept less because you're relieved to have an offer—avoid both traps with data.",
+  "faq": [
+    {
+      "q": "Should I hide the fact that I'm over 50 by leaving out old jobs or using a functional resume?",
+      "a": "Hiding your experience reads as dishonest and backfires in interviews when there are unexplained gaps. Employers who discriminate based on age will find out anyway. Use a clean, modern format and honest dates—what matters is how you *frame* your experience, not erasing it. If you have 25+ years in the field, leading with 'Professional Summary' and recent learning does the positioning work without omission."
+    },
+    {
+      "q": "How do I explain a long gap or job loss without sounding like I'm past my prime?",
+      "a": "In the resume, don't explain it—leave dates and move on. In a cover letter or interview, be direct and brief: 'I was laid off in 2022 and took time to reassess; I'm now focused on [new direction or same field with updated skills].' Millions of people over 50 have been through this. Keep it factual and forward-looking, not apologetic. Employers understand job loss; they don't respect self-pity."
+    },
+    {
+      "q": "Will my references be a problem if my last boss was 10 years ago?",
+      "a": "Not ideal, but workable. Reach out to former colleagues, clients, or mentors from the last decade who can speak to your current capabilities—not just your past titles. Consider a volunteer leadership role, board service, or consulting project from the last 1–3 years to provide a recent reference. If you must use an older boss, frame it: 'I've worked with [older contact] before; I also have [more recent contact] who can speak to my work on [recent project].'"
+    },
+    {
+      "q": "Does age discrimination actually happen, or am I being paranoid?",
+      "a": "Age discrimination is real and documented—some studies show candidates over 50 get 40% fewer callbacks than equally qualified younger ones. But it's also inconsistent: many employers value experience, stability, and mentorship. Your job is to write a resume that immediately proves you're current, engaged, and worth the interview. Then you show up in person and prove it again. You can't control bias, but you can make it harder to use."
+    },
+    {
+      "q": "I haven't used LinkedIn or learned new software in years. Is that a dealbreaker?",
+      "a": "Not a dealbreaker, but a liability. Before you apply, spend 2–4 weeks getting current: set up a LinkedIn profile, take a free online course in a tool relevant to your field, and learn the basics of whatever platform the job posting emphasizes. You don't need to be an expert, but you need to show you *can* learn and aren't afraid of change. This is the fastest return on your time."
+    }
+  ]
+}

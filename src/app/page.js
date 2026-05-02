@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { createClient } from '@/lib/supabase-browser';
 import Link from 'next/link';
 import { OrganizationJsonLd, SoftwareApplicationJsonLd, FaqJsonLd } from '@/components/JsonLd';
+import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 const features = [
   {
@@ -279,13 +280,18 @@ export default function LoginPage() {
       </div>
 
       {/* Footer */}
-      <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100 flex items-center justify-between">
-        <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
-        <div className="flex items-center gap-4 text-xs text-gray-400">
-          <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
-          <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
-          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
-          <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
+      <footer className="px-6 pb-24 lg:pb-0 py-4 border-t border-gray-100">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
+          <div className="flex items-center gap-4 text-xs text-gray-400">
+            <Link href="/resume-for" className="hover:text-gray-600 transition-colors">Resume guides</Link>
+            <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
+            <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+            <Link href="/contact" className="hover:text-gray-600 transition-colors">Contact</Link>
+          </div>
+        </div>
+        <div className="mt-3 text-center sm:text-left">
+          <BuiltWithClaude />
         </div>
       </footer>
     </div>

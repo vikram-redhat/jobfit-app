@@ -1,0 +1,130 @@
+{
+  "slug": "first-resume-no-experience",
+  "title": "Your First Resume (No Experience)",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:23:59.523Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "How to Write Your First Resume (No Experience)",
+  "metaDescription": "Build a compelling first resume without work history. Learn how to highlight skills, projects, and achievements that matter to employers.",
+  "h1": "Your First Resume: How to Stand Out When You Have No Work Experience",
+  "intro": "You've never had a job, and you're worried a blank work history means a blank resume. It doesn't. Employers hiring first-time workers expect no job titles—they're looking for evidence of reliability, learning, and ability to do the work. This guide shows you how to build that evidence from what you actually have.",
+  "audience": "Students, recent graduates, career-changers, and anyone applying for their first paid role with no previous employment to list.",
+  "topSkills": [
+    {
+      "name": "Project completion & accountability",
+      "why": "Employers want proof you can finish what you start; school projects, volunteer work, or personal builds demonstrate this without requiring a job."
+    },
+    {
+      "name": "Learning ability & adaptation",
+      "why": "First-time workers without experience are valued for their willingness to grow; show you've learned new tools, languages, or frameworks on your own."
+    },
+    {
+      "name": "Collaboration & communication",
+      "why": "Group work, team projects, or even leadership in clubs proves you can work alongside others—often worth more than solo credentials."
+    },
+    {
+      "name": "Technical or job-specific skills",
+      "why": "Certifications, coding projects, design portfolios, or tools you've mastered fill the gap where job experience would; list them prominently."
+    },
+    {
+      "name": "Problem-solving with examples",
+      "why": "Without work context, showing how you diagnosed and fixed a real problem (in a project, volunteer role, or coursework) makes you memorable."
+    },
+    {
+      "name": "Initiative & self-direction",
+      "why": "Side projects, coursework you took beyond the minimum, or volunteer roles you sought out show you don't wait to be told what to do."
+    },
+    {
+      "name": "Relevant volunteer or community work",
+      "why": "Volunteer roles, nonprofit work, or community involvement count as real experience and show commitment to the sector or cause you're entering."
+    },
+    {
+      "name": "Education framed as training",
+      "why": "Degrees, bootcamps, certifications, and relevant coursework are your credibility when work history is absent; treat them as seriously as you'd list jobs."
+    },
+    {
+      "name": "Portfolio or tangible work samples",
+      "why": "Links to GitHub, design portfolios, or published writing prove capability in ways a job title never could."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on group project for school.",
+      "strong": "Led cross-functional team of 4 to design and deliver customer feedback system for local nonprofit; implemented feedback loop that improved intake process by 25%.",
+      "lesson": "Specificity, numbers, and impact matter more than the context (school vs. job). Show what you did, who was involved, and what changed."
+    },
+    {
+      "weak": "Learned Python and JavaScript in my coding bootcamp.",
+      "strong": "Built full-stack expense-tracking web app in React and Node.js; deployed to production and collected feedback from 10+ beta users; iterated on UI based on user testing.",
+      "lesson": "Move beyond listing what you learned to showing what you built with it and how real people used it. Employers care about application, not just knowledge."
+    },
+    {
+      "weak": "Volunteered at animal shelter.",
+      "strong": "Managed intake and adoption records for 150+ animals; trained 8 new volunteers on protocols; reduced processing time per adoption by 2 hours through process documentation.",
+      "lesson": "Frame volunteer work like any other job: list your scope, what you taught others, and the measurable outcome. Responsibility is responsibility, paid or not."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leaving your resume mostly blank because you have no job history.",
+      "fix": "Treat education, projects, volunteer work, and skills as equal weight to paid employment. A well-built resume with no 'Experience' section beats an empty one with a weak header."
+    },
+    {
+      "mistake": "Writing vague descriptions of coursework or projects.",
+      "fix": "Use the same bullet-point format you'd use for jobs: action verb + what you did + scope + measurable result. Vagueness signals lack of confidence in the work."
+    },
+    {
+      "mistake": "Including every class you took or hobby you dabbled in.",
+      "fix": "Stick to education, skills, and projects relevant to the role. A high school Spanish class matters if you're applying for a bilingual position; otherwise, cut it."
+    },
+    {
+      "mistake": "Listing skills you haven't actually used or demonstrated.",
+      "fix": "Only claim skills you can back up with a project, coursework, or proof (GitHub, portfolio, certificate). Recruiters will ask, and you'll lose credibility if you overstate."
+    },
+    {
+      "mistake": "Apologizing for or calling attention to the lack of work history.",
+      "fix": "Don't include a note saying 'no prior work experience.' Let your resume speak. Your education and projects ARE your experience."
+    }
+  ],
+  "structureTips": [
+    "Lead with a Skills or Core Competencies section (2–4 lines) highlighting the 3–5 abilities most relevant to the job. This anchors your resume before the reader sees zero job titles.",
+    "Place Education prominently, right after Skills. Include degree, school, graduation date, relevant coursework (if strong), GPA (if 3.5+), and any honors. This is your first credibility marker.",
+    "Create a Projects section (or call it 'Technical Projects' or 'Relevant Work') and treat it like work experience. Use the same bullet format: action verb + problem + solution + outcome.",
+    "Add a Volunteer or Community Involvement section if you have meaningful roles. Title, organization, dates, and bullet-point your responsibilities like you would a job—because they are work."
+  ],
+  "atsKeywords": [
+    "entry-level",
+    "recent graduate",
+    "no experience",
+    "first-time job seeker",
+    "bootcamp graduate",
+    "campus volunteer",
+    "internship candidate",
+    "career starter",
+    "junior role",
+    "early career"
+  ],
+  "salarySignal": "First-time workers typically earn near entry-level market rates for their region and field (often $30K–$50K depending on location and industry), but salary varies widely; research similar entry-level titles in your city and field on Glassdoor or LinkedIn to set realistic expectations.",
+  "faq": [
+    {
+      "q": "Do I have to have a job to put on my resume?",
+      "a": "No. If you have no paid work history, replace it with Education, Projects, Volunteer Work, and Skills. A strong resume without a job section beats a thin one with a weak job. Focus on what you *have* accomplished, not what you haven't."
+    },
+    {
+      "q": "Is a school project or internship enough to count as experience?",
+      "a": "Yes, absolutely. Treat school projects, internships, and volunteer roles exactly like jobs on your resume: title, organization/school, dates, and bullet points showing what you did and the outcome. The format legitimizes the work."
+    },
+    {
+      "q": "What if I don't have any projects to show?",
+      "a": "Build one now, even a small one. A personal project you can link to (GitHub, portfolio site, or a PDF of your work) is one of the fastest ways to prove capability. It doesn't have to be perfect—it has to be real and relevant."
+    },
+    {
+      "q": "Should I include my GPA?",
+      "a": "Only if it's 3.5 or higher. Otherwise, skip it. If you have projects, relevant coursework, or a strong portfolio, GPA matters less than what you can actually do."
+    },
+    {
+      "q": "How do I explain gaps in my work history if I've never had a job?",
+      "a": "You don't need to. Employers hiring for entry-level roles expect no prior work history. Don't apologize or offer an explanation. Let your resume show what you *have* done instead."
+    }
+  ]
+}

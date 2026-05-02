@@ -1,0 +1,125 @@
+{
+  "slug": "first-job-teenager",
+  "title": "First Job as a Teenager",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:23:58.477Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "First Job Resume Tips for Teenagers – No Experience Required",
+  "metaDescription": "Land your first job as a teen. How to write a resume when you have no work history, with real examples and practical formatting.",
+  "h1": "Your First Resume: A Teenager's Guide to Getting Hired",
+  "intro": "You're applying for your first job and realize you've never had a job to list. That's completely normal—every working adult started exactly where you are now. This guide shows you how to build a resume that gets you hired, using school, activities, and skills you already have.",
+  "audience": "Teenagers (14–18) applying for their first part-time, summer, or entry-level job with little to no paid work experience.",
+  "topSkills": [
+    {
+      "name": "Reliability and showing up on time",
+      "why": "Employers hiring first-time workers care more about dependability than experience. You can learn the job; you need to prove you'll be there."
+    },
+    {
+      "name": "Basic customer service and communication",
+      "why": "Even in school or volunteer settings, you've interacted with people. Frame those moments as proof you can talk to customers or coworkers professionally."
+    },
+    {
+      "name": "Teamwork and following instructions",
+      "why": "Group projects, sports, clubs, and class work all count. Employers need to know you can take direction and work alongside others."
+    },
+    {
+      "name": "Problem-solving and initiative",
+      "why": "Did you figure something out on your own? Organize something? Speak up with an idea? Those moments matter more than a years-long job title."
+    },
+    {
+      "name": "Technology and learning quickly",
+      "why": "You grew up with phones, apps, and online tools. Point this out—it's a real asset that older workers sometimes lack."
+    },
+    {
+      "name": "School grades and academic effort",
+      "why": "If your GPA is decent (3.0+), include it. It signals you take responsibility seriously and can manage multiple priorities."
+    },
+    {
+      "name": "Volunteering and community involvement",
+      "why": "School clubs, sports, tutoring peers, helping family, or community service all demonstrate work ethic and responsibility without being a paid job."
+    },
+    {
+      "name": "Specific skills from classes or hobbies",
+      "why": "Coding, graphic design, writing, data entry, social media knowledge, or even strong typing speed can set you apart in specific roles."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Helped organize school event",
+      "strong": "Coordinated logistics and volunteer assignments for school fundraiser, ensuring 20+ volunteers showed up on time and knew their roles",
+      "lesson": "Add numbers and specific outcomes. Show what you actually did, not just that you 'helped'—employers want to see your impact, even in small tasks."
+    },
+    {
+      "weak": "Member of soccer team",
+      "strong": "Trained 8+ hours weekly while maintaining 3.5 GPA; demonstrated commitment to deadlines and team goals under pressure",
+      "lesson": "Link your activity to work-relevant traits like time management, discipline, or teamwork. Show how it proves you can juggle responsibilities."
+    },
+    {
+      "weak": "Used social media",
+      "strong": "Created and posted content for school club Instagram account; grew followers from 50 to 300 in 4 months through consistent, engaging posts",
+      "lesson": "Be specific about what you did and what changed because of it. Even hobbies can show real, measurable results that employers value."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leaving out school, activities, and volunteering because it's 'not real work'",
+      "fix": "Everything counts on a first resume. School leadership, clubs, sports, tutoring, and volunteer work all prove you can show up, follow through, and work with others."
+    },
+    {
+      "mistake": "Writing vague, generic descriptions ('responsible for tasks,' 'helped the team')",
+      "fix": "Use specific numbers, outcomes, and actions. Instead of 'helped with events,' say 'organized schedules for 15+ volunteers and ensured setup was complete 2 hours before start time.'"
+    },
+    {
+      "mistake": "Including a personal photo, personal interests unrelated to the job, or your full social media handles",
+      "fix": "Keep your resume professional and focused. A photo isn't necessary for entry-level jobs; save personality for the interview."
+    },
+    {
+      "mistake": "Exaggerating or making up responsibilities to fill space",
+      "fix": "Hiring managers can tell when you're stretching the truth, and it backfires fast. Be honest about what you did. Honesty and authenticity matter at your stage."
+    },
+    {
+      "mistake": "Using a format that's too fancy or hard to read (heavy graphics, tiny font, lots of color)",
+      "fix": "Stick to clean, simple formatting with clear sections. Most resumes get scanned by computers first. Make yours easy to read on any device."
+    }
+  ],
+  "structureTips": [
+    "Start with a brief 'Objective' or 'About Me' statement that names the job you want and one strength you bring (e.g., 'Seeking a retail associate role. Reliable, friendly, and eager to learn'). This helps employers understand why you're applying.",
+    "Lead with 'Education,' then 'Activities & Volunteering,' then 'Skills.' This puts your strengths front and center before any employer expects a full work history.",
+    "Use a reverse-chronological format (most recent first) for school and activities. It's familiar and easy for employers to scan quickly.",
+    "Keep it to one page. You don't have years of work history; use the space to show character, skills, and availability instead."
+  ],
+  "atsKeywords": [
+    "entry-level teen",
+    "first job",
+    "no experience",
+    "high school student",
+    "part-time",
+    "summer job",
+    "eager to learn",
+    "reliable",
+    "availability"
+  ],
+  "salarySignal": "First jobs for teenagers are typically minimum wage or slightly above ($10–$15/hour depending on location), unless you're in a specialized role like tutoring or coding. Don't negotiate aggressively; focus on getting hired and building your work history.",
+  "faq": [
+    {
+      "q": "What do I put in the 'Work Experience' section if I've never had a job?",
+      "a": "Rename it 'Experience' or 'Relevant Experience' and include school projects, volunteer work, tutoring, babysitting, yard work, or club leadership. Anything where you took on responsibility counts. Frame each entry the same way you'd frame a job: what you did, how you did it, and what happened because of it."
+    },
+    {
+      "q": "Should I include my GPA?",
+      "a": "If it's 3.0 or higher, yes—include it under Education. It shows you take responsibility seriously. If it's lower, leave it out; employers will ask if they care."
+    },
+    {
+      "q": "Do I need references if I've never worked?",
+      "a": "You'll likely need at least one. Teachers, coaches, mentors, volunteer coordinators, or family friends who can speak to your character, reliability, and willingness to work are all fair game. Ask them first and get their contact info."
+    },
+    {
+      "q": "How honest do I need to be about why I want this job (money, experience, etc.)?",
+      "a": "Be honest in your conversations, but frame it maturely on your resume. Instead of 'I need money,' say 'I'm seeking my first job to develop professional skills and demonstrate responsibility.' Both are true; one sounds ready for work."
+    },
+    {
+      "q": "What if I'm applying to a job that asks for experience I don't have?",
+      "a": "Apply anyway if you meet most requirements. In your cover letter or when you apply, emphasize your willingness to learn and any related skills you do have (e.g., 'I haven't worked retail before, but I have strong customer service experience from volunteer work and I pick up new systems quickly'). Employers often hire potential, not just experience."
+    }
+  ]
+}

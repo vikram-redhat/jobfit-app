@@ -1,0 +1,126 @@
+{
+  "slug": "high-school-student",
+  "title": "High School Student Resume",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:23:57.999Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "High School Student Resume: No Experience? Here's What to Do",
+  "metaDescription": "Build a compelling resume as a high school student with little or no job experience. Learn what to highlight instead.",
+  "h1": "How to Write a Resume as a High School Student (With Little or No Work Experience)",
+  "intro": "You don't have a decade of job history, and that's completely normal at your stage. Employers hiring high school students know this. What they're actually looking for is evidence that you're reliable, you can learn, and you show up. This guide shows you how to frame what you *do* have—school projects, clubs, volunteer work, even responsibilities at home—in a way that proves you're ready to work.",
+  "audience": "High school students (freshman through senior) applying for their first part-time job, summer position, internship, or volunteer role.",
+  "topSkills": [
+    {
+      "name": "Reliability and punctuality",
+      "why": "Employers hiring teenagers prioritize someone who shows up on time and follows through; this matters more than specialized skills."
+    },
+    {
+      "name": "Communication and teamwork",
+      "why": "Group projects, class presentations, and team sports teach you to work with others—highlight these explicitly."
+    },
+    {
+      "name": "Problem-solving and learning quickly",
+      "why": "You're expected to be trained on the job; show that you ask questions and figure things out without hand-holding."
+    },
+    {
+      "name": "Organization and time management",
+      "why": "Balancing schoolwork, extracurriculars, and a job is credible proof you can juggle responsibility."
+    },
+    {
+      "name": "Attention to detail",
+      "why": "Whether it's careful work on a class project or maintaining a grade, detail-oriented habits matter in entry-level roles."
+    },
+    {
+      "name": "Initiative and willingness to help",
+      "why": "Employers value someone who doesn't wait to be told what to do; volunteer duties or taking on extra tasks prove this."
+    },
+    {
+      "name": "Customer service mindset (if applicable)",
+      "why": "Even without retail experience, projects where you presented ideas or helped peers show you can work with others constructively."
+    },
+    {
+      "name": "Technical skills (relevant to the role)",
+      "why": "If you have coding, graphic design, social media, or other tech skills from school or self-teaching, these are genuine differentiators."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Participated in debate club for two years.",
+      "strong": "Prepared and delivered 15+ competitive speeches in debate club; improved research and speaking skills to place in district finals.",
+      "lesson": "Move from passive participation to specific achievement—show impact and growth, even in small numbers."
+    },
+    {
+      "weak": "Helped with school fundraiser.",
+      "strong": "Coordinated logistics for school fundraiser that raised $2,500; managed supply inventory and recruited 8 peer volunteers.",
+      "lesson": "Replace vague 'helped' with a concrete role and outcome; employers want to know what you actually *did*."
+    },
+    {
+      "weak": "Good at math and science.",
+      "strong": "Scored 94% in AP Chemistry; built working models for science fair demonstrating chemical reactions and submitted proposal to compete.",
+      "lesson": "Ground strengths in evidence (grades, projects, competitions) so they're credible and memorable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every class you've ever taken",
+      "fix": "Include only classes directly relevant to the job (e.g., if applying to a lab role, mention AP Chemistry; if applying to a cashier position, skip academic details altogether)."
+    },
+    {
+      "mistake": "Using filler phrases like 'hardworking' or 'quick learner' without evidence",
+      "fix": "Back up any claim with a concrete example: 'Learned new POS system in two days' beats 'quick learner.'"
+    },
+    {
+      "mistake": "Padding with irrelevant activities or hobbies",
+      "fix": "Every line should either prove you can do the job or show you're mature and responsible; 'likes video games' doesn't pass either test."
+    },
+    {
+      "mistake": "Making your resume longer than one page",
+      "fix": "Keep it to one page—employers expect this from high school students and will respect concision."
+    },
+    {
+      "mistake": "Not tailoring to the actual job posting",
+      "fix": "Read the job description carefully and mirror language they use; if they mention 'teamwork' or 'customer service,' show those skills in your bullets."
+    }
+  ],
+  "structureTips": [
+    "Start with a brief profile (2–3 lines) that speaks directly to the role: 'Reliable and detail-oriented high school junior seeking a part-time retail position where I can deliver excellent customer service.' This tells the employer immediately why you're a fit.",
+    "Lead with Education (GPA if 3.5+; relevant coursework or honors if strong). Then move to Experience/Volunteer Work, followed by Skills and Activities. This order shows maturity and keeps the strongest material near the top.",
+    "Use a hybrid or skills-based format if you have no paid work experience. Group your accomplishments by category (Leadership, Technical Skills, Volunteer Work) rather than forcing a strict chronological order.",
+    "Keep the whole resume to one page. Use readable fonts (11–12 pt), clear section headers, and white space. A cluttered resume signals disorganization."
+  ],
+  "atsKeywords": [
+    "high school student",
+    "entry-level position",
+    "first job",
+    "summer employment",
+    "part-time role",
+    "teen hire",
+    "no experience needed",
+    "entry-level skills",
+    "youth employment",
+    "trainable candidate"
+  ],
+  "salarySignal": "High school students typically earn minimum wage to slightly above it, depending on the role and location; hourly positions (retail, food service, tutoring) range from $15–$18/hour in most U.S. markets, though this varies by region and industry.",
+  "faq": [
+    {
+      "q": "Should I put my GPA on my resume if it's not great?",
+      "a": "Only include GPA if it's 3.5 or higher. If your GPA is lower but you've done well in specific relevant classes, list those instead (e.g., 'A in AP Computer Science'). Employers hiring high school students care far more about reliability and attitude than your transcript."
+    },
+    {
+      "q": "I've never had a job before. What do I even put on a resume?",
+      "a": "Lead with school involvement: clubs, sports, volunteer work, class projects, leadership roles, and even significant responsibilities at home count. The goal is to show you're organized, dependable, and can work with others. Even babysitting a sibling or helping organize a community event belongs here."
+    },
+    {
+      "q": "How do I explain that I don't have references from a previous employer?",
+      "a": "Use a teacher, coach, counselor, volunteer coordinator, or anyone who can speak to your character and reliability. When asked for references, be upfront: 'I haven't held a paid position, but I can provide references from my debate coach and volunteer coordinator.' Employers expect this from first-time workers."
+    },
+    {
+      "q": "Should I mention school clubs and activities if they seem small or not impressive?",
+      "a": "Yes, but only if you held a role or showed initiative. 'Debate Club member' is filler; 'Debate Club, placed in district finals' or 'Recruited three new members' shows you did something meaningful. If you simply attended meetings without contributing, skip it."
+    },
+    {
+      "q": "How honest do I need to be about my grades or why I left an activity?",
+      "a": "Always be honest. Don't invent or exaggerate. If you dropped an activity, don't list it; if your GPA isn't good, don't include it. Employers will often ask follow-up questions in an interview, and dishonesty discovered later will end your chances immediately."
+    }
+  ]
+}

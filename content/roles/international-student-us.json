@@ -1,0 +1,126 @@
+{
+  "slug": "international-student-us",
+  "title": "International Student in the US",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:25:53.548Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "International Student Resume: US Job Search Guide",
+  "metaDescription": "Write a US resume as an international student. Navigate visa sponsorship, work authorization, and stand out to US employers hiring you.",
+  "h1": "Your Resume as an International Student in the US",
+  "intro": "You're navigating a job search with an extra layer of complexity: visa requirements, unfamiliar US hiring norms, and the question of whether to disclose your work authorization status upfront. This guide walks you through a resume that honestly addresses your situation while making you competitive to employers who do sponsor visas.",
+  "audience": "International students completing degrees or seeking work authorization in the US, including those on F-1 visas, OPT, or CPT, or preparing to transition from student to worker status.",
+  "topSkills": [
+    {
+      "name": "Cultural adaptability & cross-cultural communication",
+      "why": "US employers increasingly value employees who navigate diverse teams and global perspectives—your lived experience doing this is a real asset, not a liability."
+    },
+    {
+      "name": "Self-direction & resourcefulness",
+      "why": "You've built a life and education in a new country often with limited local support. That independence translates to the workplace."
+    },
+    {
+      "name": "Language skills & multilingualism",
+      "why": "Even if English is your working language, fluency in other languages opens doors in tech, customer service, and international business—be specific about proficiency levels."
+    },
+    {
+      "name": "Technical or specialized skills from your field of study",
+      "why": "Lead with the skills that match the job; your international background is context, not your primary selling point."
+    },
+    {
+      "name": "Project management & deadline ownership",
+      "why": "US employers need to see you've completed work on time and to standard—especially important if you're building experience while studying."
+    },
+    {
+      "name": "Familiarity with US workplace culture & professional norms",
+      "why": "If you've interned, worked on campus, or collaborated on US projects, call this out. It signals you're not learning workplace culture on the job."
+    },
+    {
+      "name": "Problem-solving in resource-constrained environments",
+      "why": "Navigating visa processes, visa-limited internship options, or building your network as a newcomer shows practical problem-solving employers respect."
+    },
+    {
+      "name": "Academic rigor & analytical thinking",
+      "why": "Your US degree is credible; your transcripts and coursework speak to your ability to meet rigorous standards."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Completed internship at tech company during summer break.",
+      "strong": "Designed and deployed automated data validation pipeline (Python, SQL) reducing manual QA time by 15 hours/week; documented process for team handoff post-internship.",
+      "lesson": "Concrete deliverables matter more than the label 'internship'—show what you built, how it mattered, and that you thought beyond your own tenure."
+    },
+    {
+      "weak": "Worked as research assistant helping professor with lab work.",
+      "strong": "Conducted independent literature review on [topic], synthesized findings into 12-page memo used in professor's NSF grant proposal; trained 2 new lab members on equipment protocols.",
+      "lesson": "Even unpaid or part-time academic work counts—emphasize your agency, outcomes, and leadership, not just the professor's project."
+    },
+    {
+      "weak": "Volunteer coordinator for international student association.",
+      "strong": "Organized monthly professional development events for 150+ members; recruited and coordinated 8 industry speakers; grew attendance by 40% year-over-year through targeted email campaigns.",
+      "lesson": "Leadership and results matter in any context—use numbers, initiative, and impact to show you're not just a volunteer, but a responsible organizer."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Leading with visa sponsorship needs in your summary or contact section.",
+      "fix": "Put visa sponsorship details on a separate line at the top (e.g., 'Work Authorization: F-1 OPT eligible, employer sponsorship available') or address it only in a cover letter if asked. Let your skills speak first."
+    },
+    {
+      "mistake": "Listing educational credentials in a way that raises questions instead of confidence (e.g., 'High School Diploma [Home Country], US Bachelor's Degree').",
+      "fix": "Use a clear Education section with degree name, institution (with location if not obvious), and graduation date. If you're concerned about credential recognition, a brief cover letter sentence clarifies—your US degree speaks for itself."
+    },
+    {
+      "mistake": "Over-explaining or apologizing for limited US work history or gaps due to visa restrictions.",
+      "fix": "Don't volunteer explanations on the resume itself. Focus on the work and skills you do have. If asked in an interview, be straightforward: 'I was on F-1 OPT and took roles available under those restrictions, including [internship/project]'—employers who sponsor visas understand the constraints."
+    },
+    {
+      "mistake": "Listing only home-country phone and address without a US contact.",
+      "fix": "Use a current US phone number and US address (campus, apartment, or permanent address if you have one). Recruiters filtering by location need to see this at a glance."
+    },
+    {
+      "mistake": "Assuming all US employers understand non-US degree names or grading systems.",
+      "fix": "If your degree title differs from US equivalents (e.g., 'Bachelor of Engineering' vs. 'BS Engineering'), keep the official name but consider a one-line note in cover letter. Similarly, if grades are on a non-4.0 scale, convert to 4.0 or leave GPA off if it doesn't strengthen your case."
+    }
+  ],
+  "structureTips": [
+    "Put work authorization status on one line at the top (e.g., 'F-1 OPT Eligible [graduation date]' or 'Green Card holder') so recruiters know immediately—it removes a barrier to moving forward.",
+    "Use a Skills Summary if your US work experience is light but your coursework, internships, or projects are strong. Reverse-chronological works if you have solid internship or employment history.",
+    "Group internships, campus jobs, and project-based work under 'Experience' with clear titles (e.g., 'Research Intern, [Lab Name]' not just 'Lab Assistant'). US employers take on-campus and part-time roles seriously.",
+    "If you've worked or studied in multiple countries, consider a brief 'Professional Background' note or cover letter sentence to frame your mobility as an asset, not a red flag."
+  ],
+  "atsKeywords": [
+    "visa sponsorship available",
+    "F-1 OPT eligible",
+    "international student",
+    "work authorization",
+    "CPT experience",
+    "employer sponsorship",
+    "H-1B eligible",
+    "multinational background",
+    "cross-cultural experience",
+    "authorized to work in US"
+  ],
+  "salarySignal": "Salary expectations for international students vary widely by field, degree level, and location; entry-level roles typically range $55K–$75K, but tech, engineering, and consulting often pay significantly more. Don't hesitate to research industry standards on Glassdoor or Levels.fyi and negotiate—visa sponsorship adds cost, but it doesn't reduce your market value.",
+  "faq": [
+    {
+      "q": "Should I tell employers upfront that I need visa sponsorship?",
+      "a": "Yes, but on your terms: a single line on your resume (e.g., 'F-1 OPT Eligible, employer sponsorship available') eliminates surprise later. Many US employers routinely sponsor visas, especially in tech and STEM fields. If a job posting says 'must be authorized to work in US,' that's a real barrier—don't waste time on it. Otherwise, lead with skills and address visa status matter-of-factly."
+    },
+    {
+      "q": "What if employers say they don't sponsor visas?",
+      "a": "That's a real constraint, and it narrows your options. Focus on roles that explicitly mention sponsorship or companies known for international hiring (tech, consulting, pharma). Some employers say 'no sponsorship' as default but will sponsor for the right candidate—your cover letter can acknowledge the policy and briefly explain why you're worth the exception, but only if you're genuinely strong for the role."
+    },
+    {
+      "q": "Should I list my home-country work experience on my US resume?",
+      "a": "Yes, especially if it's recent or relevant. Use standard US resume format and currency (e.g., 'Sales Associate, Retail Company, [City, Country], 2022–2023'). US employers understand that international students have work history elsewhere—it shows maturity and experience. Translate job titles if needed (e.g., 'Equivalent to Assistant Manager')."
+    },
+    {
+      "q": "Can I claim on my resume that I'm authorized to work without mentioning visa status?",
+      "a": "Legally, yes—you can write 'Authorized to work in the US' if you're on OPT, a valid visa, or green card. But be precise: if you'll need sponsorship in the future, don't imply permanent authorization. Better to be clear upfront ('F-1 OPT through [date], employer sponsorship available') than to create confusion that costs you the job later."
+    },
+    {
+      "q": "How do I explain my GPA or grading system if it's not 4.0?",
+      "a": "If your GPA is strong in a non-4.0 system (e.g., 7.5/10 or 85/100), convert it to a 4.0 scale and note the scale in parentheses—many online converters exist. If the conversion is borderline or lower, leave GPA off entirely unless the job explicitly requires it. Your transcript can be provided later if needed, and your work and projects matter more than a number."
+    }
+  ]
+}

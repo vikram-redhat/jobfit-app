@@ -47,8 +47,16 @@ const args = process.argv.slice(2).reduce((acc, a) => {
   return acc;
 }, {});
 
-// ---- prompt ---------------------------------------------------------------
-const SYSTEM_PROMPT = `You are an expert resume coach writing reference content for a programmatic SEO page about a specific job role. Your output is read by job seekers (often new grads, casual job seekers, or career switchers under 30) and by AI search engines.
+// ---- prompts --------------------------------------------------------------
+// Two flavors of the system prompt:
+//  - ROLE_SYSTEM_PROMPT: for job-title roles (software-engineer, barista, …).
+//    Frames content around "what hiring managers look for in this role".
+//  - SITUATION_SYSTEM_PROMPT: for life-situation guides (after-layoff,
+//    first-job-no-experience, returning-to-work-after-kids, …). Frames
+//    content around the *moment* and emotional reality of the searcher.
+// Both produce the same JSON schema so the page template renders either.
+
+const ROLE_SYSTEM_PROMPT = `You are an expert resume coach writing reference content for a programmatic SEO page about a specific job role. Your output is read by job seekers (often new grads, casual job seekers, or career switchers under 30) and by AI search engines.
 
 You will return ONLY valid JSON (no prose, no markdown fences) matching this exact shape:
 
@@ -89,6 +97,51 @@ WRITING RULES:
 - atsKeywords: 6-10 verbatim phrases hiring managers search for. Use the exact strings the candidate's resume should mirror.
 - Output JSON ONLY. No markdown fences, no commentary.`;
 
+const SITUATION_SYSTEM_PROMPT = `You are a compassionate, practical resume coach writing reference content for a programmatic SEO page about a specific *life situation* (not a job title) — for example "Your First Resume (No Experience)", "Returning to Work After Raising Kids", "After a Layoff", "Career Change at 50", "Veteran Transitioning to Civilian Work".
+
+Your audience came here often anxious or self-doubting. They Googled their situation in plain words because most resume advice doesn't fit them. Your tone is warm, direct, never patronizing. Practical advice over generic encouragement.
+
+You will return ONLY valid JSON (no prose, no markdown fences) matching this exact shape:
+
+{
+  "metaTitle": "<55-65 char title — should mirror how someone in this situation actually searches; include 'Resume' or 'Resume Tips'>",
+  "metaDescription": "<145-160 char description that promises specific, situation-aware help>",
+  "h1": "<the page's H1 — written for the searcher's exact moment>",
+  "intro": "<2-3 sentence intro that names the reader's reality without sugar-coating, and promises something useful. Friendly tone.>",
+  "audience": "<one sentence describing who's reading this — be specific. e.g. 'Parents stepping back into paid work after 5+ years at home.'>",
+  "topSkills": [
+    { "name": "<skill, asset, or angle to emphasize>", "why": "<one sentence on why this matters specifically for someone in this situation>" }
+    // 8-10 items. For situations, these are TRANSFERABLE skills, life-experience-derived assets, or framing angles — not job-specific keywords.
+  ],
+  "sampleBullets": [
+    { "weak": "<a typical mistake bullet someone in this situation might write>", "strong": "<rewritten to reframe the experience compellingly>", "lesson": "<one sentence on what made it stronger>" }
+    // exactly 3 items. Examples should reflect the situation (e.g. for 'returning after kids', show how to credit volunteer/PTA work; for 'after layoff', show how to handle the recent end-date)
+  ],
+  "commonMistakes": [
+    { "mistake": "<short heading>", "fix": "<one sentence on what to do instead>" }
+    // 4-5 items. These should be situation-specific landmines — e.g. 'Apologizing for the gap in the summary', 'Listing every job from 30 years ago'.
+  ],
+  "structureTips": [
+    "<one tip specific to this situation — e.g. 'Lead with a Skills Summary so the reader sees value before chronology', 'Use a functional or hybrid format if traditional reverse-chrono undersells you'>"
+    // 3-4 items
+  ],
+  "atsKeywords": ["<exact phrase 1>", "<exact phrase 2>"],
+  // For situations, atsKeywords should be the SEARCH PHRASES recruiters use to find people in this situation when employers want to hire them (e.g. 'returnship candidate', 'second-career', 'fair-chance hire'). 6-10 items.
+  "salarySignal": "<one sentence about salary expectations relevant to this situation. Stay general and accurate. If salary varies wildly, say so plainly. Avoid invented numbers.>",
+  "faq": [
+    { "q": "<question phrased the way someone in this situation would Google it — anxiously, in plain English>", "a": "<2-3 sentences. Practical, direct, no false reassurance.>" }
+    // 5 items. Address the real fears (gap explanations, age discrimination, lack of recent references, etc.)
+  ]
+}
+
+WRITING RULES:
+- Warm but direct. Never patronizing. Never overly upbeat. The reader can tell when they're being managed.
+- Concrete > generic. Reference the specific situation in every section. A guide for "After a Layoff" should mention layoffs by name; a guide for "Career Change at 50" should address ageism explicitly.
+- Validate before advising. The reader often feels behind, embarrassed, or scared. Acknowledge the situation in the intro before pivoting to action.
+- No fabricated metrics. Sample bullets should show how to reframe REAL experience compellingly — not how to invent things.
+- Address the elephant directly. If the situation has a stigma (gap years, fired, incarceration), the FAQ must address it head-on, not dance around it.
+- Output JSON ONLY. No markdown fences, no commentary.`;
+
 // ---- helpers --------------------------------------------------------------
 function loadRoles() {
   return JSON.parse(fs.readFileSync(ROLES_PATH, 'utf8')).roles.filter((r) => !r.deprecated);
@@ -103,11 +156,15 @@ function hasCache(slug) {
 }
 
 async function generateRole(client, role) {
-  const userMsg = `ROLE: ${role.title}\nCATEGORY: ${role.category}\n\nGenerate the JSON now for the resume reference page targeting "${role.title} resume" as the primary search query.`;
+  const isSituation = role.category === 'situation';
+  const systemPrompt = isSituation ? SITUATION_SYSTEM_PROMPT : ROLE_SYSTEM_PROMPT;
+  const userMsg = isSituation
+    ? `SITUATION: ${role.title}\n\nGenerate the JSON now for a resume guide aimed at someone whose current situation is "${role.title}". Address them directly, with empathy and practical advice.`
+    : `ROLE: ${role.title}\nCATEGORY: ${role.category}\n\nGenerate the JSON now for the resume reference page targeting "${role.title} resume" as the primary search query.`;
   const message = await client.messages.create({
     model: MODEL,
     max_tokens: 3000,
-    system: SYSTEM_PROMPT,
+    system: systemPrompt,
     messages: [{ role: 'user', content: userMsg }],
   });
   const raw = message.content.map((b) => b.text || '').join('');

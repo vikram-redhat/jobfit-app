@@ -1,0 +1,125 @@
+{
+  "slug": "after-layoff",
+  "title": "After a Layoff",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:24:26.418Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Resume After a Layoff: How to Reframe Your Exit",
+  "metaDescription": "Practical resume tips for recently laid-off workers. How to explain the gap, handle dates, and show you're hireable without shame.",
+  "h1": "Your Resume After a Layoff",
+  "intro": "A layoff is a business decision, not a reflection of your ability. You don't need to apologize for it on your resume—but you do need to address it clearly so hiring managers can move past the timing question and see your value. This guide shows you how.",
+  "audience": "Workers recently laid off who need to explain a job ending without it undermining their candidacy or taking up emotional energy in interviews.",
+  "topSkills": [
+    {
+      "name": "Rapid problem-solving and adaptability",
+      "why": "Layoffs force quick pivots. If you landed on your feet, even partially, that's proof you stay resourceful under pressure—exactly what employers want."
+    },
+    {
+      "name": "Project completion and delivery",
+      "why": "Emphasize the work you shipped before the layoff, not the uncertainty after it. Concrete deliverables outlive the company's decision."
+    },
+    {
+      "name": "Cross-functional collaboration",
+      "why": "Layoffs often flatten teams. If you wore multiple hats or bridged departments, that's a differentiator worth highlighting."
+    },
+    {
+      "name": "Performance metrics and ROI",
+      "why": "Numbers are harder to argue with than narratives. If you drove revenue, reduced costs, or grew a metric, lead with that—it proves impact independent of company fate."
+    },
+    {
+      "name": "Business continuity and knowledge transfer",
+      "why": "If you helped transition work or documented processes during layoffs, that shows maturity and team-first thinking."
+    },
+    {
+      "name": "Independent initiative and self-management",
+      "why": "Layoffs can isolate you. If you kept momentum, learned new tools, or took on side work, that proves you don't need hand-holding."
+    },
+    {
+      "name": "Resilience and transparency",
+      "why": "Framing a layoff honestly without bitterness signals emotional intelligence and trustworthiness—both red flags for employers evaluating character."
+    },
+    {
+      "name": "Sector or industry expertise",
+      "why": "If your layoff came from a shrinking department or company pivot, your deep knowledge of that space is still valuable to competitors or related fields."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked as Marketing Manager until company restructuring ended role in March 2024.",
+      "strong": "Led cross-channel campaign strategy for 3 key product lines, driving 18% YoY revenue growth; managed $2.1M annual budget and team of 4 contractors.",
+      "lesson": "Lead with impact, not the exit. Your layoff date becomes a timestamp footnote; your delivered value becomes the headline."
+    },
+    {
+      "weak": "Responsible for customer onboarding in a scaling startup.",
+      "strong": "Built and optimized onboarding workflow from scratch, reducing new-customer time-to-value from 14 days to 6; trained 2 team members before department consolidation in Q2 2024.",
+      "lesson": "Acknowledge the end-date matter-of-factly (even name the consolidation), but bury it after the achievement. Specificity removes the sting."
+    },
+    {
+      "weak": "Laid off during company reduction in force; maintained relationships with colleagues.",
+      "strong": "Managed $8.5M P&L and delivered 4 successful product launches before company restructuring; leveraged network to move 2 direct reports to positions at partner firms.",
+      "lesson": "Turn the layoff from a passive event into evidence of professionalism. Helping others land is leadership, not desperation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Vague or evasive job-end explanations ('left to pursue other opportunities')",
+      "fix": "Be direct: 'position eliminated in company restructuring' or 'affected by RIF in March 2024.' Evasion raises more flags than honesty. Recruiters will assume layoff anyway."
+    },
+    {
+      "mistake": "Downplaying accomplishments because the company 'failed anyway'",
+      "fix": "Your work was real. The company's fate doesn't change what you built, shipped, or improved. Keep the achievements prominent; the exit is context, not the main story."
+    },
+    {
+      "mistake": "Listing a long string of short-tenure roles with no context, making it look like a pattern",
+      "fix": "If you've had multiple layoffs, add brief context only to the most recent one. Don't narrate every exit. Focus on the skills and results from each role."
+    },
+    {
+      "mistake": "Leaving the employment end-date off to hide the gap",
+      "fix": "Don't. A missing date screams 'I'm hiding something.' Use the actual date. Employers expect layoff-induced gaps; mysteries feel worse."
+    },
+    {
+      "mistake": "Over-explaining in your summary or objective ('I was unfairly affected by...')",
+      "fix": "Your summary is not a confessional. State your role, value, and what you're seeking next. The interview—if it comes up—is where you address the context candidly."
+    }
+  ],
+  "structureTips": [
+    "Use a reverse-chronological format but lead your most recent role with your strongest achievements first. The layoff is the end-date; your impact is the headline. Employers scan top-to-bottom and will see value before timeline.",
+    "Include a brief Professional Summary (3-4 lines) that positions you in the market you're entering next—not the one that just cut you. Frame it as transition and confidence, not exile.",
+    "If your layoff was recent (within 2-3 months), a short Skills or Core Competencies section placed early can offset recency concerns. Show you're job-search-active and forward-facing.",
+    "For the most recent role, include the layoff reason as a neutral parenthetical in the job title line: e.g., 'Senior Analyst, XYZ Corp (2021–Mar 2024; department restructured).' This answers the question upfront and frees space for achievements."
+  ],
+  "atsKeywords": [
+    "recently laid off",
+    "RIF survivor",
+    "restructuring",
+    "career transition",
+    "second-act hire",
+    "rehiring candidate",
+    "workforce reduction",
+    "displaced worker",
+    "industry pivot"
+  ],
+  "salarySignal": "Salary expectations after a layoff vary widely by industry, role level, and time since exit. If you're early in your search, avoid anchoring to your pre-layoff salary; instead, research the market rate for the role and company you're targeting. Some laid-off workers use the transition to negotiate up (new role, new market); others accept a modest step back to land quickly. Be clear on what you need, but flexible on timing.",
+  "faq": [
+    {
+      "q": "How do I explain a gap on my resume if I've been unemployed for months after the layoff?",
+      "a": "First: a 2-6 month gap after a layoff is normal and not a red flag. Use your cover letter or the interview to briefly contextualize it ('took time to evaluate next steps' or 'used the transition to upskill in X'). If the gap stretches beyond 6 months, fill it with concrete activity: freelance work, coursework, volunteer projects, or professional certifications. Silence reads worse than a simple explanation."
+    },
+    {
+      "q": "Should I mention the layoff in my cover letter or wait for the interview?",
+      "a": "Only mention it if the timing is awkward or the job posting specifically asks about recent gaps. In your cover letter, focus on why you're excited about the next role and what you learned in your last one. Save the layoff story for the interview, where you can deliver it in 1–2 calm sentences: 'The company restructured in March; my role was eliminated. I'm looking forward to [reason for this new role].'"
+    },
+    {
+      "q": "What if multiple jobs on my resume ended in layoffs? Will that make me look unhireable?",
+      "a": "Not if you explain the pattern briefly. Certain sectors (tech, finance, retail) have frequent cuts; that's understood. If you've had 2–3 layoffs over a decade, mention the industry context once ('worked in tech startups during several funding cycles') and move on. What matters is what you delivered in each role. Employers want proof of competence, not proof you were never laid off."
+    },
+    {
+      "q": "Should I use a different resume format to hide the recent end-date?",
+      "a": "No. A functional or hybrid resume might backfire by making you look like you're hiding something. Use a clean reverse-chronological format with the date visible. Confidence reads better than avoidance. Your achievements in that role speak for themselves; the exit date is just context."
+    },
+    {
+      "q": "Can I ask my former manager for a reference after the layoff, or will it be awkward?",
+      "a": "Yes, and most likely not. Managers laid off their teams; they understand. A brief, professional outreach ('I'm job searching and would appreciate a reference for the work we did at X') is normal. If the layoff was acrimonious, reach for a peer, colleague, or skip-level manager instead. Recruiters expect layoff situations; they're flexible on reference sources."
+    }
+  ]
+}

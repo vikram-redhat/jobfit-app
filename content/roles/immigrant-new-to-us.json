@@ -1,0 +1,126 @@
+{
+  "slug": "immigrant-new-to-us",
+  "title": "Immigrant New to the US Job Market",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:25:52.642Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "Resume Tips for Immigrants New to the US Job Market",
+  "metaDescription": "Build a US resume that translates your international experience clearly. Practical tips for credential conversion, language, and format.",
+  "h1": "Your Resume as an Immigrant Entering the US Job Market",
+  "intro": "You have real skills and work experience—but the way you present them matters enormously in a US hiring context. This isn't about hiding who you are; it's about translating your background into language, format, and structure that US employers instantly recognize as credible. The resume that worked in your home country may not work here. Let's fix that.",
+  "audience": "People who've worked professionally outside the US and are now job-hunting in America, whether recently arrived or rebuilding after a move.",
+  "topSkills": [
+    {
+      "name": "Cross-cultural communication and adaptability",
+      "why": "Employers value someone who's navigated different professional systems; frame it as an asset, not a gap."
+    },
+    {
+      "name": "Technical skills and certifications (with US equivalents noted)",
+      "why": "If your credentials are foreign, US employers won't know their value unless you explicitly name the US equivalent or translate the qualification."
+    },
+    {
+      "name": "Language fluency (list all languages you speak professionally)",
+      "why": "In many US markets, multilingual ability is a concrete, marketable skill—don't hide it or downplay it."
+    },
+    {
+      "name": "Industry-specific experience (even if company names are unfamiliar)",
+      "why": "Frame your role by *function* and *impact*, not by company prestige, so US hiring managers understand what you actually did."
+    },
+    {
+      "name": "Reliability and tenure (if you held roles for several years)",
+      "why": "Long tenure in one role or company signals stability; in some cultures this is the norm, but US employers see it as a sign of dependability."
+    },
+    {
+      "name": "Problem-solving in resource-constrained environments",
+      "why": "If you've worked in less-resourced settings, reframe efficiency and creative problem-solving as strengths, not limitations."
+    },
+    {
+      "name": "Customer or stakeholder management across cultures",
+      "why": "If you've dealt with international clients or diverse teams, name it explicitly—it's a differentiator."
+    },
+    {
+      "name": "Self-directed learning and credential acquisition",
+      "why": "If you've taken steps to upgrade your qualifications (language training, certifications, US courses), list them—it shows initiative and commitment."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked as a Senior Accountant at Global Finance Ltd. in Mumbai for 5 years. Responsible for accounting and financial reporting.",
+      "strong": "Managed financial reporting and month-end close for a 200+ person operations team; reconciled accounts totaling $5M+ annually and ensured 100% compliance with Indian GAAP standards.",
+      "lesson": "Name the company's location, quantify your scope (team size, money managed, transactions), and specify the accounting standard—US employers won't know what 'Global Finance Ltd.' does or the scale of your work without detail."
+    },
+    {
+      "weak": "Diploma in Nursing from State University, Philippines. Worked as a Registered Nurse.",
+      "strong": "RN (CGFNS-certified, eligible for NCLEX); 6 years emergency department experience in a 400-bed teaching hospital; proficient in patient triage, IV insertion, and critical documentation under high-volume conditions.",
+      "lesson": "Lead with US certification status or pathway (CGFNS, NCLEX eligibility) so recruiters know you can legally work in your field; then detail clinical scope and acuity level."
+    },
+    {
+      "weak": "Marketing Coordinator at a startup in Jakarta. Did social media and some advertising.",
+      "strong": "Grew Instagram following from 5K to 85K followers (12 months) through daily content strategy and paid campaigns; managed $2K monthly ad budget; coordinated 8+ product launches resulting in 35% revenue increase YoY.",
+      "lesson": "Replace vague role descriptions with metric-driven outcomes and dollar/percentage impact; US employers care less about your job title than what your work generated."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every qualification from your home country without US translation",
+      "fix": "Research the US equivalent (e.g., 'A-Levels' = high school diploma; German Staatsexamen = master's degree) and note it parenthetically, or focus on the credential's outcome rather than its local name."
+    },
+    {
+      "mistake": "Assuming company names abroad will mean something to US hiring managers",
+      "fix": "Add context: company size, industry, location. Instead of 'Worked at Boralex,' write 'Boralex (renewable energy company, 5,000+ employees across Canada and Europe).'"
+    },
+    {
+      "mistake": "Using a non-US phone number or email address without clarification",
+      "fix": "Update your contact info to a US number and email if you have them; if not, add your time zone or note that you're in the US and reachable at specific hours."
+    },
+    {
+      "mistake": "Including irrelevant details (visa sponsorship status, work permit type, or a photo) without being asked",
+      "fix": "Leave visa/sponsorship status off the resume entirely unless the job posting explicitly asks. Address it in a cover letter or early conversation, not on the resume. Never include a photo unless applying for entertainment or modeling roles."
+    },
+    {
+      "mistake": "Writing a summary that centers your immigration or 'new to the US' narrative",
+      "fix": "Your summary should highlight your professional strengths and the value you bring, not your biographical story. Save that for conversation with a recruiter."
+    }
+  ],
+  "structureTips": [
+    "Use a functional or hybrid resume format if your most relevant work was abroad; a strict reverse-chronological format can bury your skills under unfamiliar company names and location.",
+    "Lead with a professional summary that translates your experience into US hiring language. Example: 'Financial analyst with 8 years managing P&L for mid-market companies; expertise in GAAP-compliant reporting, budget forecasting, and cross-functional stakeholder management.'",
+    "Group credentials and certifications clearly—if you've earned US certifications (NCLEX, PMP, Series 7), list them prominently with dates and status; separate them from international qualifications.",
+    "Use a single, clear date format (MM/YYYY or Month Year) and spell out month names rather than numerals; many countries use DD/MM/YYYY, which confuses US readers."
+  ],
+  "atsKeywords": [
+    "international experience",
+    "multilingual",
+    "foreign credentials",
+    "cross-cultural",
+    "immigrant professional",
+    "overseas work experience",
+    "credential evaluation",
+    "CGFNS",
+    "IQAS",
+    "work authorization"
+  ],
+  "salarySignal": "Salary expectations vary dramatically by field, credential recognition, and US market demand for your role. Don't assume your home-country salary translates; research US Bureau of Labor Statistics data for your specific role and region. If asked early, say you're researching the market and will provide a range once you understand the role's full scope.",
+  "faq": [
+    {
+      "q": "Should I explain the gap between when I worked abroad and when I started job-hunting in the US?",
+      "a": "If there's a real gap (visa processing, relocation logistics, family settling), a brief note in your cover letter is fine—'Relocated to [US city] in [month/year] and have been completing credential evaluation and US job-market research.' On the resume itself, keep dates clear and don't apologize for the gap. Let your cover letter or early conversation explain the timeline if needed."
+    },
+    {
+      "q": "How do I list a degree from a university US employers won't recognize?",
+      "a": "List the degree, university name, location, and graduation year—then add the US equivalent in parentheses if helpful. Example: 'Master's in Engineering, University of São Paulo, Brazil (equivalent to US Master's degree).' For critical professional roles, consider getting a credential evaluation (WES, NACES) to formalize equivalency; note this on your resume if you've done it."
+    },
+    {
+      "q": "Is it okay to list my native language first, or should English always come first?",
+      "a": "List languages in order of fluency or relevance to the job. If you're fluent in both English and your native language at professional level, you can list either first—it doesn't matter. If English is a second language but you're proficient, list it; employers care about your actual capability, not the order."
+    },
+    {
+      "q": "What if I have a credential or certification that's recognized internationally but not in the US?",
+      "a": "Name it clearly with context: 'ACCA qualification (UK-based accounting credential, equivalent to CPA study)' or 'CISSP equivalent certified information security training.' If an employer cares, they'll ask for clarification; context helps them evaluate your background fairly."
+    },
+    {
+      "q": "Should I address work authorization or visa status on my resume?",
+      "a": "No. Leave it off entirely. If a job posting requires sponsorship or asks about authorization, address it in your cover letter or when the recruiter asks directly. Most US employers cannot legally ask visa status upfront; they'll ask 'Are you authorized to work in the US?' in an interview. Answer honestly then—not on the resume."
+    }
+  ]
+}

@@ -1,14 +1,15 @@
 {
   "_comment": "Curated list of 200 roles for the /resume-for/[slug] programmatic SEO surface. Slugs must be URL-safe and stable — they're permanent. Add new roles to the END of the list to preserve git diffs. To deprecate a role, set deprecated: true (do not remove the entry).",
   "categories": {
+    "situation":  { "label": "Life situations",     "description": "Guides for specific life moments — first job, returning to work, career change, layoff, more" },
     "tech":       { "label": "Tech",                 "description": "Software, data, product, design-engineering" },
     "healthcare": { "label": "Healthcare",           "description": "Clinical, allied health, support staff" },
+    "newgrad":    { "label": "New grad & entry-level", "description": "First-job, intern, junior" },
     "business":   { "label": "Business & corporate", "description": "Marketing, sales, operations, finance, HR" },
     "creative":   { "label": "Creative & design",    "description": "Design, writing, video, brand, content" },
     "service":    { "label": "Service & retail",     "description": "Hospitality, food, retail, customer-facing" },
     "trades":     { "label": "Skilled trades",       "description": "Construction, automotive, electrical, mechanical" },
-    "education":  { "label": "Education",            "description": "Teaching, instruction, training" },
-    "newgrad":    { "label": "New grad & entry-level", "description": "First-job, intern, junior" }
+    "education":  { "label": "Education",            "description": "Teaching, instruction, training" }
   },
   "roles": [
     { "slug": "software-engineer", "title": "Software Engineer", "category": "tech" },
@@ -217,6 +218,25 @@
     { "slug": "library-assistant", "title": "Library Assistant", "category": "newgrad" },
     { "slug": "career-changer-tech", "title": "Career Changer to Tech", "category": "newgrad" },
     { "slug": "career-changer-marketing", "title": "Career Changer to Marketing", "category": "newgrad" },
-    { "slug": "bootcamp-graduate", "title": "Coding Bootcamp Graduate", "category": "newgrad" }
+    { "slug": "bootcamp-graduate", "title": "Coding Bootcamp Graduate", "category": "newgrad" },
+
+    { "slug": "first-resume-no-experience", "title": "Your First Resume (No Experience)", "category": "situation" },
+    { "slug": "first-job-at-16", "title": "First Job at 16", "category": "situation" },
+    { "slug": "first-job-teenager", "title": "First Job as a Teenager", "category": "situation" },
+    { "slug": "high-school-student", "title": "High School Student Resume", "category": "situation" },
+    { "slug": "college-student-no-internships", "title": "College Student with No Internships", "category": "situation" },
+    { "slug": "returning-to-work-after-kids", "title": "Returning to Work After Raising Kids", "category": "situation" },
+    { "slug": "after-maternity-leave", "title": "Returning After Maternity Leave", "category": "situation" },
+    { "slug": "after-layoff", "title": "After a Layoff", "category": "situation" },
+    { "slug": "after-being-fired", "title": "After Being Fired", "category": "situation" },
+    { "slug": "career-change-at-30", "title": "Career Change at 30", "category": "situation" },
+    { "slug": "career-change-at-40", "title": "Career Change at 40", "category": "situation" },
+    { "slug": "career-change-at-50", "title": "Career Change at 50", "category": "situation" },
+    { "slug": "over-50-job-search", "title": "Job Search Over 50", "category": "situation" },
+    { "slug": "veteran-transitioning-to-civilian", "title": "Veteran Transitioning to Civilian Work", "category": "situation" },
+    { "slug": "immigrant-new-to-us", "title": "Immigrant New to the US Job Market", "category": "situation" },
+    { "slug": "international-student-us", "title": "International Student in the US", "category": "situation" },
+    { "slug": "fair-chance-after-incarceration", "title": "Fair-Chance: After Incarceration", "category": "situation" },
+    { "slug": "after-employment-gap", "title": "Explaining an Employment Gap", "category": "situation" }
   ]
 }

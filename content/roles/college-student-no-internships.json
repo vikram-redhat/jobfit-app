@@ -1,0 +1,130 @@
+{
+  "slug": "college-student-no-internships",
+  "title": "College Student with No Internships",
+  "category": "situation",
+  "generatedAt": "2026-05-02T23:24:00.885Z",
+  "model": "claude-haiku-4-5-20251001",
+  "metaTitle": "College Resume With No Internships: What to Do Instead",
+  "metaDescription": "Build a compelling resume without internship experience. Leverage coursework, projects, and campus roles to stand out to entry-level employers.",
+  "h1": "Your College Resume Without Internships—Here's How to Position Yourself",
+  "intro": "You're finishing college without the internship experience you see on everyone else's resume, and you're worried that matters more than it does. The truth: employers hiring entry-level candidates know not everyone interns, and they're looking for evidence of real skills and initiative—which you can show in other ways. This guide walks you through how to build that case.",
+  "audience": "College students and recent graduates without internship experience who are applying for entry-level jobs and wondering how to make their resume competitive.",
+  "topSkills": [
+    {
+      "name": "Relevant Coursework & Technical Projects",
+      "why": "Project-based work (capstone, problem sets, coding assignments) is a legitimate substitute for internship experience; employers want to see you've *done* the work, not just learned about it."
+    },
+    {
+      "name": "Leadership in Student Organizations",
+      "why": "Running a club, leading a committee, or organizing an event demonstrates initiative and responsibility—qualities you'd show in a job anyway."
+    },
+    {
+      "name": "Self-Directed Learning & Certifications",
+      "why": "Completing online courses, earning industry certificates, or building a portfolio project outside class shows hunger and direction, which compensates for lack of formal workplace experience."
+    },
+    {
+      "name": "Volunteer or Community Project Work",
+      "why": "Non-paid work that used your skills (tutoring, tech support, nonprofit database work) is real experience and proves you'll take on responsibility."
+    },
+    {
+      "name": "GPA & Academic Honors (if 3.5+)",
+      "why": "When you don't have internships, a strong GPA is a proxy for rigor and reliability; include it if it's above 3.5, then move on."
+    },
+    {
+      "name": "Transferable Soft Skills from Part-Time Work",
+      "why": "Retail, food service, or campus jobs build communication, problem-solving, and work ethic—reframe them around what you *did*, not just where you worked."
+    },
+    {
+      "name": "Portfolio or GitHub Presence",
+      "why": "A working link to your code, design, writing, or projects lets employers see evidence without relying solely on your resume narrative."
+    },
+    {
+      "name": "Clear Career Intent & Specific Role Targeting",
+      "why": "Employers know students without internships; they want to see you've thought about *what you actually want to do*, not that you're applying everywhere."
+    },
+    {
+      "name": "Impact-Driven Language Over Time Served",
+      "why": "Without deep work history, emphasize what you shipped, built, or improved—concrete outcomes matter more than tenure."
+    }
+  ],
+  "sampleBullets": [
+    {
+      "weak": "Worked on various class projects throughout college",
+      "strong": "Built a full-stack web app for my capstone project using React and Node.js; implemented user authentication and deployed to production with 50+ lines of code review feedback incorporated",
+      "lesson": "Name the specific technology, the outcome, and evidence of iteration—it transforms 'did a project' into 'shipped working software.'"
+    },
+    {
+      "weak": "Was Vice President of debate club",
+      "strong": "Led debate club as Vice President; recruited 15 new members, organized weekly practice sessions, and coached two novice teams to regional competition",
+      "lesson": "Replace the title with the actual work—numbers and concrete actions show you delivered, not just held a position."
+    },
+    {
+      "weak": "Worked retail part-time while in school",
+      "strong": "Managed customer service and inventory for retail location; trained 5 new hires on POS system and store processes, maintaining 98% accuracy on end-of-shift counts",
+      "lesson": "Even part-time work matters if you pull out the skills (training, attention to detail, process ownership) and add specifics—it shows reliability and competence."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "mistake": "Listing every class you took or every group project",
+      "fix": "Name only courses or projects that directly support the job you're applying for, and keep it to 2–3 standouts. Employers don't need a syllabus."
+    },
+    {
+      "mistake": "Apologizing for the lack of internship in your summary",
+      "fix": "Don't mention it. Lead with the work and skills you *do* have; hiring managers aren't looking for excuses, they're looking for capability."
+    },
+    {
+      "mistake": "Padding GPA or coursework with inflated language",
+      "fix": "Keep academic items factual—'3.8 GPA in Computer Science' is stronger than 'Achieved academic excellence in rigorous computer science curriculum.'"
+    },
+    {
+      "mistake": "Treating volunteer work or part-time jobs as filler",
+      "fix": "Apply the same detail and impact language to non-internship roles as you would to internships; employers want to see results, regardless of how you were paid."
+    },
+    {
+      "mistake": "Leaving off a portfolio, GitHub, or personal projects because they're 'just' side work",
+      "fix": "Include a link to your best work in a separate line or footer—it's often the single strongest proof you can offer without internship experience."
+    }
+  ],
+  "structureTips": [
+    "Use a Skills Summary near the top to highlight technical and interpersonal capabilities upfront; this shifts focus from 'no internships' to 'here's what I can do.'",
+    "Group coursework and projects under a dedicated 'Relevant Experience' or 'Projects & Coursework' section, positioned before or equal to part-time work, to give them weight.",
+    "Include a 'Portfolio / Links' line with GitHub, personal website, or Dribbble; working examples compensate directly for lack of formal workplace credentials.",
+    "Keep your resume to one page—don't pad with low-value coursework or clubs. Employers know you're in college; they want proof of depth, not breadth."
+  ],
+  "atsKeywords": [
+    "entry-level",
+    "recent graduate",
+    "no experience required",
+    "college degree",
+    "project-based experience",
+    "junior candidate",
+    "early career",
+    "class projects",
+    "academic portfolio",
+    "self-taught skills"
+  ],
+  "salarySignal": "Entry-level salaries for college graduates vary widely by field and region (engineering and tech typically start $55k–$75k; humanities and business roles often $35k–$50k); your lack of internship experience may shift you toward the lower end of your field's range, but strong portfolio work can improve that.",
+  "faq": [
+    {
+      "q": "Will not having internships hurt me when I'm competing against people who had them?",
+      "a": "Not as much as you think. Most entry-level hiring managers know not every student interns, and they're more interested in what you've *made* than where you've worked. A strong portfolio, detailed project examples, and clear communication about what you've learned will beat an internship résumé that's generic or thin on specifics."
+    },
+    {
+      "q": "Should I list my GPA if it's not really high?",
+      "a": "Only if it's 3.5 or above. If it's lower, leave it off—it's not helping you. Employers don't expect a dean's list resume from entry-level candidates; they care far more about your skills and what you've built."
+    },
+    {
+      "q": "How do I explain that I was working part-time or dealing with other stuff instead of interning?",
+      "a": "You don't need to explain. Treat your actual work and projects as equivalent—use the same impact language, add numbers, and show what you accomplished. Hiring managers won't hold it against you if your resume demonstrates capability."
+    },
+    {
+      "q": "Is a portfolio really necessary, or can I just let my resume speak for itself?",
+      "a": "If you're in tech, design, writing, or any field where you've made something tangible, a portfolio link is close to essential—it shows proof in a way a resume cannot. For other fields, it's a strong differentiator but not always required; use your judgment based on the role."
+    },
+    {
+      "q": "What if my only experience is a retail or food service job with no 'skills'?",
+      "a": "Every job has skills—customer service, communication, handling pressure, time management, and training others all matter. Reframe the work around what you *did*: 'Resolved customer complaints, maintained inventory accuracy, or trained new staff.' These are real skills employers value, and they count on your resume."
+    }
+  ]
+}

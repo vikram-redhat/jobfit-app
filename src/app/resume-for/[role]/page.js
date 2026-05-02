@@ -10,6 +10,7 @@ import {
   getRolesIndex,
   getRelatedRoles,
 } from '@/lib/role-content';
+import BuiltWithClaude from '@/components/BuiltWithClaude';
 
 export const dynamicParams = false; // 404 for any slug not in generateStaticParams
 
@@ -49,6 +50,11 @@ export default function RoleResumePage({ params }) {
   const categoryLabel = categories[content.category]?.label || 'Roles';
   const related = getRelatedRoles(params.role, 6);
   const url = `${SITE_URL}/resume-for/${params.role}`;
+  // Situation guides (life-moment pages like "After a Layoff") need
+  // category-aware headings — "Common mistakes on a After a Layoff resume"
+  // would be ungrammatical, and "Top skills hiring managers look for" is
+  // wrong framing when the page isn't about a single role.
+  const isSituation = content.category === 'situation';
 
   // ----- structured data ---------------------------------------------------
   const breadcrumbJsonLd = {
@@ -126,7 +132,11 @@ export default function RoleResumePage({ params }) {
         <div className="rounded-2xl border border-blue-200 bg-blue-50 p-5 mb-12 flex flex-wrap items-center justify-between gap-4">
           <div>
             <p className="text-sm font-semibold text-gray-900">Want this done in 30 seconds?</p>
-            <p className="text-xs text-gray-600">Paste a {content.title} JD and JobFit will tailor your resume + cover letter.</p>
+            <p className="text-xs text-gray-600">
+              {isSituation
+                ? 'Paste any job description and JobFit will tailor your resume + cover letter — using only what you actually have.'
+                : `Paste a ${content.title} JD and JobFit will tailor your resume + cover letter.`}
+            </p>
           </div>
           <Link
             href="/"
@@ -136,12 +146,16 @@ export default function RoleResumePage({ params }) {
           </Link>
         </div>
 
-        {/* Top skills */}
+        {/* Top skills (or "what to lean on" for situation guides) */}
         {content.topSkills && content.topSkills.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold mb-2">Top skills hiring managers look for</h2>
+            <h2 className="text-2xl font-bold mb-2">
+              {isSituation ? 'What to lean on' : 'Top skills hiring managers look for'}
+            </h2>
             <p className="text-sm text-gray-500 mb-6">
-              Cover these in your skills section and weave them into your bullets.
+              {isSituation
+                ? "Transferable skills, life experience, and angles that work in your favor."
+                : "Cover these in your skills section and weave them into your bullets."}
             </p>
             <ol className="space-y-3">
               {content.topSkills.map((s, i) => (
@@ -195,7 +209,9 @@ export default function RoleResumePage({ params }) {
         {content.commonMistakes && content.commonMistakes.length > 0 && (
           <section className="mb-14">
             <h2 className="text-2xl font-bold mb-6">
-              Common mistakes on a {content.title.toLowerCase()} resume
+              {isSituation
+                ? 'Common mistakes to avoid'
+                : `Common mistakes on a ${content.title.toLowerCase()} resume`}
             </h2>
             <ul className="space-y-4">
               {content.commonMistakes.map((m, i) => (
@@ -226,12 +242,16 @@ export default function RoleResumePage({ params }) {
           </section>
         )}
 
-        {/* ATS keywords */}
+        {/* ATS keywords (or recruiter search phrases for situation guides) */}
         {content.atsKeywords && content.atsKeywords.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold mb-2">Keywords ATS systems look for</h2>
+            <h2 className="text-2xl font-bold mb-2">
+              {isSituation ? 'Phrases that help recruiters find you' : 'Keywords ATS systems look for'}
+            </h2>
             <p className="text-sm text-gray-500 mb-4">
-              Your resume should mirror these phrases verbatim where they're true for you.
+              {isSituation
+                ? 'These phrases signal your situation to recruiters using inclusive-hiring filters. Use the ones that genuinely apply.'
+                : "Your resume should mirror these phrases verbatim where they're true for you."}
             </p>
             <div className="flex flex-wrap gap-2">
               {content.atsKeywords.map((k, i) => (
@@ -270,7 +290,9 @@ export default function RoleResumePage({ params }) {
         <section className="mb-14 rounded-2xl border border-gray-200 p-8 bg-gradient-to-br from-blue-50 to-white">
           <h2 className="text-2xl font-bold mb-2">Skip the rewriting. Let JobFit do it.</h2>
           <p className="text-sm text-gray-600 mb-5 max-w-xl">
-            Paste a {content.title} job description and JobFit returns a tailored resume + cover letter in 30 seconds — using only facts from your profile, never inventing anything.
+            {isSituation
+              ? 'Paste any job description and JobFit returns a tailored resume + cover letter in 30 seconds — using only facts from your profile, never inventing anything.'
+              : `Paste a ${content.title} job description and JobFit returns a tailored resume + cover letter in 30 seconds — using only facts from your profile, never inventing anything.`}
           </p>
           <div className="flex flex-wrap gap-3">
             <Link
@@ -291,7 +313,9 @@ export default function RoleResumePage({ params }) {
         {/* Related roles */}
         {related.length > 0 && (
           <section className="pt-10 border-t border-gray-100">
-            <h2 className="text-lg font-bold mb-4">Other {categoryLabel.toLowerCase()} roles</h2>
+            <h2 className="text-lg font-bold mb-4">
+              {isSituation ? 'Other life-situation guides' : `Other ${categoryLabel.toLowerCase()} roles`}
+            </h2>
             <ul className="grid sm:grid-cols-2 gap-2">
               {related.map((r) => (
                 <li key={r.slug}>
@@ -308,12 +332,17 @@ export default function RoleResumePage({ params }) {
         )}
       </main>
 
-      <footer className="px-6 py-6 border-t border-gray-100 flex items-center justify-between max-w-3xl mx-auto w-full">
-        <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
-        <div className="flex items-center gap-4 text-xs text-gray-400">
-          <Link href="/resume-for" className="hover:text-gray-600 transition-colors">All resume guides</Link>
-          <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
-          <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+      <footer className="px-6 py-6 border-t border-gray-100 max-w-3xl mx-auto w-full">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <span className="text-xs text-gray-400 font-mono">© {new Date().getFullYear()} JobFit</span>
+          <div className="flex items-center gap-4 text-xs text-gray-400">
+            <Link href="/resume-for" className="hover:text-gray-600 transition-colors">All resume guides</Link>
+            <Link href="/tools" className="hover:text-gray-600 transition-colors">Free tools</Link>
+            <Link href="/privacy" className="hover:text-gray-600 transition-colors">Privacy</Link>
+          </div>
+        </div>
+        <div className="mt-3 text-center sm:text-left">
+          <BuiltWithClaude />
         </div>
       </footer>
     </div>
