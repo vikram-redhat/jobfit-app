@@ -22,6 +22,9 @@ const disallowedPaths = [
   '/forgot-password',
   '/reset-password',
   '/auth/',
+  // /start is a paid-traffic landing page. We don't want it ranking organically
+  // — it would compete with / and dilute the homepage's authority.
+  '/start',
 ];
 
 // Bots we want to give an explicit, generous policy to — primarily AI search.

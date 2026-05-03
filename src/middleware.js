@@ -28,6 +28,7 @@ export async function middleware(request) {
   // public — search engines and AI crawlers fetch them anonymously.
   const publicPaths = [
     '/',
+    '/start',
     '/auth/callback',
     '/privacy',
     '/contact',
@@ -59,7 +60,9 @@ export async function middleware(request) {
   }
 
   // Redirect authenticated users away from login page
-  if (user && request.nextUrl.pathname === '/') {
+  // Authed users hitting either landing page (/ or /start) are bounced to
+  // their dashboard — they don't need the marketing surface again.
+  if (user && (request.nextUrl.pathname === '/' || request.nextUrl.pathname === '/start')) {
     const url = request.nextUrl.clone();
     url.pathname = '/dashboard';
     return NextResponse.redirect(url);
