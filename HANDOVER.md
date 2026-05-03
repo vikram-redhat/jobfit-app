@@ -30,7 +30,7 @@ Free tier limit is adjustable live from the Admin panel without a code deploy.
 | AI | Claude Haiku (`claude-haiku-4-5-20251001`) via Anthropic API |
 | Payments | Stripe (subscriptions, webhooks, billing portal, promo codes) |
 | Styling | Tailwind CSS |
-| Analytics | Vercel Analytics, TikTok Pixel |
+| Analytics | Vercel Analytics, Google Analytics 4, TikTok Pixel |
 
 ---
 
@@ -159,6 +159,14 @@ Free limit hit → /upgrade → Stripe checkout → /dashboard?upgraded=1
 - **Promo codes:** Created and managed from the Admin panel, applied at Stripe checkout
 
 Webhook secret must be set in both Vercel env vars and the Stripe dashboard (for the production endpoint `https://jobfit.today/api/stripe/webhook`).
+
+---
+
+## Analytics
+
+### Google Analytics 4
+Property ID: `G-X5XBCMDQJL` (loaded in `src/app/layout.js`)
+Tracks all page views automatically. No custom events configured — standard GA4 behaviour.
 
 ---
 
