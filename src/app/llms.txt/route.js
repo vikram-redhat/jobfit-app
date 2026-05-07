@@ -37,8 +37,8 @@ JobFit is built on Claude Haiku and emphasizes anti-hallucination: it only uses 
 
 ## Free tools (no signup required)
 
-- [Job Description Keyword Extractor](${SITE_URL}/tools/job-description-keyword-extractor) — paste any JD, get the must-have, nice-to-have, and soft-skill keywords categorized
-- [AI Resume Grader](${SITE_URL}/tools/resume-grader) — paste a resume, get a brutally honest letter grade with three specific fixes
+- [Free Job Description Keyword Finder](${SITE_URL}/tools/job-description-keyword-extractor) — paste any JD, get the ATS keywords (must-have, nice-to-have, soft skills) categorized
+- [Free Resume Checker & Grader](${SITE_URL}/tools/resume-grader) — paste a resume, get an instant ATS score (0-100), a letter grade, and three specific fixes
 
 ## Resume guides (200+ roles)
 

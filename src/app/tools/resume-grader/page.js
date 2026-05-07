@@ -6,21 +6,27 @@ import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
 
 export const metadata = {
-  title: 'AI Resume Grader — Free Honest Resume Review',
+  // Title targets the broader "checker" cluster (10x larger than "grader")
+  // while keeping "grader" alive for the URL-slug query.
+  title: 'Free Resume Checker & Grader — Get an ATS Score in 30 Seconds | JobFit',
   description:
-    'Paste your resume and get a brutally honest AI grade plus three specific fixes. Scored on clarity, impact, ATS-readiness, action verbs, and metrics. Free, no signup.',
+    'Paste your resume and get an instant ATS score (0-100), a letter grade, and three specific fixes. Scored on clarity, impact, ATS-readiness, action verbs, and metrics. Free, no signup, no email.',
   alternates: { canonical: '/tools/resume-grader' },
   openGraph: {
-    title: 'Free AI Resume Grader',
-    description: 'Get a brutally honest letter grade and three specific fixes. Free, no signup.',
+    title: 'Free Resume Checker & Grader — Instant ATS Score',
+    description: 'Get an ATS score, a letter grade, and three specific fixes. Free, no signup.',
     url: '/tools/resume-grader',
   },
 };
 
 const faq = [
   {
-    q: 'How is the grade calculated?',
-    a: 'A senior-recruiter prompt scores your resume on five dimensions: clarity, impact, ATS-readiness, action verbs, and metrics. Each gets a 0-100 sub-score; the overall grade is a weighted blend.',
+    q: 'What is a good ATS score for a resume?',
+    a: 'An ATS score above 80 is generally considered strong — it means your resume mirrors the language hiring managers and ATS systems look for, uses clean formatting, has measurable impact bullets, and avoids obvious red flags. Scores of 60-80 are passable but improvable. Below 60 usually means real structural fixes are needed before applying.',
+  },
+  {
+    q: 'How is the resume grade calculated?',
+    a: 'A senior-recruiter prompt scores your resume on five dimensions: clarity, impact, ATS-readiness, action verbs, and metrics. Each gets a 0-100 sub-score; the overall grade is a weighted blend, expressed as both a letter (A+ through F) and a 0-100 number.',
   },
   {
     q: 'Why does it feel harsh?',
@@ -28,15 +34,15 @@ const faq = [
   },
   {
     q: 'Will it invent things to put on my resume?',
-    a: 'No. The prompt explicitly tells the AI not to fabricate metrics, dates, or claims. If it suggests adding a metric, it frames it as "consider adding" — never as a fact.',
+    a: 'No. The prompt explicitly tells the AI not to fabricate metrics, dates, or claims. If it suggests adding a metric, it frames it as "consider adding" — never as a fact. Every suggestion is something you must be able to defend in an interview.',
   },
   {
     q: 'Do you store my resume?',
-    a: 'We store the grade and feedback (so you can share the result link), plus a 200-character excerpt of your resume. Results auto-delete after 30 days.',
+    a: 'We store the grade and feedback (so you can share the result link), plus a 200-character excerpt of your resume. Results auto-delete after 30 days, and we don\'t use your input to train models.',
   },
   {
-    q: 'How does this compare to other resume graders?',
-    a: 'Most graders are a checklist of generic rules ("use action verbs!"). This one references specific lines from your actual resume in its critique — because Claude Haiku reads the whole document.',
+    q: 'How does this compare to other resume checkers?',
+    a: 'Most checkers are a checklist of generic rules ("use action verbs!"). This one references specific lines from your actual resume in its critique — because Claude Haiku reads the whole document. You also get a numeric ATS score and a letter grade, not just feedback.',
   },
 ];
 
@@ -59,8 +65,8 @@ export default function ResumeGraderPage() {
       />
       <ToolPageLayout
         eyebrow="Free tool · No signup"
-        title="AI Resume Grader"
-        subtitle="Paste your resume. Get a letter grade and three specific fixes — based on what hiring managers and ATS systems actually care about."
+        title="Free Resume Checker & Grader"
+        subtitle="Paste your resume. Get an instant ATS score (0-100), a letter grade, and three specific fixes — based on what hiring managers and ATS systems actually care about."
         faq={faq}
       >
         {/* Contextual cross-link to /resume-for — visitors are likely to want

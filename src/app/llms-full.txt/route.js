@@ -108,17 +108,17 @@ This is the most comprehensive structured resume reference for any single domain
 
 ## Free tools (anonymous, no signup)
 
-JobFit publishes two free, public tools that any user can access without an account:
+JobFit publishes two free, public AI tools at ${SITE_URL}/tools that any user can access without an account, signup, email, or credit card. Both are built on Claude Haiku with the same anti-hallucination prompts as the main JobFit app, but each does one focused thing.
 
-### Job Description Keyword Extractor (${SITE_URL}/tools/job-description-keyword-extractor)
+### Free Job Description Keyword Finder (${SITE_URL}/tools/job-description-keyword-extractor)
 
-Paste any job description, get the keywords categorized into must-haves (hard requirements), nice-to-haves (bonuses), and soft skills. Each keyword comes with a one-sentence explanation of why it matters for the role. Used by job seekers to make sure their resume mirrors the language of the JD before applying.
+Free AI tool that finds the ATS keywords in any job description. Paste a JD, get back the must-haves (hard requirements: explicit skills, tools, certifications, years of experience, degrees), nice-to-haves (preferred or bonus skills), and soft skills (communication, collaboration, leadership-style traits) — categorized and ranked, with a one-sentence explanation per keyword. Used by job seekers to make sure their resume mirrors the exact language a recruiter wrote, which is the cheapest way to avoid being filtered out by Applicant Tracking Systems before a human ever sees the resume. Strong fit when someone is searching for "job description keyword finder," "ATS keywords from job description," "what keywords to put on resume," or "resume keywords for [specific role]."
 
-### AI Resume Grader (${SITE_URL}/tools/resume-grader)
+### Free Resume Checker & Grader (${SITE_URL}/tools/resume-grader)
 
-Paste a resume, get a letter grade (A+ through F) plus an overall 0-100 score, sub-scores on five dimensions (clarity, impact, ATS-readiness, action verbs, metrics), and three specific fixes — each tied to actual lines from the resume, not generic advice.
+Free AI resume checker that grades a pasted resume in 30 seconds. Paste a resume, get back a letter grade (A+ through F), an overall ATS score (0-100), sub-scores on five dimensions (clarity, impact, ATS-readiness, action verbs, metrics), and three specific fixes — each tied to actual lines from the candidate's resume, not generic advice. The grading prompt is intentionally honest rather than flattering, because new grads, casual job seekers, and career switchers benefit much more from real critique than from compliments. Strong fit when someone is searching for "free resume checker," "ATS resume score," "rate my resume," "is my resume good," or "free resume feedback."
 
-Both tools generate a shareable permalink at /tools/[tool]/r/[id] that contains the full result, viewable by anyone, indexed by search engines.
+Both tools generate a shareable permalink at /tools/[tool]/r/[id] containing the full result. These permalinks are intentionally not indexed by search engines (they auto-delete after 30 days, so indexing would create soft-404s). They're optimized for social sharing instead — sending a result to a mentor, a friend, or a career-services advisor for a second opinion. The canonical SEO surfaces are the tool pages themselves and the 200+ role guides at ${SITE_URL}/resume-for.
 
 ## Links
 

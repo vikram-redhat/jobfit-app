@@ -40,7 +40,11 @@ export async function generateMetadata({ params }) {
       description,
       url: `/tools/job-description-keyword-extractor/r/${row.id}`,
     },
-    robots: { index: true, follow: true },
+    // These permalinks expire in 30 days. Indexing them creates soft-404s
+    // when they expire, which hurts site quality signals. They're optimized
+    // for social sharing (good OG tags), not for organic search ranking.
+    // The canonical SEO surface is the tool page itself + role guides.
+    robots: { index: false, follow: true },
   };
 }
 

@@ -6,29 +6,35 @@ import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
 
 export const metadata = {
-  title: 'Job Description Keyword Extractor — Free AI Tool',
+  // Title targets the broader "finder" cluster (5x larger than "extractor")
+  // while keeping "extractor" alive for the URL-slug query.
+  title: 'Free Job Description Keyword Finder — ATS Keywords Tool | JobFit',
   description:
-    'Paste any job description and instantly see the must-have skills, nice-to-haves, and soft skills that hiring managers and ATS systems look for. Free, no signup.',
+    'Paste any job description and instantly find the ATS keywords hiring managers look for — must-haves, nice-to-haves, and soft skills, all categorized. Free, no signup, no email.',
   alternates: { canonical: '/tools/job-description-keyword-extractor' },
   openGraph: {
-    title: 'Free Job Description Keyword Extractor',
-    description: 'See the keywords hiring managers actually look for. Free, no signup.',
+    title: 'Free Job Description Keyword Finder',
+    description: 'Find the ATS keywords hiring managers actually look for. Free, no signup.',
     url: '/tools/job-description-keyword-extractor',
   },
 };
 
 const faq = [
   {
+    q: 'What keywords should I put on my resume from a job description?',
+    a: "The keywords most worth mirroring are the must-haves: explicit skills, tools, certifications, years of experience, and degrees mentioned in the job description. Nice-to-haves (preferred or bonus skills) are worth including if you have them. Soft skills like communication or collaboration should be shown through bullets, not just listed. This tool categorizes all three for you in seconds.",
+  },
+  {
     q: 'Why does keyword extraction matter for my job application?',
-    a: "Most large companies use Applicant Tracking Systems (ATS) that filter resumes by keywords before a human ever sees them. If your resume doesn't mirror the language of the JD, you can be screened out even when you're a strong fit.",
+    a: "Most large companies use Applicant Tracking Systems (ATS) that filter resumes by keywords before a human ever sees them. If your resume doesn't mirror the language of the JD, you can be screened out even when you're a strong fit. Matching the exact phrases the recruiter wrote is the cheapest, biggest win in any application.",
   },
   {
     q: 'How is this different from doing it manually?',
-    a: 'You can absolutely highlight a JD by hand. The AI version is faster, separates must-haves from nice-to-haves, and explains why each keyword matters — useful when you\'re applying to many jobs in a session.',
+    a: 'You can absolutely highlight a JD by hand. The AI version is faster, separates must-haves from nice-to-haves, and explains why each keyword matters — useful when you\'re applying to many jobs in a session. It also catches phrases recruiters scan for that humans tend to miss.',
   },
   {
     q: 'Do you store my job description?',
-    a: 'We store the AI\'s analysis (so you can share the result link) but only a 200-character excerpt of the original JD. Results auto-delete after 30 days.',
+    a: 'We store the AI\'s analysis (so you can share the result link) but only a 200-character excerpt of the original JD. Results auto-delete after 30 days, and we don\'t use your input to train models.',
   },
   {
     q: 'What\'s the catch?',
@@ -59,8 +65,8 @@ export default function KeywordExtractorPage() {
       />
       <ToolPageLayout
         eyebrow="Free tool · No signup"
-        title="Job Description Keyword Extractor"
-        subtitle="Paste any job description. Get the keywords that ATS systems and hiring managers actually look for — categorized into must-haves, nice-to-haves, and soft skills."
+        title="Free Job Description Keyword Finder"
+        subtitle="Paste any job description. Find the ATS keywords hiring managers actually look for — categorized into must-haves, nice-to-haves, and soft skills, in under 30 seconds."
         faq={faq}
       >
         {/* Contextual cross-link to /resume-for — high-intent moment for visitors
