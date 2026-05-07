@@ -64,10 +64,10 @@ export default function LoginPage() {
         <div className="order-1 lg:order-1 flex-1 flex flex-col justify-center px-6 sm:px-8 py-12 lg:px-16 lg:py-0 max-w-2xl">
           <p className="text-xs font-mono text-blue-600 uppercase tracking-widest mb-4">Free to try · No credit card needed</p>
           <h1 className="text-4xl lg:text-5xl font-bold tracking-tight leading-tight mb-4">
-            Stop sending the<br className="hidden sm:block" /> same resume everywhere.
+            Make a resume in 30 seconds,<br className="hidden sm:block" /> not 3 hours.
           </h1>
           <p className="text-lg text-gray-500 mb-3 leading-relaxed">
-            Paste any job description. Get a fit score, a tailored resume,<br className="hidden md:block" /> and a cover letter — in under 30 seconds.
+            Paste a job description. JobFit returns a fit score, a tailored resume,<br className="hidden md:block" /> and a cover letter — without the wizards, the templates, or the afternoon.
           </p>
           <p className="text-sm text-gray-400 mb-6">
             Or try a free tool — no signup:{' '}

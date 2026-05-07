@@ -11,7 +11,7 @@ export const metadata = {
     template: '%s | JobFit',
   },
   description:
-    'Paste any job description and get an instant fit score, an AI-tailored resume, and a cover letter — built for new grads and career switchers. Free to try, $9.99/quarter for unlimited.',
+    'Make a resume in 30 seconds, not 3 hours. Paste a job description and JobFit returns a fit score, a tailored resume, and a cover letter — without the wizards or the templates. Free to try, $9.99/quarter for unlimited.',
   applicationName: 'JobFit',
   keywords: [
     'AI resume builder',
@@ -34,9 +34,9 @@ export const metadata = {
   openGraph: {
     type: 'website',
     siteName: 'JobFit',
-    title: 'JobFit — Tailor Your Resume to Any Job in 30 Seconds',
+    title: 'Make a resume in 30 seconds, not 3 hours — JobFit',
     description:
-      'Paste a job description. Get a fit score, tailored resume, and cover letter in under 30 seconds. Free to try.',
+      'Paste a job description. JobFit returns a fit score, a tailored resume, and a cover letter — without the wizards or the templates.',
     url: SITE_URL,
     locale: 'en_US',
     images: [
@@ -50,9 +50,9 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'JobFit — Tailor Your Resume to Any Job in 30 Seconds',
+    title: 'Make a resume in 30 seconds, not 3 hours — JobFit',
     description:
-      'Paste a JD. Get a fit score, tailored resume, and cover letter in under 30 seconds. Free to try.',
+      'Paste a JD, get a fit score + tailored resume + cover letter. No wizards, no templates.',
     images: ['/og.png'],
   },
   robots: {

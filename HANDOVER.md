@@ -136,6 +136,9 @@ src/app/
   llms.txt/route.js              # /llms.txt — AI crawler summary (llmstxt.org standard)
   llms-full.txt/route.js         # /llms-full.txt — full AI crawler reference
   og.png/                        # Static 1200x630 OG share image (in public/og.png)
+  favicon.ico                    # Multi-size ICO (16/32/48) — auto-emitted into <head> by Next.js
+  icon.png                       # 512x512 master icon — used for PWA + social fallbacks (Next auto-detects)
+  apple-icon.png                 # 180x180 apple-touch-icon for iOS home-screen icons (Next auto-detects)
 
 src/components/Nav.js            # Shared LOGGED-IN nav bar (with "Resume guides" link, md:+ visible)
 src/components/SiteHeader.js     # Shared PUBLIC-PAGE nav (logo + 3 items max). Single source of truth — used on /tools, /resume-for, /contact, /privacy. Not on / or /start (custom layouts).
@@ -301,6 +304,44 @@ Both pages render `<AuthForm />` from `src/components/AuthForm.js` so the auth f
 
 ---
 
+## Homepage positioning (Frame B, May 2026)
+
+The homepage `/` was repositioned in May 2026 from a generic SaaS frame to one targeted at the broader under-30 audience. Decision-making is documented here because the headline is the single most-debated piece of copy on the site and we don't want it re-litigated every quarter.
+
+### Current copy
+
+- **H1:** *"Make a resume in 30 seconds, not 3 hours."*
+- **Subhead:** *"Paste a job description. JobFit returns a fit score, a tailored resume, and a cover letter — without the wizards, the templates, or the afternoon."*
+- **`<title>` tag (UNCHANGED for SEO):** *"JobFit — Tailor Your Resume to Any Job in 30 Seconds | AI Cover Letter & Fit Score"*
+
+The `<title>` tag deliberately differs from the H1 because they serve different audiences. The H1 is human-facing (lands in 2 seconds, names the pain). The `<title>` is Google-facing (loaded with the keywords we want to rank on). They should not be unified — that's a common mistake that costs ranking.
+
+### Why Frame B (the time-rejection frame)
+
+Considered three frames during the May 2026 rewrite. Frame B won because the audience is broad.
+
+- **Frame A — Template-rejection.** *"Skip the templates. Get a tailored resume in 30 seconds."* Strongest contrast with competitors (Zety, Rezi, Kickresume all lead with templates). Strong with jaded under-30s on their 5th job. Weak with first-jobbers who have no template-fatigue yet. Rejected because the audience is broader than the jaded subset.
+- **Frame B — Time-rejection (chosen).** *"Make a resume in 30 seconds, not 3 hours."* Names a universal pain — every persona from a 16-year-old applying to McDonald's to a 28-year-old switching careers has felt resume-writing as time-consuming. Specific numbers (30 vs. 3) outperform vague claims by 35% in 2026 SaaS landing-page data. Doesn't lean on competitor-specific complaints, which the under-30 research warned reads as cringe.
+- **Frame C — Outcome-led.** *"The resume tool you'll actually finish."* Linear-style. Rejected because (a) it converged with what new "free, no-signup" competitors (FreeCV, Resumaly, Infinite Resume) were starting to claim in mid-2026, and (b) it didn't tell a cold visitor what JobFit actually outputs.
+
+### What was rejected and why
+
+- **Naming the audience explicitly in the H1** ("Resumes for college students," "AI resumes for the under-30"). 2026 Gen Z marketing research (Ad Age, Pion, multiple sources) consistently flagged demographic-naming as cringe — under-30s read it as marketing-speak rather than as voice. Audience targeting now happens via *voice* (the time-pain frame) and via *audience-specific landing pages* at their own URLs (deferred — see Roadmap).
+- **"Skip the templates" alone in the H1.** Tested but rejected for being too narrow. Works for the most-jaded subset, doesn't land for first-jobbers and career switchers.
+- **"The simplest resume tool" / "Built for under-30s."** Rejected as boring superlatives. Every tool claims to be the simplest at something; differentiation needs to come from *outcome contrast* (3 hours → 30 seconds) not attribute claims.
+
+### How to test if this is working
+
+Watch in GA4 + GSC starting Day 1 of deployment:
+- **Bounce rate on `/`** — should drop vs. the previous "Stop sending the same resume everywhere" baseline
+- **Engaged sessions on `/`** — should rise
+- **Sign-up conversion rate from `/`** — the bottom-line metric
+- **CTR on the SERP listing** — separate signal driven by the unchanged `<title>` tag, but useful as a sanity check that the `<title>` is still doing its job
+
+If sign-up conversion drops by more than 10% over a 14-day rolling window, the headline is the wrong call and we swap to Frame A or another candidate. The H1 is reversible with a 1-line edit. **Don't tweak it sooner than 14 days** — week-1 data is too noisy to make decisions on.
+
+---
+
 ## Public-page header consistency
 
 `src/components/SiteHeader.js` is the single source of truth for the public header. Used by `/tools/*`, `/resume-for/*`, `/contact`, `/privacy`. Renders: `JobFit.today` wordmark + 3-item nav (Resume guides · Free tools · Sign in).
@@ -318,6 +359,30 @@ The "Contact" link is **deliberately absent from the header** — it's discovera
 `src/components/BuiltWithClaude.js` renders inline next to the copyright in every footer. Single source of truth for the wording: "Built with Claude. Guided by humans." The "Claude" word links to anthropic.com/claude.
 
 To change the wording or the link, edit `BuiltWithClaude.js` once.
+
+---
+
+## Marketing assets
+
+All visual brand assets are versioned in the repo. The brand-blue gradient (`#0F174C → #2563EB → #60A5FA`) is consistent across every asset so the OG image, logo, and favicon read as one brand.
+
+### In `public/`
+- `og.png` — 1200×630 Open Graph share image. The "product card" design with mock fit-score (87) for a Senior Marketing Coordinator role. Used for `<meta property="og:image">` site-wide.
+- `demo.gif` — pre-existing screen recording of the product flow. Mobile-only on the homepage.
+
+### In `src/app/` (Next.js auto-emits the right `<link>` tags)
+- `favicon.ico` — multi-size (16/32/48). Browser tabs, bookmarks, history.
+- `icon.png` — 512×512 master, used by Next.js to derive PWA icons + social fallbacks.
+- `apple-icon.png` — 180×180 for iOS "Add to Home Screen."
+
+### In repo root (preview-only — for picking and uploading to directories)
+- `logo-a-wordmark.png` — full "JobFit.today" wordmark (best for wide formats: LinkedIn banner, Twitter cover, email header, presentations)
+- `logo-b-monogram.png` — plain "JF" (most legible at small sizes; never used as canonical)
+- `logo-c-monogram-dot.png` — "JF" with brand-blue dot accent. **This is the canonical square logo** — use it on Product Hunt, SaaSHub, AlternativeTo, G2, Capterra, Twitter avatar, every directory.
+
+The favicon was generated from variant C with the dot stripped at 16/32 (legibility at tiny sizes) and preserved at 48+.
+
+To regenerate any of these, the Pillow source scripts live outside the repo (in the build session that produced them). If you ever need to redo them, the brand color stops are the gradient stops above and the typeface is Lato Black at the relevant size for the surface.
 
 ---
 
@@ -365,6 +430,96 @@ Edit `SYSTEM_PROMPT` (or `SITUATION_SYSTEM_PROMPT`) in `scripts/generate-role-co
 ### Deprecating a role
 
 Set `"deprecated": true` on the entry in `content/roles.json`. Don't delete the entry — that frees up the slug to be reused, and the URL is permanent. Deprecated entries are filtered out of `getBuildableRoles()`.
+
+---
+
+## Post-launch monitoring
+
+After the May 2026 SEO push, the metrics that actually matter (in priority order):
+
+**Google Search Console (check every 3-4 days, not daily):**
+1. **Indexed page count** — under "Pages." Should climb from ~6 → 150-220 over 14-30 days. Trust the number under "Discovered pages" in the sitemap detail view, not the "Couldn't fetch" status in the list view (known GSC quirk where the two views disagree).
+2. **Pages with reason "Crawled — currently not indexed"** — normal for 30-50% of pages initially. Drops over time as pages earn internal/external link signals.
+3. **Performance → Queries** — actual search terms. Watch for unexpected long-tail queries; those signal content variants worth writing.
+4. **Performance → Pages** — which of the 225 pages get impressions. Top performers tell you which categories deserve more roles/situations.
+
+**GA4:**
+- Sessions by source (`google / organic` line should tick up around Day 14)
+- Engaged sessions on `/resume-for/*` and `/tools/*` (>10s OR >1 page OR conversion)
+- New users by landing page (which role pages pull in real visitors)
+
+**What NOT to optimize on in the first 30 days:** average position (too noisy), CTR (too noisy), absolute click counts (too small to be statistically meaningful). Don't make changes based on week-1 data.
+
+### Realistic Day-30 baseline (no paid ads, no viral moment)
+- 150–200 pages indexed
+- 2,000–8,000 monthly impressions
+- 80–300 organic clicks/month
+- 2–10 free signups attributable to organic
+
+If you blow past those numbers, look for the viral-query/backlink driver and pour fuel on it. If you fall short by 5x+, suspect crawlability (recheck robots.txt) or thin content (check GSC's "soft 404" report).
+
+### Active week-1 actions (highest ROI)
+1. Bing Webmaster Tools: verify, submit sitemap, enable IndexNow (Bing powers ChatGPT search)
+2. GSC URL Inspection → "Request indexing" on these high-value pages explicitly: `/resume-for`, `/tools/job-description-keyword-extractor`, `/tools/resume-grader`, `/resume-for/software-engineer`, `/resume-for/registered-nurse`, `/resume-for/marketing-coordinator`, `/resume-for/after-layoff`, `/resume-for/first-resume-no-experience`
+3. Validate structured data: validator.schema.org + search.google.com/test/rich-results
+4. Submit to directories in this order: Product Hunt → G2 → Capterra → AlternativeTo → SaaSHub → Slant
+5. Tweet `/llms.txt` once — AI crawlers cite content they see linked
+
+---
+
+## Roadmap (what we deliberately deferred)
+
+These are decisions made and rejected during the SEO push. Documented here so they don't get re-litigated unnecessarily.
+
+### Step 4 — Answer-engine content cluster (deferred to Day 30+)
+12-20 hand-curated articles tuned to be *cited* by AI search engines (ChatGPT, Perplexity, Claude, Gemini). Different from `/resume-for/[role]` because they target *questions* not job titles. Examples: "ATS resume vs. AI-tailored resume," "Should you tailor your resume for every job?", "Will AI-generated resumes get me filtered out?", "JobFit vs. Teal vs. Kickresume vs. Rezi." Would ship as `/answers/[slug]`. **Wait until Day 30 of GSC data tells us which of the 12 questions to prioritize** — guessing at the list now means writing the wrong articles.
+
+### Spanish translation (deferred indefinitely)
+Tempting because the Spanish-speaking job-seeker market is huge and underserved by English AI resume tools. But: the *product* is English-only (onboarding labels, AI-generated bullets, dashboard, errors), so a Spanish marketing surface would lead to a worse user experience than no Spanish at all. Don't translate marketing pages until the entire app + AI prompts are localized. If we ever do this, the highest-ROI variant is **Latin America** (Mexico/Argentina/Colombia), not US Hispanic — competition is thinner and visitors are comfortable paying USD.
+
+### Regional English pages — UK, AU, CA, IN (deferred to Day 30, conditional)
+Lower-hanging fruit than Spanish because the product already works in English. Architecture would be `/resume-for/[country]/[role]` with a third `REGIONAL_SYSTEM_PROMPT` baked into the generator (UK CVs are 2-page and may include photo, India CVs commonly include marital status, Australian healthcare references AHPRA not BLS, etc.). **Conditional: only do this if GA4 shows ≥10% of organic visitors arriving from outside the US.** If it's <5%, the volume doesn't justify the work. Ten UK pages first as an experiment, scale to AU/CA only if those rank.
+
+### Step 5 — TikTok content calendar (deferred until ad creative is decided)
+Outline existed (60-second screen records of the JobFit flow, "watch me apply to a job" format), but waiting until the user has at least one ad creative locked so the landing page can mirror its hook word-for-word. `/start` is intentionally generic right now; once a TikTok creative exists, the highest-ROI tweak is rewriting `/start`'s headline and proof points to echo the ad's first 2 seconds. Possibly even `/start/[campaign]` variants per creative.
+
+### Apple Sign-In, LinkedIn OAuth, etc. (deferred indefinitely)
+Currently auth is Google OAuth + email/password. Each additional OAuth provider has fixed setup + maintenance overhead and dilutes the existing buttons. Add Apple Sign-In if/when shipping iOS or seeing significant Safari/iOS organic traffic. Skip Facebook (declining, wrong demographic) and LinkedIn (complex OAuth, redundant with Google for this audience).
+
+### Salary data localization (deferred — not the differentiator)
+Currently every role page has a vague salary line ("Salary varies widely by region and company"). Could be replaced with US-only BLS-sourced ranges via build-time fetch, eventually multi-country. **But:** salary data isn't what JobFit competes on. Glassdoor and Levels.fyi own that surface. JobFit's value is the fit score + tailoring, not salary depth. Stay vague unless analytics show users are bouncing specifically on the salary section.
+
+### Investor pitch (handled in a separate conversation)
+The SEO/GEO conversation context is not the right surface for a pitch deck — different framing entirely. Start a fresh chat with a "ex-VC partner" persona, paste this `HANDOVER.md` for context, ask explicitly for pushback. Specific weak spots that will get probed: TAM math (need bottom-up not top-down), pricing (consumer $9.99/quarter is harder to fund than prosumer $20+/month), moat (the "reads JD first" wedge is copyable in a quarter — defensible moat is the content surface compounding over months).
+
+### Audience-specific landing pages (deferred to Day 30+)
+Considered building `/for/college-students` and `/first-job` in May 2026. Both rejected for the moment — but for different reasons worth recording so the work isn't redone:
+
+- **`/for/college-students`** rejected because "college students" is a narrower slice than the actual audience. Many under-30 visitors are high-school-aged, no-degree, or career-switchers with experience. A page named "college students" excludes 60%+ of the audience.
+- **`/first-job`** considered as a broader replacement (first-job is a moment everyone has been through). Rejected as premature — the homepage Frame B rewrite already names the universal time pain. Adding an audience page now would dilute focus before we have GSC data showing which audience actually arrives.
+- **Architecture note for when this comes back:** if/when audience pages get built, the right URL pattern is per-page slugs (`/first-job`, `/career-change`, `/laid-off`) rather than `/for/[audience]`. URLs stay clean, each can be SEO-tuned independently, and they parallel the existing `/resume-for/[situation]` situation guides. **They should be fully indexable, in the sitemap, NOT robots-noindex'd** (different model from `/start` which is a paid-LP). The audience pages target organic search queries that the homepage doesn't compete for.
+- **When to revisit:** Day 30 of GSC data. Look at "Performance → Queries" — which audience-keywords are pulling actual traffic? Build pages for the top 1-2 specific audience queries with real impression volume. Don't build all 4 (first-job, career-change, laid-off, returning-to-work) speculatively.
+
+### Edit-in-place AI controls on the resume output (deferred — small build, real upside)
+Considered adding "Regenerate this bullet," "Change tone (professional / friendly / concise)," and "Make it shorter / longer" buttons on the generated resume at `/job/[id]`. Different from competitor template-customization — these are *AI actions* not *manual styling*. Would let JobFit honestly claim "fully customizable" on directory listings without losing the wedge. ~1-2 day build. Deferred until we have signal on whether existing users want it (watch GA4 for time-on-page on `/job/[id]` and any qualitative feedback from contact form).
+
+---
+
+## Directory submission status (May 2026)
+
+Order to submit (each adds a permanent backlink + SEO value):
+
+1. **Product Hunt** — biggest single-day spike. Tagline: "See if you fit a job before you waste time applying." Topics: Career → AI → Productivity (in that order; first topic gets primary placement). Launch at 12:01am Pacific.
+2. **G2** — highest-authority backlink for SaaS
+3. **Capterra** — pairs with G2 (free listing tier)
+4. **AlternativeTo** — high SEO value because their pages rank for "[competitor] alternatives" queries
+5. **SaaSHub** — category aggregator
+6. **Slant** — good for "best X for Y" queries
+7. **Futurepedia / There's An AI For That / AIToolsClub** — easy AI-tool listings
+
+Repeated phrasing across all directories: **"reads the job description first, not your resume"** + **"interview-defensible"** + **"casual and early-career job seekers under 30"**. Repetition is what makes Google and AI engines treat one phrasing as canonical.
+
+Competitor list to use everywhere (varies in length per directory, ordered by priority): Teal, Jobscan, Resume Worded, Rezi, Kickresume, Enhancv, Zety, ChatGPT, LinkedIn Premium.
 
 ---
 
