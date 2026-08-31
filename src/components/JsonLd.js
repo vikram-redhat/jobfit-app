@@ -150,3 +150,40 @@ export function FaqJsonLd() {
   };
   return <JsonLdScript data={data} />;
 }
+
+/**
+ * SoftwareApplication node for an individual free tool (/tools/*).
+ *
+ * Distinct from SoftwareApplicationJsonLd above, which describes the full
+ * JobFit product (freemium, $9.99/quarter Pro tier). These are the standalone
+ * anonymous tools: genuinely free, no signup, no account. Marking them
+ * isAccessibleForFree with a $0 Offer is what makes them eligible to surface
+ * for "free resume checker"-style queries and to be cited accurately by AI
+ * engines — which is the whole point of the free-tools funnel.
+ */
+export function ToolSoftwareApplicationJsonLd({ name, description, path, featureList = [] }) {
+  const data = {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name,
+    applicationCategory: 'BusinessApplication',
+    applicationSubCategory: 'Resume Tool',
+    operatingSystem: 'Web',
+    url: `${SITE_URL}${path}`,
+    description,
+    isAccessibleForFree: true,
+    offers: {
+      '@type': 'Offer',
+      price: '0',
+      priceCurrency: 'USD',
+      description: 'Free to use — no signup, no account, no credit card.',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'JobFit',
+      url: SITE_URL,
+    },
+    ...(featureList.length > 0 ? { featureList } : {}),
+  };
+  return <JsonLdScript data={data} />;
+}

@@ -4,6 +4,7 @@
 import Link from 'next/link';
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
+import { ToolSoftwareApplicationJsonLd } from '@/components/JsonLd';
 
 export const metadata = {
   // Title targets the broader "finder" cluster (5x larger than "extractor")
@@ -62,6 +63,18 @@ export default function KeywordExtractorPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <ToolSoftwareApplicationJsonLd
+        name="JobFit Job Description Keyword Finder"
+        description="Free AI tool that reads any job description and returns the ATS keywords hiring managers look for, split into must-haves, nice-to-haves, and soft skills."
+        path="/tools/job-description-keyword-extractor"
+        featureList={[
+          'Extracts must-have hard requirements from any job description',
+          'Separates nice-to-have skills from dealbreakers',
+          'Identifies the soft skills the posting emphasises',
+          'Shareable result permalink',
+          'No signup or email required',
+        ]}
       />
       <ToolPageLayout
         eyebrow="Free tool · No signup"

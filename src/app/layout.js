@@ -13,18 +13,6 @@ export const metadata = {
   description:
     'Make a resume in 30 seconds, not 3 hours. Paste a job description and JobFit returns a fit score, a tailored resume, and a cover letter — without the wizards or the templates. Free to try, $9.99/quarter for unlimited.',
   applicationName: 'JobFit',
-  keywords: [
-    'AI resume builder',
-    'tailor resume to job description',
-    'AI cover letter generator',
-    'resume fit score',
-    'job application tool',
-    'ATS resume',
-    'resume tailoring AI',
-    'cover letter AI',
-    'job description analyzer',
-    'free resume tool',
-  ],
   authors: [{ name: 'JobFit' }],
   creator: 'JobFit',
   publisher: 'JobFit',

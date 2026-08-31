@@ -5,6 +5,7 @@
 
 import Link from 'next/link';
 import ToolPageLayout from '@/components/ToolPageLayout';
+import { SoftwareApplicationJsonLd } from '@/components/JsonLd';
 
 const SITE_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://jobfit.today';
 
@@ -96,6 +97,10 @@ export default function ToolsIndexPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
       />
+      {/* The hub also carries the full-product node: /tools is where cold
+          organic traffic lands, so the JobFit SoftwareApplication entity
+          should be resolvable from here, not only from /. */}
+      <SoftwareApplicationJsonLd />
       <ToolPageLayout
         eyebrow="Free tools · No signup"
         title="Free tools for job seekers"

@@ -4,6 +4,7 @@
 import Link from 'next/link';
 import ToolPageLayout from '@/components/ToolPageLayout';
 import ToolForm from '@/components/ToolForm';
+import { ToolSoftwareApplicationJsonLd } from '@/components/JsonLd';
 
 export const metadata = {
   // Title targets the broader "checker" cluster (10x larger than "grader")
@@ -62,6 +63,18 @@ export default function ResumeGraderPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <ToolSoftwareApplicationJsonLd
+        name="JobFit Resume Checker & Grader"
+        description="Free AI resume checker that returns an ATS score out of 100, a letter grade, and three specific fixes that cite lines from your actual resume."
+        path="/tools/resume-grader"
+        featureList={[
+          'ATS score from 0 to 100',
+          'Letter grade with plain-English reasoning',
+          'Three specific fixes referencing your actual resume lines',
+          'Shareable result permalink',
+          'No signup or email required',
+        ]}
       />
       <ToolPageLayout
         eyebrow="Free tool · No signup"
