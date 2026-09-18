@@ -34,6 +34,7 @@ export async function middleware(request) {
     '/contact',
     '/api/contact',
     '/api/stripe/webhook',
+    '/api/cron/health', // Vercel cron; guarded by CRON_SECRET inside the route
     '/forgot-password',
     '/reset-password',
     '/robots.txt',
